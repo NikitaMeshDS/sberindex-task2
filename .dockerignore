@@ -3,3 +3,14 @@
 __pycache__
 run_logs
 *.log
+
+# Local research copies and generated outputs are not part of the image.
+research_workspace
+.presentation-build
+artifacts/final
+.chart-data-*
+run_outputs
+reports/review_verification.json
+*.egg-info
+build
+.DS_Store
