@@ -46,6 +46,7 @@ def main():
         unpack(archive, destination)
     print("SHA256 checked. Full snapshot: research_workspace/")
     print("cd research_workspace && python3.12 run_review.py --mode verify")
+    print("Before recompute, run git init inside research_workspace (isolates new provenance).")
 
 
 if __name__ == "__main__":

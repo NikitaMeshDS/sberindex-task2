@@ -100,6 +100,7 @@ python3.12 run_review.py --mode verify
 Полная проверка должна подтвердить **998 файлов**. Для тестов и пересчёта установите зависимости внутри этой папки:
 
 ```bash
+git init  # внутри research_workspace: отдельная история для нового пересчёта
 python3.12 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements-lock.txt

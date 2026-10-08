@@ -23,6 +23,7 @@ python3.12 run_review.py --mode verify
 Для 189 тестов полного снимка и вычислений:
 
 ```bash
+git init  # внутри research_workspace: отдельная история для нового пересчёта
 python3.12 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements-lock.txt
