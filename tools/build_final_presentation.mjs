@@ -21,7 +21,8 @@ function chart(s,type,categories,series,pos,extra={}){let c=s.charts.add(type,{p
 function notes(s,text){s.speakerNotes.textFrame.setText(text);}
 let s=slide('Расходы муниципалитетов\nи сигналы изменений',1);
 txt(s,'СберИндекс · задача №2',64,188,930,50,28,false,C.green);
-txt(s,'Автор проекта: NikitaMeshDS',64,245,930,44,25);
+txt(s,'Команда MISIS X',64,245,930,40,28,true);
+txt(s,'Участники: Мещеряков Никита · Соколова Юлия',64,287,930,34,23);
 txt(s,'Прогноз на 1, 3, 6 и 12 месяцев',64,329,930,65,36,true);
 txt(s,'Сезонная модель с поправкой роста\nи обнаружение изменений методом EWMA',64,413,930,97,28);
 const repoLabel='github.com/NikitaMeshDS/sberindex-task2';
@@ -31,7 +32,7 @@ const viewerLink=txt(s,viewerLabel,64,579,965,37,23,false,C.green);viewerLink.te
 s.images.add({blob:new Uint8Array(await fs.readFile(path.join(root,'docs/assets/repository-qr.png'))),contentType:'image/png',alt:'QR: публичный репозиторий для сдачи на GitHub',fit:'contain',position:{left:1000,top:190,width:208,height:208}});
 txt(s,'GitHub: открытый доступ',987,410,233,76,18,false,C.muted);
 txt(s,'Данные 2023–2024 · готовые материалы для самостоятельной проверки',64,640,1010,30,21,false,C.muted);
-notes(s,'Author handle from repositoryowner, no additionalteamidentityclaimed. QR and native hyperlink target the public single-root submission repository. Viewer hyperlink targets GitHub Pages. Private research repository history is not published. Sources: jury_guide.json andreport. Retrospectivearchive2024, no independent2025facts.');
+notes(s,'Team identity provided by the user: MISIS X; participants Мещеряков Никита and Соколова Юлия. QR and native hyperlink target the public single-root submission repository. Viewer hyperlink targets GitHub Pages. Private research repository history is not published. Sources: jury_guide.json andreport. Retrospectivearchive2024, no independent2025facts.');
 
 s=slide('Итоги и карта семи критериев',2,'¹ К одному Prophet с профилем; интервалы условны на 2024. ² Ложные тревоги / 100 МО-месяцев на синтетике.');
 txt(s,'MAE −42 / −23 / −28 / −56%¹ · EWMA F1 0,647',64,151,1152,56,31,true,C.green);
