@@ -31,6 +31,8 @@ jobs:
           python -m unittest discover -s tests -p 'test_snapshot_download.py' -v
           python -m unittest discover -s tests -p 'test_pages_staging.py' -v
           python -m unittest discover -s tests -p 'test_review_runner.py' -v
+          python -m unittest discover -s tests -p 'test_predict_command.py' -v
+          python -m unittest discover -s tests -p 'test_selected_model_holdout.py' -v
       - name: Restore immutable research snapshot
         run: python tools/download_research_snapshot.py
       - name: Unit and causality regressions of full snapshot

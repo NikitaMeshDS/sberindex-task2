@@ -1,0 +1,16 @@
+{
+  "input_path": "../data/consumption.parquet",
+  "lookup_path": "../results/municipal_lookup.csv",
+  "output_directory": "../run_outputs/forecast_2025_example",
+  "category": "Все категории",
+  "origin": "2024-12",
+  "as_of_date": "2025-01-01",
+  "profile_year": 2023,
+  "geography_year": 2023,
+  "horizons": [1, 3, 6, 12],
+  "region_weight": 0.5,
+  "minimum_region_municipalities": 10,
+  "growth_rate": 0.172,
+  "growth_available_from": "2023-12-27",
+  "growth_source": "Росстат, доклад 27.12.2023; историческое фиксированное допущение, не актуальная ставка нового года"
+}

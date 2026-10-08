@@ -14,8 +14,10 @@ from sberindex.forecasting.hierarchical_review import fit_profiles
 from sberindex.paths import ROOT
 
 
-def forecast_selected(panel, regions, origin, horizons, rate, weight=0.5, minimum_n=10):
-    history = pd.period_range("2023-01", "2023-12", freq="M").astype(str)
+def forecast_selected(
+    panel, regions, origin, horizons, rate, weight=0.5, minimum_n=10, fit_year=2023
+):
+    history = pd.period_range(f"{fit_year}-01", f"{fit_year}-12", freq="M").astype(str)
     if origin not in panel.columns:
         raise ValueError("Anchor month missing")
     train = panel.reindex(columns=history)

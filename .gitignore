@@ -10,3 +10,5 @@ artifacts/final/
 .chart-data-*/
 
 research_workspace/
+
+run_outputs/

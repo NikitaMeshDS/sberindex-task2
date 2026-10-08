@@ -117,3 +117,7 @@ PYTHONPATH=src python -m sberindex.detection.bocpd_audit
 ### Новостной интервал
 
 [`news_interval_review.json`](../configs/news_interval_review.json): фиксированный радиус ×1,5 для доступного сообщения, прежний точечный прогноз и номинальные 80% границы. Это диагностическая гипотеза, не настройка выбранной модели. [Результаты](../reports/news_interval_review/REPORT.md).
+
+## Конфигурация рабочего прогноза
+
+[predict.json](../configs/predict.json) — входные таблицы, дата расчёта, год сезонного профиля, горизонты, региональный вес и ставка роста для новых данных. [Подробная инструкция](PREDICT_NEW_DATA.md).
