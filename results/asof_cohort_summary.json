@@ -1,7 +1,0 @@
-{
-  "selected_ids": 256,
-  "selected_with_complete_2024": 251,
-  "selected_with_no_2024": 4,
-  "selected_weight_from_early_2024": 0.75,
-  "limits": "Observed targets only, fixed 2023-known sample. The 2024 archive, model family, and candidate weights were previously studied; this is not independent validation."
-}

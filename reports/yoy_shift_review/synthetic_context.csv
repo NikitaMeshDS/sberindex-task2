@@ -1,9 +1,0 @@
-shape,method,active_per100,any_alert,reference_window_any_alert,detected_by_second_postchange
-null,cusum,26.861111111111114,0.5175,0.26,
-null,ewma,9.694444444444445,0.3575,0.165,
-spike,cusum,45.111111111111114,0.875,0.7125,0.7125
-spike,ewma,18.916666666666668,0.7975,0.69,0.69
-sustained,cusum,75.52777777777779,1.0,0.985,0.985
-sustained,ewma,74.77777777777777,1.0,0.955,0.955
-seasonal,cusum,79.61111111111111,1.0,0.7575,
-seasonal,ewma,68.25,1.0,0.475,

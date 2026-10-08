@@ -26,8 +26,19 @@ jobs:
           cache: pip
       - name: Install frozen dependencies
         run: python -m pip install -r requirements-lock.txt
-      - name: Unit and causality regressions
+      - name: Compact distribution packaging tests
+        run: |
+          python -m unittest discover -s tests -p 'test_snapshot_download.py' -v
+          python -m unittest discover -s tests -p 'test_pages_staging.py' -v
+          python -m unittest discover -s tests -p 'test_review_runner.py' -v
+      - name: Restore immutable research snapshot
+        run: python tools/download_research_snapshot.py
+      - name: Unit and causality regressions of full snapshot
+        working-directory: research_workspace
         run: python -m unittest discover -s tests -v
+      - name: Verify full snapshot
+        working-directory: research_workspace
+        run: python run_review.py --mode verify
       - name: Verify saved evidence
         if: ${{ hashFiles('reports/review_evidence_manifest.json') != '' }}
         run: python run_review.py --mode verify

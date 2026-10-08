@@ -1,0 +1,8 @@
+{
+  "scope": "Code, configs, main SberIndex dataset and final reading materials",
+  "full_snapshot_url": "https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008",
+  "full_snapshot_sha256": "5e9c2df108daa4f1a27da925443cb0519de3a14779199d84d41708e1c95f6c56",
+  "full_snapshot_files": 1477,
+  "full_verified_files": 998,
+  "full_snapshot_source_commit": "17d89ab53b7606d22b24f064286e4475e0ee3796"
+}

@@ -38,7 +38,7 @@ PELT действительно вызывает `ruptures.Pelt(model='l2', min_
 | pelt | 852/70/228 | 0.924 | 0.789 | 0.851 | 0.081 | — | 13.372 |
 | kernelcpd | 312/21/768 | 0.937 | 0.289 | 0.442 | 0.000 | — | 14.542 |
 
-![Сравнение и доступность](event_comparison.png)
+![Сравнение и доступность — в полном архиве](https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008)
 
 Полная таблица comparison.csv также разделяет no_change/step/pulse. Машинное имя no_change сохраняет нулевой класс при обычном чтении CSV в pandas. series_metrics.csv содержит каждую истинную/предсказанную дату, пары и несопоставленные предсказания; synthetic_residuals.parquet — остатки и границы selection/evaluation. Для проверки отсутствия будущих данных используются тесты изменения будущих значений и инвариантности прошлых оценок, включая BOCPD.
 

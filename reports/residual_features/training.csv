@@ -1,9 +1,0 @@
-model,training_rows,features,training_max_horizon,training_end
-residual_ridge_own,93375,7,9,2023-12
-residual_hgb_own,93375,7,9,2023-12
-residual_ridge_categories,93375,27,9,2023-12
-residual_hgb_categories,93375,27,9,2023-12
-residual_ridge_policy,93375,29,9,2023-12
-residual_hgb_policy,93375,29,9,2023-12
-residual_ridge_wage_snapshot,93375,32,9,2023-12
-residual_hgb_wage_snapshot,93375,32,9,2023-12

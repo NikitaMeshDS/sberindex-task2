@@ -448,6 +448,8 @@ def main():
         "--mode", choices=["verify", "recompute", "record"], default="verify"
     )
     args = parser.parse_args()
+    if args.mode != "verify" and (ROOT / "compact_distribution.json").exists():
+        raise SystemExit("Full research data are in the immutable release archive. Run python tools/download_research_snapshot.py, then cd research_workspace before recompute/record.")
     if args.mode == "recompute":
         env = os.environ.copy()
         env["PYTHONPATH"] = str(ROOT / "src") + os.pathsep + env.get("PYTHONPATH", "")
@@ -491,6 +493,7 @@ def main():
         "status": "passed",
         "files_checked": checked,
         "mode": args.mode,
+        "verification_scope": manifest.get("verification_scope", "Saved evidence"),
         "meaning": "Saved file integrity only; scientific validity and retraining are separate checks",
     }
     out = ROOT / "run_logs"

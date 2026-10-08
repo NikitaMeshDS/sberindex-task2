@@ -1,7 +1,0 @@
-{
-  "model": "chronos2_univariate",
-  "pairs": 7532,
-  "max_absolute_prediction_difference": 0.0,
-  "mean_absolute_prediction_difference": 0.0,
-  "relative_tolerance1e-5": true
-}

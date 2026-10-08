@@ -1,6 +1,0 @@
-source_kind,event_kind,allowed_role,claims
-CBR,announced_policy_decision,candidate_asof_covariate,17
-MChS,reported_real_event,retrospective_context_only,1
-Roshydromet,dated_weather_warning,candidate_asof_covariate,5
-Roshydromet,heating_forecast,candidate_asof_covariate,14
-Roshydromet,warm_forecast,candidate_asof_covariate,21

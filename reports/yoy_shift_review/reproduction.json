@@ -1,9 +1,0 @@
-{
-  "verification": "171 stdlib unit/causality/regression tests passed in workflow_clean_env, including explicit seasonal-control and early-alarm label regression checks",
-  "output_sha256": {
-    "reports/yoy_shift_review/detector_panel.parquet": "48a0bed54623a18ccc77973ab37eda263dd42f0c6d75fff2525280b2df706257",
-    "reports/yoy_shift_review/cases.csv": "722f44c9ddb327c7afb624ab3dd369d2f48a675a1eeed6f77923123e54f059d5",
-    "reports/yoy_shift_review/synthetic_context.csv": "22a76972d7202edb55fb12e33dc792425b20e1cce822c98316bdc767adbedc93",
-    "reports/yoy_shift_review/monitoring_burden.csv": "b231ae61c3573354fd2aaa58df4e79f17aea00b36a07f773f036c516dbbe9b87"
-  }
-}

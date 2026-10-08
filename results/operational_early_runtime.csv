@@ -1,7 +1,0 @@
-model,stage,target,seconds,inference_ids
-hgb_frozen,fit_2023,,1.5898113750008633,2075
-combined_early,fit_prophet_and_forecast,2024-02,39.359000167001795,256
-combined_early,fit_prophet_and_forecast,2024-03,42.254778417001944,251
-combined_early,fit_prophet_and_forecast,2024-04,42.89891912500025,251
-combined_early,fit_prophet_and_forecast,2024-05,31.54330804199708,251
-combined_early,fit_prophet_and_forecast,2024-06,32.01357983300113,251

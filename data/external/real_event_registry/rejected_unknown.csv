@@ -1,4 +1,0 @@
-candidate_id,source_url,published_at,event_start,event_end,reason,snapshot_path
-khabarovsk_observation,https://27.mchs.gov.ru/deyatelnost/press-centr/novosti/5345418,2024-08-21,,,Point-in-time flood status on morning 21 August does not prove episode onset or end; no publication-to-onset substitution.,data/external/real_event_registry/snapshots/khabarovsk_observation.web.txt
-anapa_cleanup,https://mchs.gov.ru/deyatelnost/press-centr/novosti/5427428,2024-12-26,,,Cleanup/inspection report names coastal municipalities but does not explicitly date tanker wreck or coastal spill onset; cannot use publication day as onset.,data/external/real_event_registry/snapshots/anapa_cleanup.web.txt
-eao_forecast,https://79.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328325,2024-07-25,,,"August forecast, not realized event evidence; source says no settlement flooding in July.",data/external/real_event_registry/snapshots/eao_forecast.web.txt

@@ -10,7 +10,7 @@
 | Анапа | 1 | 0 | [Публикация 2024-12-17](https://anapa-official.ru/news/v-stanitse-blagoveshchenskoy-sobran-operativnyy-shtab-pod-rukovodstvom-gubernatora-regiona-/) |
 | Курская область | 33 | 0 | [Публикация 2024-08-07](https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5337327) |
 
-![Наблюдаемые кейсы](cases.png)
+![Наблюдаемые кейсы — в полном архиве](https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008)
 
 Орск: апрельский расход 30327 руб., ориентир 28913 руб., отклонение +4.89%. Оренбург: апрельский расход 32547 руб., ориентир 31375 руб., отклонение +3.73%. 
 

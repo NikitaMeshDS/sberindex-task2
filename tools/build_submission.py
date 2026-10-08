@@ -26,7 +26,7 @@ meta = {
     "submitted": False,
     "files_sha256": hashes,
 }
-path = out / "sberindex_task2_project.zip"
+path = out / "sberindex_task2_compact_project.zip"
 with zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6) as z:
     for n in names:
         z.write(r / n, n)
@@ -174,7 +174,7 @@ for block in [
 ]:
     selected += [
         str(p.relative_to(r))
-        for p in (r / "reports" / block).iterdir()
+        for p in (r / "reports" / block).glob("*")
         if p.is_file() and p.name in keep
     ]
 selected += [str(p.relative_to(r)) for p in (r / "dashboard").glob("*") if p.is_file()]
@@ -185,14 +185,14 @@ selected += ["reports/adaptive_growth_holdout_20261007/" + n for n in ["predicti
 selected += ["reports/news_body_recovery_20261007/quote_exposure_registry.csv"]
 selected += ["artifacts/jury_guide.json"]
 selected += [str(p.relative_to(r)) for p in (r / "docs/assets").glob("*") if p.is_file()]
-selected = sorted(set(selected))
+selected = sorted(n for n in set(selected) if (r / n).is_file())
 juryhashes = {n: sha((r / n).read_bytes()) for n in selected}
 main_readme = (r / "README.md").read_text()
 criteria_map = main_readme[main_readme.index("## Результаты и материалы"):main_readme.index("## Метод")]
 readme = (
     "# Компактный комплект для жюри\n\n"
     + "[Презентация PDF](artifacts/presentation.pdf) · [Русский отчёт](docs/research/SUBMISSION_REPORT.md) · [Интерфейс](dashboard/index.html) · [Маршрут проверки](docs/JURY_START.md).\n\n"
-    + "Этот архив служит для чтения. Для команды `python3.12 run_review.py --mode verify` распакуйте полный `sberindex_task2_project.zip` из того же комплекта: он содержит исходники и все защищённые входы.\n\n"
+    + "Этот архив служит для чтения. Код и быстрая проверка — в компактном проекте; полный исследовательский снимок — в GitHub Releases: https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008.\n\n"
     + criteria_map
     + "Git SHA: " + head + "\n\n"
     + "Конфигурации находятся в configs/. Ссылки на детали, отсутствующие здесь, открывайте в полном архиве с той же структурой. Публичный сайт: https://NikitaMeshDS.github.io/sberindex-task2/; локальный интерфейс также работает без сервера.\n"

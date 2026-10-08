@@ -1,8 +1,0 @@
-{
-  "selection": "All 18 forecast/warning lexical titles plus one observation/review and one unclassified per calendar quarter, seed 20261002. No spending data read.",
-  "purpose": "Estimate title-to-body information loss and manually audit topic/scope on a stratified sample; no population precision estimate from unweighted strata.",
-  "sample_size": 34,
-  "sampling_frozen_before_body_download": true,
-  "rule_for_forecast_comparison": "Do not train a hazard model from incompletely sampled bodies or treat omitted events as zero. Any subsequent forecasting experiment must use a separately frozen complete feature source.",
-  "exclusions": "Full body not used as historical as-of evidence if article date disagrees with index; unknown revisions remain a limitation."
-}

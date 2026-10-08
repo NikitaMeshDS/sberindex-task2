@@ -1,5 +1,0 @@
-method,observed_mo_months,alarm_episodes,alarm_episodes_per100_observed_mo_months,false_alarm_rate_identified
-spike,24282,287,1.1819454740136728,False
-cusum,24282,53,0.2182686763858002,False
-cusum_spike,24282,235,0.9677950745408122,False
-ewma,24282,145,0.5971501523762458,False

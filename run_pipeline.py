@@ -31,6 +31,8 @@ def module_index():
 
 
 def main():
+    if (ROOT / "compact_distribution.json").exists():
+        raise SystemExit("Download full research inputs: python tools/download_research_snapshot.py; then cd research_workspace and run the pipeline there.")
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=["refresh", "full"], default="refresh")
     parser.add_argument(

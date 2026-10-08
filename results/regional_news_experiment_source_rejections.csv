@@ -1,9 +1,0 @@
-source_file,source_url,kind,decision,reason
-data/external/regional_news_expansion/monthly_2023_09.pdf,https://meteoinfo.ru/images/1month-frc/2023/month_bull_2023_09.pdf,forecast_candidate,excluded_from_asof_features,composition_not_publication
-data/external/regional_news_expansion/monthly_2024_04.pdf,https://meteoinfo.ru/images/1month-frc/2024/month_bull_2024_04.pdf,forecast_candidate,excluded_from_asof_features,composition_not_publication
-data/external/regional_news_expansion/mchs_5089295.html,https://75.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5089295,forecast_candidate,excluded_from_asof_features,partial_region_weather
-data/external/regional_news_expansion/mchs_5092085.html,https://25.mchs.gov.ru/deyatelnost/press-centr/novosti/5092085,real_event,excluded_from_asof_features,dated_report_not_onset
-data/external/regional_news_expansion/mchs_5078802.html,https://25.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/svodka-chs-i-proisshestviy/5078802,real_event,excluded_from_asof_features,dated_report_not_onset
-data/external/regional_news_expansion/sber_description.html,https://sberindex.ru/ru/research/data-sense-opisanie-nabora-dannikh-khakatona-sberindeksa-po-munitsipalnim-dannim,spending_search,excluded_from_asof_features,HTML app shell only; not dataset content. Official API archived separately.
-data/external/regional_news_expansion/sber_aggregate_2025.pdf,https://sberindex.ru/api/files/download/8e258294-9360-4acb-804e-a86ad24b6da6,spending_search,excluded_from_asof_features,aggregate_not_same_municipal_target
-data/external/regional_news_expansion/sber_description_api.json,https://sberindex.ru/api/researches/v1/data-sense-opisanie-nabora-dannikh-khakatona-sberindeksa-po-munitsipalnim-dannim,same_target_future_data_search,excluded_from_asof_features,Explicit Jan2023–Dec2024 inclusive coverage and original hackathonlicence.zip link; no new municipal months.

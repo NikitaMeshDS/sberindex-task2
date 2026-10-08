@@ -1,9 +1,0 @@
-{
-  "candidate": "shrink_100",
-  "seasonal_weight": 0.75,
-  "validation_MAE": 780.1119143941703,
-  "candidate_count": 25,
-  "validation": "same 256 municipalities, February-June one-month targets",
-  "evaluation": "origins June or later, 1/3/6-month horizons, unchanged selected parameters",
-  "limits": "Exploratory expansion of candidate set after archive inspection; no untouched holdout, no claims of guaranteed superiority."
-}
