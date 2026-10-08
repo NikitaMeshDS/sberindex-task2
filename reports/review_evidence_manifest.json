@@ -404,6 +404,7 @@
     "tools/residual_feature_experiment.py": "90c90d7c0e42f3c235316d8863a26331944e5fb4ce4ba2f54c513f3861028d88",
     "tools/statistical_evidence_audit.py": "9d56cd4b87a78176bddae32f6ffc2327cf83cb78a98ae1a15adecc16b485a08f",
     "tools/verify_expansion_evidence.py": "42426896feb638c864f1a4ee2034efaf74a5becf71055a317e913cefd838d434",
-    "tools/verify_prophet_backend.py": "cf8e63517007814506a5cbd04eaf35ad09be69395d0dc8544b3411bf98bb5a10"
+    "tools/verify_prophet_backend.py": "cf8e63517007814506a5cbd04eaf35ad09be69395d0dc8544b3411bf98bb5a10",
+    "docs/assets/project-header.svg": "bcf2ea2c261343c3f6f19cfae2847cb639bfcaafaac7659c0321899e6a822f51"
   }
 }
