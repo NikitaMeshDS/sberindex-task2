@@ -40,3 +40,20 @@ python run_review.py --mode recompute
 ## Стандартные тесты компактного репозитория
 
 Установите `requirements-lock.txt` и выполните `python -m unittest discover -s tests`. Ожидается 181 тест, `OK (skipped=7)`: пропущены только проверки архивных файлов. Пакет устанавливается вместе с зависимостями, без `PYTHONPATH`. Минимальная среда `requirements-inference.txt` не содержит зависимостей всех исследовательских тестов. Лог быстрой проверки сохраняется в `reports/review_verification.json` и не отслеживается Git.
+
+## Docker
+
+Альтернативный запуск с полной исследовательской средой, Python 3.12:
+
+```bash
+docker build -t sberindex-task2 .
+docker run --rm sberindex-task2
+```
+
+По умолчанию контейнер выполняет `run_review.py --mode verify`: проверяет целостность сохранённых материалов, без пересчёта. Для нового прогноза и сохранения результатов на компьютере:
+
+```bash
+docker run --rm -v "$PWD:/project" sberindex-task2 python predict.py --config configs/predict.json
+```
+
+В JSON задайте входы и новую папку результатов; пути считаются относительно JSON. Docker Engine должен быть запущен. Для одного прогноза достаточно более лёгкой среды `requirements-inference.txt`, описанной выше. Сборка контейнера в текущей локальной проверке не выполнялась: Docker Engine недоступен.

@@ -100,6 +100,8 @@ python3.12 run_review.py --mode verify
 
 Откройте [dashboard/index.html](dashboard/index.html) для автономного просмотра результатов или [интерактивный сайт](https://nikitameshds.github.io/sberindex-task2/). Первое открытие занимает несколько секунд: браузер загружает около 6 МБ сохранённых данных.
 
+Альтернативный запуск: `docker build -t sberindex-task2 .`, затем `docker run --rm sberindex-task2` (проверка целостности). [Docker и новый прогноз](docs/GETTING_STARTED.md#docker).
+
 ### Стандартный запуск тестов
 
 Тесты требуют полной среды из `requirements-lock.txt`, включая Prophet и ruptures. `requirements-inference.txt` предназначен только для рабочего прогноза.
