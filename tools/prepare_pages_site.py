@@ -15,6 +15,7 @@ ALLOWED = {
     "style.css",
     "data.js",
     "presentation.pdf",
+    "report_forecast.png",
     "REPORT.html",
     "GLOSSARY.html",
     "SOLUTION.html",
@@ -43,11 +44,14 @@ def render_document(source):
     tokens = parser.parse(source.read_text())
     for token in tokens:
         for child in token.children or []:
+            if child.type == "image":
+                if child.attrs.get("src") == "../../artifacts/formulas/report_forecast.png":
+                    child.attrs["src"] = "report_forecast.png"
             if child.type == "link_open":
                 child.attrs["href"] = public_link(child.attrs["href"], source)
     body = parser.renderer.render(tokens, parser.options, {})
     return (
-        '<!doctype html><html lang="ru"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="style.css"><title>Исследование СберИндекса</title><style>main{max-width:1100px;padding-top:35px;padding-bottom:50px}h1{max-width:none;font-size:38px}h2{margin-top:35px}table{display:block;overflow:auto;margin:20px 0}th{position:static}td,th{text-align:left;padding:10px}p,li{overflow-wrap:anywhere}pre{overflow:auto}</style><header><a href="index.html">← Интерфейс расходов МО</a><a href="presentation.pdf">Презентация PDF</a></header><main>'
+        '<!doctype html><html lang="ru"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="style.css"><title>Исследование СберИндекса</title><style>main{max-width:1100px;padding-top:35px;padding-bottom:50px}h1{max-width:none;font-size:38px}h2{margin-top:35px}table{display:block;overflow:auto;margin:20px 0}th{position:static}td,th{text-align:left;padding:10px}p,li{overflow-wrap:anywhere}pre{overflow:auto}main img{max-width:100%;height:auto}</style><header><a href="index.html">← Интерфейс расходов МО</a><a href="presentation.pdf">Презентация PDF</a></header><main>'
         + body
         + "</main></html>"
     )
@@ -84,6 +88,7 @@ def main(destination):
     shutil.copyfile(
         ROOT / "artifacts/presentation.pdf", destination / "presentation.pdf"
     )
+    shutil.copyfile(ROOT / "artifacts/formulas/report_forecast.png", destination / "report_forecast.png")
     for link, (target, source) in documents.items():
         html = html.replace(link, target)
         (destination / target).write_text(render_document(source))

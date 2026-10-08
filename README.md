@@ -8,17 +8,17 @@
 
 **Материалы:** [презентация PDF](artifacts/presentation.pdf) · [слайды PPTX](artifacts/presentation.pptx) · [русский отчёт](docs/research/SUBMISSION_REPORT.md) · [запуск](docs/GETTING_STARTED.md) · [критерии](docs/COMPETITION.md) · [интерактивный интерфейс](dashboard/index.html) · [короткое объяснение](docs/research/SOLUTION_IN_FIVE_SENTENCES.md).
 
-## Критерий → результат → где смотреть
+## Результаты и материалы
 
-| Критерий | Вес | Условие «отлично» и доказательство | Где смотреть |
-|---|---:|---|---|
-| Понятность методологии | 10% | Ясное объяснение и полное воспроизведение. **Формула и объяснение словами** | [Презентация](artifacts/presentation.pdf), слайд 4; [отчёт](docs/research/SUBMISSION_REPORT.md), §1 и 3 |
-| Прогноз и четыре горизонта | 20% | Всестороннее сравнение и обоснованный выбор. **−41,5 / −23,3 / −28,5 / −55,8% MAE¹** | [Презентация](artifacts/presentation.pdf), слайды 5–9; [отчёт](docs/research/SUBMISSION_REPORT.md), §3 |
-| Детекторы изменений | 20% | Глубокий анализ и аргументированный выбор. **EWMA: F1 0,647; ложные тревоги 0,046²** | [Презентация](artifacts/presentation.pdf), слайды 13–15; [отчёт](docs/research/SUBMISSION_REPORT.md), §5 |
-| Фундаментальные модели | 15% | Преимущества и ограничения современных моделей. **Chronos-2, TimesFM 2.5, Moirai 2, TiRex; Bolt** | [Презентация](artifacts/presentation.pdf), слайды 5, 10–11; [отчёт](docs/research/SUBMISSION_REPORT.md), §4 |
-| Новости и согласование | 15% | Воспроизводимый механизм для прогноза и детекции. **Текст, цитата, МО и доступность; прогноз и детекция** | [Презентация](artifacts/presentation.pdf), слайд 16; [отчёт](docs/research/SUBMISSION_REPORT.md), §6 |
-| MAE и R² | 10% | Полный анализ с объяснением всех метрик. **MAE всех горизонтов; R² изменений внутри МО** | [Презентация](artifacts/presentation.pdf), слайды 5–7; [отчёт](docs/research/SUBMISSION_REPORT.md), §3 |
-| Интерпретация и воспроизводимость | 10% | Практические выводы с доказательствами. **Уфа, Яльчикский, Орск; интерфейс; SHA256** | [Презентация](artifacts/presentation.pdf), слайды 12, 15, 17, 20; [отчёт](docs/research/SUBMISSION_REPORT.md), §7–8 |
+| Направление | Результат | Где смотреть |
+|---|---|---|
+| Понятность методологии | **Формула и объяснение словами** | [Презентация](artifacts/presentation.pdf), слайд 4; [отчёт](docs/research/SUBMISSION_REPORT.md), §1 и 3 |
+| Прогноз и четыре горизонта | **−41,5 / −23,3 / −28,5 / −55,8% MAE¹** | [Презентация](artifacts/presentation.pdf), слайды 5–9; [отчёт](docs/research/SUBMISSION_REPORT.md), §3 |
+| Детекторы изменений | **EWMA: F1 0,647; ложные тревоги 0,046²** | [Презентация](artifacts/presentation.pdf), слайды 13–15; [отчёт](docs/research/SUBMISSION_REPORT.md), §5 |
+| Фундаментальные модели | **Chronos-2, TimesFM 2.5, Moirai 2, TiRex; Bolt** | [Презентация](artifacts/presentation.pdf), слайды 5, 10–11; [отчёт](docs/research/SUBMISSION_REPORT.md), §4 |
+| Новости и согласование | **Текст, цитата, МО и доступность; прогноз и детекция** | [Презентация](artifacts/presentation.pdf), слайд 16; [отчёт](docs/research/SUBMISSION_REPORT.md), §6 |
+| MAE и R² | **MAE всех горизонтов; R² изменений внутри МО** | [Презентация](artifacts/presentation.pdf), слайды 5–7; [отчёт](docs/research/SUBMISSION_REPORT.md), §3 |
+| Интерпретация и воспроизводимость | **Уфа, Яльчикский, Орск; интерфейс; SHA256** | [Презентация](artifacts/presentation.pdf), слайды 12, 15, 17, 20; [отчёт](docs/research/SUBMISSION_REPORT.md), §7–8 |
 
 ¹ Снижение к **одному контролю — Prophet с сезонным профилем**. Условные 95% интервалы по регионам не содержат ноль; это не независимый временной тест. На h12 одна дата. Сравнение с лучшим из трёх Prophet даёт 54,5%, а с фиксированным контролем — 55,8%.
 

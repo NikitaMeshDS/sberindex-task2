@@ -61,6 +61,7 @@ selected = [
     "artifacts/presentation.pdf",
     "artifacts/presentation.pptx",
     "artifacts/presentation_data.json",
+    "artifacts/formulas/report_forecast.png",
 ]
 selected += [str(p.relative_to(r)) for p in (r / "configs").glob("*.json")]
 selected += [str(p.relative_to(r)) for p in (r / "docs/protocols").glob("*REVIEW*.md")]
@@ -187,7 +188,7 @@ selected += [str(p.relative_to(r)) for p in (r / "docs/assets").glob("*") if p.i
 selected = sorted(set(selected))
 juryhashes = {n: sha((r / n).read_bytes()) for n in selected}
 main_readme = (r / "README.md").read_text()
-criteria_map = main_readme[main_readme.index("## Критерий →"):main_readme.index("## Метод")]
+criteria_map = main_readme[main_readme.index("## Результаты и материалы"):main_readme.index("## Метод")]
 readme = (
     "# Компактный комплект для жюри\n\n"
     + "[Презентация PDF](artifacts/presentation.pdf) · [Русский отчёт](docs/research/SUBMISSION_REPORT.md) · [Интерфейс](dashboard/index.html) · [Маршрут проверки](docs/JURY_START.md).\n\n"

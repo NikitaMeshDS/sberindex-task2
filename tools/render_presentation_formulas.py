@@ -38,5 +38,20 @@ def main():
         plt.close(fig)
 
 
+def render_report_formula():
+    """Render the full report equation for Markdown viewers without MathJax."""
+    OUT.mkdir(parents=True, exist_ok=True)
+    fig = plt.figure(figsize=(12, 2.3), facecolor="white")
+    lines = [
+        r"$\widehat{y}_{t+h}=y_t\,\frac{s_{m(t+h)}}{s_{m(t)}}\,(1+r)^k$",
+        r"$s=0{,}5s_{\mathrm{Россия}}+0{,}5s_{\mathrm{регион}},\qquad k=\left\lfloor\frac{m(t)-1+h}{12}\right\rfloor$",
+    ]
+    for y, formula in zip([0.73, 0.25], lines):
+        fig.text(0.02, y, formula, fontsize=26, va="center", color="#183B32")
+    fig.savefig(OUT / "report_forecast.png", dpi=220, bbox_inches="tight", pad_inches=0.16)
+    plt.close(fig)
+
+
 if __name__ == "__main__":
     main()
+    render_report_formula()
