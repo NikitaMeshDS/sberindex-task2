@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "pairs_per_scenario": 60700,
+  "scenarios": 9,
+  "identical_pairs": true,
+  "k0_unchanged": true,
+  "target_actual_used_for_prediction": false,
+  "regional_weight": 0.5,
+  "diagnostic_grid": [
+    0,
+    0.05,
+    0.074,
+    0.1,
+    0.15,
+    0.172,
+    0.2,
+    0.25
+  ],
+  "grid_fixed_before_this_computation": true,
+  "grid_defined_after_review_of_2024": true,
+  "chosen_rate": null,
+  "model_selection": false,
+  "primary_model_replaced": false,
+  "independent_time_validation": false,
+  "crossing_origins": [
+    "2023-12"
+  ],
+  "cpi_december_available_at_dec2023_origin": false,
+  "cpi_november_available_at_dec2023_origin": true,
+  "sources": {
+    "retrieved_at": "2026-10-06",
+    "evidence_mode": "web search extraction of primary Rosstat releases; archive direct fetch timed out",
+    "historical_immutability_verified": false,
+    "wage": {
+      "rate": 0.172,
+      "indicator": "Russian national nominal accrued wage October 2023 vs October 2022",
+      "published_at": "2023-12-27",
+      "available_from": "2023-12-28",
+      "available_at_december_2023_origin": true,
+      "inherited_record": "data/external/growth_bridge_review/growth_source.json",
+      "value_url": "https://rosstat.gov.ru/storage/mediabank/osn-11-2023.pdf"
+    },
+    "cpi_december": {
+      "official_rate": 0.0742,
+      "rounded_diagnostic_rate": 0.074,
+      "indicator": "Russian CPI December 2023 vs December 2022; not annual-average CPI",
+      "published_at": "2024-01-12",
+      "available_from": "2024-01-13",
+      "available_at_december_2023_origin": false,
+      "use": "ex-post sensitivity diagnostic only",
+      "publication_url": "https://rosstat.gov.ru/central-news?page=4&per_page=10&print=1&search=%D0%9E%D0%B1+%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B5+%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85+%D1%86%D0%B5%D0%BD",
+      "publication_evidence": "Rosstat archive labels December 2023 CPI release 12 January 2024",
+      "value_url": "https://rosstat.gov.ru/storage/mediabank/1_15-01-2025.html",
+      "value_evidence": "National December 2024 release retrospective table: December 2023 vs December 2022 CPI 107.42; annual average 105.87"
+    },
+    "cpi_november": {
+      "rate": 0.0748,
+      "indicator": "Russian CPI November 2023 vs November 2022",
+      "published_at": "2023-12-08",
+      "available_from": "2023-12-09",
+      "available_at_december_2023_origin": true,
+      "use": "supplemental fixed as-of scenario, outside diagnostic grid",
+      "value_url": "https://rosstat.gov.ru/storage/mediabank/194_08-12-2023.pdf",
+      "value_evidence": "Release dated 8 December 2023, table CPI November 2023 vs November 2022: 107.48"
+    }
+  },
+  "input_sha256": {
+    "configs/growth_sensitivity_review.json": "a919bc3aa00d2fb8e7f52630d189383015a10e8ebf453c78da75dee832fd3f5c",
+    "data/external/growth_sensitivity_review/sources.json": "7bf8551267dd057fa554aac7fedd9b1eadb0ce9e925e31a5fa0b4a1cb0c1c40d",
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "reports/growth_bridge_review/summary.csv": "6a4d7151c06e2892e97b90639db0ed5ad98b6b0ce94b7287438c44d2abd87f69",
+    "data/external/growth_bridge_review/growth_source.json": "5ddd6d86a3b3afe567821bb401ba44a1afac1a078ac16bb6ec49ec30797f5534",
+    "src/sberindex/forecasting/growth_sensitivity_review.py": "793f46fe9dacd003e1be73add4250b97d9af01ca92cffdd73073ad1648e5a742",
+    "docs/protocols/GROWTH_SENSITIVITY_REVIEW.md": "78efa3620d6160ebac20a9118ba5e90880f1e780949e6718bb8fa71f2fb77018"
+  },
+  "output_sha256": {
+    "sensitivity.png": "562b7326c3872e701f4f38b171edddfee812f90c5eca14525787cff9ce0bcc0b",
+    "sensitivity.svg": "36be62b49f7ad7114b2e3001bb947b2a7ff44bf40f1dc5a5652388d0d1cc20cd"
+  },
+  "figure_retention": {
+    "reason": "Full main rerun reproduced identical CSV/Parquet and PNG bytes. SVG geometry is identical after ignoring generated element IDs and timestamp; original figure bytes retained.",
+    "verified_by": "reports/prose_cleanup_followup/audit.json"
+  }
+}

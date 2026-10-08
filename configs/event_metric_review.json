@@ -1,0 +1,20 @@
+{
+  "calibration_seed": 2026100601,
+  "selection_seed": 2026100602,
+  "evaluation_seeds": [2026100603, 2026100604, 2026100605],
+  "calibration_null_n": 200,
+  "series_per_shape": 120,
+  "train_months": 36,
+  "evaluation_months": 24,
+  "noise_sigma": 0.03,
+  "amplitudes_log": [0.06, 0.12, 0.18],
+  "tolerance_months": 1,
+  "null_false_alarms_budget_per100_mo_month": 0.2,
+  "minimum_selection_recall": 0.5,
+  "pelt_penalties": [3, 5, 8, 12, 20, 32, 50],
+  "kernelcpd_penalties": [0.5, 1, 2, 3, 5, 8, 12],
+  "offline_min_size": 2,
+  "offline_jump": 1,
+  "kernel_gamma": 0.5,
+  "reporting_delay_months": 1
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "name": "doc_history",
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=sourcelang:russian%20flood&mode=artlist&format=json&startdatetime=20240405000000&enddatetime=20240407000000&maxrecords=10",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "gkg_15min",
+    "url": "https://data.gdeltproject.org/gdeltv2/20240406000000.gkg.csv.zip",
+    "status": 200,
+    "bytes": 6002973,
+    "sha256": "e0878ab8831b3f5cdf8fa28765eaff8f0210435f9836d643fd6197e7c00d1aea",
+    "sample_scope": "one 15-minute GKG metadata slice, not full Russia corpus",
+    "rows": 1404,
+    "ru_domain_rows": 0
+  },
+  {
+    "name": "moscow_reform",
+    "url": "https://vestnikmoscow.mos.ru/wp-content/uploads/2024/05/zhurnal-vestnik-moskvy-%E2%84%96-27.pdf",
+    "status": 200,
+    "bytes": 18436461,
+    "sha256": "561e37df9b701e0eab270b339880fd3605c54d67afafe4451ca336db3f07b96e",
+    "sample_scope": "one 15-minute GKG metadata slice, not full Russia corpus"
+  }
+]

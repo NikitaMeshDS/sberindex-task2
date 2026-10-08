@@ -1,0 +1,20 @@
+{
+  "decision_rule": "At end of t, target t+1; last observation t-delay; effective horizon 1+delay",
+  "delays_months": [
+    0,
+    1,
+    2
+  ],
+  "target_months": [
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12"
+  ],
+  "sample": "256 fixed IDs selected using only 2023 completeness; score observed targets present under all lags",
+  "new_training": "Only delay=1 Prophet is refit; delay=0 and 2 reuse asof_cohort_predictions.parquet",
+  "seasonal_profile": "2023 sum across all 2075 eligible municipalities; identical to asof_cohort_forecast.py",
+  "blend_weight": 0.75,
+  "blend_selection": "February-June 2024 targets (five dates), already selected in asof_cohort_summary.py",
+  "limits": "Hypothetical reporting delays: historical release dates and vintage revisions are unavailable. Retrospective reused 2024 data, no independent test. Other models are not compared here. Four shared target dates limit inference."
+}

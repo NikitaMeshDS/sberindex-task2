@@ -1,0 +1,82 @@
+{
+  "status": "passed",
+  "config": {
+    "train_months": 12,
+    "evaluation_months": 12,
+    "calibration_seed": 2026100611,
+    "selection_seed": 2026100612,
+    "evaluation_seeds": [
+      2026100613,
+      2026100614,
+      2026100615
+    ],
+    "calibration_null_n": 400,
+    "series_per_shape": 120,
+    "noise_sigma": 0.03,
+    "amplitudes_log": [
+      0.06,
+      0.12,
+      0.18
+    ],
+    "onset_min": 2,
+    "onset_max": 6,
+    "duration_min": 2,
+    "duration_max": 4,
+    "tolerance_months": 1,
+    "null_false_alarms_budget_per100_mo_month": 0.2,
+    "threshold_quantile": 0.99,
+    "pelt_penalties": [
+      3,
+      5,
+      8,
+      12,
+      20,
+      32,
+      50,
+      80,
+      120
+    ],
+    "kernelcpd_penalties": [
+      0.5,
+      1,
+      2,
+      3,
+      5,
+      8,
+      12,
+      20
+    ],
+    "offline_min_size": 2,
+    "offline_jump": 1,
+    "kernel_gamma": 0.5,
+    "reporting_delay_months": 1
+  },
+  "parameters": {
+    "spike": 0.14407071812623165,
+    "rolling_3m": 0.10798672132105623,
+    "ewma": 0.07427838288053665,
+    "cusum": 0.18829121580501101,
+    "bocpd": 0.661264910814711,
+    "cusum_spike": 1.0506928196831102,
+    "pelt": 20,
+    "kernelcpd": 3
+  },
+  "choice": {
+    "selected_online_method": "ewma",
+    "objective": "maximum onset F1 among selection null FAR <=0.2; ties alphabetic",
+    "fixed_before_evaluation": true,
+    "real_false_alarm_guarantee": false,
+    "historical_default_replaced": false
+  },
+  "input_sha256": {
+    "configs/short_history_review.json": "9bdf484b30706a039d87558c1959b1bc385b97c8497746f5ee711f9dbc3a76e8",
+    "docs/protocols/SHORT_HISTORY_REVIEW.md": "1b34523b04fd0da49131a860f5c1f8102c2d8992fe0cf498357a06d14dfd6b4e",
+    "src/sberindex/detection/short_history_review.py": "d4461a3bb7aa151d8cbe82c23414e44f81d22e416bcef0fbf0151e7a65680f4c",
+    "src/sberindex/detection/event_metric_review.py": "6e34800a6448131d8903e6653fc3cc061c65ccdc1f2c74fb80e92e7df3d4ece8",
+    "src/sberindex/detection/asof_detector_audit.py": "0b876226295bb035f6b5ae74469a8736296cdaeda7ba33b18ff0f766cfceeb0c",
+    "src/sberindex/detection/bocpd_audit.py": "e8ecab25bf1adfb19be9e02a73d31f0e65f3190154791c91a1017398f0aa4bf0",
+    "configs/detectors.json": "77fa276b10e888bb80fc1f47112bd48169ac1bb1e7779b04f5fa34e2854d1a92"
+  },
+  "evaluation_series": 1080,
+  "independent_real_time_holdout": false
+}

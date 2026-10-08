@@ -1,0 +1,13 @@
+{
+  "chrome_file_url": {
+    "status": "passed_headless",
+    "server_used": false,
+    "all_six_category_options_present": true,
+    "selected_orsk_rendered": true,
+    "dom_bytes": 442898,
+    "manual_double_click": false
+  },
+  "safari": "not_checked: macOS accessibility/screen recording permission pending",
+  "firefox": "not_installed",
+  "http": "previous validation preserved"
+}

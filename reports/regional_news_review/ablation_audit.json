@@ -1,0 +1,15 @@
+{
+  "cohort_ids": 2075,
+  "training_rows": 18675,
+  "training_origins": 9,
+  "evaluation_origins": 11,
+  "protocol_sha256": "0cdff3d7272135307a69b55b83a9025493474d538511887c95ecf7f5ce75aef0",
+  "registry_sha256": "3b3913470906f6bd0cf88ce410573988295f859987858c661ff41dbcb5e5bf48",
+  "independent_holdout": false,
+  "source_selection_before_this_fit": true,
+  "strict_vintage_mode": "no verified historical sources; incremental strict feature unavailable",
+  "availability_mode": "assumed publication plus one day; sensitivity only",
+  "expenditure_release_lead_time": "unknown: actual expenditure publication vintages not supplied",
+  "primary_model_changed": false,
+  "causal_inference": false
+}

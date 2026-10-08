@@ -1,0 +1,5 @@
+source_number,mention,candidates,decision,reason
+8,Дальнереченском муниципальных образованиях,"[780,788]",exclude_ambiguous_place,urban and municipal district share name
+11,Таежный,,exclude_not_resolved,no parent municipality stated in selected evidence
+5,приграничные районы,,region_context_only,no named municipal exposure
+15,9 муниципальных образований,,region_context_only,nine districts not named; cannot spread evacuation to every municipality

@@ -1,0 +1,11 @@
+{
+  "model": "hierarchy05_growth_bridge",
+  "horizon": 1,
+  "nominal_coverage": 0.8,
+  "event_radius_factor": 1.5,
+  "point_forecast_changed": false,
+  "base_interval": "saved prior-three-month scaled-residual band; 2023 municipality scale",
+  "availability": "original official MCHS registry; publication-plus-one-day scenario; same18 forecast pairs",
+  "selection": "fixed diagnostic requested after inspection of2024; no factor search",
+  "release_lag_months": 0
+}

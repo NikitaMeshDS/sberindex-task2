@@ -1,0 +1,1301 @@
+model,interval_method,nominal_coverage,region_name,coverage,observations
+adaptive_expanding,absolute,0.8,Алтайский край,0.6136363636363636,44
+adaptive_expanding,absolute,0.8,Амурская область,0.625,8
+adaptive_expanding,absolute,0.8,Архангельская область,0.625,16
+adaptive_expanding,absolute,0.8,Астраханская область,0.6666666666666666,12
+adaptive_expanding,absolute,0.8,Владимирская область,0.7857142857142857,28
+adaptive_expanding,absolute,0.8,Волгоградская область,0.625,24
+adaptive_expanding,absolute,0.8,Вологодская область,0.625,16
+adaptive_expanding,absolute,0.8,Еврейская автономная область,0.25,4
+adaptive_expanding,absolute,0.8,Забайкальский край,0.25,4
+adaptive_expanding,absolute,0.8,Ивановская область,0.65,20
+adaptive_expanding,absolute,0.8,Иркутская область,0.4,20
+adaptive_expanding,absolute,0.8,Калининградская область,1.0,4
+adaptive_expanding,absolute,0.8,Калужская область,1.0,12
+adaptive_expanding,absolute,0.8,Камчатский край,0.25,8
+adaptive_expanding,absolute,0.8,Кемеровская область,0.625,16
+adaptive_expanding,absolute,0.8,Кировская область,0.625,32
+adaptive_expanding,absolute,0.8,Костромская область,0.4375,16
+adaptive_expanding,absolute,0.8,Красноярский край,0.7,20
+adaptive_expanding,absolute,0.8,Курганская область,0.5,8
+adaptive_expanding,absolute,0.8,Ленинградская область,0.75,4
+adaptive_expanding,absolute,0.8,Липецкая область,0.6666666666666666,12
+adaptive_expanding,absolute,0.8,Магаданская область,0.0,4
+adaptive_expanding,absolute,0.8,Москва,0.4473684210526316,76
+adaptive_expanding,absolute,0.8,Московская область,0.6,20
+adaptive_expanding,absolute,0.8,Нижегородская область,0.75,36
+adaptive_expanding,absolute,0.8,Новгородская область,0.75,4
+adaptive_expanding,absolute,0.8,Новосибирская область,0.625,40
+adaptive_expanding,absolute,0.8,Омская область,0.4583333333333333,24
+adaptive_expanding,absolute,0.8,Оренбургская область,0.5,8
+adaptive_expanding,absolute,0.8,Орловская область,0.75,12
+adaptive_expanding,absolute,0.8,Пензенская область,0.55,20
+adaptive_expanding,absolute,0.8,Пермский край,0.75,8
+adaptive_expanding,absolute,0.8,Приморский край,0.8333333333333334,12
+adaptive_expanding,absolute,0.8,Псковская область,0.5,8
+adaptive_expanding,absolute,0.8,Республика Алтай,0.25,4
+adaptive_expanding,absolute,0.8,Республика Башкортостан,0.9583333333333334,24
+adaptive_expanding,absolute,0.8,Республика Коми,0.25,16
+adaptive_expanding,absolute,0.8,Республика Марий Эл,0.75,4
+adaptive_expanding,absolute,0.8,Республика Мордовия,0.9166666666666666,12
+adaptive_expanding,absolute,0.8,Республика Саха (Якутия),0.16666666666666666,12
+adaptive_expanding,absolute,0.8,Республика Северная Осетия — Алания,0.5,4
+adaptive_expanding,absolute,0.8,Республика Татарстан,0.75,16
+adaptive_expanding,absolute,0.8,Республика Тыва,0.5,8
+adaptive_expanding,absolute,0.8,Республика Хакасия,0.25,4
+adaptive_expanding,absolute,0.8,Рязанская область,0.6428571428571429,28
+adaptive_expanding,absolute,0.8,Самарская область,0.5,16
+adaptive_expanding,absolute,0.8,Санкт-Петербург,0.65,40
+adaptive_expanding,absolute,0.8,Саратовская область,0.75,20
+adaptive_expanding,absolute,0.8,Сахалинская область,0.25,12
+adaptive_expanding,absolute,0.8,Свердловская область,0.6818181818181818,44
+adaptive_expanding,absolute,0.8,Смоленская область,0.8333333333333334,12
+adaptive_expanding,absolute,0.8,Ставропольский край,0.55,20
+adaptive_expanding,absolute,0.8,Тамбовская область,0.6666666666666666,12
+adaptive_expanding,absolute,0.8,Тверская область,0.375,8
+adaptive_expanding,absolute,0.8,Томская область,0.625,16
+adaptive_expanding,absolute,0.8,Тульская область,0.75,8
+adaptive_expanding,absolute,0.8,Тюменская область,0.08333333333333333,12
+adaptive_expanding,absolute,0.8,Удмуртская Республика,0.8333333333333334,12
+adaptive_expanding,absolute,0.8,Ульяновская область,0.6875,16
+adaptive_expanding,absolute,0.8,Хабаровский край,0.25,8
+adaptive_expanding,absolute,0.8,Ханты-Мансийский автономный округ — Югра,0.5,4
+adaptive_expanding,absolute,0.8,Челябинская область,0.25,8
+adaptive_expanding,absolute,0.8,Чувашская Республика,0.75,8
+adaptive_expanding,absolute,0.8,Чукотский автономный округ,0.0,4
+adaptive_expanding,absolute,0.8,Ярославская область,0.9166666666666666,12
+adaptive_expanding,absolute,0.95,Алтайский край,0.8863636363636364,44
+adaptive_expanding,absolute,0.95,Амурская область,0.75,8
+adaptive_expanding,absolute,0.95,Архангельская область,1.0,16
+adaptive_expanding,absolute,0.95,Астраханская область,0.75,12
+adaptive_expanding,absolute,0.95,Владимирская область,0.9642857142857143,28
+adaptive_expanding,absolute,0.95,Волгоградская область,0.8333333333333334,24
+adaptive_expanding,absolute,0.95,Вологодская область,1.0,16
+adaptive_expanding,absolute,0.95,Еврейская автономная область,0.5,4
+adaptive_expanding,absolute,0.95,Забайкальский край,0.5,4
+adaptive_expanding,absolute,0.95,Ивановская область,0.8,20
+adaptive_expanding,absolute,0.95,Иркутская область,0.7,20
+adaptive_expanding,absolute,0.95,Калининградская область,1.0,4
+adaptive_expanding,absolute,0.95,Калужская область,1.0,12
+adaptive_expanding,absolute,0.95,Камчатский край,0.625,8
+adaptive_expanding,absolute,0.95,Кемеровская область,0.875,16
+adaptive_expanding,absolute,0.95,Кировская область,0.9375,32
+adaptive_expanding,absolute,0.95,Костромская область,0.875,16
+adaptive_expanding,absolute,0.95,Красноярский край,0.95,20
+adaptive_expanding,absolute,0.95,Курганская область,0.75,8
+adaptive_expanding,absolute,0.95,Ленинградская область,1.0,4
+adaptive_expanding,absolute,0.95,Липецкая область,0.8333333333333334,12
+adaptive_expanding,absolute,0.95,Магаданская область,0.0,4
+adaptive_expanding,absolute,0.95,Москва,0.6973684210526315,76
+adaptive_expanding,absolute,0.95,Московская область,0.75,20
+adaptive_expanding,absolute,0.95,Нижегородская область,0.9444444444444444,36
+adaptive_expanding,absolute,0.95,Новгородская область,1.0,4
+adaptive_expanding,absolute,0.95,Новосибирская область,0.95,40
+adaptive_expanding,absolute,0.95,Омская область,0.75,24
+adaptive_expanding,absolute,0.95,Оренбургская область,0.875,8
+adaptive_expanding,absolute,0.95,Орловская область,0.8333333333333334,12
+adaptive_expanding,absolute,0.95,Пензенская область,0.9,20
+adaptive_expanding,absolute,0.95,Пермский край,1.0,8
+adaptive_expanding,absolute,0.95,Приморский край,0.8333333333333334,12
+adaptive_expanding,absolute,0.95,Псковская область,0.75,8
+adaptive_expanding,absolute,0.95,Республика Алтай,0.5,4
+adaptive_expanding,absolute,0.95,Республика Башкортостан,1.0,24
+adaptive_expanding,absolute,0.95,Республика Коми,0.5,16
+adaptive_expanding,absolute,0.95,Республика Марий Эл,1.0,4
+adaptive_expanding,absolute,0.95,Республика Мордовия,1.0,12
+adaptive_expanding,absolute,0.95,Республика Саха (Якутия),0.3333333333333333,12
+adaptive_expanding,absolute,0.95,Республика Северная Осетия — Алания,1.0,4
+adaptive_expanding,absolute,0.95,Республика Татарстан,1.0,16
+adaptive_expanding,absolute,0.95,Республика Тыва,0.75,8
+adaptive_expanding,absolute,0.95,Республика Хакасия,0.5,4
+adaptive_expanding,absolute,0.95,Рязанская область,0.9285714285714286,28
+adaptive_expanding,absolute,0.95,Самарская область,0.9375,16
+adaptive_expanding,absolute,0.95,Санкт-Петербург,0.925,40
+adaptive_expanding,absolute,0.95,Саратовская область,0.9,20
+adaptive_expanding,absolute,0.95,Сахалинская область,0.5,12
+adaptive_expanding,absolute,0.95,Свердловская область,0.9545454545454546,44
+adaptive_expanding,absolute,0.95,Смоленская область,1.0,12
+adaptive_expanding,absolute,0.95,Ставропольский край,1.0,20
+adaptive_expanding,absolute,0.95,Тамбовская область,0.9166666666666666,12
+adaptive_expanding,absolute,0.95,Тверская область,0.375,8
+adaptive_expanding,absolute,0.95,Томская область,0.875,16
+adaptive_expanding,absolute,0.95,Тульская область,0.875,8
+adaptive_expanding,absolute,0.95,Тюменская область,0.5,12
+adaptive_expanding,absolute,0.95,Удмуртская Республика,0.9166666666666666,12
+adaptive_expanding,absolute,0.95,Ульяновская область,0.9375,16
+adaptive_expanding,absolute,0.95,Хабаровский край,0.25,8
+adaptive_expanding,absolute,0.95,Ханты-Мансийский автономный округ — Югра,0.5,4
+adaptive_expanding,absolute,0.95,Челябинская область,0.875,8
+adaptive_expanding,absolute,0.95,Чувашская Республика,1.0,8
+adaptive_expanding,absolute,0.95,Чукотский автономный округ,0.0,4
+adaptive_expanding,absolute,0.95,Ярославская область,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Алтайский край,0.5454545454545454,44
+adaptive_expanding,scaled_by_2023_mean,0.8,Амурская область,0.625,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Архангельская область,0.6875,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Астраханская область,0.5,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Владимирская область,0.7857142857142857,28
+adaptive_expanding,scaled_by_2023_mean,0.8,Волгоградская область,0.5833333333333334,24
+adaptive_expanding,scaled_by_2023_mean,0.8,Вологодская область,0.6875,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Еврейская автономная область,0.25,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Забайкальский край,0.25,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Ивановская область,0.55,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Иркутская область,0.4,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Калининградская область,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Калужская область,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Камчатский край,0.625,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Кемеровская область,0.6875,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Кировская область,0.5625,32
+adaptive_expanding,scaled_by_2023_mean,0.8,Костромская область,0.375,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Красноярский край,0.65,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Курганская область,0.5,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Ленинградская область,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Липецкая область,0.75,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Магаданская область,0.0,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Москва,0.8026315789473685,76
+adaptive_expanding,scaled_by_2023_mean,0.8,Московская область,0.75,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Нижегородская область,0.75,36
+adaptive_expanding,scaled_by_2023_mean,0.8,Новгородская область,0.75,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Новосибирская область,0.575,40
+adaptive_expanding,scaled_by_2023_mean,0.8,Омская область,0.3333333333333333,24
+adaptive_expanding,scaled_by_2023_mean,0.8,Оренбургская область,0.375,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Орловская область,0.6666666666666666,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Пензенская область,0.35,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Пермский край,0.875,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Приморский край,0.8333333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Псковская область,0.5,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Алтай,0.25,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Башкортостан,0.9583333333333334,24
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Коми,0.3125,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Марий Эл,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Мордовия,0.75,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Саха (Якутия),0.25,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Северная Осетия — Алания,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Татарстан,0.75,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Тыва,0.5,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Республика Хакасия,0.25,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Рязанская область,0.6071428571428571,28
+adaptive_expanding,scaled_by_2023_mean,0.8,Самарская область,0.4375,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Санкт-Петербург,0.9,40
+adaptive_expanding,scaled_by_2023_mean,0.8,Саратовская область,0.75,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Сахалинская область,0.5833333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Свердловская область,0.7272727272727273,44
+adaptive_expanding,scaled_by_2023_mean,0.8,Смоленская область,0.8333333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Ставропольский край,0.6,20
+adaptive_expanding,scaled_by_2023_mean,0.8,Тамбовская область,0.6666666666666666,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Тверская область,0.375,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Томская область,0.625,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Тульская область,0.625,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Тюменская область,0.08333333333333333,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Удмуртская Республика,0.5833333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.8,Ульяновская область,0.625,16
+adaptive_expanding,scaled_by_2023_mean,0.8,Хабаровский край,0.25,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Ханты-Мансийский автономный округ — Югра,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Челябинская область,0.375,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Чувашская Республика,0.625,8
+adaptive_expanding,scaled_by_2023_mean,0.8,Чукотский автономный округ,0.0,4
+adaptive_expanding,scaled_by_2023_mean,0.8,Ярославская область,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Алтайский край,0.7954545454545454,44
+adaptive_expanding,scaled_by_2023_mean,0.95,Амурская область,0.875,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Архангельская область,1.0,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Астраханская область,0.75,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Владимирская область,0.9642857142857143,28
+adaptive_expanding,scaled_by_2023_mean,0.95,Волгоградская область,0.8333333333333334,24
+adaptive_expanding,scaled_by_2023_mean,0.95,Вологодская область,1.0,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Еврейская автономная область,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Забайкальский край,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Ивановская область,0.9,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Иркутская область,0.85,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Калининградская область,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Калужская область,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Камчатский край,0.75,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Кемеровская область,1.0,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Кировская область,0.8125,32
+adaptive_expanding,scaled_by_2023_mean,0.95,Костромская область,0.8125,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Красноярский край,0.95,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Курганская область,0.75,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Ленинградская область,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Липецкая область,0.8333333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Магаданская область,0.25,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Москва,1.0,76
+adaptive_expanding,scaled_by_2023_mean,0.95,Московская область,0.95,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Нижегородская область,0.9166666666666666,36
+adaptive_expanding,scaled_by_2023_mean,0.95,Новгородская область,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Новосибирская область,0.925,40
+adaptive_expanding,scaled_by_2023_mean,0.95,Омская область,0.625,24
+adaptive_expanding,scaled_by_2023_mean,0.95,Оренбургская область,0.875,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Орловская область,0.8333333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Пензенская область,0.75,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Пермский край,1.0,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Приморский край,0.9166666666666666,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Псковская область,0.75,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Алтай,0.5,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Башкортостан,1.0,24
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Коми,0.6875,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Марий Эл,0.75,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Мордовия,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Саха (Якутия),0.5,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Северная Осетия — Алания,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Татарстан,0.8125,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Тыва,0.75,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Республика Хакасия,0.75,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Рязанская область,0.9285714285714286,28
+adaptive_expanding,scaled_by_2023_mean,0.95,Самарская область,0.9375,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Санкт-Петербург,1.0,40
+adaptive_expanding,scaled_by_2023_mean,0.95,Саратовская область,0.9,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Сахалинская область,0.8333333333333334,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Свердловская область,0.9772727272727273,44
+adaptive_expanding,scaled_by_2023_mean,0.95,Смоленская область,1.0,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Ставропольский край,0.95,20
+adaptive_expanding,scaled_by_2023_mean,0.95,Тамбовская область,0.9166666666666666,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Тверская область,0.5,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Томская область,0.9375,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Тульская область,0.875,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Тюменская область,0.5,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Удмуртская Республика,0.9166666666666666,12
+adaptive_expanding,scaled_by_2023_mean,0.95,Ульяновская область,0.9375,16
+adaptive_expanding,scaled_by_2023_mean,0.95,Хабаровский край,0.625,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Ханты-Мансийский автономный округ — Югра,1.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Челябинская область,0.875,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Чувашская Республика,0.75,8
+adaptive_expanding,scaled_by_2023_mean,0.95,Чукотский автономный округ,0.0,4
+adaptive_expanding,scaled_by_2023_mean,0.95,Ярославская область,1.0,12
+adaptive_rolling_3m,absolute,0.8,Алтайский край,0.6363636363636364,44
+adaptive_rolling_3m,absolute,0.8,Амурская область,0.5,8
+adaptive_rolling_3m,absolute,0.8,Архангельская область,0.75,16
+adaptive_rolling_3m,absolute,0.8,Астраханская область,0.5,12
+adaptive_rolling_3m,absolute,0.8,Владимирская область,0.8928571428571429,28
+adaptive_rolling_3m,absolute,0.8,Волгоградская область,0.7916666666666666,24
+adaptive_rolling_3m,absolute,0.8,Вологодская область,0.6875,16
+adaptive_rolling_3m,absolute,0.8,Еврейская автономная область,0.25,4
+adaptive_rolling_3m,absolute,0.8,Забайкальский край,0.25,4
+adaptive_rolling_3m,absolute,0.8,Ивановская область,0.65,20
+adaptive_rolling_3m,absolute,0.8,Иркутская область,0.35,20
+adaptive_rolling_3m,absolute,0.8,Калининградская область,0.75,4
+adaptive_rolling_3m,absolute,0.8,Калужская область,0.9166666666666666,12
+adaptive_rolling_3m,absolute,0.8,Камчатский край,0.375,8
+adaptive_rolling_3m,absolute,0.8,Кемеровская область,0.75,16
+adaptive_rolling_3m,absolute,0.8,Кировская область,0.6875,32
+adaptive_rolling_3m,absolute,0.8,Костромская область,0.6875,16
+adaptive_rolling_3m,absolute,0.8,Красноярский край,0.7,20
+adaptive_rolling_3m,absolute,0.8,Курганская область,0.625,8
+adaptive_rolling_3m,absolute,0.8,Ленинградская область,0.5,4
+adaptive_rolling_3m,absolute,0.8,Липецкая область,0.75,12
+adaptive_rolling_3m,absolute,0.8,Магаданская область,0.0,4
+adaptive_rolling_3m,absolute,0.8,Москва,0.5921052631578947,76
+adaptive_rolling_3m,absolute,0.8,Московская область,0.8,20
+adaptive_rolling_3m,absolute,0.8,Нижегородская область,0.8333333333333334,36
+adaptive_rolling_3m,absolute,0.8,Новгородская область,1.0,4
+adaptive_rolling_3m,absolute,0.8,Новосибирская область,0.675,40
+adaptive_rolling_3m,absolute,0.8,Омская область,0.5416666666666666,24
+adaptive_rolling_3m,absolute,0.8,Оренбургская область,0.625,8
+adaptive_rolling_3m,absolute,0.8,Орловская область,0.5,12
+adaptive_rolling_3m,absolute,0.8,Пензенская область,0.45,20
+adaptive_rolling_3m,absolute,0.8,Пермский край,0.875,8
+adaptive_rolling_3m,absolute,0.8,Приморский край,0.6666666666666666,12
+adaptive_rolling_3m,absolute,0.8,Псковская область,0.625,8
+adaptive_rolling_3m,absolute,0.8,Республика Алтай,0.25,4
+adaptive_rolling_3m,absolute,0.8,Республика Башкортостан,0.9166666666666666,24
+adaptive_rolling_3m,absolute,0.8,Республика Коми,0.3125,16
+adaptive_rolling_3m,absolute,0.8,Республика Марий Эл,0.75,4
+adaptive_rolling_3m,absolute,0.8,Республика Мордовия,0.9166666666666666,12
+adaptive_rolling_3m,absolute,0.8,Республика Саха (Якутия),0.5,12
+adaptive_rolling_3m,absolute,0.8,Республика Северная Осетия — Алания,0.75,4
+adaptive_rolling_3m,absolute,0.8,Республика Татарстан,0.75,16
+adaptive_rolling_3m,absolute,0.8,Республика Тыва,0.5,8
+adaptive_rolling_3m,absolute,0.8,Республика Хакасия,0.0,4
+adaptive_rolling_3m,absolute,0.8,Рязанская область,0.7142857142857143,28
+adaptive_rolling_3m,absolute,0.8,Самарская область,0.625,16
+adaptive_rolling_3m,absolute,0.8,Санкт-Петербург,0.625,40
+adaptive_rolling_3m,absolute,0.8,Саратовская область,0.8,20
+adaptive_rolling_3m,absolute,0.8,Сахалинская область,0.4166666666666667,12
+adaptive_rolling_3m,absolute,0.8,Свердловская область,0.7272727272727273,44
+adaptive_rolling_3m,absolute,0.8,Смоленская область,0.8333333333333334,12
+adaptive_rolling_3m,absolute,0.8,Ставропольский край,0.7,20
+adaptive_rolling_3m,absolute,0.8,Тамбовская область,0.75,12
+adaptive_rolling_3m,absolute,0.8,Тверская область,0.375,8
+adaptive_rolling_3m,absolute,0.8,Томская область,0.625,16
+adaptive_rolling_3m,absolute,0.8,Тульская область,0.5,8
+adaptive_rolling_3m,absolute,0.8,Тюменская область,0.3333333333333333,12
+adaptive_rolling_3m,absolute,0.8,Удмуртская Республика,0.75,12
+adaptive_rolling_3m,absolute,0.8,Ульяновская область,0.6875,16
+adaptive_rolling_3m,absolute,0.8,Хабаровский край,0.125,8
+adaptive_rolling_3m,absolute,0.8,Ханты-Мансийский автономный округ — Югра,0.75,4
+adaptive_rolling_3m,absolute,0.8,Челябинская область,0.625,8
+adaptive_rolling_3m,absolute,0.8,Чувашская Республика,0.75,8
+adaptive_rolling_3m,absolute,0.8,Чукотский автономный округ,0.0,4
+adaptive_rolling_3m,absolute,0.8,Ярославская область,0.8333333333333334,12
+adaptive_rolling_3m,absolute,0.95,Алтайский край,0.9545454545454546,44
+adaptive_rolling_3m,absolute,0.95,Амурская область,0.75,8
+adaptive_rolling_3m,absolute,0.95,Архангельская область,1.0,16
+adaptive_rolling_3m,absolute,0.95,Астраханская область,0.9166666666666666,12
+adaptive_rolling_3m,absolute,0.95,Владимирская область,1.0,28
+adaptive_rolling_3m,absolute,0.95,Волгоградская область,0.9166666666666666,24
+adaptive_rolling_3m,absolute,0.95,Вологодская область,1.0,16
+adaptive_rolling_3m,absolute,0.95,Еврейская автономная область,0.5,4
+adaptive_rolling_3m,absolute,0.95,Забайкальский край,0.5,4
+adaptive_rolling_3m,absolute,0.95,Ивановская область,0.8,20
+adaptive_rolling_3m,absolute,0.95,Иркутская область,0.75,20
+adaptive_rolling_3m,absolute,0.95,Калининградская область,1.0,4
+adaptive_rolling_3m,absolute,0.95,Калужская область,1.0,12
+adaptive_rolling_3m,absolute,0.95,Камчатский край,0.625,8
+adaptive_rolling_3m,absolute,0.95,Кемеровская область,0.8125,16
+adaptive_rolling_3m,absolute,0.95,Кировская область,0.9375,32
+adaptive_rolling_3m,absolute,0.95,Костромская область,0.8125,16
+adaptive_rolling_3m,absolute,0.95,Красноярский край,0.9,20
+adaptive_rolling_3m,absolute,0.95,Курганская область,0.75,8
+adaptive_rolling_3m,absolute,0.95,Ленинградская область,1.0,4
+adaptive_rolling_3m,absolute,0.95,Липецкая область,0.8333333333333334,12
+adaptive_rolling_3m,absolute,0.95,Магаданская область,0.0,4
+adaptive_rolling_3m,absolute,0.95,Москва,0.868421052631579,76
+adaptive_rolling_3m,absolute,0.95,Московская область,1.0,20
+adaptive_rolling_3m,absolute,0.95,Нижегородская область,1.0,36
+adaptive_rolling_3m,absolute,0.95,Новгородская область,1.0,4
+adaptive_rolling_3m,absolute,0.95,Новосибирская область,0.95,40
+adaptive_rolling_3m,absolute,0.95,Омская область,0.875,24
+adaptive_rolling_3m,absolute,0.95,Оренбургская область,0.875,8
+adaptive_rolling_3m,absolute,0.95,Орловская область,0.8333333333333334,12
+adaptive_rolling_3m,absolute,0.95,Пензенская область,0.9,20
+adaptive_rolling_3m,absolute,0.95,Пермский край,1.0,8
+adaptive_rolling_3m,absolute,0.95,Приморский край,0.9166666666666666,12
+adaptive_rolling_3m,absolute,0.95,Псковская область,0.875,8
+adaptive_rolling_3m,absolute,0.95,Республика Алтай,0.75,4
+adaptive_rolling_3m,absolute,0.95,Республика Башкортостан,1.0,24
+adaptive_rolling_3m,absolute,0.95,Республика Коми,0.625,16
+adaptive_rolling_3m,absolute,0.95,Республика Марий Эл,1.0,4
+adaptive_rolling_3m,absolute,0.95,Республика Мордовия,1.0,12
+adaptive_rolling_3m,absolute,0.95,Республика Саха (Якутия),0.5,12
+adaptive_rolling_3m,absolute,0.95,Республика Северная Осетия — Алания,1.0,4
+adaptive_rolling_3m,absolute,0.95,Республика Татарстан,0.9375,16
+adaptive_rolling_3m,absolute,0.95,Республика Тыва,1.0,8
+adaptive_rolling_3m,absolute,0.95,Республика Хакасия,0.5,4
+adaptive_rolling_3m,absolute,0.95,Рязанская область,0.8928571428571429,28
+adaptive_rolling_3m,absolute,0.95,Самарская область,1.0,16
+adaptive_rolling_3m,absolute,0.95,Санкт-Петербург,0.975,40
+adaptive_rolling_3m,absolute,0.95,Саратовская область,0.95,20
+adaptive_rolling_3m,absolute,0.95,Сахалинская область,0.75,12
+adaptive_rolling_3m,absolute,0.95,Свердловская область,0.9545454545454546,44
+adaptive_rolling_3m,absolute,0.95,Смоленская область,1.0,12
+adaptive_rolling_3m,absolute,0.95,Ставропольский край,1.0,20
+adaptive_rolling_3m,absolute,0.95,Тамбовская область,1.0,12
+adaptive_rolling_3m,absolute,0.95,Тверская область,0.625,8
+adaptive_rolling_3m,absolute,0.95,Томская область,1.0,16
+adaptive_rolling_3m,absolute,0.95,Тульская область,1.0,8
+adaptive_rolling_3m,absolute,0.95,Тюменская область,0.5833333333333334,12
+adaptive_rolling_3m,absolute,0.95,Удмуртская Республика,1.0,12
+adaptive_rolling_3m,absolute,0.95,Ульяновская область,1.0,16
+adaptive_rolling_3m,absolute,0.95,Хабаровский край,0.625,8
+adaptive_rolling_3m,absolute,0.95,Ханты-Мансийский автономный округ — Югра,0.75,4
+adaptive_rolling_3m,absolute,0.95,Челябинская область,0.875,8
+adaptive_rolling_3m,absolute,0.95,Чувашская Республика,1.0,8
+adaptive_rolling_3m,absolute,0.95,Чукотский автономный округ,0.0,4
+adaptive_rolling_3m,absolute,0.95,Ярославская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Алтайский край,0.4772727272727273,44
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Амурская область,0.5,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Архангельская область,0.8125,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Астраханская область,0.4166666666666667,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Владимирская область,0.8571428571428571,28
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Волгоградская область,0.7083333333333334,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Вологодская область,0.6875,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Еврейская автономная область,0.25,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Забайкальский край,0.25,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ивановская область,0.6,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Иркутская область,0.45,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Калининградская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Калужская область,0.9166666666666666,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Камчатский край,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Кемеровская область,0.8125,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Кировская область,0.65625,32
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Костромская область,0.5625,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Красноярский край,0.6,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Курганская область,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ленинградская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Липецкая область,0.5833333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Магаданская область,0.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Москва,0.881578947368421,76
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Московская область,0.95,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Нижегородская область,0.7777777777777778,36
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Новгородская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Новосибирская область,0.65,40
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Омская область,0.4583333333333333,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Оренбургская область,0.375,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Орловская область,0.5,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Пензенская область,0.3,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Пермский край,1.0,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Приморский край,0.75,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Псковская область,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Алтай,0.5,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Башкортостан,0.9583333333333334,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Коми,0.5,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Марий Эл,0.5,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Мордовия,0.75,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Саха (Якутия),0.5,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Северная Осетия — Алания,0.75,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Татарстан,0.625,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Тыва,0.5,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Республика Хакасия,0.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Рязанская область,0.6071428571428571,28
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Самарская область,0.625,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Санкт-Петербург,0.925,40
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Саратовская область,0.7,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Сахалинская область,0.75,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Свердловская область,0.75,44
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Смоленская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ставропольский край,0.7,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Тамбовская область,0.5833333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Тверская область,0.375,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Томская область,0.625,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Тульская область,0.5,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Тюменская область,0.3333333333333333,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Удмуртская Республика,0.5833333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ульяновская область,0.5,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Хабаровский край,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ханты-Мансийский автономный округ — Югра,0.75,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Челябинская область,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Чувашская Республика,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Чукотский автономный округ,0.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.8,Ярославская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Алтайский край,0.8409090909090909,44
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Амурская область,0.75,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Архангельская область,1.0,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Астраханская область,0.9166666666666666,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Владимирская область,1.0,28
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Волгоградская область,0.9166666666666666,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Вологодская область,1.0,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Еврейская автономная область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Забайкальский край,0.5,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ивановская область,0.8,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Иркутская область,0.85,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Калининградская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Калужская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Камчатский край,0.75,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Кемеровская область,1.0,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Кировская область,0.84375,32
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Костромская область,0.6875,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Красноярский край,0.95,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Курганская область,0.75,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ленинградская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Липецкая область,0.8333333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Магаданская область,0.25,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Москва,1.0,76
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Московская область,1.0,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Нижегородская область,0.9722222222222222,36
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Новгородская область,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Новосибирская область,0.9,40
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Омская область,0.7083333333333334,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Оренбургская область,0.875,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Орловская область,0.8333333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Пензенская область,0.75,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Пермский край,1.0,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Приморский край,0.9166666666666666,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Псковская область,0.875,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Алтай,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Башкортостан,1.0,24
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Коми,0.75,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Марий Эл,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Мордовия,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Саха (Якутия),0.5833333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Северная Осетия — Алания,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Татарстан,0.875,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Тыва,1.0,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Республика Хакасия,0.75,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Рязанская область,0.8571428571428571,28
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Самарская область,1.0,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Санкт-Петербург,1.0,40
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Саратовская область,0.9,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Сахалинская область,0.8333333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Свердловская область,0.9772727272727273,44
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Смоленская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ставропольский край,1.0,20
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Тамбовская область,1.0,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Тверская область,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Томская область,1.0,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Тульская область,1.0,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Тюменская область,0.5833333333333334,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Удмуртская Республика,0.9166666666666666,12
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ульяновская область,0.9375,16
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Хабаровский край,0.625,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ханты-Мансийский автономный округ — Югра,1.0,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Челябинская область,0.875,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Чувашская Республика,0.875,8
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Чукотский автономный округ,0.25,4
+adaptive_rolling_3m,scaled_by_2023_mean,0.95,Ярославская область,1.0,12
+blend_75,absolute,0.8,Алтайский край,0.6136363636363636,44
+blend_75,absolute,0.8,Амурская область,0.625,8
+blend_75,absolute,0.8,Архангельская область,0.625,16
+blend_75,absolute,0.8,Астраханская область,0.6666666666666666,12
+blend_75,absolute,0.8,Владимирская область,0.7857142857142857,28
+blend_75,absolute,0.8,Волгоградская область,0.5833333333333334,24
+blend_75,absolute,0.8,Вологодская область,0.6875,16
+blend_75,absolute,0.8,Еврейская автономная область,0.25,4
+blend_75,absolute,0.8,Забайкальский край,0.25,4
+blend_75,absolute,0.8,Ивановская область,0.65,20
+blend_75,absolute,0.8,Иркутская область,0.35,20
+blend_75,absolute,0.8,Калининградская область,1.0,4
+blend_75,absolute,0.8,Калужская область,0.9166666666666666,12
+blend_75,absolute,0.8,Камчатский край,0.25,8
+blend_75,absolute,0.8,Кемеровская область,0.5625,16
+blend_75,absolute,0.8,Кировская область,0.625,32
+blend_75,absolute,0.8,Костромская область,0.4375,16
+blend_75,absolute,0.8,Красноярский край,0.65,20
+blend_75,absolute,0.8,Курганская область,0.625,8
+blend_75,absolute,0.8,Ленинградская область,0.75,4
+blend_75,absolute,0.8,Липецкая область,0.75,12
+blend_75,absolute,0.8,Магаданская область,0.0,4
+blend_75,absolute,0.8,Москва,0.618421052631579,76
+blend_75,absolute,0.8,Московская область,0.7,20
+blend_75,absolute,0.8,Нижегородская область,0.75,36
+blend_75,absolute,0.8,Новгородская область,0.75,4
+blend_75,absolute,0.8,Новосибирская область,0.65,40
+blend_75,absolute,0.8,Омская область,0.375,24
+blend_75,absolute,0.8,Оренбургская область,0.5,8
+blend_75,absolute,0.8,Орловская область,0.75,12
+blend_75,absolute,0.8,Пензенская область,0.55,20
+blend_75,absolute,0.8,Пермский край,0.625,8
+blend_75,absolute,0.8,Приморский край,0.75,12
+blend_75,absolute,0.8,Псковская область,0.5,8
+blend_75,absolute,0.8,Республика Алтай,0.25,4
+blend_75,absolute,0.8,Республика Башкортостан,0.9583333333333334,24
+blend_75,absolute,0.8,Республика Коми,0.25,16
+blend_75,absolute,0.8,Республика Марий Эл,0.75,4
+blend_75,absolute,0.8,Республика Мордовия,0.9166666666666666,12
+blend_75,absolute,0.8,Республика Саха (Якутия),0.16666666666666666,12
+blend_75,absolute,0.8,Республика Северная Осетия — Алания,0.5,4
+blend_75,absolute,0.8,Республика Татарстан,0.75,16
+blend_75,absolute,0.8,Республика Тыва,0.5,8
+blend_75,absolute,0.8,Республика Хакасия,0.25,4
+blend_75,absolute,0.8,Рязанская область,0.7142857142857143,28
+blend_75,absolute,0.8,Самарская область,0.5,16
+blend_75,absolute,0.8,Санкт-Петербург,0.775,40
+blend_75,absolute,0.8,Саратовская область,0.75,20
+blend_75,absolute,0.8,Сахалинская область,0.3333333333333333,12
+blend_75,absolute,0.8,Свердловская область,0.6818181818181818,44
+blend_75,absolute,0.8,Смоленская область,0.8333333333333334,12
+blend_75,absolute,0.8,Ставропольский край,0.6,20
+blend_75,absolute,0.8,Тамбовская область,0.6666666666666666,12
+blend_75,absolute,0.8,Тверская область,0.375,8
+blend_75,absolute,0.8,Томская область,0.5625,16
+blend_75,absolute,0.8,Тульская область,0.75,8
+blend_75,absolute,0.8,Тюменская область,0.08333333333333333,12
+blend_75,absolute,0.8,Удмуртская Республика,0.8333333333333334,12
+blend_75,absolute,0.8,Ульяновская область,0.6875,16
+blend_75,absolute,0.8,Хабаровский край,0.25,8
+blend_75,absolute,0.8,Ханты-Мансийский автономный округ — Югра,0.5,4
+blend_75,absolute,0.8,Челябинская область,0.25,8
+blend_75,absolute,0.8,Чувашская Республика,0.75,8
+blend_75,absolute,0.8,Чукотский автономный округ,0.0,4
+blend_75,absolute,0.8,Ярославская область,1.0,12
+blend_75,absolute,0.95,Алтайский край,0.9090909090909091,44
+blend_75,absolute,0.95,Амурская область,0.75,8
+blend_75,absolute,0.95,Архангельская область,0.9375,16
+blend_75,absolute,0.95,Астраханская область,0.75,12
+blend_75,absolute,0.95,Владимирская область,0.9642857142857143,28
+blend_75,absolute,0.95,Волгоградская область,0.8333333333333334,24
+blend_75,absolute,0.95,Вологодская область,1.0,16
+blend_75,absolute,0.95,Еврейская автономная область,0.5,4
+blend_75,absolute,0.95,Забайкальский край,0.5,4
+blend_75,absolute,0.95,Ивановская область,0.8,20
+blend_75,absolute,0.95,Иркутская область,0.7,20
+blend_75,absolute,0.95,Калининградская область,1.0,4
+blend_75,absolute,0.95,Калужская область,1.0,12
+blend_75,absolute,0.95,Камчатский край,0.625,8
+blend_75,absolute,0.95,Кемеровская область,0.875,16
+blend_75,absolute,0.95,Кировская область,0.9375,32
+blend_75,absolute,0.95,Костромская область,0.875,16
+blend_75,absolute,0.95,Красноярский край,0.95,20
+blend_75,absolute,0.95,Курганская область,0.75,8
+blend_75,absolute,0.95,Ленинградская область,1.0,4
+blend_75,absolute,0.95,Липецкая область,0.8333333333333334,12
+blend_75,absolute,0.95,Магаданская область,0.0,4
+blend_75,absolute,0.95,Москва,0.9210526315789473,76
+blend_75,absolute,0.95,Московская область,0.8,20
+blend_75,absolute,0.95,Нижегородская область,0.9444444444444444,36
+blend_75,absolute,0.95,Новгородская область,1.0,4
+blend_75,absolute,0.95,Новосибирская область,0.975,40
+blend_75,absolute,0.95,Омская область,0.75,24
+blend_75,absolute,0.95,Оренбургская область,0.875,8
+blend_75,absolute,0.95,Орловская область,0.9166666666666666,12
+blend_75,absolute,0.95,Пензенская область,0.9,20
+blend_75,absolute,0.95,Пермский край,0.875,8
+blend_75,absolute,0.95,Приморский край,0.8333333333333334,12
+blend_75,absolute,0.95,Псковская область,0.875,8
+blend_75,absolute,0.95,Республика Алтай,0.5,4
+blend_75,absolute,0.95,Республика Башкортостан,1.0,24
+blend_75,absolute,0.95,Республика Коми,0.375,16
+blend_75,absolute,0.95,Республика Марий Эл,1.0,4
+blend_75,absolute,0.95,Республика Мордовия,1.0,12
+blend_75,absolute,0.95,Республика Саха (Якутия),0.3333333333333333,12
+blend_75,absolute,0.95,Республика Северная Осетия — Алания,1.0,4
+blend_75,absolute,0.95,Республика Татарстан,1.0,16
+blend_75,absolute,0.95,Республика Тыва,0.75,8
+blend_75,absolute,0.95,Республика Хакасия,0.75,4
+blend_75,absolute,0.95,Рязанская область,0.9285714285714286,28
+blend_75,absolute,0.95,Самарская область,0.9375,16
+blend_75,absolute,0.95,Санкт-Петербург,1.0,40
+blend_75,absolute,0.95,Саратовская область,0.9,20
+blend_75,absolute,0.95,Сахалинская область,0.4166666666666667,12
+blend_75,absolute,0.95,Свердловская область,0.9545454545454546,44
+blend_75,absolute,0.95,Смоленская область,1.0,12
+blend_75,absolute,0.95,Ставропольский край,1.0,20
+blend_75,absolute,0.95,Тамбовская область,0.9166666666666666,12
+blend_75,absolute,0.95,Тверская область,0.5,8
+blend_75,absolute,0.95,Томская область,0.875,16
+blend_75,absolute,0.95,Тульская область,0.875,8
+blend_75,absolute,0.95,Тюменская область,0.5,12
+blend_75,absolute,0.95,Удмуртская Республика,0.9166666666666666,12
+blend_75,absolute,0.95,Ульяновская область,0.9375,16
+blend_75,absolute,0.95,Хабаровский край,0.25,8
+blend_75,absolute,0.95,Ханты-Мансийский автономный округ — Югра,0.5,4
+blend_75,absolute,0.95,Челябинская область,0.875,8
+blend_75,absolute,0.95,Чувашская Республика,1.0,8
+blend_75,absolute,0.95,Чукотский автономный округ,0.0,4
+blend_75,absolute,0.95,Ярославская область,1.0,12
+blend_75,scaled_by_2023_mean,0.8,Алтайский край,0.4318181818181818,44
+blend_75,scaled_by_2023_mean,0.8,Амурская область,0.625,8
+blend_75,scaled_by_2023_mean,0.8,Архангельская область,0.75,16
+blend_75,scaled_by_2023_mean,0.8,Астраханская область,0.5,12
+blend_75,scaled_by_2023_mean,0.8,Владимирская область,0.7857142857142857,28
+blend_75,scaled_by_2023_mean,0.8,Волгоградская область,0.5833333333333334,24
+blend_75,scaled_by_2023_mean,0.8,Вологодская область,0.6875,16
+blend_75,scaled_by_2023_mean,0.8,Еврейская автономная область,0.25,4
+blend_75,scaled_by_2023_mean,0.8,Забайкальский край,0.25,4
+blend_75,scaled_by_2023_mean,0.8,Ивановская область,0.55,20
+blend_75,scaled_by_2023_mean,0.8,Иркутская область,0.4,20
+blend_75,scaled_by_2023_mean,0.8,Калининградская область,1.0,4
+blend_75,scaled_by_2023_mean,0.8,Калужская область,1.0,12
+blend_75,scaled_by_2023_mean,0.8,Камчатский край,0.625,8
+blend_75,scaled_by_2023_mean,0.8,Кемеровская область,0.6875,16
+blend_75,scaled_by_2023_mean,0.8,Кировская область,0.5625,32
+blend_75,scaled_by_2023_mean,0.8,Костромская область,0.375,16
+blend_75,scaled_by_2023_mean,0.8,Красноярский край,0.65,20
+blend_75,scaled_by_2023_mean,0.8,Курганская область,0.5,8
+blend_75,scaled_by_2023_mean,0.8,Ленинградская область,1.0,4
+blend_75,scaled_by_2023_mean,0.8,Липецкая область,0.75,12
+blend_75,scaled_by_2023_mean,0.8,Магаданская область,0.0,4
+blend_75,scaled_by_2023_mean,0.8,Москва,0.9342105263157895,76
+blend_75,scaled_by_2023_mean,0.8,Московская область,0.75,20
+blend_75,scaled_by_2023_mean,0.8,Нижегородская область,0.75,36
+blend_75,scaled_by_2023_mean,0.8,Новгородская область,0.75,4
+blend_75,scaled_by_2023_mean,0.8,Новосибирская область,0.6,40
+blend_75,scaled_by_2023_mean,0.8,Омская область,0.2916666666666667,24
+blend_75,scaled_by_2023_mean,0.8,Оренбургская область,0.375,8
+blend_75,scaled_by_2023_mean,0.8,Орловская область,0.6666666666666666,12
+blend_75,scaled_by_2023_mean,0.8,Пензенская область,0.4,20
+blend_75,scaled_by_2023_mean,0.8,Пермский край,0.75,8
+blend_75,scaled_by_2023_mean,0.8,Приморский край,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.8,Псковская область,0.5,8
+blend_75,scaled_by_2023_mean,0.8,Республика Алтай,0.25,4
+blend_75,scaled_by_2023_mean,0.8,Республика Башкортостан,0.9583333333333334,24
+blend_75,scaled_by_2023_mean,0.8,Республика Коми,0.3125,16
+blend_75,scaled_by_2023_mean,0.8,Республика Марий Эл,0.5,4
+blend_75,scaled_by_2023_mean,0.8,Республика Мордовия,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.8,Республика Саха (Якутия),0.16666666666666666,12
+blend_75,scaled_by_2023_mean,0.8,Республика Северная Осетия — Алания,0.5,4
+blend_75,scaled_by_2023_mean,0.8,Республика Татарстан,0.75,16
+blend_75,scaled_by_2023_mean,0.8,Республика Тыва,0.5,8
+blend_75,scaled_by_2023_mean,0.8,Республика Хакасия,0.25,4
+blend_75,scaled_by_2023_mean,0.8,Рязанская область,0.6785714285714286,28
+blend_75,scaled_by_2023_mean,0.8,Самарская область,0.5,16
+blend_75,scaled_by_2023_mean,0.8,Санкт-Петербург,0.975,40
+blend_75,scaled_by_2023_mean,0.8,Саратовская область,0.65,20
+blend_75,scaled_by_2023_mean,0.8,Сахалинская область,0.5833333333333334,12
+blend_75,scaled_by_2023_mean,0.8,Свердловская область,0.75,44
+blend_75,scaled_by_2023_mean,0.8,Смоленская область,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.8,Ставропольский край,0.6,20
+blend_75,scaled_by_2023_mean,0.8,Тамбовская область,0.6666666666666666,12
+blend_75,scaled_by_2023_mean,0.8,Тверская область,0.375,8
+blend_75,scaled_by_2023_mean,0.8,Томская область,0.625,16
+blend_75,scaled_by_2023_mean,0.8,Тульская область,0.75,8
+blend_75,scaled_by_2023_mean,0.8,Тюменская область,0.08333333333333333,12
+blend_75,scaled_by_2023_mean,0.8,Удмуртская Республика,0.75,12
+blend_75,scaled_by_2023_mean,0.8,Ульяновская область,0.6875,16
+blend_75,scaled_by_2023_mean,0.8,Хабаровский край,0.25,8
+blend_75,scaled_by_2023_mean,0.8,Ханты-Мансийский автономный округ — Югра,0.5,4
+blend_75,scaled_by_2023_mean,0.8,Челябинская область,0.375,8
+blend_75,scaled_by_2023_mean,0.8,Чувашская Республика,0.625,8
+blend_75,scaled_by_2023_mean,0.8,Чукотский автономный округ,0.0,4
+blend_75,scaled_by_2023_mean,0.8,Ярославская область,1.0,12
+blend_75,scaled_by_2023_mean,0.95,Алтайский край,0.7954545454545454,44
+blend_75,scaled_by_2023_mean,0.95,Амурская область,0.875,8
+blend_75,scaled_by_2023_mean,0.95,Архангельская область,0.9375,16
+blend_75,scaled_by_2023_mean,0.95,Астраханская область,0.75,12
+blend_75,scaled_by_2023_mean,0.95,Владимирская область,0.9642857142857143,28
+blend_75,scaled_by_2023_mean,0.95,Волгоградская область,0.7916666666666666,24
+blend_75,scaled_by_2023_mean,0.95,Вологодская область,1.0,16
+blend_75,scaled_by_2023_mean,0.95,Еврейская автономная область,0.5,4
+blend_75,scaled_by_2023_mean,0.95,Забайкальский край,0.5,4
+blend_75,scaled_by_2023_mean,0.95,Ивановская область,0.85,20
+blend_75,scaled_by_2023_mean,0.95,Иркутская область,0.75,20
+blend_75,scaled_by_2023_mean,0.95,Калининградская область,1.0,4
+blend_75,scaled_by_2023_mean,0.95,Калужская область,1.0,12
+blend_75,scaled_by_2023_mean,0.95,Камчатский край,0.75,8
+blend_75,scaled_by_2023_mean,0.95,Кемеровская область,1.0,16
+blend_75,scaled_by_2023_mean,0.95,Кировская область,0.78125,32
+blend_75,scaled_by_2023_mean,0.95,Костромская область,0.8125,16
+blend_75,scaled_by_2023_mean,0.95,Красноярский край,0.85,20
+blend_75,scaled_by_2023_mean,0.95,Курганская область,0.625,8
+blend_75,scaled_by_2023_mean,0.95,Ленинградская область,1.0,4
+blend_75,scaled_by_2023_mean,0.95,Липецкая область,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.95,Магаданская область,0.25,4
+blend_75,scaled_by_2023_mean,0.95,Москва,1.0,76
+blend_75,scaled_by_2023_mean,0.95,Московская область,0.95,20
+blend_75,scaled_by_2023_mean,0.95,Нижегородская область,0.9166666666666666,36
+blend_75,scaled_by_2023_mean,0.95,Новгородская область,0.75,4
+blend_75,scaled_by_2023_mean,0.95,Новосибирская область,0.925,40
+blend_75,scaled_by_2023_mean,0.95,Омская область,0.625,24
+blend_75,scaled_by_2023_mean,0.95,Оренбургская область,0.875,8
+blend_75,scaled_by_2023_mean,0.95,Орловская область,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.95,Пензенская область,0.75,20
+blend_75,scaled_by_2023_mean,0.95,Пермский край,1.0,8
+blend_75,scaled_by_2023_mean,0.95,Приморский край,0.9166666666666666,12
+blend_75,scaled_by_2023_mean,0.95,Псковская область,0.75,8
+blend_75,scaled_by_2023_mean,0.95,Республика Алтай,0.5,4
+blend_75,scaled_by_2023_mean,0.95,Республика Башкортостан,1.0,24
+blend_75,scaled_by_2023_mean,0.95,Республика Коми,0.625,16
+blend_75,scaled_by_2023_mean,0.95,Республика Марий Эл,0.75,4
+blend_75,scaled_by_2023_mean,0.95,Республика Мордовия,1.0,12
+blend_75,scaled_by_2023_mean,0.95,Республика Саха (Якутия),0.4166666666666667,12
+blend_75,scaled_by_2023_mean,0.95,Республика Северная Осетия — Алания,1.0,4
+blend_75,scaled_by_2023_mean,0.95,Республика Татарстан,0.875,16
+blend_75,scaled_by_2023_mean,0.95,Республика Тыва,0.75,8
+blend_75,scaled_by_2023_mean,0.95,Республика Хакасия,0.75,4
+blend_75,scaled_by_2023_mean,0.95,Рязанская область,0.9285714285714286,28
+blend_75,scaled_by_2023_mean,0.95,Самарская область,0.9375,16
+blend_75,scaled_by_2023_mean,0.95,Санкт-Петербург,1.0,40
+blend_75,scaled_by_2023_mean,0.95,Саратовская область,0.85,20
+blend_75,scaled_by_2023_mean,0.95,Сахалинская область,0.8333333333333334,12
+blend_75,scaled_by_2023_mean,0.95,Свердловская область,0.9772727272727273,44
+blend_75,scaled_by_2023_mean,0.95,Смоленская область,1.0,12
+blend_75,scaled_by_2023_mean,0.95,Ставропольский край,0.9,20
+blend_75,scaled_by_2023_mean,0.95,Тамбовская область,0.9166666666666666,12
+blend_75,scaled_by_2023_mean,0.95,Тверская область,0.5,8
+blend_75,scaled_by_2023_mean,0.95,Томская область,0.9375,16
+blend_75,scaled_by_2023_mean,0.95,Тульская область,0.875,8
+blend_75,scaled_by_2023_mean,0.95,Тюменская область,0.5,12
+blend_75,scaled_by_2023_mean,0.95,Удмуртская Республика,0.9166666666666666,12
+blend_75,scaled_by_2023_mean,0.95,Ульяновская область,0.9375,16
+blend_75,scaled_by_2023_mean,0.95,Хабаровский край,0.625,8
+blend_75,scaled_by_2023_mean,0.95,Ханты-Мансийский автономный округ — Югра,0.75,4
+blend_75,scaled_by_2023_mean,0.95,Челябинская область,0.875,8
+blend_75,scaled_by_2023_mean,0.95,Чувашская Республика,0.75,8
+blend_75,scaled_by_2023_mean,0.95,Чукотский автономный округ,0.0,4
+blend_75,scaled_by_2023_mean,0.95,Ярославская область,1.0,12
+prophet,absolute,0.8,Алтайский край,0.4318181818181818,44
+prophet,absolute,0.8,Амурская область,0.625,8
+prophet,absolute,0.8,Архангельская область,0.4375,16
+prophet,absolute,0.8,Астраханская область,0.5833333333333334,12
+prophet,absolute,0.8,Владимирская область,0.6071428571428571,28
+prophet,absolute,0.8,Волгоградская область,0.625,24
+prophet,absolute,0.8,Вологодская область,0.5625,16
+prophet,absolute,0.8,Еврейская автономная область,0.0,4
+prophet,absolute,0.8,Забайкальский край,0.25,4
+prophet,absolute,0.8,Ивановская область,0.45,20
+prophet,absolute,0.8,Иркутская область,0.2,20
+prophet,absolute,0.8,Калининградская область,0.5,4
+prophet,absolute,0.8,Калужская область,0.5833333333333334,12
+prophet,absolute,0.8,Камчатский край,0.125,8
+prophet,absolute,0.8,Кемеровская область,0.3125,16
+prophet,absolute,0.8,Кировская область,0.53125,32
+prophet,absolute,0.8,Костромская область,0.375,16
+prophet,absolute,0.8,Красноярский край,0.35,20
+prophet,absolute,0.8,Курганская область,0.75,8
+prophet,absolute,0.8,Ленинградская область,0.5,4
+prophet,absolute,0.8,Липецкая область,0.5833333333333334,12
+prophet,absolute,0.8,Магаданская область,0.25,4
+prophet,absolute,0.8,Москва,0.34210526315789475,76
+prophet,absolute,0.8,Московская область,0.35,20
+prophet,absolute,0.8,Нижегородская область,0.6666666666666666,36
+prophet,absolute,0.8,Новгородская область,0.75,4
+prophet,absolute,0.8,Новосибирская область,0.525,40
+prophet,absolute,0.8,Омская область,0.375,24
+prophet,absolute,0.8,Оренбургская область,0.25,8
+prophet,absolute,0.8,Орловская область,0.5833333333333334,12
+prophet,absolute,0.8,Пензенская область,0.5,20
+prophet,absolute,0.8,Пермский край,0.5,8
+prophet,absolute,0.8,Приморский край,0.4166666666666667,12
+prophet,absolute,0.8,Псковская область,0.5,8
+prophet,absolute,0.8,Республика Алтай,0.25,4
+prophet,absolute,0.8,Республика Башкортостан,0.5,24
+prophet,absolute,0.8,Республика Коми,0.0,16
+prophet,absolute,0.8,Республика Марий Эл,0.5,4
+prophet,absolute,0.8,Республика Мордовия,0.5833333333333334,12
+prophet,absolute,0.8,Республика Саха (Якутия),0.0,12
+prophet,absolute,0.8,Республика Северная Осетия — Алания,0.25,4
+prophet,absolute,0.8,Республика Татарстан,0.5625,16
+prophet,absolute,0.8,Республика Тыва,0.375,8
+prophet,absolute,0.8,Республика Хакасия,0.25,4
+prophet,absolute,0.8,Рязанская область,0.6428571428571429,28
+prophet,absolute,0.8,Самарская область,0.625,16
+prophet,absolute,0.8,Санкт-Петербург,0.325,40
+prophet,absolute,0.8,Саратовская область,0.45,20
+prophet,absolute,0.8,Сахалинская область,0.25,12
+prophet,absolute,0.8,Свердловская область,0.45454545454545453,44
+prophet,absolute,0.8,Смоленская область,0.5,12
+prophet,absolute,0.8,Ставропольский край,0.5,20
+prophet,absolute,0.8,Тамбовская область,0.4166666666666667,12
+prophet,absolute,0.8,Тверская область,0.5,8
+prophet,absolute,0.8,Томская область,0.4375,16
+prophet,absolute,0.8,Тульская область,0.5,8
+prophet,absolute,0.8,Тюменская область,0.3333333333333333,12
+prophet,absolute,0.8,Удмуртская Республика,0.6666666666666666,12
+prophet,absolute,0.8,Ульяновская область,0.625,16
+prophet,absolute,0.8,Хабаровский край,0.125,8
+prophet,absolute,0.8,Ханты-Мансийский автономный округ — Югра,0.0,4
+prophet,absolute,0.8,Челябинская область,0.25,8
+prophet,absolute,0.8,Чувашская Республика,0.75,8
+prophet,absolute,0.8,Чукотский автономный округ,0.0,4
+prophet,absolute,0.8,Ярославская область,0.5833333333333334,12
+prophet,absolute,0.95,Алтайский край,0.7954545454545454,44
+prophet,absolute,0.95,Амурская область,0.75,8
+prophet,absolute,0.95,Архангельская область,0.5625,16
+prophet,absolute,0.95,Астраханская область,0.75,12
+prophet,absolute,0.95,Владимирская область,0.75,28
+prophet,absolute,0.95,Волгоградская область,0.75,24
+prophet,absolute,0.95,Вологодская область,0.6875,16
+prophet,absolute,0.95,Еврейская автономная область,0.25,4
+prophet,absolute,0.95,Забайкальский край,0.5,4
+prophet,absolute,0.95,Ивановская область,0.7,20
+prophet,absolute,0.95,Иркутская область,0.7,20
+prophet,absolute,0.95,Калининградская область,0.75,4
+prophet,absolute,0.95,Калужская область,0.75,12
+prophet,absolute,0.95,Камчатский край,0.625,8
+prophet,absolute,0.95,Кемеровская область,0.75,16
+prophet,absolute,0.95,Кировская область,0.875,32
+prophet,absolute,0.95,Костромская область,0.8125,16
+prophet,absolute,0.95,Красноярский край,0.75,20
+prophet,absolute,0.95,Курганская область,0.75,8
+prophet,absolute,0.95,Ленинградская область,0.75,4
+prophet,absolute,0.95,Липецкая область,0.5833333333333334,12
+prophet,absolute,0.95,Магаданская область,0.25,4
+prophet,absolute,0.95,Москва,0.47368421052631576,76
+prophet,absolute,0.95,Московская область,0.65,20
+prophet,absolute,0.95,Нижегородская область,0.75,36
+prophet,absolute,0.95,Новгородская область,0.75,4
+prophet,absolute,0.95,Новосибирская область,0.775,40
+prophet,absolute,0.95,Омская область,0.8333333333333334,24
+prophet,absolute,0.95,Оренбургская область,0.875,8
+prophet,absolute,0.95,Орловская область,0.9166666666666666,12
+prophet,absolute,0.95,Пензенская область,0.8,20
+prophet,absolute,0.95,Пермский край,0.5,8
+prophet,absolute,0.95,Приморский край,0.5833333333333334,12
+prophet,absolute,0.95,Псковская область,0.75,8
+prophet,absolute,0.95,Республика Алтай,0.25,4
+prophet,absolute,0.95,Республика Башкортостан,0.75,24
+prophet,absolute,0.95,Республика Коми,0.375,16
+prophet,absolute,0.95,Республика Марий Эл,0.75,4
+prophet,absolute,0.95,Республика Мордовия,0.75,12
+prophet,absolute,0.95,Республика Саха (Якутия),0.25,12
+prophet,absolute,0.95,Республика Северная Осетия — Алания,0.75,4
+prophet,absolute,0.95,Республика Татарстан,0.875,16
+prophet,absolute,0.95,Республика Тыва,0.75,8
+prophet,absolute,0.95,Республика Хакасия,0.75,4
+prophet,absolute,0.95,Рязанская область,0.7857142857142857,28
+prophet,absolute,0.95,Самарская область,0.6875,16
+prophet,absolute,0.95,Санкт-Петербург,0.6,40
+prophet,absolute,0.95,Саратовская область,0.65,20
+prophet,absolute,0.95,Сахалинская область,0.5,12
+prophet,absolute,0.95,Свердловская область,0.6363636363636364,44
+prophet,absolute,0.95,Смоленская область,0.75,12
+prophet,absolute,0.95,Ставропольский край,0.75,20
+prophet,absolute,0.95,Тамбовская область,0.75,12
+prophet,absolute,0.95,Тверская область,0.625,8
+prophet,absolute,0.95,Томская область,0.5625,16
+prophet,absolute,0.95,Тульская область,0.75,8
+prophet,absolute,0.95,Тюменская область,0.5833333333333334,12
+prophet,absolute,0.95,Удмуртская Республика,0.8333333333333334,12
+prophet,absolute,0.95,Ульяновская область,0.8125,16
+prophet,absolute,0.95,Хабаровский край,0.375,8
+prophet,absolute,0.95,Ханты-Мансийский автономный округ — Югра,0.25,4
+prophet,absolute,0.95,Челябинская область,0.5,8
+prophet,absolute,0.95,Чувашская Республика,0.75,8
+prophet,absolute,0.95,Чукотский автономный округ,0.25,4
+prophet,absolute,0.95,Ярославская область,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.8,Алтайский край,0.3409090909090909,44
+prophet,scaled_by_2023_mean,0.8,Амурская область,0.625,8
+prophet,scaled_by_2023_mean,0.8,Архангельская область,0.4375,16
+prophet,scaled_by_2023_mean,0.8,Астраханская область,0.5,12
+prophet,scaled_by_2023_mean,0.8,Владимирская область,0.6071428571428571,28
+prophet,scaled_by_2023_mean,0.8,Волгоградская область,0.5833333333333334,24
+prophet,scaled_by_2023_mean,0.8,Вологодская область,0.5625,16
+prophet,scaled_by_2023_mean,0.8,Еврейская автономная область,0.0,4
+prophet,scaled_by_2023_mean,0.8,Забайкальский край,0.5,4
+prophet,scaled_by_2023_mean,0.8,Ивановская область,0.4,20
+prophet,scaled_by_2023_mean,0.8,Иркутская область,0.3,20
+prophet,scaled_by_2023_mean,0.8,Калининградская область,0.5,4
+prophet,scaled_by_2023_mean,0.8,Калужская область,0.75,12
+prophet,scaled_by_2023_mean,0.8,Камчатский край,0.625,8
+prophet,scaled_by_2023_mean,0.8,Кемеровская область,0.5625,16
+prophet,scaled_by_2023_mean,0.8,Кировская область,0.46875,32
+prophet,scaled_by_2023_mean,0.8,Костромская область,0.3125,16
+prophet,scaled_by_2023_mean,0.8,Красноярский край,0.35,20
+prophet,scaled_by_2023_mean,0.8,Курганская область,0.75,8
+prophet,scaled_by_2023_mean,0.8,Ленинградская область,0.5,4
+prophet,scaled_by_2023_mean,0.8,Липецкая область,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.8,Магаданская область,0.25,4
+prophet,scaled_by_2023_mean,0.8,Москва,0.5,76
+prophet,scaled_by_2023_mean,0.8,Московская область,0.65,20
+prophet,scaled_by_2023_mean,0.8,Нижегородская область,0.6666666666666666,36
+prophet,scaled_by_2023_mean,0.8,Новгородская область,0.75,4
+prophet,scaled_by_2023_mean,0.8,Новосибирская область,0.475,40
+prophet,scaled_by_2023_mean,0.8,Омская область,0.3333333333333333,24
+prophet,scaled_by_2023_mean,0.8,Оренбургская область,0.25,8
+prophet,scaled_by_2023_mean,0.8,Орловская область,0.4166666666666667,12
+prophet,scaled_by_2023_mean,0.8,Пензенская область,0.4,20
+prophet,scaled_by_2023_mean,0.8,Пермский край,0.5,8
+prophet,scaled_by_2023_mean,0.8,Приморский край,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.8,Псковская область,0.5,8
+prophet,scaled_by_2023_mean,0.8,Республика Алтай,0.25,4
+prophet,scaled_by_2023_mean,0.8,Республика Башкортостан,0.5416666666666666,24
+prophet,scaled_by_2023_mean,0.8,Республика Коми,0.1875,16
+prophet,scaled_by_2023_mean,0.8,Республика Марий Эл,0.25,4
+prophet,scaled_by_2023_mean,0.8,Республика Мордовия,0.5,12
+prophet,scaled_by_2023_mean,0.8,Республика Саха (Якутия),0.0,12
+prophet,scaled_by_2023_mean,0.8,Республика Северная Осетия — Алания,0.25,4
+prophet,scaled_by_2023_mean,0.8,Республика Татарстан,0.5625,16
+prophet,scaled_by_2023_mean,0.8,Республика Тыва,0.375,8
+prophet,scaled_by_2023_mean,0.8,Республика Хакасия,0.5,4
+prophet,scaled_by_2023_mean,0.8,Рязанская область,0.6428571428571429,28
+prophet,scaled_by_2023_mean,0.8,Самарская область,0.625,16
+prophet,scaled_by_2023_mean,0.8,Санкт-Петербург,0.6,40
+prophet,scaled_by_2023_mean,0.8,Саратовская область,0.35,20
+prophet,scaled_by_2023_mean,0.8,Сахалинская область,0.5,12
+prophet,scaled_by_2023_mean,0.8,Свердловская область,0.5,44
+prophet,scaled_by_2023_mean,0.8,Смоленская область,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.8,Ставропольский край,0.55,20
+prophet,scaled_by_2023_mean,0.8,Тамбовская область,0.4166666666666667,12
+prophet,scaled_by_2023_mean,0.8,Тверская область,0.5,8
+prophet,scaled_by_2023_mean,0.8,Томская область,0.5625,16
+prophet,scaled_by_2023_mean,0.8,Тульская область,0.5,8
+prophet,scaled_by_2023_mean,0.8,Тюменская область,0.3333333333333333,12
+prophet,scaled_by_2023_mean,0.8,Удмуртская Республика,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.8,Ульяновская область,0.625,16
+prophet,scaled_by_2023_mean,0.8,Хабаровский край,0.25,8
+prophet,scaled_by_2023_mean,0.8,Ханты-Мансийский автономный округ — Югра,0.25,4
+prophet,scaled_by_2023_mean,0.8,Челябинская область,0.375,8
+prophet,scaled_by_2023_mean,0.8,Чувашская Республика,0.625,8
+prophet,scaled_by_2023_mean,0.8,Чукотский автономный округ,0.25,4
+prophet,scaled_by_2023_mean,0.8,Ярославская область,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.95,Алтайский край,0.5909090909090909,44
+prophet,scaled_by_2023_mean,0.95,Амурская область,0.625,8
+prophet,scaled_by_2023_mean,0.95,Архангельская область,0.6875,16
+prophet,scaled_by_2023_mean,0.95,Астраханская область,0.75,12
+prophet,scaled_by_2023_mean,0.95,Владимирская область,0.75,28
+prophet,scaled_by_2023_mean,0.95,Волгоградская область,0.75,24
+prophet,scaled_by_2023_mean,0.95,Вологодская область,0.6875,16
+prophet,scaled_by_2023_mean,0.95,Еврейская автономная область,0.25,4
+prophet,scaled_by_2023_mean,0.95,Забайкальский край,0.5,4
+prophet,scaled_by_2023_mean,0.95,Ивановская область,0.65,20
+prophet,scaled_by_2023_mean,0.95,Иркутская область,0.8,20
+prophet,scaled_by_2023_mean,0.95,Калининградская область,0.75,4
+prophet,scaled_by_2023_mean,0.95,Калужская область,0.75,12
+prophet,scaled_by_2023_mean,0.95,Камчатский край,0.75,8
+prophet,scaled_by_2023_mean,0.95,Кемеровская область,0.75,16
+prophet,scaled_by_2023_mean,0.95,Кировская область,0.6875,32
+prophet,scaled_by_2023_mean,0.95,Костромская область,0.6875,16
+prophet,scaled_by_2023_mean,0.95,Красноярский край,0.65,20
+prophet,scaled_by_2023_mean,0.95,Курганская область,0.75,8
+prophet,scaled_by_2023_mean,0.95,Ленинградская область,0.75,4
+prophet,scaled_by_2023_mean,0.95,Липецкая область,0.6666666666666666,12
+prophet,scaled_by_2023_mean,0.95,Магаданская область,0.5,4
+prophet,scaled_by_2023_mean,0.95,Москва,0.75,76
+prophet,scaled_by_2023_mean,0.95,Московская область,0.75,20
+prophet,scaled_by_2023_mean,0.95,Нижегородская область,0.75,36
+prophet,scaled_by_2023_mean,0.95,Новгородская область,0.75,4
+prophet,scaled_by_2023_mean,0.95,Новосибирская область,0.7,40
+prophet,scaled_by_2023_mean,0.95,Омская область,0.5833333333333334,24
+prophet,scaled_by_2023_mean,0.95,Оренбургская область,0.75,8
+prophet,scaled_by_2023_mean,0.95,Орловская область,0.8333333333333334,12
+prophet,scaled_by_2023_mean,0.95,Пензенская область,0.75,20
+prophet,scaled_by_2023_mean,0.95,Пермский край,0.75,8
+prophet,scaled_by_2023_mean,0.95,Приморский край,0.6666666666666666,12
+prophet,scaled_by_2023_mean,0.95,Псковская область,0.75,8
+prophet,scaled_by_2023_mean,0.95,Республика Алтай,0.75,4
+prophet,scaled_by_2023_mean,0.95,Республика Башкортостан,0.75,24
+prophet,scaled_by_2023_mean,0.95,Республика Коми,0.5625,16
+prophet,scaled_by_2023_mean,0.95,Республика Марий Эл,0.5,4
+prophet,scaled_by_2023_mean,0.95,Республика Мордовия,0.75,12
+prophet,scaled_by_2023_mean,0.95,Республика Саха (Якутия),0.25,12
+prophet,scaled_by_2023_mean,0.95,Республика Северная Осетия — Алания,0.75,4
+prophet,scaled_by_2023_mean,0.95,Республика Татарстан,0.6875,16
+prophet,scaled_by_2023_mean,0.95,Республика Тыва,0.75,8
+prophet,scaled_by_2023_mean,0.95,Республика Хакасия,0.75,4
+prophet,scaled_by_2023_mean,0.95,Рязанская область,0.7142857142857143,28
+prophet,scaled_by_2023_mean,0.95,Самарская область,0.6875,16
+prophet,scaled_by_2023_mean,0.95,Санкт-Петербург,0.725,40
+prophet,scaled_by_2023_mean,0.95,Саратовская область,0.65,20
+prophet,scaled_by_2023_mean,0.95,Сахалинская область,0.75,12
+prophet,scaled_by_2023_mean,0.95,Свердловская область,0.7045454545454546,44
+prophet,scaled_by_2023_mean,0.95,Смоленская область,0.75,12
+prophet,scaled_by_2023_mean,0.95,Ставропольский край,0.75,20
+prophet,scaled_by_2023_mean,0.95,Тамбовская область,0.75,12
+prophet,scaled_by_2023_mean,0.95,Тверская область,0.625,8
+prophet,scaled_by_2023_mean,0.95,Томская область,0.625,16
+prophet,scaled_by_2023_mean,0.95,Тульская область,0.75,8
+prophet,scaled_by_2023_mean,0.95,Тюменская область,0.5833333333333334,12
+prophet,scaled_by_2023_mean,0.95,Удмуртская Республика,0.75,12
+prophet,scaled_by_2023_mean,0.95,Ульяновская область,0.75,16
+prophet,scaled_by_2023_mean,0.95,Хабаровский край,0.75,8
+prophet,scaled_by_2023_mean,0.95,Ханты-Мансийский автономный округ — Югра,0.5,4
+prophet,scaled_by_2023_mean,0.95,Челябинская область,0.375,8
+prophet,scaled_by_2023_mean,0.95,Чувашская Республика,0.75,8
+prophet,scaled_by_2023_mean,0.95,Чукотский автономный округ,0.75,4
+prophet,scaled_by_2023_mean,0.95,Ярославская область,0.75,12
+seasonal_pooled,absolute,0.8,Алтайский край,0.7954545454545454,44
+seasonal_pooled,absolute,0.8,Амурская область,0.5,8
+seasonal_pooled,absolute,0.8,Архангельская область,0.8125,16
+seasonal_pooled,absolute,0.8,Астраханская область,0.75,12
+seasonal_pooled,absolute,0.8,Владимирская область,0.9285714285714286,28
+seasonal_pooled,absolute,0.8,Волгоградская область,0.7916666666666666,24
+seasonal_pooled,absolute,0.8,Вологодская область,0.6875,16
+seasonal_pooled,absolute,0.8,Еврейская автономная область,0.5,4
+seasonal_pooled,absolute,0.8,Забайкальский край,0.25,4
+seasonal_pooled,absolute,0.8,Ивановская область,0.75,20
+seasonal_pooled,absolute,0.8,Иркутская область,0.55,20
+seasonal_pooled,absolute,0.8,Калининградская область,0.75,4
+seasonal_pooled,absolute,0.8,Калужская область,0.9166666666666666,12
+seasonal_pooled,absolute,0.8,Камчатский край,0.5,8
+seasonal_pooled,absolute,0.8,Кемеровская область,0.75,16
+seasonal_pooled,absolute,0.8,Кировская область,0.71875,32
+seasonal_pooled,absolute,0.8,Костромская область,0.625,16
+seasonal_pooled,absolute,0.8,Красноярский край,0.75,20
+seasonal_pooled,absolute,0.8,Курганская область,0.75,8
+seasonal_pooled,absolute,0.8,Ленинградская область,0.75,4
+seasonal_pooled,absolute,0.8,Липецкая область,0.75,12
+seasonal_pooled,absolute,0.8,Магаданская область,0.0,4
+seasonal_pooled,absolute,0.8,Москва,0.8157894736842105,76
+seasonal_pooled,absolute,0.8,Московская область,1.0,20
+seasonal_pooled,absolute,0.8,Нижегородская область,0.9166666666666666,36
+seasonal_pooled,absolute,0.8,Новгородская область,1.0,4
+seasonal_pooled,absolute,0.8,Новосибирская область,0.775,40
+seasonal_pooled,absolute,0.8,Омская область,0.5416666666666666,24
+seasonal_pooled,absolute,0.8,Оренбургская область,0.625,8
+seasonal_pooled,absolute,0.8,Орловская область,0.8333333333333334,12
+seasonal_pooled,absolute,0.8,Пензенская область,0.7,20
+seasonal_pooled,absolute,0.8,Пермский край,1.0,8
+seasonal_pooled,absolute,0.8,Приморский край,0.75,12
+seasonal_pooled,absolute,0.8,Псковская область,0.75,8
+seasonal_pooled,absolute,0.8,Республика Алтай,0.5,4
+seasonal_pooled,absolute,0.8,Республика Башкортостан,0.9583333333333334,24
+seasonal_pooled,absolute,0.8,Республика Коми,0.25,16
+seasonal_pooled,absolute,0.8,Республика Марий Эл,1.0,4
+seasonal_pooled,absolute,0.8,Республика Мордовия,1.0,12
+seasonal_pooled,absolute,0.8,Республика Саха (Якутия),0.25,12
+seasonal_pooled,absolute,0.8,Республика Северная Осетия — Алания,1.0,4
+seasonal_pooled,absolute,0.8,Республика Татарстан,0.75,16
+seasonal_pooled,absolute,0.8,Республика Тыва,0.625,8
+seasonal_pooled,absolute,0.8,Республика Хакасия,0.5,4
+seasonal_pooled,absolute,0.8,Рязанская область,0.75,28
+seasonal_pooled,absolute,0.8,Самарская область,0.8125,16
+seasonal_pooled,absolute,0.8,Санкт-Петербург,0.7,40
+seasonal_pooled,absolute,0.8,Саратовская область,0.9,20
+seasonal_pooled,absolute,0.8,Сахалинская область,0.5,12
+seasonal_pooled,absolute,0.8,Свердловская область,0.8181818181818182,44
+seasonal_pooled,absolute,0.8,Смоленская область,1.0,12
+seasonal_pooled,absolute,0.8,Ставропольский край,1.0,20
+seasonal_pooled,absolute,0.8,Тамбовская область,0.9166666666666666,12
+seasonal_pooled,absolute,0.8,Тверская область,0.375,8
+seasonal_pooled,absolute,0.8,Томская область,0.6875,16
+seasonal_pooled,absolute,0.8,Тульская область,0.5,8
+seasonal_pooled,absolute,0.8,Тюменская область,0.25,12
+seasonal_pooled,absolute,0.8,Удмуртская Республика,0.75,12
+seasonal_pooled,absolute,0.8,Ульяновская область,0.8125,16
+seasonal_pooled,absolute,0.8,Хабаровский край,0.25,8
+seasonal_pooled,absolute,0.8,Ханты-Мансийский автономный округ — Югра,0.75,4
+seasonal_pooled,absolute,0.8,Челябинская область,0.75,8
+seasonal_pooled,absolute,0.8,Чувашская Республика,0.875,8
+seasonal_pooled,absolute,0.8,Чукотский автономный округ,0.0,4
+seasonal_pooled,absolute,0.8,Ярославская область,1.0,12
+seasonal_pooled,absolute,0.95,Алтайский край,0.9772727272727273,44
+seasonal_pooled,absolute,0.95,Амурская область,0.875,8
+seasonal_pooled,absolute,0.95,Архангельская область,1.0,16
+seasonal_pooled,absolute,0.95,Астраханская область,0.9166666666666666,12
+seasonal_pooled,absolute,0.95,Владимирская область,1.0,28
+seasonal_pooled,absolute,0.95,Волгоградская область,0.9583333333333334,24
+seasonal_pooled,absolute,0.95,Вологодская область,1.0,16
+seasonal_pooled,absolute,0.95,Еврейская автономная область,1.0,4
+seasonal_pooled,absolute,0.95,Забайкальский край,0.25,4
+seasonal_pooled,absolute,0.95,Ивановская область,0.85,20
+seasonal_pooled,absolute,0.95,Иркутская область,0.85,20
+seasonal_pooled,absolute,0.95,Калининградская область,1.0,4
+seasonal_pooled,absolute,0.95,Калужская область,1.0,12
+seasonal_pooled,absolute,0.95,Камчатский край,0.625,8
+seasonal_pooled,absolute,0.95,Кемеровская область,0.875,16
+seasonal_pooled,absolute,0.95,Кировская область,0.9375,32
+seasonal_pooled,absolute,0.95,Костромская область,0.875,16
+seasonal_pooled,absolute,0.95,Красноярский край,1.0,20
+seasonal_pooled,absolute,0.95,Курганская область,0.75,8
+seasonal_pooled,absolute,0.95,Ленинградская область,1.0,4
+seasonal_pooled,absolute,0.95,Липецкая область,0.8333333333333334,12
+seasonal_pooled,absolute,0.95,Магаданская область,0.0,4
+seasonal_pooled,absolute,0.95,Москва,1.0,76
+seasonal_pooled,absolute,0.95,Московская область,1.0,20
+seasonal_pooled,absolute,0.95,Нижегородская область,1.0,36
+seasonal_pooled,absolute,0.95,Новгородская область,1.0,4
+seasonal_pooled,absolute,0.95,Новосибирская область,0.975,40
+seasonal_pooled,absolute,0.95,Омская область,0.875,24
+seasonal_pooled,absolute,0.95,Оренбургская область,0.875,8
+seasonal_pooled,absolute,0.95,Орловская область,0.9166666666666666,12
+seasonal_pooled,absolute,0.95,Пензенская область,0.95,20
+seasonal_pooled,absolute,0.95,Пермский край,1.0,8
+seasonal_pooled,absolute,0.95,Приморский край,1.0,12
+seasonal_pooled,absolute,0.95,Псковская область,1.0,8
+seasonal_pooled,absolute,0.95,Республика Алтай,0.75,4
+seasonal_pooled,absolute,0.95,Республика Башкортостан,1.0,24
+seasonal_pooled,absolute,0.95,Республика Коми,0.5625,16
+seasonal_pooled,absolute,0.95,Республика Марий Эл,1.0,4
+seasonal_pooled,absolute,0.95,Республика Мордовия,1.0,12
+seasonal_pooled,absolute,0.95,Республика Саха (Якутия),0.4166666666666667,12
+seasonal_pooled,absolute,0.95,Республика Северная Осетия — Алания,1.0,4
+seasonal_pooled,absolute,0.95,Республика Татарстан,1.0,16
+seasonal_pooled,absolute,0.95,Республика Тыва,0.875,8
+seasonal_pooled,absolute,0.95,Республика Хакасия,0.75,4
+seasonal_pooled,absolute,0.95,Рязанская область,0.8928571428571429,28
+seasonal_pooled,absolute,0.95,Самарская область,1.0,16
+seasonal_pooled,absolute,0.95,Санкт-Петербург,0.85,40
+seasonal_pooled,absolute,0.95,Саратовская область,0.95,20
+seasonal_pooled,absolute,0.95,Сахалинская область,0.75,12
+seasonal_pooled,absolute,0.95,Свердловская область,0.9545454545454546,44
+seasonal_pooled,absolute,0.95,Смоленская область,1.0,12
+seasonal_pooled,absolute,0.95,Ставропольский край,1.0,20
+seasonal_pooled,absolute,0.95,Тамбовская область,1.0,12
+seasonal_pooled,absolute,0.95,Тверская область,0.625,8
+seasonal_pooled,absolute,0.95,Томская область,1.0,16
+seasonal_pooled,absolute,0.95,Тульская область,1.0,8
+seasonal_pooled,absolute,0.95,Тюменская область,0.5,12
+seasonal_pooled,absolute,0.95,Удмуртская Республика,1.0,12
+seasonal_pooled,absolute,0.95,Ульяновская область,1.0,16
+seasonal_pooled,absolute,0.95,Хабаровский край,0.625,8
+seasonal_pooled,absolute,0.95,Ханты-Мансийский автономный округ — Югра,0.75,4
+seasonal_pooled,absolute,0.95,Челябинская область,0.875,8
+seasonal_pooled,absolute,0.95,Чувашская Республика,1.0,8
+seasonal_pooled,absolute,0.95,Чукотский автономный округ,0.0,4
+seasonal_pooled,absolute,0.95,Ярославская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Алтайский край,0.6818181818181818,44
+seasonal_pooled,scaled_by_2023_mean,0.8,Амурская область,0.5,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Архангельская область,0.875,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Астраханская область,0.5833333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Владимирская область,0.9285714285714286,28
+seasonal_pooled,scaled_by_2023_mean,0.8,Волгоградская область,0.75,24
+seasonal_pooled,scaled_by_2023_mean,0.8,Вологодская область,0.6875,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Еврейская автономная область,0.5,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Забайкальский край,0.25,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Ивановская область,0.7,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Иркутская область,0.65,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Калининградская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Калужская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Камчатский край,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Кемеровская область,0.875,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Кировская область,0.65625,32
+seasonal_pooled,scaled_by_2023_mean,0.8,Костромская область,0.625,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Красноярский край,0.7,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Курганская область,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Ленинградская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Липецкая область,0.5833333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Магаданская область,0.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Москва,1.0,76
+seasonal_pooled,scaled_by_2023_mean,0.8,Московская область,1.0,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Нижегородская область,0.8888888888888888,36
+seasonal_pooled,scaled_by_2023_mean,0.8,Новгородская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Новосибирская область,0.725,40
+seasonal_pooled,scaled_by_2023_mean,0.8,Омская область,0.4583333333333333,24
+seasonal_pooled,scaled_by_2023_mean,0.8,Оренбургская область,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Орловская область,0.5833333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Пензенская область,0.55,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Пермский край,1.0,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Приморский край,0.8333333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Псковская область,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Алтай,0.5,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Башкортостан,0.9583333333333334,24
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Коми,0.3125,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Марий Эл,0.75,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Мордовия,0.9166666666666666,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Саха (Якутия),0.4166666666666667,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Северная Осетия — Алания,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Татарстан,0.8125,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Тыва,0.5,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Республика Хакасия,0.5,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Рязанская область,0.6785714285714286,28
+seasonal_pooled,scaled_by_2023_mean,0.8,Самарская область,0.75,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Санкт-Петербург,0.875,40
+seasonal_pooled,scaled_by_2023_mean,0.8,Саратовская область,0.9,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Сахалинская область,0.75,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Свердловская область,0.8636363636363636,44
+seasonal_pooled,scaled_by_2023_mean,0.8,Смоленская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Ставропольский край,0.9,20
+seasonal_pooled,scaled_by_2023_mean,0.8,Тамбовская область,0.6666666666666666,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Тверская область,0.375,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Томская область,0.8125,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Тульская область,0.5,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Тюменская область,0.25,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Удмуртская Республика,0.75,12
+seasonal_pooled,scaled_by_2023_mean,0.8,Ульяновская область,0.75,16
+seasonal_pooled,scaled_by_2023_mean,0.8,Хабаровский край,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Ханты-Мансийский автономный округ — Югра,0.75,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Челябинская область,0.75,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Чувашская Республика,0.75,8
+seasonal_pooled,scaled_by_2023_mean,0.8,Чукотский автономный округ,0.0,4
+seasonal_pooled,scaled_by_2023_mean,0.8,Ярославская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Алтайский край,0.8863636363636364,44
+seasonal_pooled,scaled_by_2023_mean,0.95,Амурская область,0.875,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Архангельская область,1.0,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Астраханская область,0.9166666666666666,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Владимирская область,1.0,28
+seasonal_pooled,scaled_by_2023_mean,0.95,Волгоградская область,0.9166666666666666,24
+seasonal_pooled,scaled_by_2023_mean,0.95,Вологодская область,1.0,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Еврейская автономная область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Забайкальский край,0.5,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Ивановская область,0.85,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Иркутская область,0.9,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Калининградская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Калужская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Камчатский край,0.75,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Кемеровская область,1.0,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Кировская область,0.84375,32
+seasonal_pooled,scaled_by_2023_mean,0.95,Костромская область,0.6875,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Красноярский край,0.95,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Курганская область,0.75,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Ленинградская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Липецкая область,0.8333333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Магаданская область,0.25,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Москва,1.0,76
+seasonal_pooled,scaled_by_2023_mean,0.95,Московская область,1.0,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Нижегородская область,1.0,36
+seasonal_pooled,scaled_by_2023_mean,0.95,Новгородская область,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Новосибирская область,0.975,40
+seasonal_pooled,scaled_by_2023_mean,0.95,Омская область,0.7083333333333334,24
+seasonal_pooled,scaled_by_2023_mean,0.95,Оренбургская область,0.875,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Орловская область,0.8333333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Пензенская область,0.8,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Пермский край,1.0,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Приморский край,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Псковская область,0.875,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Алтай,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Башкортостан,1.0,24
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Коми,0.75,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Марий Эл,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Мордовия,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Саха (Якутия),0.5,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Северная Осетия — Алания,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Татарстан,0.9375,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Тыва,0.875,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Республика Хакасия,0.75,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Рязанская область,0.8928571428571429,28
+seasonal_pooled,scaled_by_2023_mean,0.95,Самарская область,0.9375,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Санкт-Петербург,1.0,40
+seasonal_pooled,scaled_by_2023_mean,0.95,Саратовская область,0.9,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Сахалинская область,0.8333333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Свердловская область,0.9772727272727273,44
+seasonal_pooled,scaled_by_2023_mean,0.95,Смоленская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Ставропольский край,1.0,20
+seasonal_pooled,scaled_by_2023_mean,0.95,Тамбовская область,1.0,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Тверская область,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Томская область,1.0,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Тульская область,1.0,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Тюменская область,0.5833333333333334,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Удмуртская Республика,0.9166666666666666,12
+seasonal_pooled,scaled_by_2023_mean,0.95,Ульяновская область,1.0,16
+seasonal_pooled,scaled_by_2023_mean,0.95,Хабаровский край,0.625,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Ханты-Мансийский автономный округ — Югра,1.0,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Челябинская область,0.75,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Чувашская Республика,0.875,8
+seasonal_pooled,scaled_by_2023_mean,0.95,Чукотский автономный округ,0.25,4
+seasonal_pooled,scaled_by_2023_mean,0.95,Ярославская область,1.0,12

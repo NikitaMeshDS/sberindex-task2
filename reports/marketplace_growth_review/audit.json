@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "primary_model_changed": false,
+  "independent_test": false,
+  "pairs": 60700,
+  "source_rate": 0.23,
+  "input_sha256": {
+    "tools/marketplace_growth_review.py": "7b5dccb95b1fe48b504046ee83abcb159a55070b498f21dee4aeb635adb12515",
+    "data/external/marketplace_growth_review/source.json": "d951e959d8c254e87032269019d84da169bf34b4012d042701d9445fcfa978a6",
+    "data/external/marketplace_growth_review/source.html": "f06c2f7e46651d99220835067ad74661cd5164e849da4ce16943f8cad999554e",
+    "reports/category_growth_review/full_pooled_predictions.parquet": "f409eaa05bd0cf1fb6cf129e034bf8f4816e6471a5e7542358adf9deba7ab327"
+  }
+}

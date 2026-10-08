@@ -1,0 +1,12 @@
+model,MAE_date_balanced,dates,observations
+blend_selected,854.7525415346274,11,2761
+prophet,1586.5529314813323,11,2761
+residual_hgb_categories,940.6173036676381,11,2761
+residual_hgb_own,985.626249559284,11,2761
+residual_hgb_policy,954.473279540255,11,2761
+residual_hgb_wage_snapshot,967.0216961177601,11,2761
+residual_ridge_categories,1063.719431977441,11,2761
+residual_ridge_own,1023.9752951675066,11,2761
+residual_ridge_policy,1211.1801949205224,11,2761
+residual_ridge_wage_snapshot,1136.3137971001217,11,2761
+seasonal_pooled,866.7546039110639,11,2761

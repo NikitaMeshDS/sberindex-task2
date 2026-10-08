@@ -1,0 +1,14 @@
+{
+  "models": ["prophet_disabled", "prophet_yearly3", "prophet_pooled_profile"],
+  "yearly_fourier_order": 3,
+  "yearly_period_days": 365.25,
+  "seasonality_prior_scale": 0.1,
+  "regressor_prior_scale": 0.1,
+  "seasonality_mode": "multiplicative",
+  "seed": 20261006,
+  "workers": 4,
+  "horizons": [1, 3, 6, 12],
+  "cohort": "all finite positive observations in twelve months 2023; never selected on2024",
+  "reporting_lag_assumption": 0,
+  "selection": "fixed review variants, reused2024; no tuning or winner promotion"
+}

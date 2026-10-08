@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "source_sha256_verified": 10,
+  "common_pairs": 7532,
+  "prediction_rows": 30128,
+  "summary_rows_recomputed": 16,
+  "artifacts_byte_identical_on_rerun": [
+    "summary.csv",
+    "monthly.csv",
+    "predictions.parquet",
+    "region_coverage.csv",
+    "protocol.json",
+    "REPORT.md"
+  ],
+  "dedicated_tests": 2,
+  "graph_prose_amendment": "Existingconnection2024graph explicitly identified; historical2023availability/unitunknown; all4numericartifacts unchanged on amendment rerun",
+  "unchanged_numeric_artifacts_after_graph_amendment": [
+    "summary.csv",
+    "monthly.csv",
+    "predictions.parquet",
+    "region_coverage.csv"
+  ]
+}

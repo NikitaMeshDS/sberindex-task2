@@ -1,0 +1,15 @@
+{
+  "models": ["blend_75", "seasonal_pooled", "prophet"],
+  "horizon": 1,
+  "calibration_start": "2024-07",
+  "evaluation_targets": ["2024-09", "2024-10", "2024-11", "2024-12"],
+  "levels": [0.8, 0.95],
+  "strategies": ["raw_3m", "scaled_2023_3m", "scaled_forecast_3m", "adaptive_scaled_2023_3m"],
+  "window_months": 3,
+  "gamma": 0.05,
+  "alpha_min": 0.005,
+  "alpha_max": 0.5,
+  "normalizer_floor_rub": 1.0,
+  "reporting_lag_assumption": 0,
+  "selection": "none; fixed comparison on previously studied 2024"
+}

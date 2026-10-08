@@ -1,0 +1,182 @@
+[
+  {
+    "source_id": "anapa_cleanup",
+    "url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5427428",
+    "retrieved_at_utc": "2026-10-05T11:46:25.687Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/anapa_cleanup.web.txt",
+    "sha256": "6be0e4fd517cd8cb4ae90ed693719196cf496de427ef0e6d974183d9df21e58b",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "cheboksary",
+    "url": "https://21.mchs.gov.ru/deyatelnost/press-centr/novosti/5388213",
+    "retrieved_at_utc": "2026-10-05T11:45:50.781Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/cheboksary.web.txt",
+    "sha256": "5bb8a86ff9c42d5dc806eb488ac4c91530ae94e98e1c73b984557e58b7fdf218",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "dyurso",
+    "url": "https://asc-ug.organizations.mchs.gov.ru/deyatelnost/press-centr/press-centr/4240476",
+    "retrieved_at_utc": "2026-10-05T11:45:46.046Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/dyurso.web.txt",
+    "sha256": "5231f0ab24ac60685bad3b9303de513c91c3d91a8a854694739013970545ec52",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "eao_forecast",
+    "url": "https://79.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328325",
+    "retrieved_at_utc": "2026-10-05T11:46:27.704Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/eao_forecast.web.txt",
+    "sha256": "fdaba57f7edafdb762e8d3b0681adba382fb713a3a85efdabd8a0f91a25eaf6a",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "karabash",
+    "url": "https://74.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5329681",
+    "retrieved_at_utc": "2026-10-05T11:45:42.452Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/karabash.web.txt",
+    "sha256": "fc838c55ef7333b5df5a41913e34ee7355c3d7b3e9cee8a65637166d3be5c077",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "khabarovsk_observation",
+    "url": "https://27.mchs.gov.ru/deyatelnost/press-centr/novosti/5345418",
+    "retrieved_at_utc": "2026-10-05T11:46:23.288Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/khabarovsk_observation.web.txt",
+    "sha256": "be224ef6e3909b3140af9125e66c2d4f9ca298287d32397833310b2ee7c8eaa8",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "novosib",
+    "url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328766",
+    "retrieved_at_utc": "2026-10-05T11:46:03.636Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/novosib.web.txt",
+    "sha256": "6d484523456852ea94c02cde23224351042c1d3c60ffd11f68fb47153dc9fe89",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "rostov",
+    "url": "https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5352870",
+    "retrieved_at_utc": "2026-10-05T11:45:48.408Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/rostov.web.txt",
+    "sha256": "2084eb67ffe7df349833eb8e713e7222e4efcf1e50034e1e8d6e93a3d7cb2e6f",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "segezha",
+    "url": "https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5331360",
+    "retrieved_at_utc": "2026-10-05T11:45:44.280Z",
+    "snapshot_path": "data/external/real_event_registry/snapshots/segezha.web.txt",
+    "sha256": "dc8e79a9faafb431d8443f0fc9a184d83f1d3f0956e7ef446a1b2e3621f562eb",
+    "capture_type": "web_tool_text_extraction",
+    "http_status": null,
+    "limitations": "Not raw HTML; preserves returned tool extraction including provenance and line references; extraction may be partial."
+  },
+  {
+    "source_id": "anapa_cleanup",
+    "url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5427428",
+    "retrieved_at_utc": "2026-10-05T11:48:17.011889+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/anapa_cleanup.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "cheboksary",
+    "url": "https://21.mchs.gov.ru/deyatelnost/press-centr/novosti/5388213",
+    "retrieved_at_utc": "2026-10-05T11:48:16.989748+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/cheboksary.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "dyurso",
+    "url": "https://asc-ug.organizations.mchs.gov.ru/deyatelnost/press-centr/press-centr/4240476",
+    "retrieved_at_utc": "2026-10-05T11:48:17.533078+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/dyurso.http_response.html",
+    "sha256": "2b79b00d9fe18d08984674472c62bdc4da210765c0f03a5428306941ffc33e06",
+    "capture_type": "raw_http_html",
+    "http_status": 200,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "eao_forecast",
+    "url": "https://79.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328325",
+    "retrieved_at_utc": "2026-10-05T11:48:16.992699+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/eao_forecast.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "karabash",
+    "url": "https://74.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5329681",
+    "retrieved_at_utc": "2026-10-05T11:48:16.993805+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/karabash.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "khabarovsk_observation",
+    "url": "https://27.mchs.gov.ru/deyatelnost/press-centr/novosti/5345418",
+    "retrieved_at_utc": "2026-10-05T11:48:16.992773+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/khabarovsk_observation.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "novosib",
+    "url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328766",
+    "retrieved_at_utc": "2026-10-05T11:48:17.541406+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/novosib.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "rostov",
+    "url": "https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5352870",
+    "retrieved_at_utc": "2026-10-05T11:48:17.401631+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/rostov.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  },
+  {
+    "source_id": "segezha",
+    "url": "https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5331360",
+    "retrieved_at_utc": "2026-10-05T11:48:17.640794+00:00",
+    "snapshot_path": "data/external/real_event_registry/snapshots/segezha.http_response.html",
+    "sha256": "dace2a571c147da773724738bb0b80d39c430cce12f770210d8f270e958db773",
+    "capture_type": "failed_http_response",
+    "http_status": 405,
+    "limitations": "Not source content if non-200; registry evidence uses separately preserved web-tool extraction."
+  }
+]

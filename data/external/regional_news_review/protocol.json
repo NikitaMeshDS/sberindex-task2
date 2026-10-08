@@ -1,0 +1,17 @@
+{
+  "scope": "Event-selected regional official/reliable public news, 2023-2024; retrospective sensitivity, no unseen holdout",
+  "frozen_before_new_spending_error_inspection": true,
+  "feature_window_days": 90,
+  "availability": "publication plus one day, an assumption; historical body/headline vintage is not verified",
+  "strict_vintage_mode": "exclude all new captured sources until historical vintages established",
+  "cohort": "all IDs complete in 2023, no 2024 completeness filter",
+  "training_origins": "2023-03 through 2023-11",
+  "evaluation_origins": "2024-01 through 2024-11",
+  "target": "next-month all-category log expenditure change",
+  "arms": ["without_news", "with_selected_regional_news"],
+  "model": {"max_iter": 250, "max_leaf_nodes": 31, "learning_rate": 0.05, "min_samples_leaf": 60, "l2_regularization": 2, "random_state": 20260930, "early_stopping": false},
+  "unknown": "NaN event counts when no selected evidence; source coverage unknown everywhere. No count zero asserted from non-observation.",
+  "report": "all common scored pairs, every month, early and late; no arm selection or primary model replacement",
+  "resource_limit": "OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2",
+  "limitations": ["single manual annotator", "event-selected corpus", "many publication records refer to the same episode", "regional context is not municipality exposure", "no causal spending labels", "2024 already studied", "actual expenditure publication vintages unknown"]
+}

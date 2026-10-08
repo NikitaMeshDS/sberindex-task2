@@ -1,0 +1,13 @@
+{
+  "ewma_alpha": 0.45,
+  "cusum_drift": 0.025,
+  "noise_individual_weight": 0.5,
+  "noise_floor": 0.0001,
+  "threshold_quantile": 0.99,
+  "bocpd_hazard": 0.08333333333333333,
+  "bocpd_mu": 0.0,
+  "bocpd_kappa": 1.0,
+  "bocpd_alpha": 2.0,
+  "bocpd_sigma_floor": 0.02,
+  "bocpd_mad_factor": 1.4826
+}

@@ -1,0 +1,25 @@
+{
+  "status": "awaiting_official_target_data",
+  "independent_evaluation_performed": false,
+  "metrics_computed": false,
+  "freeze_commit": "dd2c3306cc3ec1937f5f5e2c79d92c29e1aaed95",
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "configs/operational_workflow.json": "d506d790a397afdf5125912a492b3fb42ee836a70be8c447eca622a70fa4dc04",
+    "results/asof_cohort_protocol.json": "f2908d634597c96588e5a9f4651b0a6d66cfce34fc644d4dbf2a20eb7cfcdd8a",
+    "tools/operational_workflow.py": "f661f986eba9d1477ad855fb2fdf27fc761e46ee41068e8de1313957b44cd27b",
+    "tools/residual_feature_experiment.py": "90c90d7c0e42f3c235316d8863a26331944e5fb4ce4ba2f54c513f3861028d88",
+    "docs/protocols/NEXT_HOLDOUT_PROTOCOL.md": "c96edf4b9ce7724104665e2632ca7695a828f130dffdb1d10adbeceb4cafc4ad"
+  },
+  "output_sha256": {
+    "h12_lag1_release.csv": "578c1b6a265b5abeb43a4687f0f4f40da52cbf93f611c701f637973a8a6d1572",
+    "h12_frozen_predictions.csv": "4642696717d654dc27a1cb443e61f8d28a1cf57b44ef955b3a127aa5fdea633e",
+    "h12_lag2_release.csv": "15565ce67205e73dda8ed295aa92c8a472f7974b41065dd4cc37e652aea86e9d"
+  },
+  "blind_target_rows": 512,
+  "target_months": [
+    "2025-01",
+    "2025-02"
+  ],
+  "limits": "Newly computed historical simulations using candidate selected on studied2024, not forecasts actually issued2024. Target values2025 were not obtained or read. Selection timing and expenditure vintages are not proven as-of; this is not an independent operational evaluation. Complete frozen comparison methods and event evaluation remain pending data."
+}

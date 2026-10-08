@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "municipalities": 2032,
+  "categories": [
+    "Все категории",
+    "Здоровье",
+    "Маркетплейсы",
+    "Общественное питание",
+    "Продовольствие",
+    "Транспорт"
+  ],
+  "mapped_municipalities": 1789,
+  "news_items": 86,
+  "uncompressed_json_bytes": 26117531,
+  "packed_script_bytes": 5953521,
+  "lossless_gzip_roundtrip": true,
+  "independent_temporal_validation": false,
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "reports/peer_residual_review/detector_panel.parquet": "9aec397868fb411a6c02460122da3d0296796a2d6566c9ea58d11894a1ab0cb1",
+    "data/external/mchs_archive_review/historical_items.csv": "79f6d44ce6c0455817257d95e94929a15fb1aecd16ffd7b14509dba633eae114",
+    "tools/build_research_dashboard.py": "0999fd29d54dc62ecb14a9816d48834bab58f82fc51069d67850100e9c81339a",
+    "reports/category_growth_review/full_bridge_predictions.parquet": "9b8bb97e69e9ce02cb8a2c872ff218cbc848e7efcf6345b4136ac9d722ee3ce5",
+    "reports/news_event_extraction_review/expanded_batch/structured_events.csv": "742fbd45b4cfd10e0eae38fce5ea5000abf7a1356964c4ed1acca423b18eda1a",
+    "data/external/dashboard_geography/russia_outline.json": "1c6d2752cab5760de7231770d850369d32e9c8af8018ebe81bd8880d4854a568",
+    "dashboard/app.js": "4d1d3e5b830f26914cb352397f5e435853e8232485b59f6fae42218b95502043",
+    "dashboard/index.html": "031353a05c5ce4a49889fceca3cf3a1bb0503f08e1ff6cd6d74fc402e82a251f",
+    "dashboard/style.css": "1af59ca5b2739530899282914315c5f18233d5635407891e215de628592761e8"
+  },
+  "output_sha256": {
+    "dashboard/data.js": "af8f5f7b994c972e88e0681deb9e1f1bbec7427b3f224251ecdd8acf316db6fb"
+  }
+}

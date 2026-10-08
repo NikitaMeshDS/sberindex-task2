@@ -1,0 +1,14 @@
+{
+  "base_predictions": "reports/growth_bridge_review/predictions.parquet",
+  "base_model": "hierarchy05",
+  "region_weight": 0.5,
+  "horizons": [1, 3, 6, 12],
+  "fixed_diagnostic_grid": [0, 0.05, 0.074, 0.10, 0.15, 0.172, 0.20, 0.25],
+  "supplemental_asof_cpi_rate": 0.0748,
+  "source_record": "data/external/growth_sensitivity_review/sources.json",
+  "grid_fixed_before_this_computation": true,
+  "grid_defined_after_review_of_2024": true,
+  "model_selection": false,
+  "primary_model_replaced": false,
+  "reporting_lag": 0
+}

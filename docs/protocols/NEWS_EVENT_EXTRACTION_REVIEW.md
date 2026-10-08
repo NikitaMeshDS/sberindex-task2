@@ -1,0 +1,14 @@
+# Локальное извлечение новостных событий
+
+Команда: `PYTHONPATH=src ../venv/bin/python -m sberindex.external.news_event_extraction_review --llm`.
+Модель Qwen2.5-1.5B-Instruct, exact revision в конфигурации и отчёте; одна модель float16, torch threads=1, локально MPS/CPU. Исходные новости не передаются коммерческим API. Модельные веса хранятся в стандартном кеше HuggingFace, в репозиторий не включены. После первичного скачивания модель можно запускать с `HF_HUB_OFFLINE=1`.
+
+Схема: publication_date,event_date,available_from,region,municipality_id,event_type,severity,confidence,evidence_quote; дополнительное municipality_name. Промпт требует native JSON. Исходный native ответ и parsed JSON сохраняются; неподдержанные ответы отклоняются, не заменяются regex под именем LLM. publication/region авторитетны только по метаданным источника. Quote должен быть точным подстрочным совпадением в теле, тип — иметь лексическую поддержку. Модельные ID запрещены: уникальный официальный справочник региона/года, conservative fuzzy 0.92 с margin 0.08, ties abstain. При реформе ID не объединяются автоматически. Из русской даты автоматически не делается ISO-дата события, неизвестная дата остаётся null. Наивный шаблон сайта перечисляет все регионы: навигация удаляется до даты/тела новости.
+
+Pilot: первые 12 источников по имени файла сохранённого официального snapshot. Это выборочное ретроспективное исследование, полный корпус МЧС/регионов/России не собран. Согласие с прежними ручными аннотациями не является независимой или blinded оценкой. Все прогнозные фичи доступны только после publication+1 day сценария; исторический винтаж не доказан.
+
+GDELT: official DOC docs описывают поиск переведённого monitored coverage, SourceCountry относится к стране издателя, SourceLang к языку. Russia URL/location != событие каждого МО; переменная полнота и машинная геокодировка требуют проверки. DOC historical request сохранён с 429; недоступность запроса не означает нулевое число событий. Получен один архивный GKG 15-minute slice 2024-04-06, это metadata, не полный архив текстов. Полный корпус 2023/24 недоступен в данном эксперименте. Не учить отрицательную метку на отсутствующей новости.
+
+Новостная поправка расходов: отдельная fixed-rule sensitivity ±0.03 log при availability до origin. Ни знак, ни величина не выбираются по 2024; полнота 2023 не позволяет утверждать честное обучение общего news predictor.
+
+Additional translation GKG slice is captured separately; Russian language detection uses native SRCLC:rus translation metadata. Invalid UTF8 decoded with replacement is explicitly counted. Source evidence remains compressed raw-byte hashed. This is not an inferred count of events or complete coverage. Confidence null/'unknown' remains null after validation; no probability is fabricated or treated as calibrated.

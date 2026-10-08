@@ -1,0 +1,12 @@
+{
+  "model": "hierarchy05_growth_bridge",
+  "horizon": 1,
+  "min_peers": 5,
+  "geography_snapshot_year": 2024,
+  "methods": ["ewma", "spike", "cusum", "cusum_spike"],
+  "case_ids": [1673, 1665],
+  "news_published": "2024-04-06",
+  "news_available_scenario": "2024-04-07",
+  "event_onset": "2024-04-05",
+  "release_lags_months": [0, 1, 2]
+}

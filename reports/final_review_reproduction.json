@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "environment": "separately installed pinned Python environment",
+  "scope": "Recomputed two new sensitivity/peer-residual reviews; byte equality of 9 numeric CSV/parquet outputs. Prior Prophet/Chronos evidence remains cached; no new independent temporal validation.",
+  "sha256": {
+    "reports/growth_sensitivity_review/summary.csv": "ec651708cc523aeedb06f6939b74553c439d82901a2625433d4f3014c4cc22ff",
+    "reports/growth_sensitivity_review/prophet_comparators.csv": "3e8d4c00aca28857eea585079a20b768dc1f181df150c750f625b5df1b7a9745",
+    "reports/growth_sensitivity_review/predictions.parquet": "65acc1e07e0768d02ce3b701e3a2f630d4f1bf44a05d620f4e0abd6b5fb7eafe",
+    "reports/peer_residual_review/case_yoy.csv": "2cef2816d8d3a6d603de825b834c913c19f21b3fdd6e6a17ce612f04f90a3b93",
+    "reports/peer_residual_review/case_detector_months.csv": "73a029a46718455e133f21ff9892e880ef3e7463987887c2337ddf02683c20dd",
+    "reports/peer_residual_review/monitoring_burden.csv": "fd0bef15020e36ebe6dc4cda17d279f69eaf29024c8ac37f54dda11001277546",
+    "reports/peer_residual_review/news_lead_sensitivity.csv": "2ca60e33b6414ab6b6894d44b53dba6e8f09c917b4de8adf3e4c71a341a266b0",
+    "reports/peer_residual_review/residual_panel.parquet": "2c4ae47556dd997e77dc1bfdec93c534e7e24ae8478f3663d253ad47e21e99e9",
+    "reports/peer_residual_review/detector_panel.parquet": "9aec397868fb411a6c02460122da3d0296796a2d6566c9ea58d11894a1ab0cb1"
+  }
+}

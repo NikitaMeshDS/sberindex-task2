@@ -1,0 +1,13 @@
+model,horizon,MAE
+hierarchy05_adaptive_regional_growth_candidate,1,932.2962415690754
+hierarchy05_adaptive_regional_growth_candidate,3,1272.189590796623
+hierarchy05_adaptive_regional_growth_candidate,6,1370.6607094405088
+hierarchy05_adaptive_regional_growth_candidate,12,1321.2642115669785
+hierarchy05_growth_bridge,1,932.2962415690754
+hierarchy05_growth_bridge,3,1272.189590796623
+hierarchy05_growth_bridge,6,1370.6607094405088
+hierarchy05_growth_bridge,12,1321.2642115669785
+prophet_pooled_profile,1,1594.5927833865724
+prophet_pooled_profile,3,1659.498410781809
+prophet_pooled_profile,6,1916.6475154145246
+prophet_pooled_profile,12,2989.260221265519

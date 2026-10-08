@@ -1,0 +1,46 @@
+name: Research evidence checks
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'requirements-lock.txt'
+      - '.github/workflows/research-check.yml'
+permissions:
+  contents: read
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONPATH: src
+      OPENBLAS_NUM_THREADS: '1'
+      OMP_NUM_THREADS: '1'
+      MPLBACKEND: Agg
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install frozen dependencies
+        run: python -m pip install -r requirements-lock.txt
+      - name: Unit and causality regressions
+        run: python -m unittest discover -s tests -v
+      - name: Verify saved evidence
+        if: ${{ hashFiles('reports/review_evidence_manifest.json') != '' }}
+        run: python run_review.py --mode verify
+      - name: Export platform and dependency record
+        if: always()
+        run: |
+          python -m pip freeze > linux-packages.txt
+          python -c 'import platform,sys;print(platform.platform());print(sys.version)' > linux-environment.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: linux-check-record
+          path: |
+            linux-packages.txt
+            linux-environment.txt
+            run_logs/review_verification.json

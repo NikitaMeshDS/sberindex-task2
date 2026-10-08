@@ -1,0 +1,8 @@
+event_id,territory_id,municipality,region,official_name,year,matching
+real_2024_001,1600,Обь,Новосибирская область,городской округ город Обь,2024,explicit alias + unique official ID/name/region
+real_2024_002,627,Новороссийск,Краснодарский край,городской округ город Новороссийск,2024,explicit alias + unique official ID/name/region
+real_2024_003,2278,Карабашский,Челябинская область,городской округ Карабашский,2024,explicit alias + unique official ID/name/region
+real_2024_004,221,Сегежский,Республика Карелия,Сегежский муниципальный округ,2024,explicit alias + unique official ID/name/region
+real_2024_005,1798,Новочеркасск,Ростовская область,городской округ город Новочеркасск,2024,explicit alias + unique official ID/name/region
+real_2024_005,1829,Октябрьский,Ростовская область,Октябрьский муниципальный район,2024,explicit alias + unique official ID/name/region
+real_2024_006,478,Чебоксары,Чувашская Республика,городской округ город Чебоксары,2024,explicit alias + unique official ID/name/region

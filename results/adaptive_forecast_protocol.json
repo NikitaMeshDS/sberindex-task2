@@ -1,0 +1,16 @@
+{
+  "policies": [
+    "expanding",
+    "rolling_3m"
+  ],
+  "candidates": 25,
+  "selection_metric": "past one-step MAE on fixed 256 municipalities",
+  "horizons": [
+    1,
+    3,
+    6
+  ],
+  "future_perturbation_checks": 12,
+  "publication_lag_assumption": 0,
+  "limits": "Retrospective reused archive; neither policy selected by evaluation score. One-step tuning need not optimize longer horizons. Current-month observations assumed available."
+}

@@ -1,0 +1,159 @@
+{
+  "status": "passed",
+  "local_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 174,
+      "result": "OK",
+      "log_sha256": "3aa3d22af291ba7e9d287a5f8e56ff301df80e50ffc5286d68401baa6f35aba7"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 174,
+      "result": "OK",
+      "log_sha256": "5645dccbe135d8329cb480ed3104fd54733b41d1d0a1ccb4bc0e0592ec6953c6"
+    }
+  ],
+  "scope": "174 tests passed in two local pinned environments and Linux db2ad85; 858 protected files checked by Linux. No independent temporal validation.",
+  "previous_97_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 97,
+      "result": "OK",
+      "log_sha256": "29d16b1b7c74ad0a9ad8d64bd7ecb5d12a45a25986097146ba01310f3e5865ac"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 97,
+      "result": "OK",
+      "log_sha256": "fe268d4cf0db6571b9642940e5db8766ae93153fbe47d4d26f6ef18bf260fc04"
+    }
+  ],
+  "previous_109_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 109,
+      "result": "OK",
+      "log_sha256": "a6ef4df16839c11c2483bb3dbd9f80da6a717035ccdeb757c033cec367a5cddb"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 109,
+      "result": "OK",
+      "log_sha256": "0e465a34aa0805c763014f297b2813b19a0c2d9e0d6f1bbea089ee7f22e85a47"
+    }
+  ],
+  "previous_116_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 116,
+      "result": "OK",
+      "log_sha256": "0502307ffcbfec1c998db49782e66e3b5e09d10d231416b33adaff90e5adc1c0"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 116,
+      "result": "OK",
+      "log_sha256": "f44bb225ecb86c7bbbdcea187189a7e8c64212a89c474d04c909d46f3d4062b6"
+    }
+  ],
+  "linux_run": {
+    "conclusion": "success",
+    "headSha": "db2ad85a7334fa6bbb4119b6abcad313d6f22957",
+    "status": "completed",
+    "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37634888229",
+    "unit_tests": 174,
+    "unit_result": "OK",
+    "saved_evidence_files_verified": 858,
+    "artifacts": "reports/linux_ci/inference_delivery_artifacts",
+    "scope": "Pinned Linux installation, 174 tests and 858 protected files at scientific/source review commit. Subsequent updates record publication, private access choice and archive metadata; verified locally. No independent temporal validation."
+  },
+  "previous_131_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 131,
+      "result": "OK",
+      "log_sha256": "0794b6ca54c8f7c1d0938631104a397cb794c9529ad4d7e6adc97473a1310dc8"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 131,
+      "result": "OK",
+      "log_sha256": "986bdc670d479ba1adad66393b899768e93ecf3a93e6fba2d66dd15bc10dc852"
+    }
+  ],
+  "previous_linux_run": {
+    "conclusion": "success",
+    "headSha": "6776afc51fb3d6cc97dbd9b426efc3401be20f31",
+    "status": "completed",
+    "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37521416133",
+    "unit_tests": 131,
+    "unit_result": "OK",
+    "saved_evidence_files_verified": 606,
+    "artifacts": "reports/linux_ci/final_submission_artifacts",
+    "scope": "Pinned Linux installation, 131 unit/causality/regression tests and saved-file integrity. Exact scientific/source commit; no full-model retraining or independent real-shock validation."
+  },
+  "previous_140_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 140,
+      "result": "OK",
+      "log_sha256": "7eb7285a69b3abf63c05bc84329f990b230e782ba5455eead24c31b613e376fb"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 140,
+      "result": "OK",
+      "log_sha256": "8627a341d0cee7d8a4d71df19d195ee9ac5d1a85bb47e076a8fb30f2f3b91022"
+    }
+  ],
+  "previous_linux_run_140": {
+    "conclusion": "success",
+    "headSha": "cf00d9651b288e40b9db6d8d7ea3654ea921f9d7",
+    "status": "completed",
+    "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37543605954",
+    "unit_tests": 140,
+    "unit_result": "OK",
+    "saved_evidence_files_verified": 626,
+    "artifacts": "reports/linux_ci/presentation_revision_artifacts",
+    "scope": "Pinned Linux installation, 140 unit/causality/regression tests and saved-file integrity at exact source revision; no full model retraining or independent real-shock validation."
+  },
+  "previous_171_test_runs": [
+    {
+      "environment": "main pinned environment",
+      "tests": 171,
+      "result": "OK",
+      "log_sha256": "cc0f4ad00051d8f9dfb31a1eee1067df5193d5de60d2eeed8b0a4f869d5489a3"
+    },
+    {
+      "environment": "separately installed pinned environment",
+      "tests": 171,
+      "result": "OK",
+      "log_sha256": "9e0e2c758c269de22c28608e9733ff467739fad0a6725f907bbff23d051c38cf"
+    }
+  ],
+  "previous_linux_run_171": {
+    "conclusion": "success",
+    "headSha": "c9951ea2b1f2b51548b448dc4dbbdc625539e12e",
+    "status": "completed",
+    "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37627079330",
+    "unit_tests": 171,
+    "unit_result": "OK",
+    "saved_evidence_files_verified": 848,
+    "artifacts": "reports/linux_ci/expansion_artifacts",
+    "scope": "Pinned Linux installation, 171 unit/causality/regression tests and 848 saved-file integrity checks at the scientific source commit. Final presentation notes and packaging were subsequently updated and verified locally; no full retraining or independent temporal validation."
+  },
+  "latest_packaging_revision": {
+    "environment": "main pinned environment",
+    "tests": 177,
+    "result": "OK",
+    "log_sha256": "eaecc6e45955ded23848e5e1dc7d21551af686453dc0e584bbdb0242a7a8d6f3",
+    "scope": "Three new selected-model causality and eligibility tests; previous174 retained"
+  },
+  "latest_clean_clone": {
+    "tests": 177,
+    "result": "OK",
+    "protected_files": 880,
+    "log_sha256": "4144791431a6fc3e7f55a5ed3482a8909f8c937dd5a64e38ec107c51637da572"
+  }
+}

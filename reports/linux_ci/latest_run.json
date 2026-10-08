@@ -1,0 +1,11 @@
+{
+  "conclusion": "success",
+  "headSha": "db2ad85a7334fa6bbb4119b6abcad313d6f22957",
+  "status": "completed",
+  "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37634888229",
+  "unit_tests": 174,
+  "unit_result": "OK",
+  "saved_evidence_files_verified": 858,
+  "artifacts": "reports/linux_ci/inference_delivery_artifacts",
+  "scope": "Pinned Linux installation, 174 tests and 858 protected files at scientific/source review commit. Subsequent updates record publication, private access choice and archive metadata; verified locally. No independent temporal validation."
+}

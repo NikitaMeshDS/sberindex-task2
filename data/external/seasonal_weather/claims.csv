@@ -1,0 +1,15 @@
+bulletin,page,published_date,available_from,target,region_code,temperature_direction,comparison_baseline,scope,extraction
+heating_2023_2024,4,2023-09-28,2023-09-29,2023-11,3,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,4,2023-09-28,2023-09-29,2023-11,75,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,5,2023-09-28,2023-09-29,2023-12,51,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,5,2023-09-28,2023-09-29,2023-12,10,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,5,2023-09-28,2023-09-29,2023-12,87,-1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,5,2023-09-28,2023-09-29,2023-12,49,-1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2023_2024,6,2023-09-28,2023-09-29,2024-01,87,-1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,3,2024-09-30,2024-10-01,2024-11,3,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,3,2024-09-30,2024-10-01,2024-11,75,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,4,2024-09-30,2024-10-01,2024-12,3,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,4,2024-09-30,2024-10-01,2025-01,87,-1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,5,2024-09-30,2024-10-01,2025-03,14,1,climatology_1991_2020,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,3,2024-09-30,2024-10-01,2024-11,87,-1,same_month_previous_year,whole_named_region_qualitative_context,manual_single_assistant_review
+heating_2024_2025,4,2024-09-30,2024-10-01,2025-01,87,-1,same_month_previous_year,whole_named_region_qualitative_context,manual_single_assistant_review

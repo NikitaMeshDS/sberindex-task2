@@ -1,0 +1,11 @@
+{
+  "verification": "13 stdlib unittest tests pass workflow_clean_env; expanded and date-balanced diagnostic replayed in clean env; ruff check/format pass",
+  "output_sha256": {
+    "reports/news_event_extraction_review/fixed_news_forecast_diagnostic.csv": "72f36974355872862e4e48569a563218e1e5286e551632789dbe840e9d4e280d",
+    "reports/news_event_extraction_review/retrospective_support_qa.csv": "d67979836b7ebb440decb0586239b03ac9ba04d7eaf3d42fd5f95153b52fbb8c",
+    "reports/news_event_extraction_review/structured_events.csv": "9fc310b166b3db805dbbac29d6ff4837ddce6f78f4fdc2fa9341fb773ea5984a",
+    "reports/news_event_extraction_review/extraction_acceptance.png": "485d7c0dce5c2f011939feeb366b74afdad0d50b9b674eab9906a2a67695dfeb",
+    "reports/news_event_extraction_review/regex_ablation.csv": "a78138845f126e7a597bf72c0f665ee9b03c2a2df0ca5fad0a44892c786150fa",
+    "reports/news_event_extraction_review/forecast_news_availability.csv": "4e45209198d31306ebd5a5ab5fa782e087d24b47181a20a680773eb28cb95caa"
+  }
+}

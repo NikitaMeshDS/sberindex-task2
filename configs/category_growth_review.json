@@ -1,0 +1,19 @@
+{
+  "horizons": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "region_weight": 0.5,
+  "minimum_region_municipalities": 10,
+  "workers": 4,
+  "source_record": "data/external/growth_bridge_review/growth_source.json",
+  "growth_pct": 17.2,
+  "cohort": "same total-category2023-only cohort, category eligibility also2023-only",
+  "sample": "existing fixed256-ID asof cohort",
+  "full_primary_comparator": "prophet_pooled_profile",
+  "reporting_lag": 0,
+  "parameters_tuned": false,
+  "full_primary_comparator_freeze_reason": "Fixed strengthened pooled_profile comparator from previous total review, before inspecting category results"
+}

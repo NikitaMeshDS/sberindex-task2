@@ -1,0 +1,23 @@
+{
+  "research_date": "2026-10-06",
+  "claim_tested": "Payments or recovery expenditure plausibly explain higher Orsk YoY; actual payment start in May not established",
+  "causal_evidence": false,
+  "payment_start_verified": false,
+  "sources": [
+    {
+      "url": "https://pavodok.orb.ru/",
+      "publisher": "Official Orenburg regional flood information portal",
+      "web_open_status": "HTTP 403",
+      "search_index_context": "Indexed May2024 support and recovery notices; does not establish payment start or causal spending effect",
+      "primary_full_text_verified": false
+    },
+    {
+      "url": "https://government.ru/docs/52698/",
+      "publisher": "Government of Russia",
+      "web_open_status": "timeout",
+      "search_index_context": "Mirror points to Sep14 2024 federal page about indexing assistance reportedly paid in April; not relied on as verified primary evidence",
+      "primary_full_text_verified": false
+    }
+  ],
+  "interpretation": "Unverified contextual hypothesis only; no assertion of May payment start or causal relationship"
+}

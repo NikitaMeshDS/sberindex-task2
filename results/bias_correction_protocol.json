@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    "none",
+    "global_expanding",
+    "global_3m",
+    "municipal_expanding",
+    "municipal_3m"
+  ],
+  "selected": "none",
+  "validation": "February-June2024 h1; fixed original75/25 base; same early period previously used to select that base, so calibration is not independent.",
+  "evaluation": "Origins June2024 onward; previously analysed archive. No primary replacement based on late scores.",
+  "factor": "weighted median(actual/predicted), weights=predicted: minimizes past ruble absolute loss for a common positive multiplier. Clip[0.85,1.15].",
+  "local_shrinkage": "n_dates/(n_dates+3) toward global; minimum2 completed target dates. No cross-horizon transfer.",
+  "availability": "target<=origin month; zero reporting delay assumed. No future actuals may enter correction.",
+  "limitation": "Few distinct dates; clips/shrinkage/window are fixed design choices, not independently validated. h6 may lack completed historical errors."
+}

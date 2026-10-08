@@ -1,0 +1,16 @@
+territory_id,municipality,label_type,law_date,event_date,available_from,availability_status,successor,geography_equivalent,source_url,evidence_quote,source_sha256,effective_date_rule
+2593,Киевский,legal_reform_document_not_spending_shift,2024-05-08,,,exact official publication day not established from monthly gazette,Бекасово,False,https://vestnikmoscow.mos.ru/wp-content/uploads/2024/05/zhurnal-vestnik-moskvy-%E2%84%96-27.pdf,"в городе Москве (далее –  
+муниципальный округ Бекасово) путем объединения по -
+селения Киевский и части территории поселения Ново -
+федоровское;
+2) внутригородское муниципальное образование – 
+муниципальный округ Внуково в городе Москве (далее –  
+Об образова",561e37df9b701e0eab270b339880fd3605c54d67afafe4451ca336db3f07b96e,"Article9: day of official publication, exemptions apply"
+2595,Кокошкино,legal_reform_document_not_spending_shift,2024-05-08,,,exact official publication day not established from monthly gazette,Внуково,False,https://vestnikmoscow.mos.ru/wp-content/uploads/2024/05/zhurnal-vestnik-moskvy-%E2%84%96-27.pdf,"Законы города Мо с к вы
+
+5
+вновь образованный муниципальный округ Внуково) пу -
+тем объединения поселения Кокошкино, муниципально -
+го округа Внуково, части территории поселения Внуков -
+ское, части территории поселения Марушкинское и части 
+территории поселен",561e37df9b701e0eab270b339880fd3605c54d67afafe4451ca336db3f07b96e,"Article9: day of official publication, exemptions apply"

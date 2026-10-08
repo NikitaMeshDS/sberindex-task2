@@ -1,0 +1,1 @@
+{"category":"Все категории","calibration_months":["2024-01","2024-02","2024-03"],"evaluation_start":"2024-04","threshold_quantile":0.99,"cusum_drift":0.01,"min_region_peers":5,"seed":2026100705,"synthetic_sigma":0.03,"synthetic_n":400,"absence_label":"unlabeled"}

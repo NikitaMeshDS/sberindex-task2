@@ -1,0 +1,60 @@
+{
+  "training_ids": 2075,
+  "models": {
+    "hgb_frozen": {
+      "training_rows": 18675,
+      "features": 5,
+      "iterations": 109
+    },
+    "hgb_frozen_calendar": {
+      "training_rows": 18675,
+      "features": 13,
+      "iterations": 102
+    }
+  },
+  "scored_pairs_per_model": 4268,
+  "config": {
+    "random_seed": 20260930,
+    "prophet_chronos_sample_size": 256,
+    "forecast_horizons_months": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "chronos_model": "amazon/chronos-bolt-tiny",
+    "chronos_revision": "a0e552de83495b5c28c14c71c374f3e33280b340",
+    "chronos2_model": "amazon/chronos-2",
+    "chronos2_revision": "29ec3766d36d6f73f0696f85560a422f50e8498c",
+    "hgb_max_iter": 250,
+    "hgb_max_leaf_nodes": 31,
+    "hgb_learning_rate": 0.05,
+    "hgb_min_samples_leaf": 60,
+    "hgb_l2_regularization": 2,
+    "blend_candidate_seasonal_weights": [
+      0,
+      0.25,
+      0.5,
+      0.75,
+      1
+    ],
+    "shift_sizes_pct": [
+      10,
+      20
+    ],
+    "alarm_calibration_quantiles": [
+      0.95,
+      0.99
+    ],
+    "synthetic_shift_start_month": "2024-07"
+  },
+  "future_spending_in_features": false,
+  "holiday_labels": false,
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "config.json": "b2a2c1e72ba44449930fa192ed1d6b59d359fd59d4550e7cd1733bab505f39e2",
+    "results/asof_cohort_predictions.parquet": "bd1fdd6d4fb6196191e0ab96129735fa904c69b748679657a98b580a1332431e",
+    "docs/protocols/CALENDAR_EXPERIMENT.md": "f91f36cd93ee4b9642221980f715db90f6cefbe1093ea1cdcb55a93c99d0c895"
+  },
+  "limits": "Retrospective explored-2024 audit; calendar and seasonality confounded; 6m/12m each only one target date; no late selection."
+}

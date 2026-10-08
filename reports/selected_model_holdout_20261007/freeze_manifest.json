@@ -1,0 +1,43 @@
+{
+  "status": "awaiting_official_target_data",
+  "frozen_at_utc": "2026-10-07T15:16:10.164004+00:00",
+  "source_commit": "4f0b9e7e96b22c7503b57f04fe41e6fac8d41a4f",
+  "source_tree_modified": true,
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "configs/growth_bridge_review.json": "c5219bdfeca6f7775c3ecf311e610d79e3cf6e852ea8e62a8f7e702b5e759ad1",
+    "configs/selected_model_holdout.json": "e137b41cd60ebc66b7b08f369cc45617507f43eee87d7e22263fee0e37ffcced",
+    "data/external/growth_bridge_review/growth_source.json": "5ddd6d86a3b3afe567821bb401ba44a1afac1a078ac16bb6ec49ec30797f5534",
+    "src/sberindex/forecasting/hierarchical_review.py": "85826110433516887bb9e9e2c6cf0ae0607cc0f5f95cdde6853ff91641dd1528",
+    "src/sberindex/forecasting/growth_bridge_review.py": "e807c8f1d22d3269f135fd0367e3245763058fe19c9b9fd4b884fd70a845cc31",
+    "reports/selected_model_holdout_20261007/frozen_source.py": "2bdb4a9f6e57b126c67d6d3066c610f702da915df9c7505186a8cccec5f95807"
+  },
+  "output_sha256": {
+    "predictions.csv": "408a61ce471375b37344694c4daadcef1b77ffc3b10d70dc083c4ee35e9b9b17"
+  },
+  "model": "hierarchy05_growth_bridge",
+  "origin": "2024-12",
+  "horizons": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "target_months": [
+    "2025-01",
+    "2025-03",
+    "2025-06",
+    "2025-12"
+  ],
+  "rows": 8092,
+  "municipalities": 2023,
+  "fit_year": 2023,
+  "growth_rate": 0.172,
+  "target_values_read": false,
+  "metrics_computed": false,
+  "independent_evaluation_performed": false,
+  "reporting_lag_assumption_months": 0,
+  "limitations": "Computed in 2026 after repeated inspection of 2024. Not issued in 2024. Same frozen 2023 profile and 17.2% growth reused for 2025; no retuning or 2025 facts. December anchor availability assumes lag 0. Geography vintage unverified. Does not prove independent future performance.",
+  "source_capture_note": "Exact source at prediction time preserved in frozen_source.py before style-only cleanup of live module. Predictions and freeze time unchanged."
+}

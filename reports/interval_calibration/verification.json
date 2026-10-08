@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "unit_tests": 48,
+  "unit_tests_passed_in_main_and_existing_clean_environment": true,
+  "clean_environment": {
+    "prefix": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env",
+    "base_prefix": "/Users/nikitamesh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python",
+    "version": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"
+  },
+  "reproduction_directory": "/tmp",
+  "byte_identical_files": 8,
+  "compared_output_sha256": {
+    "summary.csv": "cdd527edce36cd2cb4f6713cb9f57551e3afa243a4ceef48118faf009ca2b84d",
+    "comparison.svg": "290c4209df65604892edb4e1f366e5aa6364050e0f70bcb4e433c1864008c467",
+    "audit.json": "7fd75271e399e10c0dce04869acff84718e513148b8d3869eb266230dba3b069",
+    "calibration.csv": "5c49803585e23480dc4d39c431b866a66767dc30d58d88412635b409314b9537",
+    "quartiles.csv": "042157eac9e8230f081e0d7a097b24ef2ee172c8240e2ae9ba35df04a45ba2bc",
+    "comparison.png": "b59c0212906798cd122c7584aa78c3f808be37855db5f9f06870064af5c5b2ba",
+    "predictions.parquet": "82496613978c1e48e27e420d8d191d24f5e02cd5824b96c5092f22341f714e6c",
+    "monthly.csv": "cc88d896781be4d493d877054cee6ae50360e9da2ac1416e72a25d69171c8287"
+  },
+  "interval_rows": 24576,
+  "calibration_rows": 96,
+  "summary_rows": 24,
+  "summary_and_feedback_arithmetic_independently_checked": true,
+  "finite_intervals": true,
+  "protected_tracked_files_unchanged": 318,
+  "reference_commit": "e08daeceab0b682ad2a5a8dd50aeb201d2618421",
+  "limits": "Existing clean environment reused; no full 51-stage refresh or independent temporal validation performed in this interval extension."
+}

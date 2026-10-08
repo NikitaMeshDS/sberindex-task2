@@ -1,0 +1,22 @@
+{
+  "status": "arithmetic_verified",
+  "input_sha256": {
+    "results/primary_predictions.parquet": "94a20990f6305f9c76d77ed71e49ebfee6ee3805018b1d71590f2ddb3b943ad6",
+    "results/forecast_comparison.csv": "35328e07396a20c9676438e76210cdb00afdec015b9f2edaf37dcf6384fadc87",
+    "results/bootstrap_month.csv": "e83fbac3303cecfea4dc9f409285f278400049732e34f2a67ee8a55c9260c421",
+    "results/online_interval_summary.csv": "6f1c5db8f8ce9cca1be21ad1e6f13795d81c322bdfdb18ac083d19d0a85defae",
+    "reports/operational_workflow/detector_choice.json": "86c9b3676c9cd9277c97c7ea9541d6af5d7dda5e71b3ce7a6d7d7b36713b6761"
+  },
+  "output_sha256": {
+    "monthly.csv": "85cd23496bd0e45d18a98a8b4d6c24fd691cb5a88dd48fca2857bf8f1c3fa3f9",
+    "summary.csv": "4fc0fc9b3dcb54f4fb0273e8e0ed96e2450fde509407ef245b2265d9872bc3f4",
+    "date_deletions.csv": "4e16bc4846625a47bb79d42a746c51476f41b2e0f8360cc1579c000356636f69"
+  },
+  "script_sha256": "9d56cd4b87a78176bddae32f6ffc2327cf83cb78a98ae1a15adecc16b485a08f",
+  "legacy_bootstrap_recomputed": true,
+  "models_refitted": false,
+  "significance_test_performed": false,
+  "independent_validation_performed": false,
+  "scope": "Post-selection primary window; already studied 2024; h12 is a separate HGB comparison.",
+  "limits": "Date deletions and positive-date counts are descriptive, not confidence intervals. Municipalities share calendar shocks; overlapping horizons induce temporal dependence. Existing iid-month bootstrap ignores this and model-selection uncertainty. One target at h6/h12 cannot establish time generalization."
+}

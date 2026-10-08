@@ -1,0 +1,10 @@
+{
+  "input_sha256": {
+    "reports/operational_workflow/summary.csv": "1840e981d397aa7ad4591bf8d591da0145ce6b14998e449ba1f18a5bb59313ef",
+    "tools/plot_operational_workflow.py": "4aa31e5a8bb0697d27e021dd5593a273f120fa1967a302eb25bed79462ca196f"
+  },
+  "output_sha256": {
+    "delayed_comparison.png": "1bdf47dbcb6b3608d85c4b7722618d15f481d7012d03efe23ed559a2c7262198",
+    "delayed_comparison.svg": "6d25800a90b4e86f4a040c3c024d6f01e343c168b5a281a80cc99ec0d6cef65e"
+  }
+}

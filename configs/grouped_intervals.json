@@ -1,0 +1,9 @@
+{
+  "base_config": "configs/interval_calibration.json",
+  "strategies": ["raw_3m", "scaled_forecast_3m"],
+  "groups": 4,
+  "group_basis": "mean_2023_expense_in_fixed_evaluated_cohort",
+  "scopes": ["global", "quartile"],
+  "selection": "none; descriptive comparison; no parameter search",
+  "reporting_lag_assumption": 0
+}

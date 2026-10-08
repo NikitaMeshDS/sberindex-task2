@@ -1,0 +1,13 @@
+torch==2.4.1
+timesfm==2.0.2
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+gluonts==0.14.4
+lightning==2.6.6
+huggingface_hub==2.1.1
+einops==0.7.0
+jaxtyping==0.2.38
+pytest==9.1.1
+uni2ts @ git+https://github.com/SalesforceAIResearch/uni2ts.git@cfd46d4510ed8896f263116f32928eede05b0a75
+tirex-ts @ git+https://github.com/NX-AI/tirex.git@8ea6c564f68460e1e45a6e7917c9c3c3b40d6d31

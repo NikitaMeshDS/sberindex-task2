@@ -1,0 +1,17 @@
+model,stage,origin,seconds,municipalities,prediction_length
+chronos_bolt_tiny,load,,0.10902429199995822,0,0
+chronos_2,load,,0.07942724999975326,0,0
+chronos_bolt_tiny,inference,2023-12,0.10246462499981135,256,12
+chronos_2,inference,2023-12,1.267941707999853,256,12
+chronos_bolt_tiny,inference,2024-06,0.03954845799944451,251,6
+chronos_2,inference,2024-06,0.5079877500002112,251,6
+chronos_bolt_tiny,inference,2024-07,0.04074591700009478,251,3
+chronos_2,inference,2024-07,0.4897555419993296,251,3
+chronos_bolt_tiny,inference,2024-08,0.04000174999964656,251,3
+chronos_2,inference,2024-08,0.46414745899983245,251,3
+chronos_bolt_tiny,inference,2024-09,0.036889833999339317,251,3
+chronos_2,inference,2024-09,0.48927037500016013,251,3
+chronos_bolt_tiny,inference,2024-10,0.03986095799973555,251,1
+chronos_2,inference,2024-10,0.4846958749994883,251,1
+chronos_bolt_tiny,inference,2024-11,0.0392975419999857,251,1
+chronos_2,inference,2024-11,0.45761379199939256,251,1

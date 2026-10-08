@@ -1,0 +1,7 @@
+{
+  "url": "https://sberindex.ru/api/researches/v1/data-sense-opisanie-nabora-dannikh-khakatona-sberindeksa-po-munitsipalnim-dannim",
+  "tls_verification": true,
+  "ca_bundle": "certifi",
+  "retrieved_at": "2026-10-05T20:00:11.951164+00:00",
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+}

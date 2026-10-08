@@ -1,0 +1,14 @@
+{
+ "category": "Все категории",
+ "covariate_categories": ["Здоровье", "Маркетплейсы", "Общественное питание", "Продовольствие", "Транспорт"],
+ "horizons": [1, 3, 6, 12],
+ "first_training_origin_index": 2,
+ "minimum_training_rows": 200,
+ "variants": ["direct_lags", "direct_context"],
+ "clip_log_growth": 1.0,
+ "model": {"max_iter": 150, "max_leaf_nodes": 15, "learning_rate": 0.05, "min_samples_leaf": 60, "l2_regularization": 2, "early_stopping": false, "random_state": 20260930},
+ "threads": 2,
+ "reporting_lag": 0,
+ "select_winner": false,
+ "geography_year_label": 2023
+}

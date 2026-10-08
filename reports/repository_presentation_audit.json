@@ -1,0 +1,20 @@
+{
+  "scope": "Repository documentation and presentation only; no numerical rerun required",
+  "base_commit": "ffd15ac13ac7a4f95e2c787e063c99d395cf3248",
+  "documents_checked": [
+    "README.md",
+    ".github/CONTRIBUTING.md",
+    "docs/README.md",
+    "docs/GETTING_STARTED.md",
+    "docs/CONFIGURATION.md",
+    "docs/COMPETITION.md",
+    "docs/STATUS.md",
+    "docs/DATA_USAGE.md"
+  ],
+  "local_links_checked": 111,
+  "broken_links": [],
+  "protected_files_unchanged": 491,
+  "svg_xml_valid": true,
+  "svg_visual_preview": "Quick Look followed by local Markdown browser screenshot; header/nav inspected without clipping",
+  "limits": "Local links and evidence checked; no claim new model run, new independent data or complete GitHub renderer visual QA."
+}

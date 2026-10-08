@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "calibration_period": "2024-01..2024-03",
+  "monitoring_period": "2024-04..2024-12",
+  "pre2024_yoy_available": false,
+  "calibration_independent": false,
+  "calibration_description": "retrospective monitoring-budget calibration after cases were previously seen; quantile computed on entire panel without named-case fitting",
+  "thresholds": {
+    "cusum": 0.0995828424241218,
+    "ewma": 0.04068406954890787
+  },
+  "regions": 77,
+  "eligible_municipalities": 2035,
+  "absence_label": "unlabeled",
+  "real_false_alarm_rate": null,
+  "real_shock_prediction_proven": false,
+  "reform_ids": [
+    2593,
+    2595
+  ],
+  "flood_ids": [
+    638,
+    647,
+    652,
+    780,
+    785,
+    803,
+    1333,
+    1665,
+    1673,
+    1687,
+    2195,
+    2812
+  ],
+  "geography": "2024 snapshot, IDs preserved; no equivalence across reforms assumed"
+}

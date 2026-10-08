@@ -1,0 +1,8 @@
+{
+  "clean_environment_recomputation": true,
+  "draws": 2500,
+  "rows_verified": 24,
+  "point_and_interval_tolerance": 1e-12,
+  "input_sha256_match": true,
+  "tests_both_environments": 9
+}

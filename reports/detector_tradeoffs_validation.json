@@ -1,0 +1,9 @@
+{
+  "base_commit": "71aeb430c25ded38c2c1a5aae2fa8e800d0364e0",
+  "protected_files_byte_identical": 490,
+  "relative_links_checked": 92,
+  "pairwise_pareto_rows_checked": 180,
+  "scope": "Standalone descriptive appendix; primary calculations and independent holdout protocol unchanged. No full refresh needed because source pipeline, settings, tests and results are byte-identical.",
+  "different_working_directory_byte_identical_files": 6,
+  "visual_review": "Three panels inspected; labels and legend readable."
+}

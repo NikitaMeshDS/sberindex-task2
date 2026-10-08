@@ -1,0 +1,17 @@
+model,horizon,MAE
+hierarchy05,1,399.75912267204353
+hierarchy05,3,632.6290088140701
+hierarchy05,6,933.686294262467
+hierarchy05,12,2000.7142857142858
+hierarchy05_akit23_diagnostic,1,358.81092715705313
+hierarchy05_akit23_diagnostic,3,570.4401572537421
+hierarchy05_akit23_diagnostic,6,847.4786055876674
+hierarchy05_akit23_diagnostic,12,929.7860454770145
+hierarchy05_growth_bridge,1,369.0507789292928
+hierarchy05_growth_bridge,3,586.0525532724007
+hierarchy05_growth_bridge,6,869.1562438332228
+hierarchy05_growth_bridge,12,1186.1715729115178
+prophet_pooled_profile,1,373.5810870548012
+prophet_pooled_profile,3,434.9686360661182
+prophet_pooled_profile,6,586.8480798408939
+prophet_pooled_profile,12,752.5333124190131

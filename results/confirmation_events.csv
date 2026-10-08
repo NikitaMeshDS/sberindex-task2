@@ -1,0 +1,269 @@
+category,level,unit,event,date
+Все категории,local,316,trigger,2024-09
+Все категории,local,316,confirmation,2024-11
+Все категории,local,329,trigger,2024-12
+Все категории,local,331,trigger,2024-12
+Все категории,local,335,trigger,2024-09
+Все категории,local,335,confirmation,2024-11
+Все категории,local,336,trigger,2024-12
+Все категории,local,340,trigger,2024-11
+Все категории,local,614,trigger,2024-07
+Все категории,local,614,rejection,2024-08
+Все категории,local,619,trigger,2024-11
+Все категории,local,619,rejection,2024-12
+Все категории,local,1152,trigger,2024-09
+Все категории,local,1152,rejection,2024-10
+Все категории,local,2079,trigger,2024-10
+Все категории,local,2079,rejection,2024-11
+Все категории,regional,28,trigger,2024-09
+Все категории,regional,28,confirmation,2024-11
+Все категории,regional,55,trigger,2024-09
+Все категории,regional,55,trigger,2024-11
+Все категории,regional,55,rejection,2024-10
+Все категории,regional,55,rejection,2024-12
+Все категории,regional,72,trigger,2024-10
+Все категории,regional,72,rejection,2024-11
+Все категории,regional,75,trigger,2024-12
+Все категории,regional,89,trigger,2024-07
+Все категории,regional,89,trigger,2024-09
+Все категории,regional,89,confirmation,2024-11
+Все категории,regional,89,rejection,2024-08
+Здоровье,local,316,trigger,2024-07
+Здоровье,local,316,rejection,2024-09
+Здоровье,local,332,trigger,2024-09
+Здоровье,local,332,confirmation,2024-11
+Здоровье,local,334,trigger,2024-07
+Здоровье,local,334,rejection,2024-08
+Здоровье,local,335,trigger,2024-07
+Здоровье,local,335,rejection,2024-09
+Здоровье,local,340,trigger,2024-12
+Здоровье,local,341,trigger,2024-07
+Здоровье,local,341,rejection,2024-09
+Здоровье,local,363,trigger,2024-09
+Здоровье,local,363,rejection,2024-10
+Здоровье,local,365,trigger,2024-12
+Здоровье,local,372,trigger,2024-09
+Здоровье,local,372,confirmation,2024-11
+Здоровье,local,376,trigger,2024-07
+Здоровье,local,376,rejection,2024-08
+Здоровье,local,402,trigger,2024-12
+Здоровье,local,408,trigger,2024-11
+Здоровье,local,408,rejection,2024-12
+Здоровье,local,615,trigger,2024-10
+Здоровье,local,615,confirmation,2024-12
+Здоровье,local,618,trigger,2024-07
+Здоровье,local,618,confirmation,2024-09
+Здоровье,local,621,trigger,2024-07
+Здоровье,local,621,rejection,2024-08
+Здоровье,local,855,trigger,2024-09
+Здоровье,local,855,rejection,2024-10
+Здоровье,local,1122,trigger,2024-07
+Здоровье,local,1122,trigger,2024-09
+Здоровье,local,1122,trigger,2024-11
+Здоровье,local,1122,rejection,2024-08
+Здоровье,local,1122,rejection,2024-10
+Здоровье,local,1124,trigger,2024-11
+Здоровье,local,1124,rejection,2024-12
+Здоровье,local,1152,trigger,2024-11
+Здоровье,local,1152,rejection,2024-12
+Здоровье,local,1579,trigger,2024-11
+Здоровье,local,1579,rejection,2024-12
+Здоровье,local,1718,trigger,2024-09
+Здоровье,local,1718,rejection,2024-11
+Здоровье,local,2130,trigger,2024-09
+Здоровье,local,2130,trigger,2024-12
+Здоровье,local,2130,rejection,2024-10
+Здоровье,local,2145,trigger,2024-07
+Здоровье,local,2145,rejection,2024-08
+Здоровье,local,2244,trigger,2024-07
+Здоровье,local,2244,rejection,2024-08
+Здоровье,local,2249,trigger,2024-07
+Здоровье,local,2249,rejection,2024-09
+Здоровье,local,2250,trigger,2024-09
+Здоровье,local,2250,confirmation,2024-11
+Здоровье,local,2348,trigger,2024-11
+Здоровье,regional,12,trigger,2024-09
+Здоровье,regional,12,confirmation,2024-11
+Здоровье,regional,14,trigger,2024-07
+Здоровье,regional,14,rejection,2024-09
+Здоровье,regional,17,trigger,2024-11
+Здоровье,regional,17,rejection,2024-12
+Здоровье,regional,18,trigger,2024-09
+Здоровье,regional,18,confirmation,2024-11
+Здоровье,regional,24,trigger,2024-09
+Здоровье,regional,24,rejection,2024-11
+Здоровье,regional,25,trigger,2024-08
+Здоровье,regional,25,rejection,2024-09
+Здоровье,regional,27,trigger,2024-07
+Здоровье,regional,27,trigger,2024-11
+Здоровье,regional,27,rejection,2024-09
+Здоровье,regional,37,trigger,2024-09
+Здоровье,regional,37,trigger,2024-12
+Здоровье,regional,37,rejection,2024-11
+Здоровье,regional,40,trigger,2024-08
+Здоровье,regional,40,trigger,2024-11
+Здоровье,regional,40,rejection,2024-09
+Здоровье,regional,52,trigger,2024-09
+Здоровье,regional,52,confirmation,2024-11
+Здоровье,regional,56,trigger,2024-09
+Здоровье,regional,56,rejection,2024-11
+Здоровье,regional,57,trigger,2024-08
+Здоровье,regional,57,trigger,2024-11
+Здоровье,regional,57,rejection,2024-09
+Здоровье,regional,58,trigger,2024-08
+Здоровье,regional,58,rejection,2024-09
+Здоровье,regional,59,trigger,2024-09
+Здоровье,regional,59,rejection,2024-11
+Здоровье,regional,62,trigger,2024-08
+Здоровье,regional,62,rejection,2024-09
+Здоровье,regional,63,trigger,2024-07
+Здоровье,regional,63,trigger,2024-09
+Здоровье,regional,63,confirmation,2024-11
+Здоровье,regional,63,rejection,2024-08
+Здоровье,regional,64,trigger,2024-09
+Здоровье,regional,64,rejection,2024-11
+Здоровье,regional,67,trigger,2024-07
+Здоровье,regional,67,trigger,2024-11
+Здоровье,regional,67,rejection,2024-09
+Здоровье,regional,68,trigger,2024-07
+Здоровье,regional,68,trigger,2024-12
+Здоровье,regional,68,rejection,2024-08
+Здоровье,regional,70,trigger,2024-11
+Здоровье,regional,70,rejection,2024-12
+Здоровье,regional,73,trigger,2024-08
+Здоровье,regional,73,rejection,2024-09
+Здоровье,regional,89,trigger,2024-07
+Здоровье,regional,89,rejection,2024-08
+Общественное питание,local,699,trigger,2024-12
+Общественное питание,local,1060,trigger,2024-08
+Общественное питание,local,1060,rejection,2024-09
+Общественное питание,local,1339,trigger,2024-12
+Общественное питание,local,1425,trigger,2024-11
+Общественное питание,local,1425,rejection,2024-12
+Общественное питание,local,1568,trigger,2024-12
+Общественное питание,local,1579,trigger,2024-07
+Общественное питание,local,1579,rejection,2024-08
+Общественное питание,local,1741,trigger,2024-11
+Общественное питание,local,1984,trigger,2024-09
+Общественное питание,local,1984,rejection,2024-10
+Общественное питание,national,panel,trigger,2024-09
+Общественное питание,national,panel,rejection,2024-10
+Общественное питание,regional,4,trigger,2024-10
+Общественное питание,regional,4,rejection,2024-11
+Общественное питание,regional,10,trigger,2024-09
+Общественное питание,regional,10,trigger,2024-12
+Общественное питание,regional,10,rejection,2024-10
+Общественное питание,regional,19,trigger,2024-07
+Общественное питание,regional,19,trigger,2024-10
+Общественное питание,regional,19,confirmation,2024-09
+Общественное питание,regional,19,rejection,2024-11
+Общественное питание,regional,26,trigger,2024-09
+Общественное питание,regional,26,rejection,2024-10
+Общественное питание,regional,34,trigger,2024-09
+Общественное питание,regional,34,rejection,2024-10
+Общественное питание,regional,40,trigger,2024-09
+Общественное питание,regional,40,confirmation,2024-11
+Общественное питание,regional,58,trigger,2024-11
+Общественное питание,regional,62,trigger,2024-07
+Общественное питание,regional,62,rejection,2024-08
+Общественное питание,regional,64,trigger,2024-11
+Общественное питание,regional,64,rejection,2024-12
+Общественное питание,regional,66,trigger,2024-07
+Общественное питание,regional,66,trigger,2024-09
+Общественное питание,regional,66,trigger,2024-11
+Общественное питание,regional,66,rejection,2024-08
+Общественное питание,regional,66,rejection,2024-10
+Общественное питание,regional,66,rejection,2024-12
+Общественное питание,regional,68,trigger,2024-09
+Общественное питание,regional,68,rejection,2024-10
+Общественное питание,regional,70,trigger,2024-07
+Общественное питание,regional,70,rejection,2024-09
+Общественное питание,regional,73,trigger,2024-11
+Общественное питание,regional,73,rejection,2024-12
+Общественное питание,regional,89,trigger,2024-07
+Общественное питание,regional,89,trigger,2024-09
+Общественное питание,regional,89,trigger,2024-12
+Общественное питание,regional,89,confirmation,2024-11
+Общественное питание,regional,89,rejection,2024-08
+Продовольствие,local,72,trigger,2024-08
+Продовольствие,local,72,rejection,2024-09
+Продовольствие,local,185,trigger,2024-11
+Продовольствие,local,331,trigger,2024-12
+Продовольствие,local,401,trigger,2024-11
+Продовольствие,local,401,rejection,2024-12
+Продовольствие,local,408,trigger,2024-08
+Продовольствие,local,408,confirmation,2024-10
+Продовольствие,local,602,trigger,2024-11
+Продовольствие,local,602,rejection,2024-12
+Продовольствие,local,1118,trigger,2024-08
+Продовольствие,local,1118,confirmation,2024-10
+Продовольствие,local,1305,trigger,2024-11
+Продовольствие,local,1730,trigger,2024-11
+Продовольствие,local,1730,rejection,2024-12
+Продовольствие,regional,13,trigger,2024-08
+Продовольствие,regional,13,confirmation,2024-10
+Продовольствие,regional,22,trigger,2024-08
+Продовольствие,regional,22,rejection,2024-10
+Продовольствие,regional,24,trigger,2024-08
+Продовольствие,regional,24,confirmation,2024-10
+Продовольствие,regional,55,trigger,2024-09
+Продовольствие,regional,55,trigger,2024-11
+Продовольствие,regional,55,rejection,2024-10
+Продовольствие,regional,58,trigger,2024-09
+Продовольствие,regional,58,trigger,2024-11
+Продовольствие,regional,58,rejection,2024-10
+Транспорт,local,316,trigger,2024-09
+Транспорт,local,316,confirmation,2024-11
+Транспорт,local,340,trigger,2024-12
+Транспорт,local,618,trigger,2024-11
+Транспорт,local,618,rejection,2024-12
+Транспорт,local,621,trigger,2024-09
+Транспорт,local,621,rejection,2024-10
+Транспорт,local,1128,trigger,2024-12
+Транспорт,local,1431,trigger,2024-08
+Транспорт,local,1431,rejection,2024-09
+Транспорт,local,1746,trigger,2024-09
+Транспорт,local,1746,rejection,2024-10
+Транспорт,local,2145,trigger,2024-07
+Транспорт,local,2145,trigger,2024-12
+Транспорт,local,2145,confirmation,2024-09
+Транспорт,local,2250,trigger,2024-09
+Транспорт,local,2250,confirmation,2024-11
+Транспорт,regional,16,trigger,2024-11
+Транспорт,regional,16,rejection,2024-12
+Транспорт,regional,17,trigger,2024-07
+Транспорт,regional,17,trigger,2024-10
+Транспорт,regional,17,trigger,2024-12
+Транспорт,regional,17,rejection,2024-09
+Транспорт,regional,17,rejection,2024-11
+Транспорт,regional,18,trigger,2024-10
+Транспорт,regional,18,rejection,2024-11
+Транспорт,regional,24,trigger,2024-07
+Транспорт,regional,24,trigger,2024-09
+Транспорт,regional,24,rejection,2024-08
+Транспорт,regional,24,rejection,2024-11
+Транспорт,regional,25,trigger,2024-10
+Транспорт,regional,25,confirmation,2024-12
+Транспорт,regional,28,trigger,2024-11
+Транспорт,regional,28,rejection,2024-12
+Транспорт,regional,35,trigger,2024-11
+Транспорт,regional,39,trigger,2024-10
+Транспорт,regional,39,confirmation,2024-12
+Транспорт,regional,43,trigger,2024-11
+Транспорт,regional,43,rejection,2024-12
+Транспорт,regional,45,trigger,2024-08
+Транспорт,regional,45,rejection,2024-09
+Транспорт,regional,53,trigger,2024-09
+Транспорт,regional,53,trigger,2024-12
+Транспорт,regional,53,confirmation,2024-11
+Транспорт,regional,54,trigger,2024-09
+Транспорт,regional,54,confirmation,2024-11
+Транспорт,regional,57,trigger,2024-08
+Транспорт,regional,57,rejection,2024-10
+Транспорт,regional,76,trigger,2024-07
+Транспорт,regional,76,confirmation,2024-09
+Транспорт,regional,86,trigger,2024-12
+Транспорт,regional,89,trigger,2024-07
+Транспорт,regional,89,trigger,2024-09
+Транспорт,regional,89,confirmation,2024-11
+Транспорт,regional,89,rejection,2024-08

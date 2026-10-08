@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "actual_experiment_repeat": true,
+  "byte_identical": {
+    "predictions.parquet": true,
+    "summary.csv": true,
+    "monthly.csv": true,
+    "wrap_bias.csv": true,
+    "late_summary.csv": true,
+    "selection.json": true
+  },
+  "meaning": "Same frozen inputs and rule; not independent temporal validation"
+}

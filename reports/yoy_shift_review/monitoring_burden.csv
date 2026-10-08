@@ -1,0 +1,3 @@
+method,threshold,monitoring_months,active_months,active_per100,municipalities_with_alert,real_false_alarm_rate
+cusum,0.0995828424241218,18201,8819,48.453381682325144,1519,
+ewma,0.04068406954890787,18201,6656,36.569419262677876,1287,

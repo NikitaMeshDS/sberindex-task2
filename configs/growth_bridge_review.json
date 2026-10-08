@@ -1,0 +1,12 @@
+{
+  "category": "Все категории",
+  "fit_year": 2023,
+  "region_weight": 0.5,
+  "minimum_region_municipalities": 10,
+  "horizons": [1, 3, 6, 12],
+  "source_record": "data/external/growth_bridge_review/growth_source.json",
+  "growth_policy": "freeze_latest_documented_national_monthly_wage_yoy_available_at_2023_12_end",
+  "growth_transfer_elasticity": 1.0,
+  "primary_model_replaced": false,
+  "reporting_lag": 0
+}

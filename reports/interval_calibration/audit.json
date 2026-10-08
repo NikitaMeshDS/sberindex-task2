@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "baseline_matches_previous": true,
+  "point_predictions_and_targets_unchanged": true,
+  "calibration_strictly_past": true,
+  "models_refitted": false,
+  "independent_validation": false,
+  "coverage_guarantee": false,
+  "selection": "none",
+  "reporting_lag": 0,
+  "input_sha256": {
+    "results/primary_predictions.parquet": "94a20990f6305f9c76d77ed71e49ebfee6ee3805018b1d71590f2ddb3b943ad6",
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/online_interval_summary.csv": "6f1c5db8f8ce9cca1be21ad1e6f13795d81c322bdfdb18ac083d19d0a85defae",
+    "configs/interval_calibration.json": "bfa1ae54d78a683d4dfe18eb3d003acaf3f386062bd10dec4ace22e9cb01f955",
+    "src/sberindex/forecasting/interval_calibration.py": "798ce9356c25314fa9708f541b530d04f3dd953833b2f51b373c492e4fa5587f",
+    "src/sberindex/forecasting/operational_audit.py": "5da000c93f9da3b5600e9fce4af2171898ae5b21501962d9e9faf9f4173807da",
+    "data/provenance/prose_cleanup_followup/docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md": "2fe9155e9905a3a0592c35304906f415fbad280d79fa444f76f940acee37a0c3"
+  },
+  "output_sha256": {
+    "predictions.parquet": "82496613978c1e48e27e420d8d191d24f5e02cd5824b96c5092f22341f714e6c",
+    "calibration.csv": "5c49803585e23480dc4d39c431b866a66767dc30d58d88412635b409314b9537",
+    "monthly.csv": "cc88d896781be4d493d877054cee6ae50360e9da2ac1416e72a25d69171c8287",
+    "summary.csv": "cdd527edce36cd2cb4f6713cb9f57551e3afa243a4ceef48118faf009ca2b84d",
+    "quartiles.csv": "042157eac9e8230f081e0d7a097b24ef2ee172c8240e2ae9ba35df04a45ba2bc",
+    "comparison.png": "b59c0212906798cd122c7584aa78c3f808be37855db5f9f06870064af5c5b2ba",
+    "comparison.svg": "290c4209df65604892edb4e1f366e5aa6364050e0f70bcb4e433c1864008c467"
+  },
+  "limits": "Four studied target months; normalized pooled scores and panel-average clipped adaptation are heuristics. No ACI theorem asserted; actual expenditure publication vintages unknown.",
+  "input_provenance_relocations": [
+    {
+      "original_path_at_execution": "docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "sha256": "2fe9155e9905a3a0592c35304906f415fbad280d79fa444f76f940acee37a0c3",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    }
+  ]
+}

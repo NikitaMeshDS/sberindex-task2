@@ -1,0 +1,34 @@
+{
+  "selected_method": "spike",
+  "status": "selected",
+  "requirements": {
+    "category": "Все категории",
+    "scaling": "regularized_noise",
+    "reporting_delay_months": 1,
+    "shape": "step",
+    "deadline_months": 3,
+    "max_burden_per100": 2.0,
+    "minimum_detection": 0.5,
+    "selection_seeds": [
+      20261001,
+      20261002,
+      20261003,
+      20261004,
+      20261005
+    ],
+    "evaluation_seeds": [
+      20261006,
+      20261007,
+      20261008,
+      20261009,
+      20261010
+    ]
+  },
+  "evaluation_used_for_selection": false,
+  "limits": "Exploratory split of synthetic assignments on already studied2024 months and same municipalities. Not independent time/event validation. Budget/deadline engineering assumptions; original alarms are not proven false positives.",
+  "separate_assignment_evaluation": {
+    "minimum_detection": 0.7126104745451013,
+    "maximum_burden": 1.6141044762102816
+  },
+  "evaluation_meets_requirements": true
+}

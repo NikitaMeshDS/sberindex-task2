@@ -1,0 +1,145 @@
+category,model,level,method,units,alarm_rate,mean_alarm_months
+Все категории,adaptive_1m,local,spike,2016,0.00496031746031746,0.00496031746031746
+Все категории,adaptive_1m,local,rolling_3m,2016,0.000496031746031746,0.000496031746031746
+Все категории,adaptive_1m,local,ewma,2016,0.003968253968253968,0.003968253968253968
+Все категории,adaptive_1m,local,cusum,2016,0.006944444444444444,0.007936507936507936
+Все категории,adaptive_1m,national,spike,1,0.0,0.0
+Все категории,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Все категории,adaptive_1m,national,ewma,1,0.0,0.0
+Все категории,adaptive_1m,national,cusum,1,0.0,0.0
+Все категории,adaptive_1m,regional,spike,63,0.031746031746031744,0.047619047619047616
+Все категории,adaptive_1m,regional,rolling_3m,63,0.0,0.0
+Все категории,adaptive_1m,regional,ewma,63,0.0,0.0
+Все категории,adaptive_1m,regional,cusum,63,0.015873015873015872,0.015873015873015872
+Все категории,frozen_6m,local,spike,2016,0.0,0.0
+Все категории,frozen_6m,local,rolling_3m,2016,0.0,0.0
+Все категории,frozen_6m,local,ewma,2016,0.0,0.0
+Все категории,frozen_6m,local,cusum,2016,0.0,0.0
+Все категории,frozen_6m,national,spike,1,0.0,0.0
+Все категории,frozen_6m,national,rolling_3m,1,0.0,0.0
+Все категории,frozen_6m,national,ewma,1,0.0,0.0
+Все категории,frozen_6m,national,cusum,1,0.0,0.0
+Все категории,frozen_6m,regional,spike,63,0.015873015873015872,0.015873015873015872
+Все категории,frozen_6m,regional,rolling_3m,63,0.015873015873015872,0.031746031746031744
+Все категории,frozen_6m,regional,ewma,63,0.015873015873015872,0.015873015873015872
+Все категории,frozen_6m,regional,cusum,63,0.015873015873015872,0.031746031746031744
+Здоровье,adaptive_1m,local,spike,2016,0.013392857142857142,0.017361111111111112
+Здоровье,adaptive_1m,local,rolling_3m,2016,0.010912698412698412,0.011904761904761904
+Здоровье,adaptive_1m,local,ewma,2016,0.013888888888888888,0.017857142857142856
+Здоровье,adaptive_1m,local,cusum,2016,0.017361111111111112,0.040674603174603176
+Здоровье,adaptive_1m,national,spike,1,0.0,0.0
+Здоровье,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Здоровье,adaptive_1m,national,ewma,1,0.0,0.0
+Здоровье,adaptive_1m,national,cusum,1,0.0,0.0
+Здоровье,adaptive_1m,regional,spike,63,0.1746031746031746,0.25396825396825395
+Здоровье,adaptive_1m,regional,rolling_3m,63,0.15873015873015872,0.25396825396825395
+Здоровье,adaptive_1m,regional,ewma,63,0.06349206349206349,0.07936507936507936
+Здоровье,adaptive_1m,regional,cusum,63,0.2222222222222222,0.47619047619047616
+Здоровье,frozen_6m,local,spike,2016,0.011408730158730158,0.018353174603174604
+Здоровье,frozen_6m,local,rolling_3m,2016,0.008928571428571428,0.020833333333333332
+Здоровье,frozen_6m,local,ewma,2016,0.006944444444444444,0.013888888888888888
+Здоровье,frozen_6m,local,cusum,2016,0.003968253968253968,0.007936507936507936
+Здоровье,frozen_6m,national,spike,1,0.0,0.0
+Здоровье,frozen_6m,national,rolling_3m,1,0.0,0.0
+Здоровье,frozen_6m,national,ewma,1,0.0,0.0
+Здоровье,frozen_6m,national,cusum,1,0.0,0.0
+Здоровье,frozen_6m,regional,spike,63,0.2222222222222222,0.2857142857142857
+Здоровье,frozen_6m,regional,rolling_3m,63,0.14285714285714285,0.2857142857142857
+Здоровье,frozen_6m,regional,ewma,63,0.1111111111111111,0.2222222222222222
+Здоровье,frozen_6m,regional,cusum,63,0.15873015873015872,0.31746031746031744
+Маркетплейсы,adaptive_1m,local,spike,2016,0.0,0.0
+Маркетплейсы,adaptive_1m,local,rolling_3m,2016,0.0,0.0
+Маркетплейсы,adaptive_1m,local,ewma,2016,0.0,0.0
+Маркетплейсы,adaptive_1m,local,cusum,2016,0.000496031746031746,0.000496031746031746
+Маркетплейсы,adaptive_1m,national,spike,1,0.0,0.0
+Маркетплейсы,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Маркетплейсы,adaptive_1m,national,ewma,1,0.0,0.0
+Маркетплейсы,adaptive_1m,national,cusum,1,0.0,0.0
+Маркетплейсы,adaptive_1m,regional,spike,63,0.0,0.0
+Маркетплейсы,adaptive_1m,regional,rolling_3m,63,0.0,0.0
+Маркетплейсы,adaptive_1m,regional,ewma,63,0.0,0.0
+Маркетплейсы,adaptive_1m,regional,cusum,63,0.0,0.0
+Маркетплейсы,frozen_6m,local,spike,2016,0.0,0.0
+Маркетплейсы,frozen_6m,local,rolling_3m,2016,0.0,0.0
+Маркетплейсы,frozen_6m,local,ewma,2016,0.0,0.0
+Маркетплейсы,frozen_6m,local,cusum,2016,0.0,0.0
+Маркетплейсы,frozen_6m,national,spike,1,0.0,0.0
+Маркетплейсы,frozen_6m,national,rolling_3m,1,0.0,0.0
+Маркетплейсы,frozen_6m,national,ewma,1,0.0,0.0
+Маркетплейсы,frozen_6m,national,cusum,1,0.0,0.0
+Маркетплейсы,frozen_6m,regional,spike,63,0.0,0.0
+Маркетплейсы,frozen_6m,regional,rolling_3m,63,0.0,0.0
+Маркетплейсы,frozen_6m,regional,ewma,63,0.0,0.0
+Маркетплейсы,frozen_6m,regional,cusum,63,0.0,0.0
+Общественное питание,adaptive_1m,local,spike,2016,0.003968253968253968,0.003968253968253968
+Общественное питание,adaptive_1m,local,rolling_3m,2016,0.001984126984126984,0.001984126984126984
+Общественное питание,adaptive_1m,local,ewma,2016,0.002976190476190476,0.003472222222222222
+Общественное питание,adaptive_1m,local,cusum,2016,0.001488095238095238,0.003968253968253968
+Общественное питание,adaptive_1m,national,spike,1,0.0,0.0
+Общественное питание,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Общественное питание,adaptive_1m,national,ewma,1,0.0,0.0
+Общественное питание,adaptive_1m,national,cusum,1,0.0,0.0
+Общественное питание,adaptive_1m,regional,spike,63,0.23809523809523808,0.31746031746031744
+Общественное питание,adaptive_1m,regional,rolling_3m,63,0.12698412698412698,0.19047619047619047
+Общественное питание,adaptive_1m,regional,ewma,63,0.031746031746031744,0.031746031746031744
+Общественное питание,adaptive_1m,regional,cusum,63,0.031746031746031744,0.06349206349206349
+Общественное питание,frozen_6m,local,spike,2016,0.001984126984126984,0.003968253968253968
+Общественное питание,frozen_6m,local,rolling_3m,2016,0.00248015873015873,0.004464285714285714
+Общественное питание,frozen_6m,local,ewma,2016,0.00248015873015873,0.00496031746031746
+Общественное питание,frozen_6m,local,cusum,2016,0.00248015873015873,0.002976190476190476
+Общественное питание,frozen_6m,national,spike,1,0.0,0.0
+Общественное питание,frozen_6m,national,rolling_3m,1,0.0,0.0
+Общественное питание,frozen_6m,national,ewma,1,0.0,0.0
+Общественное питание,frozen_6m,national,cusum,1,0.0,0.0
+Общественное питание,frozen_6m,regional,spike,63,0.015873015873015872,0.015873015873015872
+Общественное питание,frozen_6m,regional,rolling_3m,63,0.015873015873015872,0.031746031746031744
+Общественное питание,frozen_6m,regional,ewma,63,0.0,0.0
+Общественное питание,frozen_6m,regional,cusum,63,0.015873015873015872,0.015873015873015872
+Продовольствие,adaptive_1m,local,spike,2016,0.004464285714285714,0.004464285714285714
+Продовольствие,adaptive_1m,local,rolling_3m,2016,0.0,0.0
+Продовольствие,adaptive_1m,local,ewma,2016,0.003472222222222222,0.003472222222222222
+Продовольствие,adaptive_1m,local,cusum,2016,0.004464285714285714,0.006448412698412698
+Продовольствие,adaptive_1m,national,spike,1,0.0,0.0
+Продовольствие,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Продовольствие,adaptive_1m,national,ewma,1,0.0,0.0
+Продовольствие,adaptive_1m,national,cusum,1,0.0,0.0
+Продовольствие,adaptive_1m,regional,spike,63,0.015873015873015872,0.031746031746031744
+Продовольствие,adaptive_1m,regional,rolling_3m,63,0.0,0.0
+Продовольствие,adaptive_1m,regional,ewma,63,0.0,0.0
+Продовольствие,adaptive_1m,regional,cusum,63,0.015873015873015872,0.015873015873015872
+Продовольствие,frozen_6m,local,spike,2016,0.00496031746031746,0.005456349206349206
+Продовольствие,frozen_6m,local,rolling_3m,2016,0.001488095238095238,0.001984126984126984
+Продовольствие,frozen_6m,local,ewma,2016,0.00248015873015873,0.002976190476190476
+Продовольствие,frozen_6m,local,cusum,2016,0.000496031746031746,0.000496031746031746
+Продовольствие,frozen_6m,national,spike,1,0.0,0.0
+Продовольствие,frozen_6m,national,rolling_3m,1,0.0,0.0
+Продовольствие,frozen_6m,national,ewma,1,0.0,0.0
+Продовольствие,frozen_6m,national,cusum,1,0.0,0.0
+Продовольствие,frozen_6m,regional,spike,63,0.015873015873015872,0.015873015873015872
+Продовольствие,frozen_6m,regional,rolling_3m,63,0.015873015873015872,0.015873015873015872
+Продовольствие,frozen_6m,regional,ewma,63,0.015873015873015872,0.047619047619047616
+Продовольствие,frozen_6m,regional,cusum,63,0.015873015873015872,0.031746031746031744
+Транспорт,adaptive_1m,local,spike,2016,0.004464285714285714,0.00496031746031746
+Транспорт,adaptive_1m,local,rolling_3m,2016,0.012896825396825396,0.014384920634920634
+Транспорт,adaptive_1m,local,ewma,2016,0.00744047619047619,0.00992063492063492
+Транспорт,adaptive_1m,local,cusum,2016,0.008432539682539682,0.013888888888888888
+Транспорт,adaptive_1m,national,spike,1,0.0,0.0
+Транспорт,adaptive_1m,national,rolling_3m,1,0.0,0.0
+Транспорт,adaptive_1m,national,ewma,1,0.0,0.0
+Транспорт,adaptive_1m,national,cusum,1,0.0,0.0
+Транспорт,adaptive_1m,regional,spike,63,0.19047619047619047,0.23809523809523808
+Транспорт,adaptive_1m,regional,rolling_3m,63,0.1111111111111111,0.14285714285714285
+Транспорт,adaptive_1m,regional,ewma,63,0.031746031746031744,0.06349206349206349
+Транспорт,adaptive_1m,regional,cusum,63,0.1111111111111111,0.19047619047619047
+Транспорт,frozen_6m,local,spike,2016,0.008432539682539682,0.014384920634920634
+Транспорт,frozen_6m,local,rolling_3m,2016,0.008432539682539682,0.017361111111111112
+Транспорт,frozen_6m,local,ewma,2016,0.009424603174603174,0.017857142857142856
+Транспорт,frozen_6m,local,cusum,2016,0.011408730158730158,0.018849206349206348
+Транспорт,frozen_6m,national,spike,1,0.0,0.0
+Транспорт,frozen_6m,national,rolling_3m,1,0.0,0.0
+Транспорт,frozen_6m,national,ewma,1,0.0,0.0
+Транспорт,frozen_6m,national,cusum,1,0.0,0.0
+Транспорт,frozen_6m,regional,spike,63,0.12698412698412698,0.23809523809523808
+Транспорт,frozen_6m,regional,rolling_3m,63,0.1111111111111111,0.20634920634920634
+Транспорт,frozen_6m,regional,ewma,63,0.09523809523809523,0.19047619047619047
+Транспорт,frozen_6m,regional,cusum,63,0.15873015873015872,0.2698412698412698

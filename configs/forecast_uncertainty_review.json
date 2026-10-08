@@ -1,0 +1,1 @@
+{"predictions":"reports/growth_bridge_review/predictions.parquet","challenger":"hierarchy05_growth_bridge","comparators":["prophet_disabled","prophet_yearly3","prophet_pooled_profile"],"horizons":[1,3,6,12],"draws":2500,"seed":20261007}

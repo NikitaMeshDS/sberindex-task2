@@ -1,0 +1,17 @@
+{
+ "category": "Все категории",
+ "horizon": 1,
+ "neighbor_count": 5,
+ "neighbor_rule": "symmetrize one stored orientation per unordered highway pair, rank distance then territory_id_y, restrict to fixed2023eligible training IDs",
+ "distance_unit": "unknown; use ranking only",
+ "graph_snapshot_period": "2024 snapshot",
+ "graph_usage": "retrospective sensitivity only; unknown historical availability",
+ "lagged_proxy_alarm_abs_log_growth_threshold": 0.15,
+ "clip_log_growth": 1.0,
+ "model": {"max_iter": 150, "max_leaf_nodes": 15, "learning_rate": 0.05, "min_samples_leaf": 60, "l2_regularization": 2, "early_stopping": false, "random_state": 20260930},
+ "variants": ["spatial_base", "spatial_neighbors"],
+ "threads": 2,
+ "first_training_origin_index": 2,
+ "reporting_lag": 0,
+ "select_winner": false
+}

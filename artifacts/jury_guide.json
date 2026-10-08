@@ -1,0 +1,68 @@
+{
+  "slides": 21,
+  "criteria": [
+    {
+      "criterion": "Понятность методологии",
+      "weight": "10%",
+      "result": "Формула и объяснение словами",
+      "slides": "4",
+      "report_sections": "1 и 3",
+      "excellent_requirement": "Ясное объяснение и полное воспроизведение"
+    },
+    {
+      "criterion": "Прогноз и четыре горизонта",
+      "weight": "20%",
+      "result": "−41,5 / −23,3 / −28,5 / −55,8% MAE¹",
+      "slides": "5–9",
+      "report_sections": "3",
+      "excellent_requirement": "Всестороннее сравнение и обоснованный выбор"
+    },
+    {
+      "criterion": "Детекторы изменений",
+      "weight": "20%",
+      "result": "EWMA: F1 0,647; ложные тревоги 0,046²",
+      "slides": "13–15",
+      "report_sections": "5",
+      "excellent_requirement": "Глубокий анализ и аргументированный выбор"
+    },
+    {
+      "criterion": "Фундаментальные модели",
+      "weight": "15%",
+      "result": "Chronos-2, TimesFM 2.5, Moirai 2, TiRex; Bolt",
+      "slides": "5, 10–11",
+      "report_sections": "4",
+      "excellent_requirement": "Преимущества и ограничения современных моделей"
+    },
+    {
+      "criterion": "Новости и согласование",
+      "weight": "15%",
+      "result": "Текст, цитата, МО и доступность; прогноз и детекция",
+      "slides": "16",
+      "report_sections": "6",
+      "excellent_requirement": "Воспроизводимый механизм для прогноза и детекции"
+    },
+    {
+      "criterion": "MAE и R²",
+      "weight": "10%",
+      "result": "MAE всех горизонтов; R² изменений внутри МО",
+      "slides": "5–7",
+      "report_sections": "3",
+      "excellent_requirement": "Полный анализ с объяснением всех метрик"
+    },
+    {
+      "criterion": "Интерпретация и воспроизводимость",
+      "weight": "10%",
+      "result": "Уфа, Яльчикский, Орск; интерфейс; SHA256",
+      "slides": "12, 15, 17, 20",
+      "report_sections": "7–8",
+      "excellent_requirement": "Практические выводы с доказательствами"
+    }
+  ],
+  "forecast_comparator": "prophet_pooled_profile",
+  "conditional_intervals": true,
+  "repository": "https://github.com/NikitaMeshDS/sberindex-task2",
+  "repository_visibility": "public",
+  "author": "NikitaMeshDS",
+  "dashboard": "https://NikitaMeshDS.github.io/sberindex-task2/",
+  "pages_enabled": true
+}

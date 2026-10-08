@@ -1,0 +1,29 @@
+{
+  "eligible_ids": 2075,
+  "profile_year": 2023,
+  "geography_year": 2023,
+  "candidates": {
+    "pooled": null,
+    "regional": 0,
+    "shrink_5": 5,
+    "shrink_20": 20,
+    "shrink_100": 100
+  },
+  "weights": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "candidate_count": 25,
+  "regional_minimum_n": 10,
+  "selected_candidate": "shrink_20",
+  "selected_seasonal_weight": 0.75,
+  "validation_MAE_date_balanced": 811.1232700527225,
+  "selection": "Five one-month target dates February-June 2024; equal target-date weights; first minimum in candidate/weight order",
+  "sample": "Saved 256 IDs selected using 2023 completeness; identical saved Prophet pairs, observed history and targets",
+  "evaluation": "Origins June-November 2024, horizons 1/3/6; no selection on later errors; all 25 candidates disclosed",
+  "missingness": "Saved Prophet skips incomplete full histories or missing targets; identical scored pairs in every model",
+  "limits": "Repeatedly explored archive, not independent holdout. Historical dictionary publication vintages unknown. Reporting lag assumed zero. No 12-month extrapolation of a one-month-selected regional mixture. Primary model unchanged."
+}

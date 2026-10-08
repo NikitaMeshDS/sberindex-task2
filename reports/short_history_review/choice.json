@@ -1,0 +1,7 @@
+{
+  "selected_online_method": "ewma",
+  "objective": "maximum onset F1 among selection null FAR <=0.2; ties alphabetic",
+  "fixed_before_evaluation": true,
+  "real_false_alarm_guarantee": false,
+  "historical_default_replaced": false
+}

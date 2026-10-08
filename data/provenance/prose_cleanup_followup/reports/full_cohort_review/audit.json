@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "eligible_2023": 2075,
+  "source_ids": 2190,
+  "cohort_excluded_2023": 115,
+  "new_prophet_fits": 72879,
+  "profile": [
+    0.871550082721159,
+    0.924117698218508,
+    1.0077263113908237,
+    0.9446610101390656,
+    0.974444789882697,
+    0.9865393025892071,
+    1.0287625855068967,
+    1.0404009393351474,
+    0.9749530115497932,
+    1.0063767059368767,
+    1.0282987517464814,
+    1.2121688109833437
+  ],
+  "reporting_lag_assumption": 0,
+  "independent_time_validation": false,
+  "parameters_tuned": false,
+  "seconds": 2522.2846335830036,
+  "coverage_totals": {
+    "missing_history": 1279,
+    "missing_target": 271,
+    "retained": 60700
+  },
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "configs/full_cohort_review.json": "caf398d497522020d7473221443ed753623677e87a4b480e73219dfb91ab06be",
+    "docs/protocols/FULL_COHORT_REVIEW.md": "9573481aaf7fdcf68dac4c2c9d91c7b5f14f6d28d8e5956541d5688abb752df4",
+    "src/sberindex/forecasting/full_cohort_review.py": "7d05776f64844687a028e022dcf3c052271bb3ea371d34678187f64b687b071b",
+    "src/sberindex/forecasting/prophet_seasonality.py": "d47e3cbe7d65e49135d5ce6f526af769ea3ef3a02ee88c9378fd3919766befa3"
+  },
+  "output_sha256": {
+    "coverage.csv": "0c06ee1d0033dce32dcf73e917a33069ffc21a002900b6a06b41f1bca7ebd9a4",
+    "predictions.parquet": "b467230af19c8fc0361975c30668e5441b7c2bca3c7447817b1ac2b0e6dcc070",
+    "summary.csv": "b32579185e733d13d59374966738c6c9cf67bd04286474a8c5707cf46213dac2",
+    "monthly.csv": "7e1b541511bd5aa3c9c7aa24704a42be9eb298ea8f2f987ffc1248b4d667b2e4"
+  }
+}

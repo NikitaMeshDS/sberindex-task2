@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "scientific_code_reference_commit": "cf00d9651b288e40b9db6d8d7ea3654ea921f9d7",
+  "linux_check": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37543605954",
+  "unit_tests": 140,
+  "local_environments_checked": 2,
+  "protected_files_checked": 626,
+  "recomputed_numerical_files_byte_identical": 15,
+  "presentation_pages": 12,
+  "native_charts": 4,
+  "native_tables": 4,
+  "presentation_visual_review": "All 12 pages reviewed across edit passes; final changed residual-formula page reviewed separately. Intervals shown as editable boundary lines.",
+  "artifact_files": {
+    "presentation.pdf": {
+      "sha256": "92f1c78ca609b317283e6a2ad27c9c486746c4b6afd330e5c99986f985d69447",
+      "bytes": 286378
+    },
+    "presentation.pptx": {
+      "sha256": "3024016d487c45581f79e7f01f28a5169d38bfd674add4e3b432b57cceb7de3e",
+      "bytes": 66901
+    },
+    "presentation_data.json": {
+      "sha256": "fbc860b9b7cf72d1d5167b25783b6d866b4194d0747949b4a38ae1990118b132",
+      "bytes": 149582
+    }
+  },
+  "archive_branch": "archive/research-history-20261006",
+  "local_markdown_links": "No missing targets in README/docs",
+  "judge_repository_access": "Private; pending owner choice",
+  "submitted": false,
+  "scientific_limits": [
+    "Reused2024 archive, no independent new-period validation",
+    "Orsk has no frozen-threshold alarm; no news-to-alarm lead",
+    "November CPI betterh1; wage growth betterh3/h6/h12 among official source scenarios",
+    "Partial historical official corpus; full historical RSS and independent future shock prediction remain unproven"
+  ],
+  "linux_check_scope": "Pinned Linux installation, 140 unit/causality/regression tests and saved-file integrity at exact source revision; no full model retraining or independent real-shock validation.",
+  "recomputed_numerical_files_scope": "Six new cached-builder tables reproduced now; nine earlier sensitivity/peer outputs retained byte-identical."
+}

@@ -1,0 +1,14 @@
+region_code,documents,publication_days,first_publication,last_publication,full_history_verified,missing_days_mean
+10,5,5,2024-01-26,2024-11-04,False,unknown_not_no_news
+21,3,3,2024-01-20,2024-08-06,False,unknown_not_no_news
+23,7,6,2023-06-05,2023-07-06,False,unknown_not_no_news
+25,3,3,2024-07-18,2024-11-26,False,unknown_not_no_news
+31,2,2,2024-10-07,2024-12-25,False,unknown_not_no_news
+45,5,5,2024-03-11,2024-04-25,False,unknown_not_no_news
+46,14,14,2024-02-21,2024-10-11,False,unknown_not_no_news
+54,11,11,2024-01-29,2024-12-26,False,unknown_not_no_news
+56,1,1,2024-04-10,2024-04-10,False,unknown_not_no_news
+61,5,5,2024-01-08,2024-09-30,False,unknown_not_no_news
+66,12,12,2024-01-12,2024-12-31,False,unknown_not_no_news
+72,11,11,2024-04-14,2024-11-22,False,unknown_not_no_news
+74,2,2,2024-03-10,2024-03-18,False,unknown_not_no_news

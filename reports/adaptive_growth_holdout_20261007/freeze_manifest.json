@@ -1,0 +1,37 @@
+{
+  "status": "awaiting_official_target_data",
+  "frozen_at_utc": "2026-10-07T16:03:52.062489+00:00",
+  "model": "hierarchy05_adaptive_regional_growth_candidate",
+  "source_commit": "a0d63a9f4e657b3e9e175fe62d788421a03530bc",
+  "source_tree_modified": true,
+  "rows": 8092,
+  "municipalities": 2023,
+  "growth_rule": "Median of last3 monthly regional medians of positive finite MO YoY; 2023 eligibility; >=10 valid MO in each month; otherwise documented macro fallback",
+  "input_sha256": {
+    "configs/adaptive_growth_holdout.json": "4a3309f2553fe44ba0256a4cfdd20fb0f1de8048b54c9cdb3e3a54906b3e0e89",
+    "configs/growth_bridge_review.json": "c5219bdfeca6f7775c3ecf311e610d79e3cf6e852ea8e62a8f7e702b5e759ad1",
+    "data/external/growth_bridge_review/growth_source.json": "5ddd6d86a3b3afe567821bb401ba44a1afac1a078ac16bb6ec49ec30797f5534",
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "src/sberindex/forecasting/adaptive_growth_holdout.py": "92c049c1193e533aca40b98b49e7b290eab43db5b221aee2961606e6dae4d730",
+    "src/sberindex/forecasting/selected_model_holdout.py": "663d9ae413c8adc719493f0f0067a774833e03d55ebcd360e8a17176ec655976",
+    "src/sberindex/forecasting/growth_bridge_review.py": "e807c8f1d22d3269f135fd0367e3245763058fe19c9b9fd4b884fd70a845cc31",
+    "src/sberindex/forecasting/hierarchical_review.py": "85826110433516887bb9e9e2c6cf0ae0607cc0f5f95cdde6853ff91641dd1528",
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "reports/selected_model_holdout_20261007/predictions.csv": "408a61ce471375b37344694c4daadcef1b77ffc3b10d70dc083c4ee35e9b9b17"
+  },
+  "output_sha256": {
+    "predictions.csv": "1b01a05d097c99a4a5a1babdca18c5e24c1765f5670d9bad90662362fdb08eba",
+    "growth_rates.csv": "7025f023c20d0c799755bc585edbeaa0eb643e6c0b4fb1884468708f9635721c",
+    "diagnostic_2024.parquet": "e97aec914e3fd612df1a878611e9b8760070fa5d0d1cfae2f5fed0f46fa18a0f",
+    "diagnostic_2024_summary.csv": "2f4194a600d38fbda1f874318773511d5cdb98d54eb3a3f668ba988745b6d2e9",
+    "change_from_fixed.csv": "a4d0d5e0e590ebf788fabeb249be8284d491008510bfc76156e45f6dbf928617"
+  },
+  "primary_model_replaced": false,
+  "original_freeze_overwritten": false,
+  "municipal_2025_target_values_read": false,
+  "known_2025_aggregate_context": true,
+  "rule_proposed_after_2024_results_and_2025_aggregate_comment": true,
+  "independent_evaluation_performed": false,
+  "reporting_lag_assumption_months": 0
+}

@@ -1,0 +1,27 @@
+{
+  "foundation_common": {
+    "rows": 165704,
+    "comparisons": 88,
+    "maximum_MAE_difference": 1.8189894035458565e-12
+  },
+  "foundation_fullpanel": {
+    "rows": 667700,
+    "comparisons": 44,
+    "maximum_MAE_difference": 9.094947017729282e-13
+  },
+  "training_cutoff": "2023-09",
+  "categories": {
+    "rows": 1092600,
+    "comparisons": 72,
+    "maximum_MAE_difference": 4.547473508864641e-13
+  },
+  "status": "passed",
+  "independent_temporal_validation": false,
+  "scope": "Independent arithmetic and evaluation-key checks; not repeated model fitting",
+  "input_sha256": {
+    "tools/verify_expansion_evidence.py": "42426896feb638c864f1a4ee2034efaf74a5becf71055a317e913cefd838d434",
+    "reports/foundation_expansion_review/summary.csv": "4587a758c4aa3c669a2e9f6d2c04abbf00e2e02a5b10e4f74564ae4ed129cd4d",
+    "reports/foundation_expansion_review/fullpanel_summary.csv": "75f2468ee2d8ced4a50c28f84159770042dc57380cf592b9ce18ddc9bc38519b",
+    "reports/foundation_expansion_review/bolt_epoch1_training.json": "b4a1f3ed3d273212f8bbcae32600692d6d37f25f7b59cb273c57e4ca40850ece"
+  }
+}

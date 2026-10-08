@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "byte_identical_numeric_artifacts": [
+    "predictions.parquet",
+    "summary.csv",
+    "monthly.csv",
+    "training_calendar.csv"
+  ],
+  "runtime_seconds_excluded_from_byte_checks": true
+}

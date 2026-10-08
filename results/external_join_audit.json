@@ -1,0 +1,13 @@
+{
+  "input_rows": 303126,
+  "joined_rows": 303126,
+  "matched_share": 1.0,
+  "municipal_ids": 2190,
+  "regions": 77,
+  "lookup_rule": "year_from <= observation_year < year_to",
+  "cpi_join": "explicit region crosswalk plus observation month",
+  "cpi_vintage": "2026-09-11",
+  "use_in_forecast": false,
+  "municipal_dictionary_coverage_end": "2024-01-01",
+  "caveat": "Intra-year 2024 boundary changes are not represented; dictionary supports retrospective labels, not proof of stable measurement."
+}

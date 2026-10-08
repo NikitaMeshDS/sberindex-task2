@@ -1,0 +1,73 @@
+category,cohort,target,eligible_ids,observed_ids,missing_ids
+Все категории,asof_june,2024-07,2024,2023,1
+Все категории,asof_june,2024-08,2024,2018,6
+Все категории,asof_june,2024-09,2024,2024,0
+Все категории,asof_june,2024-10,2024,2023,1
+Все категории,asof_june,2024-11,2024,2024,0
+Все категории,asof_june,2024-12,2024,2018,6
+Все категории,balanced_future_reference,2024-07,2016,2016,0
+Все категории,balanced_future_reference,2024-08,2016,2016,0
+Все категории,balanced_future_reference,2024-09,2016,2016,0
+Все категории,balanced_future_reference,2024-10,2016,2016,0
+Все категории,balanced_future_reference,2024-11,2016,2016,0
+Все категории,balanced_future_reference,2024-12,2016,2016,0
+Здоровье,asof_june,2024-07,2024,2023,1
+Здоровье,asof_june,2024-08,2024,2018,6
+Здоровье,asof_june,2024-09,2024,2024,0
+Здоровье,asof_june,2024-10,2024,2023,1
+Здоровье,asof_june,2024-11,2024,2024,0
+Здоровье,asof_june,2024-12,2024,2018,6
+Здоровье,balanced_future_reference,2024-07,2016,2016,0
+Здоровье,balanced_future_reference,2024-08,2016,2016,0
+Здоровье,balanced_future_reference,2024-09,2016,2016,0
+Здоровье,balanced_future_reference,2024-10,2016,2016,0
+Здоровье,balanced_future_reference,2024-11,2016,2016,0
+Здоровье,balanced_future_reference,2024-12,2016,2016,0
+Маркетплейсы,asof_june,2024-07,2024,2023,1
+Маркетплейсы,asof_june,2024-08,2024,2018,6
+Маркетплейсы,asof_june,2024-09,2024,2024,0
+Маркетплейсы,asof_june,2024-10,2024,2023,1
+Маркетплейсы,asof_june,2024-11,2024,2024,0
+Маркетплейсы,asof_june,2024-12,2024,2018,6
+Маркетплейсы,balanced_future_reference,2024-07,2016,2016,0
+Маркетплейсы,balanced_future_reference,2024-08,2016,2016,0
+Маркетплейсы,balanced_future_reference,2024-09,2016,2016,0
+Маркетплейсы,balanced_future_reference,2024-10,2016,2016,0
+Маркетплейсы,balanced_future_reference,2024-11,2016,2016,0
+Маркетплейсы,balanced_future_reference,2024-12,2016,2016,0
+Общественное питание,asof_june,2024-07,2024,2023,1
+Общественное питание,asof_june,2024-08,2024,2018,6
+Общественное питание,asof_june,2024-09,2024,2024,0
+Общественное питание,asof_june,2024-10,2024,2023,1
+Общественное питание,asof_june,2024-11,2024,2024,0
+Общественное питание,asof_june,2024-12,2024,2018,6
+Общественное питание,balanced_future_reference,2024-07,2016,2016,0
+Общественное питание,balanced_future_reference,2024-08,2016,2016,0
+Общественное питание,balanced_future_reference,2024-09,2016,2016,0
+Общественное питание,balanced_future_reference,2024-10,2016,2016,0
+Общественное питание,balanced_future_reference,2024-11,2016,2016,0
+Общественное питание,balanced_future_reference,2024-12,2016,2016,0
+Продовольствие,asof_june,2024-07,2024,2023,1
+Продовольствие,asof_june,2024-08,2024,2018,6
+Продовольствие,asof_june,2024-09,2024,2024,0
+Продовольствие,asof_june,2024-10,2024,2023,1
+Продовольствие,asof_june,2024-11,2024,2024,0
+Продовольствие,asof_june,2024-12,2024,2018,6
+Продовольствие,balanced_future_reference,2024-07,2016,2016,0
+Продовольствие,balanced_future_reference,2024-08,2016,2016,0
+Продовольствие,balanced_future_reference,2024-09,2016,2016,0
+Продовольствие,balanced_future_reference,2024-10,2016,2016,0
+Продовольствие,balanced_future_reference,2024-11,2016,2016,0
+Продовольствие,balanced_future_reference,2024-12,2016,2016,0
+Транспорт,asof_june,2024-07,2024,2023,1
+Транспорт,asof_june,2024-08,2024,2018,6
+Транспорт,asof_june,2024-09,2024,2024,0
+Транспорт,asof_june,2024-10,2024,2023,1
+Транспорт,asof_june,2024-11,2024,2024,0
+Транспорт,asof_june,2024-12,2024,2018,6
+Транспорт,balanced_future_reference,2024-07,2016,2016,0
+Транспорт,balanced_future_reference,2024-08,2016,2016,0
+Транспорт,balanced_future_reference,2024-09,2016,2016,0
+Транспорт,balanced_future_reference,2024-10,2016,2016,0
+Транспорт,balanced_future_reference,2024-11,2016,2016,0
+Транспорт,balanced_future_reference,2024-12,2016,2016,0

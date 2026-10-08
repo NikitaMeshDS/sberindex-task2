@@ -1,0 +1,9 @@
+# Direct horizon pooled HGB: fixed protocol
+
+Declared2026-10-06 before metrics. Existing HGB variants are one-step recursive frozen2023 models; this experiment fits a separate HistGradientBoostingRegressor for each horizon, refitted at each forecast origin. Pooled fixed cohort: finite positive12months2023 in«Все категории», expected2075IDs. Evaluate only the previously stored7532common pairs on frozen256ID sample,12/10/7/1dates for h1/3/6/12.
+
+Training sample origin s>=2, target s+h<=current fit_origin. Features use history only through s, known target calendar, no observations between s and s+h. Target: log(value[s+h]/value[s]). Validity: finite positive full history through s and finite positive target, missing target dropped; future missingness afterfit_origin cannot select trainingpairs. Across2024 rolling fit may use already observed2024target facts; it may never use future evaluationtargets. Early stopping disabled, all hyperparameters fixed inconfig, no2024selection.
+
+Two fixed variants: direct_lags (anchorlog, last two monthly loggrowth, mean3monthloglevel, known origin/target calendar sincos); direct_context adds panel/region contemporaneous medianmonthlyloggrowth and5municipalitycategory monthlygrowth covariates. Aggregate values use only column s/s-1, regional mapping labelled2023 fromlate20241025archive; no claim ofpoint-in-time metadataavailability. Missing optional categorycovariates retainNaN forHGB, do not remove thetraining/evaluationpair. No territorialIDfeature and no learned future aggregate.
+
+AtDecember2023,h12has no12-monthdirecttrainingpairs inJanuary2023-starting archive. Recordnot_trainable, zero fits; seasonal fallback only, explicitly namedasfallback, never labelled traineddirecth12. Do not transfer short-horizon models and callitdirecth12. Horizon-specific clipping cumulativepredictedloggrowth ±1 fixed beforemetrics. No primarymodelselection, noindependenttestclaim. Reportinglag0assumed availabilityscenario.

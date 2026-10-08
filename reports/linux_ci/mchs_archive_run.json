@@ -1,0 +1,11 @@
+{
+  "conclusion": "success",
+  "headSha": "06cd47b7803f4b591088625879e4c61fec42a13e",
+  "status": "completed",
+  "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37516909952",
+  "unit_tests": 116,
+  "unit_result": "OK",
+  "saved_evidence_files_verified": 566,
+  "artifacts": "reports/linux_ci/mchs_archive_artifacts",
+  "scope": "Pinned Linux installation, 116 unit/causality/regression tests and saved-file integrity. Not full model retraining or independent real-shock validation."
+}

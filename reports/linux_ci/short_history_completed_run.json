@@ -1,0 +1,17 @@
+{
+  "conclusion": "success",
+  "headSha": "3e3f3d0f07f13dc057df4d4d30a7ec8e9bb4a138",
+  "status": "completed",
+  "updatedAt": "2026-10-06T18:40:18Z",
+  "url": "https://github.com/NikitaMeshDS/sberindex-municipal-spending/actions/runs/37512763468",
+  "unit_tests": 109,
+  "unit_result": "OK",
+  "saved_evidence_files_verified": 523,
+  "artifacts": "reports/linux_ci/final_review_artifacts",
+  "scope": "Pinned dependency installation, 109 unit/causality/regression tests and saved-file SHA integrity; not full Linux model retraining",
+  "superseded_run": {
+    "run_id": 37512703002,
+    "status": "cancelled",
+    "reason": "Runner integration committed separately; final code commit checked by workflow_dispatch."
+  }
+}

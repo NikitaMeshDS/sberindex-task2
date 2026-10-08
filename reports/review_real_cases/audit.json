@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "independent_time_validation": false,
+  "causal_effect_estimated": false,
+  "spending_shift_ground_truth": false,
+  "input_sha256": {
+    "configs/review_real_cases.json": "fce8e3bc53a9aede333fe096f117a35d5b008a9de87f694edd382655f47dfb6e",
+    "src/sberindex/reporting/review_real_cases.py": "b88c46369ecf866cd644344bec2b9b7c5e12f1550fbe68866387b3a7784ad3e0",
+    "src/sberindex/forecasting/full_cohort_review.py": "7d05776f64844687a028e022dcf3c052271bb3ea371d34678187f64b687b071b",
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "data/external/regional_news_review/registry.csv": "3b3913470906f6bd0cf88ce410573988295f859987858c661ff41dbcb5e5bf48"
+  },
+  "output_sha256": {
+    "coverage.csv": "87db3a574a6608b6192332c7fc7196329413d9e7b6bb75721ea4aa7bc2ddf39b",
+    "REPORT.md": "2253b0aaefbe34c7efcb9adbb4f18919fc1c563f474df1432fc904af49eaa3d6",
+    "cases.svg": "aa5b9e8413ceb7e84c0207feffc835c311d383249386e638d64147e93e451366",
+    "observed_series.csv": "be92e7c69bed17d6faee734eaa00d0f1f876723c8ffc6b204c653ad868ae9f53",
+    "cases.png": "a42bac0e204e9ef4d4a6e4555fa1c37a0768085f7ed028c6c312815f18d5f096"
+  }
+}

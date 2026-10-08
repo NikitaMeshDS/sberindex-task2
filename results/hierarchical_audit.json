@@ -1,0 +1,25 @@
+{
+  "protocol": {
+    "fit": "2024-01 through 2024-03",
+    "calibrate": "2024-04 through 2024-06",
+    "evaluate": "2024-07 through 2024-12",
+    "min_region_municipalities": 10,
+    "threshold": "per-unit max calibration score, floored at log(1.05)",
+    "floor_note": "Fixed exploratory minimum effect, not optimized or a significance level",
+    "shifts_pct": [
+      -20,
+      20
+    ],
+    "shapes": [
+      "permanent",
+      "ramp"
+    ],
+    "regional_scenarios": "three largest eligible regions by complete-panel municipality count",
+    "local_scenarios": "25% of eligible municipalities, three fixed seeds",
+    "status": "exploratory reused archive, no independent temporal holdout"
+  },
+  "scenario_channel_rows": 2016,
+  "future_perturbation_max_error": 0.0,
+  "common_shift_preservation_max_error": 1.3877787807814457e-16,
+  "limits": "Alarm rates on unlabelled real data are not false positive rates; three calibration months cannot establish reliability."
+}

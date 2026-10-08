@@ -1,0 +1,54 @@
+{
+  "frozen_date": "2026-10-07",
+  "common_pairs": "reports/presentation_comparison_cases/common_pairs.csv",
+  "models": {
+    "timesfm25": {
+      "model_id": "google/timesfm-2.5-200m-pytorch",
+      "revision": "1d952420fba87f3c6dee4f240de0f1a0fbc790e3",
+      "source_revision": "e51928e27119cb17bebc005be2696b75e0a9e688"
+    },
+    "moirai2": {
+      "model_id": "Salesforce/moirai-2.0-R-small",
+      "revision": "30f43ff08c8494f4943ae1521e9d4e94a0fbb389",
+      "source_revision": "cfd46d4510ed8896f263116f32928eede05b0a75"
+    },
+    "tirex": {
+      "model_id": "NX-AI/TiRex",
+      "revision": "63c740922493f5fbe60b277609ec62babfba2762",
+      "source_revision": "8ea6c564f68460e1e45a6e7917c9c3c3b40d6d31"
+    }
+  },
+  "horizons": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "threads": 2,
+  "batch_size": 32,
+  "variants": [
+    "zero_shot",
+    "seasonal_ratio",
+    "ensemble50"
+  ],
+  "contamination": "unknown; all model releases postdate2024",
+  "finetune": {
+    "model": "amazon/chronos-bolt-base",
+    "train_end": "2023-09",
+    "validation_end": "2023-12",
+    "steps": 20,
+    "learning_rate": 1e-05,
+    "batch_size": 16,
+    "seed": 2023
+  },
+  "finetune_epoch1": {
+    "epochs": 1,
+    "batch_size": 128,
+    "learning_rate": 1e-05,
+    "seed": 2023,
+    "train_end": "2023-09",
+    "validation_end": "2023-12",
+    "reason": "one fixed pass through all2075 eligible2023 municipalities;20-step pilot covers only300",
+    "not_selected_on_2024": true
+  }
+}

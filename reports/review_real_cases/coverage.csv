@@ -1,0 +1,6 @@
+case,episode,mapped_ids,source_present_ids,status,publication,official_source,spending_shift_ground_truth
+Орск,orsk_apr2024,1,1,observed_series,2024-04-06,https://56.mchs.gov.ru/deyatelnost/press-centr/novosti/5249015,False
+Оренбург,orenburg_flood_apr2024,1,1,observed_series,2024-04-10,https://mchs.gov.ru/deyatelnost/press-centr/novosti/5252100,False
+Белгород,belgorod_collapse_may2024,1,0,no_comparable_expense_series,2024-05-12,https://www.interfax.ru/russia/960067,False
+Анапа,anapa_spill_dec2024,1,0,no_comparable_expense_series,2024-12-17,https://anapa-official.ru/news/v-stanitse-blagoveshchenskoy-sobran-operativnyy-shtab-pod-rukovodstvom-gubernatora-regiona-/,False
+Курская область,kursk_emergency_aug2024,33,0,no_comparable_expense_series,2024-08-07,https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5337327,False

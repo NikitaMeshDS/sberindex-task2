@@ -1,0 +1,71 @@
+{
+  "status": "passed",
+  "historical_settings_unchanged": true,
+  "comparison": "fresh original constructor versus shared backend; exact arrays before clipping",
+  "cases": [
+    {
+      "territory_id": 12,
+      "origin": "2023-12",
+      "horizon": 12,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 12,
+      "origin": "2024-06",
+      "horizon": 6,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 12,
+      "origin": "2024-11",
+      "horizon": 1,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 21,
+      "origin": "2023-12",
+      "horizon": 12,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 21,
+      "origin": "2024-06",
+      "horizon": 6,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 21,
+      "origin": "2024-11",
+      "horizon": 1,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 27,
+      "origin": "2023-12",
+      "horizon": 12,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 27,
+      "origin": "2024-06",
+      "horizon": 6,
+      "maximum_absolute_difference": 0.0
+    },
+    {
+      "territory_id": 27,
+      "origin": "2024-11",
+      "horizon": 1,
+      "maximum_absolute_difference": 0.0
+    }
+  ],
+  "source_sha256": {
+    "src/sberindex/forecasting/prophet_backend.py": "d5d783e2118975f84516f0cb9bbde17bad363bf2325085650fa74fbd7c780224",
+    "src/sberindex/forecasting/benchmark_rolling.py": "4a80c31a6422b654092050d2ac8864e466e46bafa8c1d086344b18b39a026b3c",
+    "src/sberindex/forecasting/category_benchmark.py": "875f14d5f8402e3694b962d927bdab124b7723bdadeea5094b7d1d1462ec7c6f",
+    "src/sberindex/forecasting/asof_cohort_forecast.py": "8fd93e7cdd26ea78c4e14b115f372ca897edca5b87135ddcafbec25f0d4f72cd",
+    "src/sberindex/forecasting/asof_reporting_delay.py": "302fa8dc28add53cb3e2fa5b0cc19b03f7bd9e992449d34e8e518ec15cdceef8",
+    "src/sberindex/forecasting/geographic_extension.py": "6f66c4ccd1c9c331e40a58432cb610832411335099bae529cf237a24a6198d8f",
+    "src/sberindex/forecasting/operational_early_audit.py": "b0508bbbaa9072bdf8188f67a14d0cd698532eb178478a3fa4c9918514374db6",
+    "tools/operational_workflow.py": "4e9c89a86a4919aef2d65c9160a27868344caaa291a2459e48251f2d29cf6e96"
+  }
+}

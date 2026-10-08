@@ -1,0 +1,1186 @@
+[
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/novosti/vse-novosti/5033208",
+    "raw_output": "{\n  \"publication_date\": \"2023-06-05\",\n  \"event_date\": null,\n  \"available_from\": \"2023-06-06\",\n  \"region\": \"23\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Штормовое предупреждение по подъёму уровней воды на реках бассейна р.Кубань\"\n}",
+    "parsed": {
+      "publication_date": "2023-06-05",
+      "event_date": null,
+      "available_from": "2023-06-06",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Штормовое предупреждение по подъёму уровней воды на реках бассейна р.Кубань"
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5039508",
+    "raw_output": "{\n  \"publication_date\": \"2023-06-14\",\n  \"event_date\": \"2023-06-15\",\n  \"available_from\": \"2023-06-15\",\n  \"region\": \"23\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В течении суток 15.06. и 16.06.2023 местами в крае ожидается комплекс метеорологических явлений: сильный дождь, ливень, в сочетании с грозой, градом и шквалистым усилением ветра 20-23 м/с.\"\n}",
+    "parsed": {
+      "publication_date": "2023-06-14",
+      "event_date": "2023-06-15",
+      "available_from": "2023-06-15",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В течении суток 15.06. и 16.06.2023 местами в крае ожидается комплекс метеорологических явлений: сильный дождь, ливень, в сочетании с грозой, градом и шквалистым усилением ветра 20-23 м/с."
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5043208",
+    "raw_output": "{\n    \"publication_date\": \"2023-06-19\",\n    \"event_date\": null,\n    \"available_from\": \"2023-06-20\",\n    \"region\": \"23\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"В период 13-15 часов 19 июня и до конца суток 19 июня, а также в течение суток 20 июня 2023 г. на территории г. Сочи ожидается комплекс гидрометеорологических явлений:\"\n}",
+    "parsed": {
+      "publication_date": "2023-06-19",
+      "event_date": null,
+      "available_from": "2023-06-20",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В период 13-15 часов 19 июня и до конца суток 19 июня, а также в течение суток 20 июня 2023 г. на территории г. Сочи ожидается комплекс гидрометеорологических явлений:"
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/shtormovye-i-ekstrennye-preduprezhdeniya/5043338",
+    "raw_output": "{\n    \"publication_date\": \"2023-06-19\",\n    \"event_date\": null,\n    \"available_from\": \"2023-06-20\",\n    \"region\": \"23\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Штормовое предупреждение по КНМЯ на территории Краснодарского края\"\n}",
+    "parsed": {
+      "publication_date": "2023-06-19",
+      "event_date": null,
+      "available_from": "2023-06-20",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Штормовое предупреждение по КНМЯ на территории Краснодарского края"
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5043849",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2023-06-20\",\n  \"event_date\": null,\n  \"available_from\": \"2023-06-21\",\n  \"region\": \"23\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Штормовое предупреждение по комплексу метеорологических явлений на территории Краснодарского края на 20 июня 2023 г.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2023-06-20",
+      "event_date": null,
+      "available_from": "2023-06-21",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Штормовое предупреждение по комплексу метеорологических явлений на территории Краснодарского края на 20 июня 2023 г."
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/novosti/5050935",
+    "raw_output": "{\n  \"publication_date\": \"2023-06-30\",\n  \"event_date\": \"2023-06-30\",\n  \"available_from\": \"2023-07-01\",\n  \"region\": \"23\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Сотрудники МЧС провели мониторинг пожарной обстановки в Абинском районе (+видео)\"\n}",
+    "parsed": {
+      "publication_date": "2023-06-30",
+      "event_date": "2023-06-30",
+      "available_from": "2023-07-01",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Сотрудники МЧС провели мониторинг пожарной обстановки в Абинском районе (+видео)"
+    }
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/poleznaya-informaciya/protivodeystvie-terrorizmu/novosti/5106236",
+    "raw_output": "{\n    \"publication_date\": \"2023-07-06\",\n    \"event_date\": null,\n    \"available_from\": \"2023-07-07\",\n    \"region\": \"23\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"unknown\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": null\n}",
+    "parsed": {
+      "publication_date": "2023-07-06",
+      "event_date": null,
+      "available_from": "2023-07-07",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "unknown",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5186346",
+    "raw_output": "{\n    \"publication_date\": \"2024-01-08\",\n    \"event_date\": null,\n    \"available_from\": \"2024-01-09\",\n    \"region\": 61,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"pollution\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Небольшой и умеренный снег, по югу с дождём, местами сильный снег, очень сильный снег (ОЯ). Местами гололёдно-изморозевые явления, налипание мокрого снега на проводах и деревьях, метель;\"\n}",
+    "parsed": {
+      "publication_date": "2024-01-08",
+      "event_date": null,
+      "available_from": "2024-01-09",
+      "region": 61,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Небольшой и умеренный снег, по югу с дождём, местами сильный снег, очень сильный снег (ОЯ). Местами гололёдно-изморозевые явления, налипание мокрого снега на проводах и деревьях, метель;"
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5189535",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-12\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-13\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Аномально холодная погода (среднесуточная температура воздуха ниже климатической нормы на 7 °С и более)\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-12",
+      "event_date": null,
+      "available_from": "2024-01-13",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Аномально холодная погода (среднесуточная температура воздуха ниже климатической нормы на 7 °С и более)"
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5190814",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-14\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-15\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Прогноз ледовой обстановки:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-14",
+      "event_date": null,
+      "available_from": "2024-01-15",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогноз ледовой обстановки:"
+    }
+  },
+  {
+    "source_url": "https://21.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5195361",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-20\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-21\",\n  \"region\": \"21\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-20",
+      "event_date": null,
+      "available_from": "2024-01-21",
+      "region": "21",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5197477",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-23\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-24\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Не исключаются происшествия на водных объектах.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-23",
+      "event_date": null,
+      "available_from": "2024-01-24",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Не исключаются происшествия на водных объектах."
+    }
+  },
+  {
+    "source_url": "https://10.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5199603",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-26\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-27\",\n  \"region\": 10,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"unknown\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-26",
+      "event_date": null,
+      "available_from": "2024-01-27",
+      "region": 10,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "unknown",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5201314",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-01-29\",\n  \"event_date\": null,\n  \"available_from\": \"2024-01-30\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-01-29",
+      "event_date": null,
+      "available_from": "2024-01-30",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5211879",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-02-13\",\n  \"event_date\": null,\n  \"available_from\": \"2024-02-14\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В связи с понижением температуры воздуха и промерзанием почвы прогнозируется увеличение нарушений на системах ЖКХ, с наибольшей вероятностью на системах водоснабжения и теплоснабжения.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-02-13",
+      "event_date": null,
+      "available_from": "2024-02-14",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В связи с понижением температуры воздуха и промерзанием почвы прогнозируется увеличение нарушений на системах ЖКХ, с наибольшей вероятностью на системах водоснабжения и теплоснабжения."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5212475",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-02-14\",\n  \"event_date\": null,\n  \"available_from\": \"2024-02-15\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"unknown\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-02-14",
+      "event_date": null,
+      "available_from": "2024-02-15",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "unknown",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/novosti/5217587",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-02-21\",\n  \"event_date\": null,\n  \"available_from\": \"2024-02-22\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"На текущий момент времени на основании анализа основных параметров, формирующих характер весеннего половодья, таких, как высота снежного покрова, глубина промерзания почвы, запас воды в снеге, на территории Курской области в 2024 году складываются благоприятные условия для безопасного пропуска паводковых вод.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-02-21",
+      "event_date": null,
+      "available_from": "2024-02-22",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "На текущий момент времени на основании анализа основных параметров, формирующих характер весеннего половодья, таких, как высота снежного покрова, глубина промерзания почвы, запас воды в снеге, на территории Курской области в 2024 году складываются благоприятные условия для безопасного пропуска паводковых вод."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5229907",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-10\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-11\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Сохраняется вероятность выявления случаев заражения новым коронавирусом (2019-nCoV) у населения, в частности людей прибывающих из-за границы на территорию Курской области.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-10",
+      "event_date": null,
+      "available_from": "2024-03-11",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Сохраняется вероятность выявления случаев заражения новым коронавирусом (2019-nCoV) у населения, в частности людей прибывающих из-за границы на территорию Курской области."
+    }
+  },
+  {
+    "source_url": "https://74.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5229864",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-10\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-11\",\n  \"region\": 74,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В связи с низкими температурами и сезонным риском ожидается рост заболеваемости острыми респираторно-вирусными инфекциями с превышением эпидемиологического порога заболеваемости.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-10",
+      "event_date": null,
+      "available_from": "2024-03-11",
+      "region": 74,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В связи с низкими температурами и сезонным риском ожидается рост заболеваемости острыми респираторно-вирусными инфекциями с превышением эпидемиологического порога заболеваемости."
+    }
+  },
+  {
+    "source_url": "https://45.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5230443",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-11\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-12\",\n  \"region\": 45,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"high\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"Чрезвычайные ситуации, обусловленные дорожно-транспортными происшествиями, с гибелью 5-ти и более человек, маловероятно.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-11",
+      "event_date": null,
+      "available_from": "2024-03-12",
+      "region": 45,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "high",
+      "confidence": 0.9,
+      "evidence_quote": "Чрезвычайные ситуации, обусловленные дорожно-транспортными происшествиями, с гибелью 5-ти и более человек, маловероятно."
+    }
+  },
+  {
+    "source_url": "https://74.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5235469",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-18\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-19\",\n  \"region\": 74,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В связи с низкими температурами и сезонным риском ожидается рост заболеваемости острыми респираторно-вирусными инфекциями с превышением эпидемиологического порога заболеваемости.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-18",
+      "event_date": null,
+      "available_from": "2024-03-19",
+      "region": 74,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В связи с низкими температурами и сезонным риском ожидается рост заболеваемости острыми респираторно-вирусными инфекциями с превышением эпидемиологического порога заболеваемости."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5236110",
+    "raw_output": "{\n    \"publication_date\": \"2024-03-19\",\n    \"event_date\": null,\n    \"available_from\": \"2024-03-20\",\n    \"region\": 46,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"pollution\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"На основании имеющихся сведений специалисты ЦУКС Главного управления ежедневно разрабатывают модель развития паводковой обстановки на территории Курской области. Предварительный прогноз показывает, что паводок в 2024 году не будет превышать показателей средних многолетних значений.\"\n}",
+    "parsed": {
+      "publication_date": "2024-03-19",
+      "event_date": null,
+      "available_from": "2024-03-20",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "На основании имеющихся сведений специалисты ЦУКС Главного управления ежедневно разрабатывают модель развития паводковой обстановки на территории Курской области. Предварительный прогноз показывает, что паводок в 2024 году не будет превышать показателей средних многолетних значений."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/smi-o-nas/syuzhety-tv/5251042",
+    "raw_output": "{\n    \"publication_date\": \"2024-03-25\",\n    \"event_date\": null,\n    \"available_from\": \"2024-03-26\",\n    \"region\": 46,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"evacuation\",\n    \"severity\": \"unknown\",\n    \"confidence\": 0.95,\n    \"evidence_quote\": \"Несмотря на положительный прогноз прохождения весеннего половодья все службы должны быть готовы к любому развитию событий.\"\n}",
+    "parsed": {
+      "publication_date": "2024-03-25",
+      "event_date": null,
+      "available_from": "2024-03-26",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": 0.95,
+      "evidence_quote": "Несмотря на положительный прогноз прохождения весеннего половодья все службы должны быть готовы к любому развитию событий."
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5241400",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-27\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-28\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В марте месяце в муниципальных районах и городских округах Новосибирской области работа систем электроэнергетики была прекращена из-за неблагоприятной пожарной обстановки.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-27",
+      "event_date": null,
+      "available_from": "2024-03-28",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В марте месяце в муниципальных районах и городских округах Новосибирской области работа систем электроэнергетики была прекращена из-за неблагоприятной пожарной обстановки."
+    }
+  },
+  {
+    "source_url": "https://10.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5242454",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-28\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-29\",\n  \"region\": 10,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Облачно с прояснениями. Ночью местами небольшой мокрый снег, днем в большинстве районов небольшой дождь, на севере местами с мокрым снегом. На дорогах гололедица.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-28",
+      "event_date": null,
+      "available_from": "2024-03-29",
+      "region": 10,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Облачно с прояснениями. Ночью местами небольшой мокрый снег, днем в большинстве районов небольшой дождь, на севере местами с мокрым снегом. На дорогах гололедица."
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5242520",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-03-28\",\n  \"event_date\": null,\n  \"available_from\": \"2024-03-29\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Сотрудниками Росприроднадзора отобраны пробы воды для определения степени загрязнения. Проводились работы по сбору отработанного сорбента, решается вопрос о подъеме баржи.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-03-28",
+      "event_date": null,
+      "available_from": "2024-03-29",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Сотрудниками Росприроднадзора отобраны пробы воды для определения степени загрязнения. Проводились работы по сбору отработанного сорбента, решается вопрос о подъеме баржи."
+    }
+  },
+  {
+    "source_url": "https://21.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5245149",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-01\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-02\",\n  \"region\": \"21\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"На водных объектах Чувашской Республики наблюдается процесс таяния льда.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-01",
+      "event_date": null,
+      "available_from": "2024-04-02",
+      "region": "21",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "На водных объектах Чувашской Республики наблюдается процесс таяния льда."
+    }
+  },
+  {
+    "source_url": "https://56.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5252131",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-10\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-11\",\n  \"region\": 56,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"В связи с установившейся теплой погодой Управление напоминает, что в Оренбургской области в зонах природных очагов КВЭ расположены восемь административных территорий:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-10",
+      "event_date": null,
+      "available_from": "2024-04-11",
+      "region": 56,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": 0.9,
+      "evidence_quote": "В связи с установившейся теплой погодой Управление напоминает, что в Оренбургской области в зонах природных очагов КВЭ расположены восемь административных территорий:"
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5253043",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-11\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-12\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"high\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"Подтоплены 52 придомовые территории и цокольный этаж одного жилого дома, в Краснозерском районе\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-11",
+      "event_date": null,
+      "available_from": "2024-04-12",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "high",
+      "confidence": 0.9,
+      "evidence_quote": "Подтоплены 52 придомовые территории и цокольный этаж одного жилого дома, в Краснозерском районе"
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5254899",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-14\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-15\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Прогнозируется подтопление низководного моста в с. Рагозина Ишимского МР (14 домов, 25 человек, из них 4 ребенка). Имеется объездной пусть протяженностью 11 км.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-14",
+      "event_date": null,
+      "available_from": "2024-04-15",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогнозируется подтопление низководного моста в с. Рагозина Ишимского МР (14 домов, 25 человек, из них 4 ребенка). Имеется объездной пусть протяженностью 11 км."
+    }
+  },
+  {
+    "source_url": "https://45.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5255472",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-15\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-16\",\n  \"region\": 45,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-15",
+      "event_date": null,
+      "available_from": "2024-04-16",
+      "region": 45,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://45.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5256224",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-16\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-17\",\n  \"region\": 45,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Согласно прогноза погоды на предстоящий период на территории Курганской области создаются предпосылки к ухудшению паводковой обстановки, а именно интенсивному росту уровней воды в реках, связанных с прохождением волны увеличенных пропусков расположенных выше водохранилищ.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-16",
+      "event_date": null,
+      "available_from": "2024-04-17",
+      "region": 45,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Согласно прогноза погоды на предстоящий период на территории Курганской области создаются предпосылки к ухудшению паводковой обстановки, а именно интенсивному росту уровней воды в реках, связанных с прохождением волны увеличенных пропусков расположенных выше водохранилищ."
+    }
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/novosti/5257619",
+    "raw_output": "{\n    \"publication_date\": \"2024-04-18\",\n    \"event_date\": null,\n    \"available_from\": \"2024-04-19\",\n    \"region\": \"61\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"fire\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Огонь вспыхнул в лесном массиве и угрожает перекинуться на соседние дома.\"\n}",
+    "parsed": {
+      "publication_date": "2024-04-18",
+      "event_date": null,
+      "available_from": "2024-04-19",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Огонь вспыхнул в лесном массиве и угрожает перекинуться на соседние дома."
+    }
+  },
+  {
+    "source_url": "https://10.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5259348",
+    "raw_output": "{\n    \"publication_date\": \"2024-04-20\",\n    \"event_date\": null,\n    \"available_from\": \"2024-04-21\",\n    \"region\": 10,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"pollution\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Прогноз возникновения ЧС на территории Республики Карелия на 21 апреля 2024 г.\"\n}",
+    "parsed": {
+      "publication_date": "2024-04-20",
+      "event_date": null,
+      "available_from": "2024-04-21",
+      "region": 10,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогноз возникновения ЧС на территории Республики Карелия на 21 апреля 2024 г."
+    }
+  },
+  {
+    "source_url": "https://45.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5259955",
+    "raw_output": "```json\n{\n    \"publication_date\": \"2024-04-22\",\n    \"event_date\": null,\n    \"available_from\": \"2024-04-23\",\n    \"region\": 45,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"По реке Уй\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-22",
+      "event_date": null,
+      "available_from": "2024-04-23",
+      "region": 45,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "По реке Уй"
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5262353",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-24\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-25\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Режим «чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-24",
+      "event_date": null,
+      "available_from": "2024-04-25",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Режим «чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком."
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5264750",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-27\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-28\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"По состоянию на 25 апреля остаются подтоплеными 2 участка.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-27",
+      "event_date": null,
+      "available_from": "2024-04-28",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": 0.9,
+      "evidence_quote": "По состоянию на 25 апреля остаются подтоплеными 2 участка."
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5264588",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-04-27\",\n  \"event_date\": null,\n  \"available_from\": \"2024-04-28\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"По данным ФГБУ «Обь-Иртышское УГМС» в р. Ишим у г. Ишима и его притоке Карасуль в черте города по 03.05.2024г. прогнозируется вторичный рост уровня воды обусловленный интенсивностью роста уровня воды в реках Северо-Казахстанской области. В связи с этим рост уровня у г. Ишим может продолжиться до отметок 1035-1055 см. Спад уровня начнется с 04 мая. Ниже отметки ОЯ уровень воды снизится предположительно 12 по 16 мая 2024 года.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-04-27",
+      "event_date": null,
+      "available_from": "2024-04-28",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "По данным ФГБУ «Обь-Иртышское УГМС» в р. Ишим у г. Ишима и его притоке Карасуль в черте города по 03.05.2024г. прогнозируется вторичный рост уровня воды обусловленный интенсивностью роста уровня воды в реках Северо-Казахстанской области. В связи с этим рост уровня у г. Ишим может продолжиться до отметок 1035-1055 см. Спад уровня начнется с 04 мая. Ниже отметки ОЯ уровень воды снизится предположительно 12 по 16 мая 2024 года."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5279410",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-05-17\",\n  \"event_date\": null,\n  \"available_from\": \"2024-05-18\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Прогноз сейсмологической обстановки:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-05-17",
+      "event_date": null,
+      "available_from": "2024-05-18",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогноз сейсмологической обстановки:"
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5287188",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-05-28\",\n  \"event_date\": null,\n  \"available_from\": \"2024-05-29\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Все заинтересованные структуры были направлены экстренные предупреждения о возможном возникновении 23 мая днем и 24 мая ночью чрезвычайных ситуаций\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-05-28",
+      "event_date": null,
+      "available_from": "2024-05-29",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Все заинтересованные структуры были направлены экстренные предупреждения о возможном возникновении 23 мая днем и 24 мая ночью чрезвычайных ситуаций"
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5287151",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-05-28\",\n  \"event_date\": null,\n  \"available_from\": \"2024-05-29\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Режим «Чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-05-28",
+      "event_date": null,
+      "available_from": "2024-05-29",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Режим «Чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5289754",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-05-31\",\n  \"event_date\": null,\n  \"available_from\": \"2024-06-01\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Возникновение ДТП возможно на участках автомобильных дорог: Екатеринбург-Шадринск-Курган (Каменский ГО), Екатеринбург-Тюмень (Тугулымский ГО), Пермь-Екатеринбург (ГО Ревда, Ачитский ГО), Екатеринбург-Нижний Тагил-Серов (Кировградский ГО, Кушвинский ГО)\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-05-31",
+      "event_date": null,
+      "available_from": "2024-06-01",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Возникновение ДТП возможно на участках автомобильных дорог: Екатеринбург-Шадринск-Курган (Каменский ГО), Екатеринбург-Тюмень (Тугулымский ГО), Пермь-Екатеринбург (ГО Ревда, Ачитский ГО), Екатеринбург-Нижний Тагил-Серов (Кировградский ГО, Кушвинский ГО)"
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5289785",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-05-31\",\n  \"event_date\": null,\n  \"available_from\": \"2024-06-01\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Режим «Чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-05-31",
+      "event_date": null,
+      "available_from": "2024-06-01",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Режим «Чрезвычайная ситуация» для органов управления и сил РСЧС Тюменской области в связи с паводком."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5300024",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-06-14\",\n  \"event_date\": null,\n  \"available_from\": \"2024-06-15\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-06-14",
+      "event_date": null,
+      "available_from": "2024-06-15",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5305103",
+    "raw_output": "{\n    \"publication_date\": \"2024-06-21\",\n    \"event_date\": null,\n    \"available_from\": \"2024-06-22\",\n    \"region\": \"72\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": null\n}",
+    "parsed": {
+      "publication_date": "2024-06-21",
+      "event_date": null,
+      "available_from": "2024-06-22",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5307847",
+    "raw_output": "{\n    \"publication_date\": \"2024-06-25\",\n    \"event_date\": null,\n    \"available_from\": \"2024-06-26\",\n    \"region\": 54,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"pollution\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Всем заинтересованным структурам было направлено экстренное предупреждение о высоком риске возникновения очагов природных пожаров\"\n}",
+    "parsed": {
+      "publication_date": "2024-06-25",
+      "event_date": null,
+      "available_from": "2024-06-26",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Всем заинтересованным структурам было направлено экстренное предупреждение о высоком риске возникновения очагов природных пожаров"
+    }
+  },
+  {
+    "source_url": "https://25.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5323663",
+    "raw_output": "{\n    \"publication_date\": \"2024-07-18\",\n    \"event_date\": \"2024-07-18\",\n    \"available_from\": \"2024-07-19\",\n    \"region\": \"25\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"pollution\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"По данным Приморского УГМС:\"\n}",
+    "parsed": {
+      "publication_date": "2024-07-18",
+      "event_date": "2024-07-18",
+      "available_from": "2024-07-19",
+      "region": "25",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "По данным Приморского УГМС:"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5326714",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-07-22\",\n  \"event_date\": null,\n  \"available_from\": \"2024-07-23\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Существует вероятность обрушения ветхих, слабоукрепленных и широкоформатных конструкций (источник — порывы ветра до 18 м/с).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-07-22",
+      "event_date": null,
+      "available_from": "2024-07-23",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Существует вероятность обрушения ветхих, слабоукрепленных и широкоформатных конструкций (источник — порывы ветра до 18 м/с)."
+    }
+  },
+  {
+    "source_url": "https://21.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5336324",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-06\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-07\",\n  \"region\": \"21\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Прогноз метеоусловий:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-06",
+      "event_date": null,
+      "available_from": "2024-08-07",
+      "region": "21",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогноз метеоусловий:"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5337882",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-08\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-09\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-08",
+      "event_date": null,
+      "available_from": "2024-08-09",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://25.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5338831",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-10\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-11\",\n  \"region\": 25,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"high\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"Возможно увеличение количества происшествий на водных объектах, в том числе на морской акватории, обусловленных массовым отдыхом населения.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-10",
+      "event_date": null,
+      "available_from": "2024-08-11",
+      "region": 25,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "high",
+      "confidence": 0.9,
+      "evidence_quote": "Возможно увеличение количества происшествий на водных объектах, в том числе на морской акватории, обусловленных массовым отдыхом населения."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5339012",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-10\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-11\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее вероятно во\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-10",
+      "event_date": null,
+      "available_from": "2024-08-11",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее вероятно во"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5339528",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-11\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-12\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Существует вероятность обрушения ветхих, слабоукрепленных и широкоформатных конструкций (источник — порывы ветра до 18 м/с).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-11",
+      "event_date": null,
+      "available_from": "2024-08-12",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Существует вероятность обрушения ветхих, слабоукрепленных и широкоформатных конструкций (источник — порывы ветра до 18 м/с)."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5340149",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-12\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-13\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"high\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"Прогноз биологической опасности: Эпидемиологическая обстановка сохраняется без изменений.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-12",
+      "event_date": null,
+      "available_from": "2024-08-13",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "high",
+      "confidence": 0.9,
+      "evidence_quote": "Прогноз биологической опасности: Эпидемиологическая обстановка сохраняется без изменений."
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/ekstrennye-preduprezhdeniya/5346519",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-22\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-23\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее значимые нарушения жизнеобеспечения населения:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-22",
+      "event_date": null,
+      "available_from": "2024-08-23",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее значимые нарушения жизнеобеспечения населения:"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5347259",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-23\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-24\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"0.3\",\n  \"evidence_quote\": \"Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,3) районах (АППД-вероятность-0,3).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-08-23",
+      "event_date": null,
+      "available_from": "2024-08-24",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "0.3",
+      "evidence_quote": "Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,3) районах (АППД-вероятность-0,3)."
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5349015",
+    "raw_output": "{\n  \"publication_date\": \"2024-08-26\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-27\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются.\"\n}",
+    "parsed": {
+      "publication_date": "2024-08-26",
+      "event_date": null,
+      "available_from": "2024-08-27",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются."
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5355617",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-05\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-06\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее значимые нарушения жизнеобеспечения населения\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-09-05",
+      "event_date": null,
+      "available_from": "2024-09-06",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее значимые нарушения жизнеобеспечения населения"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5356916",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-07\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-08\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": 0.8,\n  \"evidence_quote\": \"Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Букреевке\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-09-07",
+      "event_date": null,
+      "available_from": "2024-09-08",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": 0.8,
+      "evidence_quote": "Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Букреевке"
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5360590",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-13\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-14\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Существует вероятность обрушения слабоукрепленных, ветхих, широкоформатных и рекламных конструкций (источник – местами порывы ветра до 17 м/с).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-09-13",
+      "event_date": null,
+      "available_from": "2024-09-14",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Существует вероятность обрушения слабоукрепленных, ветхих, широкоформатных и рекламных конструкций (источник – местами порывы ветра до 17 м/с)."
+    }
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5361275",
+    "raw_output": "{\n    \"publication_date\": \"2024-09-14\",\n    \"event_date\": null,\n    \"available_from\": \"2024-09-15\",\n    \"region\": \"61\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"unknown\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров.\"\n}",
+    "parsed": {
+      "publication_date": "2024-09-14",
+      "event_date": null,
+      "available_from": "2024-09-15",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "unknown",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров."
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5364208",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-19\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-20\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Гидрологическая обстановка: На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-09-19",
+      "event_date": null,
+      "available_from": "2024-09-20",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Гидрологическая обстановка: На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5367035",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-23\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-24\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,4) районах (АППД-вероятность-0,4). За прошедшие сутки зарегистрировано\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-09-23",
+      "event_date": null,
+      "available_from": "2024-09-24",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,4) районах (АППД-вероятность-0,4). За прошедшие сутки зарегистрировано"
+    }
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5369979",
+    "raw_output": "{\n    \"publication_date\": \"2024-09-27\",\n    \"event_date\": null,\n    \"available_from\": \"2024-09-28\",\n    \"region\": \"61\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"fire\",\n    \"severity\": \"high\",\n    \"confidence\": 1,\n    \"evidence_quote\": \"Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров.\"\n}",
+    "parsed": {
+      "publication_date": "2024-09-27",
+      "event_date": null,
+      "available_from": "2024-09-28",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "high",
+      "confidence": 1,
+      "evidence_quote": "Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров."
+    }
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5371721",
+    "raw_output": "{\n    \"publication_date\": \"2024-09-30\",\n    \"event_date\": null,\n    \"available_from\": \"2024-10-01\",\n    \"region\": \"61\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"unknown\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров.\"\n}",
+    "parsed": {
+      "publication_date": "2024-09-30",
+      "event_date": null,
+      "available_from": "2024-10-01",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "unknown",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогнозируются ЧС и происшествия, связанные с возникновением природных пожаров."
+    }
+  },
+  {
+    "source_url": "https://46.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5379559",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-10-11\",\n  \"event_date\": null,\n  \"available_from\": \"2024-10-12\",\n  \"region\": 46,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,4) районах (АППД-вероятность-0,4).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-10-11",
+      "event_date": null,
+      "available_from": "2024-10-12",
+      "region": 46,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее вероятно возникновение техногенных пожаров в г. Курске, Курском, Беловском, Обоянском (~0,4) районах (АППД-вероятность-0,4)."
+    }
+  },
+  {
+    "source_url": "https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5392365",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-11-04\",\n  \"event_date\": null,\n  \"available_from\": \"2024-11-05\",\n  \"region\": 10,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Переохлаждение характеризуется следующими основными симптомами: озноб, дрожь, посинение или побледнение губ, снижение температуры тела.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-11-04",
+      "event_date": null,
+      "available_from": "2024-11-05",
+      "region": 10,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Переохлаждение характеризуется следующими основными симптомами: озноб, дрожь, посинение или побледнение губ, снижение температуры тела."
+    }
+  },
+  {
+    "source_url": "https://72.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5405241",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-11-22\",\n  \"event_date\": null,\n  \"available_from\": \"2024-11-23\",\n  \"region\": \"72\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-11-22",
+      "event_date": null,
+      "available_from": "2024-11-23",
+      "region": "72",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "На реках и водоемах юга Тюменской области опасные и неблагоприятные явления не прогнозируются."
+    }
+  },
+  {
+    "source_url": "https://25.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5407429",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-11-26\",\n  \"event_date\": null,\n  \"available_from\": \"2024-11-27\",\n  \"region\": 25,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"high\",\n  \"confidence\": 0.9,\n  \"evidence_quote\": \"По данным Приморского УГМС:\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-11-26",
+      "event_date": null,
+      "available_from": "2024-11-27",
+      "region": 25,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "high",
+      "confidence": 0.9,
+      "evidence_quote": "По данным Приморского УГМС:"
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5409015",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-11-28\",\n  \"event_date\": null,\n  \"available_from\": \"2024-11-29\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"pollution\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Прогнозируются нарушения и инциденты на системах ЖКХ и энергетики, вызванные изношенностью инженерных сетей и оборудования.\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-11-28",
+      "event_date": null,
+      "available_from": "2024-11-29",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "pollution",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Прогнозируются нарушения и инциденты на системах ЖКХ и энергетики, вызванные изношенностью инженерных сетей и оборудования."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/prognozy/5410378",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-11-30\",\n  \"event_date\": null,\n  \"available_from\": \"2024-12-01\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В связи с прогнозируемыми неустойчивыми погодными условиями (гололедица на дорогах), ухудшающими состояние дорожного покрытия, а также нарушениями правил дорожного движения водителями транспортных средств, прогнозируется 6-8 ДТП с пострадавшими, что на уровне среднемноголетних значений (7).\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-11-30",
+      "event_date": null,
+      "available_from": "2024-12-01",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В связи с прогнозируемыми неустойчивыми погодными условиями (гололедица на дорогах), ухудшающими состояние дорожного покрытия, а также нарушениями правил дорожного движения водителями транспортных средств, прогнозируется 6-8 ДТП с пострадавшими, что на уровне среднемноголетних значений (7)."
+    }
+  },
+  {
+    "source_url": "https://66.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5425898",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-12-24\",\n  \"event_date\": null,\n  \"available_from\": \"2024-12-25\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": null\n}\n```",
+    "parsed": {
+      "publication_date": "2024-12-24",
+      "event_date": null,
+      "available_from": "2024-12-25",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": null
+    }
+  },
+  {
+    "source_url": "https://31.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5426561",
+    "raw_output": "{\n  \"publication_date\": \"2024-12-25\",\n  \"event_date\": null,\n  \"available_from\": \"2024-12-26\",\n  \"region\": 31,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Не прогнозируются\"\n}",
+    "parsed": {
+      "publication_date": "2024-12-25",
+      "event_date": null,
+      "available_from": "2024-12-26",
+      "region": 31,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Не прогнозируются"
+    }
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5427516",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-12-26\",\n  \"event_date\": null,\n  \"available_from\": \"2024-12-27\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Наиболее значимые нарушения жизнеобеспечения населения\"\n}\n```",
+    "parsed": {
+      "publication_date": "2024-12-26",
+      "event_date": null,
+      "available_from": "2024-12-27",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Наиболее значимые нарушения жизнеобеспечения населения"
+    }
+  }
+]

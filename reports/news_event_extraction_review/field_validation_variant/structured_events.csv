@@ -1,0 +1,13 @@
+source_url,strict_accepted,accepted,rejection,field_errors,publication_date,event_date,available_from,region,municipality_id,municipality_name,event_type,severity,confidence,evidence_quote,geography_status,geography_evidence_token,geography_method
+https://21.mchs.gov.ru/deyatelnost/press-centr/novosti/5388213,False,False,unsupported_type,{},,,,,,,,,,,,,
+https://asc-ug.organizations.mchs.gov.ru/deyatelnost/press-centr/press-centr/4240476,False,False,unsupported_quote,{},,,,,,,,,,,,,
+https://74.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5329681,False,False,unsupported_type,{},,,,,,,,,,,,,
+https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328766,False,False,unsupported_quote,{},,,,,,,,,,,,,
+https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5352870,True,True,,{},2024-09-01,,2024-09-02,61,1829.0,Октябрьский,fire,unknown,,Возгорание сухой растительности в х. Яново-Грушевский Октябрьского (с) района,quoted_dictionary_unique,октябрьского,official_dictionary_NER_inside_LLM_quote
+https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5331360,False,False,unsupported_quote,{},,,,,,,,,,,,,
+https://56.mchs.gov.ru/deyatelnost/press-centr/novosti/5249015,False,True,,"{""event_date"": ""unsupported_inferred_or_future_date_abstained""}",2024-04-06,,2024-04-07,56,1673.0,Орск,evacuation,unknown,,В Орске спасатели МЧС России продолжают эвакуировать жителей из-за размыва дамбы,quoted_dictionary_unique,орске,official_dictionary_NER_inside_LLM_quote
+https://mchs.gov.ru/deyatelnost/press-centr/novosti/5017517,False,False,unsupported_type,{},,,,,,,,,,,,,
+https://23.mchs.gov.ru/deyatelnost/press-centr/novosti/vse-novosti/5040172,False,False,unsupported_type,{},,,,,,,,,,,,,
+https://mchs.gov.ru/deyatelnost/press-centr/novosti/5252738,False,False,unsupported_quote,{},,,,,,,,,,,,,
+https://mchs.gov.ru/deyatelnost/press-centr/novosti/5346534,False,False,unsupported_type,{},,,,,,,,,,,,,
+https://54.mchs.gov.ru/deyatelnost/press-centr/novosti/5006171,True,True,,{},2023-05-02,,2023-05-03,54,,,fire,unknown,,"В последнюю неделю апреля, с 24 по 30 апреля, в регионе зарегистрировано 814 возгораний, из которых 700 – горение мусора и сухой растительности. Остальные 14% случаев от общего числа реагирований составили техногенные пожары.",no_quoted_place,,official_dictionary_NER_inside_LLM_quote

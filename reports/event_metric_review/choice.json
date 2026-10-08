@@ -1,0 +1,7 @@
+{
+  "synthetic_profile_selected_online_method": null,
+  "selection_rule": "null FA <= budget, pooled ±1-month recall >= minimum, then highest F1; ties alphabetic",
+  "engineering_default": "spike",
+  "engineering_default_changed": false,
+  "reason": "Separate artificial event-localization profile is not a validation of real municipal operating performance."
+}

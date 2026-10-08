@@ -1,0 +1,12 @@
+title_type,body_class,size
+forecast_title,linked_forecast_only,4
+forecast_title,mixed_observation_forecast,1
+forecast_title,organizational,3
+forecast_title,weather_forecast,4
+observation_or_review_title,mixed_observation_forecast,2
+observation_or_review_title,observed_weather,4
+observation_or_review_title,weather_forecast,2
+unclassified_title,mixed_observation_forecast,1
+unclassified_title,observed_weather,1
+unclassified_title,organizational,6
+warning_title,weather_forecast,6

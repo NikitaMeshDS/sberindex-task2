@@ -1,0 +1,10 @@
+{
+  "url": "https://data.gdeltproject.org/gdeltv2/20240406000000.translation.gkg.csv.zip",
+  "bytes": 5252154,
+  "sha256": "e42fa581ac6a42fb030fe0edb910229cfbb2749891d9d825d1e33930157f92c3",
+  "rows": 1404,
+  "russian_language_rows": 55,
+  "encoding_replacement_characters": 7,
+  "scope": "single15minute translated metadata slice; no fullbody or complete coverage",
+  "publication_vintage_verified": false
+}

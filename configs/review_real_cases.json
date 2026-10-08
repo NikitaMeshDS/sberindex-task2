@@ -1,0 +1,12 @@
+{
+  "cases": [
+    {"name": "Орск", "territory_id": 1673, "region_code": 56, "episode": "orsk_apr2024", "publication": "2024-04-06"},
+    {"name": "Оренбург", "territory_id": 1665, "region_code": 56, "episode": "orenburg_flood_apr2024", "publication": "2024-04-10"},
+    {"name": "Белгород", "territory_id": 931, "region_code": 31, "episode": "belgorod_collapse_may2024", "publication": "2024-05-12"},
+    {"name": "Анапа", "territory_id": 623, "region_code": 23, "episode": "anapa_spill_dec2024", "publication": "2024-12-17"},
+    {"name": "Курская область", "territory_id": null, "region_code": 46, "episode": "kursk_emergency_aug2024", "publication": "2024-08-07"}
+  ],
+  "method": "fixed2023global seasonal profile, h1 controls; descriptive cases, no causal/change-point ground truth",
+  "geography_year": 2024,
+  "reporting_lag_assumption": 0
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://rosstat.gov.ru/storage/mediabank/tab2-zpl_07-2026.xlsx",
+  "http_status": 200,
+  "path": "rosstat_regional_monthly_wage_snapshot_2026.xlsx",
+  "sha256": "69b591b3d37699d22e4242d8de1b56af342097a49d00c0d0cc82063e46eab30d",
+  "bytes": 175100,
+  "tls_verification": false,
+  "captured_at_utc": "2026-10-05T18:48:55.787933+00:00",
+  "listing_release_date": "2026-09-30",
+  "historical_vintages": "unknown",
+  "availability_2023_2024": "unproven"
+}

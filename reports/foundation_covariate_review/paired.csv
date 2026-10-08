@@ -1,0 +1,901 @@
+category,horizon,target,model,reference,MAE_difference
+Все категории,1,2024-01,chronos2_profile,chronos2_univariate,-1245.5986405938743
+Все категории,1,2024-02,chronos2_profile,chronos2_univariate,107.79936893052786
+Все категории,1,2024-03,chronos2_profile,chronos2_univariate,-146.27876774153356
+Все категории,1,2024-04,chronos2_profile,chronos2_univariate,201.0162941982071
+Все категории,1,2024-05,chronos2_profile,chronos2_univariate,6.442460626245065
+Все категории,1,2024-06,chronos2_profile,chronos2_univariate,-52.52087353710181
+Все категории,1,2024-07,chronos2_profile,chronos2_univariate,-280.44938994023903
+Все категории,1,2024-08,chronos2_profile,chronos2_univariate,-115.26362518675307
+Все категории,1,2024-09,chronos2_profile,chronos2_univariate,-572.0196946588646
+Все категории,1,2024-10,chronos2_profile,chronos2_univariate,-55.48415712151393
+Все категории,1,2024-11,chronos2_profile,chronos2_univariate,-16.33887885956176
+Все категории,1,2024-12,chronos2_profile,chronos2_univariate,-696.7404989417328
+Все категории,3,2024-03,chronos2_profile,chronos2_univariate,321.9429547435259
+Все категории,3,2024-04,chronos2_profile,chronos2_univariate,-17.74938916210158
+Все категории,3,2024-05,chronos2_profile,chronos2_univariate,-77.18483487923322
+Все категории,3,2024-06,chronos2_profile,chronos2_univariate,80.59435694721105
+Все категории,3,2024-07,chronos2_profile,chronos2_univariate,-243.50138508466125
+Все категории,3,2024-08,chronos2_profile,chronos2_univariate,-573.995179438496
+Все категории,3,2024-09,chronos2_profile,chronos2_univariate,91.49924520667332
+Все категории,3,2024-10,chronos2_profile,chronos2_univariate,79.91885193600604
+Все категории,3,2024-11,chronos2_profile,chronos2_univariate,0.4657074825697691
+Все категории,3,2024-12,chronos2_profile,chronos2_univariate,-1243.091263850847
+Все категории,6,2024-06,chronos2_profile,chronos2_univariate,521.7117009238591
+Все категории,6,2024-07,chronos2_profile,chronos2_univariate,-275.57320328062724
+Все категории,6,2024-08,chronos2_profile,chronos2_univariate,-313.80850815488066
+Все категории,6,2024-09,chronos2_profile,chronos2_univariate,-36.72464828187276
+Все категории,6,2024-10,chronos2_profile,chronos2_univariate,-176.7591353336652
+Все категории,6,2024-11,chronos2_profile,chronos2_univariate,-617.3618650398407
+Все категории,6,2024-12,chronos2_profile,chronos2_univariate,-2350.6162031561253
+Все категории,12,2024-12,chronos2_profile,chronos2_univariate,-539.6259223090274
+Здоровье,1,2024-01,chronos2_profile,chronos2_univariate,-9.261100860230954
+Здоровье,1,2024-02,chronos2_profile,chronos2_univariate,-3.5271310996249383
+Здоровье,1,2024-03,chronos2_profile,chronos2_univariate,-2.6785703864230612
+Здоровье,1,2024-04,chronos2_profile,chronos2_univariate,2.980881162848604
+Здоровье,1,2024-05,chronos2_profile,chronos2_univariate,-16.600955552788847
+Здоровье,1,2024-06,chronos2_profile,chronos2_univariate,-21.153880571464143
+Здоровье,1,2024-07,chronos2_profile,chronos2_univariate,8.879618975270787
+Здоровье,1,2024-08,chronos2_profile,chronos2_univariate,2.2567014656218873
+Здоровье,1,2024-09,chronos2_profile,chronos2_univariate,-1.6519748642150205
+Здоровье,1,2024-10,chronos2_profile,chronos2_univariate,-5.089557176567183
+Здоровье,1,2024-11,chronos2_profile,chronos2_univariate,-2.462271276223234
+Здоровье,1,2024-12,chronos2_profile,chronos2_univariate,-12.351354469816044
+Здоровье,3,2024-03,chronos2_profile,chronos2_univariate,-5.850473107569712
+Здоровье,3,2024-04,chronos2_profile,chronos2_univariate,10.726753022091316
+Здоровье,3,2024-05,chronos2_profile,chronos2_univariate,-9.717472881909856
+Здоровье,3,2024-06,chronos2_profile,chronos2_univariate,-57.01816877995829
+Здоровье,3,2024-07,chronos2_profile,chronos2_univariate,-45.31035550182085
+Здоровье,3,2024-08,chronos2_profile,chronos2_univariate,-2.4485718016605347
+Здоровье,3,2024-09,chronos2_profile,chronos2_univariate,3.5371546042392765
+Здоровье,3,2024-10,chronos2_profile,chronos2_univariate,-0.7369700883964185
+Здоровье,3,2024-11,chronos2_profile,chronos2_univariate,-13.65923221177789
+Здоровье,3,2024-12,chronos2_profile,chronos2_univariate,-14.944492780829819
+Здоровье,6,2024-06,chronos2_profile,chronos2_univariate,-35.25071861630394
+Здоровье,6,2024-07,chronos2_profile,chronos2_univariate,-3.536685898009523
+Здоровье,6,2024-08,chronos2_profile,chronos2_univariate,-17.75132210416149
+Здоровье,6,2024-09,chronos2_profile,chronos2_univariate,4.868611491533869
+Здоровье,6,2024-10,chronos2_profile,chronos2_univariate,20.261900882796937
+Здоровье,6,2024-11,chronos2_profile,chronos2_univariate,-1.8029223438278166
+Здоровье,6,2024-12,chronos2_profile,chronos2_univariate,-27.92267672474165
+Здоровье,12,2024-12,chronos2_profile,chronos2_univariate,-17.825272575257316
+Маркетплейсы,1,2024-01,chronos2_profile,chronos2_univariate,-188.6128741868465
+Маркетплейсы,1,2024-02,chronos2_profile,chronos2_univariate,28.8974837952876
+Маркетплейсы,1,2024-03,chronos2_profile,chronos2_univariate,17.45273884929037
+Маркетплейсы,1,2024-04,chronos2_profile,chronos2_univariate,-9.153624272441476
+Маркетплейсы,1,2024-05,chronos2_profile,chronos2_univariate,-1.7067516068538566
+Маркетплейсы,1,2024-06,chronos2_profile,chronos2_univariate,12.830837295349852
+Маркетплейсы,1,2024-07,chronos2_profile,chronos2_univariate,-14.993006489666357
+Маркетплейсы,1,2024-08,chronos2_profile,chronos2_univariate,28.5825769188869
+Маркетплейсы,1,2024-09,chronos2_profile,chronos2_univariate,-1.6820160763197123
+Маркетплейсы,1,2024-10,chronos2_profile,chronos2_univariate,-61.7840104426046
+Маркетплейсы,1,2024-11,chronos2_profile,chronos2_univariate,-74.6850002334412
+Маркетплейсы,1,2024-12,chronos2_profile,chronos2_univariate,-130.07245335065977
+Маркетплейсы,3,2024-03,chronos2_profile,chronos2_univariate,-196.4270885209163
+Маркетплейсы,3,2024-04,chronos2_profile,chronos2_univariate,35.40760152748385
+Маркетплейсы,3,2024-05,chronos2_profile,chronos2_univariate,47.0289471994833
+Маркетплейсы,3,2024-06,chronos2_profile,chronos2_univariate,63.72975383621764
+Маркетплейсы,3,2024-07,chronos2_profile,chronos2_univariate,39.939352939803314
+Маркетплейсы,3,2024-08,chronos2_profile,chronos2_univariate,-63.269157744023914
+Маркетплейсы,3,2024-09,chronos2_profile,chronos2_univariate,-78.71684648126245
+Маркетплейсы,3,2024-10,chronos2_profile,chronos2_univariate,28.89229896818972
+Маркетплейсы,3,2024-11,chronos2_profile,chronos2_univariate,-76.11596631053908
+Маркетплейсы,3,2024-12,chronos2_profile,chronos2_univariate,-126.66393751167197
+Маркетплейсы,6,2024-06,chronos2_profile,chronos2_univariate,-203.49452814980157
+Маркетплейсы,6,2024-07,chronos2_profile,chronos2_univariate,27.89430559013931
+Маркетплейсы,6,2024-08,chronos2_profile,chronos2_univariate,56.2958179489076
+Маркетплейсы,6,2024-09,chronos2_profile,chronos2_univariate,31.439384551637204
+Маркетплейсы,6,2024-10,chronos2_profile,chronos2_univariate,3.755530125591349
+Маркетплейсы,6,2024-11,chronos2_profile,chronos2_univariate,-284.2128947588553
+Маркетплейсы,6,2024-12,chronos2_profile,chronos2_univariate,-328.05786035545316
+Маркетплейсы,12,2024-12,chronos2_profile,chronos2_univariate,10.644093589177373
+Общественное питание,1,2024-01,chronos2_profile,chronos2_univariate,-6.511126666429988
+Общественное питание,1,2024-02,chronos2_profile,chronos2_univariate,3.5393746364639185
+Общественное питание,1,2024-03,chronos2_profile,chronos2_univariate,2.603604138134955
+Общественное питание,1,2024-04,chronos2_profile,chronos2_univariate,-0.3440700242243935
+Общественное питание,1,2024-05,chronos2_profile,chronos2_univariate,0.8577707602208449
+Общественное питание,1,2024-06,chronos2_profile,chronos2_univariate,-6.451359631055851
+Общественное питание,1,2024-07,chronos2_profile,chronos2_univariate,-16.016521742619375
+Общественное питание,1,2024-08,chronos2_profile,chronos2_univariate,-7.436378479003899
+Общественное питание,1,2024-09,chronos2_profile,chronos2_univariate,-28.672819555518146
+Общественное питание,1,2024-10,chronos2_profile,chronos2_univariate,16.46913098339065
+Общественное питание,1,2024-11,chronos2_profile,chronos2_univariate,-16.735775100282467
+Общественное питание,1,2024-12,chronos2_profile,chronos2_univariate,5.607000586521096
+Общественное питание,3,2024-03,chronos2_profile,chronos2_univariate,7.051772676141155
+Общественное питание,3,2024-04,chronos2_profile,chronos2_univariate,1.480134363668384
+Общественное питание,3,2024-05,chronos2_profile,chronos2_univariate,1.7086988958229483
+Общественное питание,3,2024-06,chronos2_profile,chronos2_univariate,-3.0151117636387994
+Общественное питание,3,2024-07,chronos2_profile,chronos2_univariate,-12.976439092263774
+Общественное питание,3,2024-08,chronos2_profile,chronos2_univariate,-13.292481441421842
+Общественное питание,3,2024-09,chronos2_profile,chronos2_univariate,-13.030517851688941
+Общественное питание,3,2024-10,chronos2_profile,chronos2_univariate,-35.7424555622724
+Общественное питание,3,2024-11,chronos2_profile,chronos2_univariate,-69.51206568987722
+Общественное питание,3,2024-12,chronos2_profile,chronos2_univariate,15.024382389874106
+Общественное питание,6,2024-06,chronos2_profile,chronos2_univariate,-15.198763317531984
+Общественное питание,6,2024-07,chronos2_profile,chronos2_univariate,-24.471877322253874
+Общественное питание,6,2024-08,chronos2_profile,chronos2_univariate,-21.652717438352056
+Общественное питание,6,2024-09,chronos2_profile,chronos2_univariate,-3.0541945985588654
+Общественное питание,6,2024-10,chronos2_profile,chronos2_univariate,4.835004403771649
+Общественное питание,6,2024-11,chronos2_profile,chronos2_univariate,7.444381926639139
+Общественное питание,6,2024-12,chronos2_profile,chronos2_univariate,20.733935352340637
+Общественное питание,12,2024-12,chronos2_profile,chronos2_univariate,-7.74059946574863
+Продовольствие,1,2024-01,chronos2_profile,chronos2_univariate,-619.5354188713895
+Продовольствие,1,2024-02,chronos2_profile,chronos2_univariate,47.0881046127987
+Продовольствие,1,2024-03,chronos2_profile,chronos2_univariate,-97.96533203125
+Продовольствие,1,2024-04,chronos2_profile,chronos2_univariate,41.03812484437253
+Продовольствие,1,2024-05,chronos2_profile,chronos2_univariate,-91.08548812562242
+Продовольствие,1,2024-06,chronos2_profile,chronos2_univariate,-96.53451428660355
+Продовольствие,1,2024-07,chronos2_profile,chronos2_univariate,-159.55065674800795
+Продовольствие,1,2024-08,chronos2_profile,chronos2_univariate,-35.614043824701184
+Продовольствие,1,2024-09,chronos2_profile,chronos2_univariate,-328.7086536665836
+Продовольствие,1,2024-10,chronos2_profile,chronos2_univariate,38.957828840886464
+Продовольствие,1,2024-11,chronos2_profile,chronos2_univariate,7.061183002365539
+Продовольствие,1,2024-12,chronos2_profile,chronos2_univariate,-593.1086863483565
+Продовольствие,3,2024-03,chronos2_profile,chronos2_univariate,179.85936332793824
+Продовольствие,3,2024-04,chronos2_profile,chronos2_univariate,-59.98095897659368
+Продовольствие,3,2024-05,chronos2_profile,chronos2_univariate,-150.52322934823223
+Продовольствие,3,2024-06,chronos2_profile,chronos2_univariate,-76.50575627178773
+Продовольствие,3,2024-07,chronos2_profile,chronos2_univariate,-216.58983013259467
+Продовольствие,3,2024-08,chronos2_profile,chronos2_univariate,-85.58795871202693
+Продовольствие,3,2024-09,chronos2_profile,chronos2_univariate,-214.2513072709163
+Продовольствие,3,2024-10,chronos2_profile,chronos2_univariate,-154.9251023250747
+Продовольствие,3,2024-11,chronos2_profile,chronos2_univariate,-98.28493253548305
+Продовольствие,3,2024-12,chronos2_profile,chronos2_univariate,-1051.9828381785358
+Продовольствие,6,2024-06,chronos2_profile,chronos2_univariate,54.04684981088781
+Продовольствие,6,2024-07,chronos2_profile,chronos2_univariate,-188.15149168949165
+Продовольствие,6,2024-08,chronos2_profile,chronos2_univariate,-182.20265617218638
+Продовольствие,6,2024-09,chronos2_profile,chronos2_univariate,-29.40753198144921
+Продовольствие,6,2024-10,chronos2_profile,chronos2_univariate,-2.7430337244771295
+Продовольствие,6,2024-11,chronos2_profile,chronos2_univariate,-19.54535763197208
+Продовольствие,6,2024-12,chronos2_profile,chronos2_univariate,-1583.476848465513
+Продовольствие,12,2024-12,chronos2_profile,chronos2_univariate,-410.61369202628975
+Транспорт,1,2024-01,chronos2_profile,chronos2_univariate,-11.041933827191258
+Транспорт,1,2024-02,chronos2_profile,chronos2_univariate,-1.9980365403619942
+Транспорт,1,2024-03,chronos2_profile,chronos2_univariate,0.9098795248692682
+Транспорт,1,2024-04,chronos2_profile,chronos2_univariate,5.9906560282308305
+Транспорт,1,2024-05,chronos2_profile,chronos2_univariate,-0.4465066978181085
+Транспорт,1,2024-06,chronos2_profile,chronos2_univariate,-4.312277014986918
+Транспорт,1,2024-07,chronos2_profile,chronos2_univariate,-35.054051858970354
+Транспорт,1,2024-08,chronos2_profile,chronos2_univariate,-0.8569004013243955
+Транспорт,1,2024-09,chronos2_profile,chronos2_univariate,-28.715656782051468
+Транспорт,1,2024-10,chronos2_profile,chronos2_univariate,6.520276073440613
+Транспорт,1,2024-11,chronos2_profile,chronos2_univariate,-20.517048383613982
+Транспорт,1,2024-12,chronos2_profile,chronos2_univariate,0.6713554716680221
+Транспорт,3,2024-03,chronos2_profile,chronos2_univariate,-5.30035838092941
+Транспорт,3,2024-04,chronos2_profile,chronos2_univariate,0.8798666418311143
+Транспорт,3,2024-05,chronos2_profile,chronos2_univariate,-5.730189714773729
+Транспорт,3,2024-06,chronos2_profile,chronos2_univariate,-7.1312571977714185
+Транспорт,3,2024-07,chronos2_profile,chronos2_univariate,-12.019991080599482
+Транспорт,3,2024-08,chronos2_profile,chronos2_univariate,-26.502295140726176
+Транспорт,3,2024-09,chronos2_profile,chronos2_univariate,-5.2865031572926995
+Транспорт,3,2024-10,chronos2_profile,chronos2_univariate,-14.91233600753236
+Транспорт,3,2024-11,chronos2_profile,chronos2_univariate,-35.72442833645886
+Транспорт,3,2024-12,chronos2_profile,chronos2_univariate,2.5419018506053703
+Транспорт,6,2024-06,chronos2_profile,chronos2_univariate,-2.0286751398964498
+Транспорт,6,2024-07,chronos2_profile,chronos2_univariate,-23.307137538712368
+Транспорт,6,2024-08,chronos2_profile,chronos2_univariate,-29.239875702269046
+Транспорт,6,2024-09,chronos2_profile,chronos2_univariate,-21.015834975527582
+Транспорт,6,2024-10,chronos2_profile,chronos2_univariate,-6.62527380711532
+Транспорт,6,2024-11,chronos2_profile,chronos2_univariate,-3.6754727914513694
+Транспорт,6,2024-12,chronos2_profile,chronos2_univariate,-11.118875328763096
+Транспорт,12,2024-12,chronos2_profile,chronos2_univariate,-10.637040879991332
+Все категории,1,2024-01,chronos2_mo_group,chronos2_univariate,245.1269414529388
+Все категории,1,2024-02,chronos2_mo_group,chronos2_univariate,62.083521383216976
+Все категории,1,2024-03,chronos2_mo_group,chronos2_univariate,-54.30116642803796
+Все категории,1,2024-04,chronos2_mo_group,chronos2_univariate,-86.82728072086661
+Все категории,1,2024-05,chronos2_mo_group,chronos2_univariate,-102.9345703125
+Все категории,1,2024-06,chronos2_mo_group,chronos2_univariate,-118.91388352838658
+Все категории,1,2024-07,chronos2_mo_group,chronos2_univariate,-133.77275273904388
+Все категории,1,2024-08,chronos2_mo_group,chronos2_univariate,-97.86777110308765
+Все категории,1,2024-09,chronos2_mo_group,chronos2_univariate,-105.17232631972115
+Все категории,1,2024-10,chronos2_mo_group,chronos2_univariate,-7.075930652390525
+Все категории,1,2024-11,chronos2_mo_group,chronos2_univariate,-40.41944721115544
+Все категории,1,2024-12,chronos2_mo_group,chronos2_univariate,-218.20761485308776
+Все категории,3,2024-03,chronos2_mo_group,chronos2_univariate,-137.52497043077688
+Все категории,3,2024-04,chronos2_mo_group,chronos2_univariate,148.38061815239053
+Все категории,3,2024-05,chronos2_mo_group,chronos2_univariate,-39.84682753361585
+Все категории,3,2024-06,chronos2_mo_group,chronos2_univariate,-21.329541210159277
+Все категории,3,2024-07,chronos2_mo_group,chronos2_univariate,-85.01643426294822
+Все категории,3,2024-08,chronos2_mo_group,chronos2_univariate,-48.023523095119344
+Все категории,3,2024-09,chronos2_mo_group,chronos2_univariate,30.715372883466216
+Все категории,3,2024-10,chronos2_mo_group,chronos2_univariate,-38.306267119023914
+Все категории,3,2024-11,chronos2_mo_group,chronos2_univariate,-57.14985371015939
+Все категории,3,2024-12,chronos2_mo_group,chronos2_univariate,-72.92041599228105
+Все категории,6,2024-06,chronos2_mo_group,chronos2_univariate,-223.35783652653754
+Все категории,6,2024-07,chronos2_mo_group,chronos2_univariate,145.01583120642408
+Все категории,6,2024-08,chronos2_mo_group,chronos2_univariate,2.62334645791816
+Все категории,6,2024-09,chronos2_mo_group,chronos2_univariate,57.06118105702171
+Все категории,6,2024-10,chronos2_mo_group,chronos2_univariate,-8.518072242280596
+Все категории,6,2024-11,chronos2_mo_group,chronos2_univariate,67.30150102714151
+Все категории,6,2024-12,chronos2_mo_group,chronos2_univariate,33.18287397285894
+Все категории,12,2024-12,chronos2_mo_group,chronos2_univariate,-26.939929780506645
+Здоровье,1,2024-01,chronos2_mo_group,chronos2_univariate,11.058898439445343
+Здоровье,1,2024-02,chronos2_mo_group,chronos2_univariate,-3.4579682977075947
+Здоровье,1,2024-03,chronos2_mo_group,chronos2_univariate,-4.298598088116279
+Здоровье,1,2024-04,chronos2_mo_group,chronos2_univariate,-3.9810781288906867
+Здоровье,1,2024-05,chronos2_mo_group,chronos2_univariate,-3.2380003910140687
+Здоровье,1,2024-06,chronos2_mo_group,chronos2_univariate,0.43814281448425163
+Здоровье,1,2024-07,chronos2_mo_group,chronos2_univariate,-3.8764874583696525
+Здоровье,1,2024-08,chronos2_mo_group,chronos2_univariate,-6.601389729169263
+Здоровье,1,2024-09,chronos2_mo_group,chronos2_univariate,-13.997581937873505
+Здоровье,1,2024-10,chronos2_mo_group,chronos2_univariate,-9.885165271531065
+Здоровье,1,2024-11,chronos2_mo_group,chronos2_univariate,3.07751027141434
+Здоровье,1,2024-12,chronos2_mo_group,chronos2_univariate,-13.89326252120425
+Здоровье,3,2024-03,chronos2_mo_group,chronos2_univariate,-20.79669724422621
+Здоровье,3,2024-04,chronos2_mo_group,chronos2_univariate,-0.6621584949265582
+Здоровье,3,2024-05,chronos2_mo_group,chronos2_univariate,-4.010847236055781
+Здоровье,3,2024-06,chronos2_mo_group,chronos2_univariate,-6.517946038113166
+Здоровье,3,2024-07,chronos2_mo_group,chronos2_univariate,-8.47155494234002
+Здоровье,3,2024-08,chronos2_mo_group,chronos2_univariate,-5.902101554718627
+Здоровье,3,2024-09,chronos2_mo_group,chronos2_univariate,-10.993845419104844
+Здоровье,3,2024-10,chronos2_mo_group,chronos2_univariate,-27.37115454198829
+Здоровье,3,2024-11,chronos2_mo_group,chronos2_univariate,-29.941003077533622
+Здоровье,3,2024-12,chronos2_mo_group,chronos2_univariate,-23.919528672419688
+Здоровье,6,2024-06,chronos2_mo_group,chronos2_univariate,14.278581891741084
+Здоровье,6,2024-07,chronos2_mo_group,chronos2_univariate,-2.178155055559003
+Здоровье,6,2024-08,chronos2_mo_group,chronos2_univariate,-7.316541937717886
+Здоровье,6,2024-09,chronos2_mo_group,chronos2_univariate,-2.4807936223854625
+Здоровье,6,2024-10,chronos2_mo_group,chronos2_univariate,0.3081300287132649
+Здоровье,6,2024-11,chronos2_mo_group,chronos2_univariate,-11.985618074576706
+Здоровье,6,2024-12,chronos2_mo_group,chronos2_univariate,-28.820539618868253
+Здоровье,12,2024-12,chronos2_mo_group,chronos2_univariate,-20.045037405831465
+Маркетплейсы,1,2024-01,chronos2_mo_group,chronos2_univariate,-61.79481925812388
+Маркетплейсы,1,2024-02,chronos2_mo_group,chronos2_univariate,-23.604728060414573
+Маркетплейсы,1,2024-03,chronos2_mo_group,chronos2_univariate,35.21208087571591
+Маркетплейсы,1,2024-04,chronos2_mo_group,chronos2_univariate,4.533033393768676
+Маркетплейсы,1,2024-05,chronos2_mo_group,chronos2_univariate,4.123166999968873
+Маркетплейсы,1,2024-06,chronos2_mo_group,chronos2_univariate,10.479206221987056
+Маркетплейсы,1,2024-07,chronos2_mo_group,chronos2_univariate,-2.8891776643426397
+Маркетплейсы,1,2024-08,chronos2_mo_group,chronos2_univariate,-13.657777094746052
+Маркетплейсы,1,2024-09,chronos2_mo_group,chronos2_univariate,-4.646552462026875
+Маркетплейсы,1,2024-10,chronos2_mo_group,chronos2_univariate,-18.38504332280263
+Маркетплейсы,1,2024-11,chronos2_mo_group,chronos2_univariate,-6.861945285265165
+Маркетплейсы,1,2024-12,chronos2_mo_group,chronos2_univariate,68.40300322148914
+Маркетплейсы,3,2024-03,chronos2_mo_group,chronos2_univariate,-54.58681728165459
+Маркетплейсы,3,2024-04,chronos2_mo_group,chronos2_univariate,24.92779127630115
+Маркетплейсы,3,2024-05,chronos2_mo_group,chronos2_univariate,51.34374221862555
+Маркетплейсы,3,2024-06,chronos2_mo_group,chronos2_univariate,97.3121094722672
+Маркетплейсы,3,2024-07,chronos2_mo_group,chronos2_univariate,57.074687577813734
+Маркетплейсы,3,2024-08,chronos2_mo_group,chronos2_univariate,-44.982144663533404
+Маркетплейсы,3,2024-09,chronos2_mo_group,chronos2_univariate,-75.3250071005042
+Маркетплейсы,3,2024-10,chronos2_mo_group,chronos2_univariate,-47.553594216882516
+Маркетплейсы,3,2024-11,chronos2_mo_group,chronos2_univariate,-52.020829280534144
+Маркетплейсы,3,2024-12,chronos2_mo_group,chronos2_univariate,-20.235898690394606
+Маркетплейсы,6,2024-06,chronos2_mo_group,chronos2_univariate,-14.776959616040358
+Маркетплейсы,6,2024-07,chronos2_mo_group,chronos2_univariate,32.359503392679244
+Маркетплейсы,6,2024-08,chronos2_mo_group,chronos2_univariate,19.316044416085788
+Маркетплейсы,6,2024-09,chronos2_mo_group,chronos2_univariate,27.761039825074704
+Маркетплейсы,6,2024-10,chronos2_mo_group,chronos2_univariate,19.24354778152997
+Маркетплейсы,6,2024-11,chronos2_mo_group,chronos2_univariate,-161.33759663494493
+Маркетплейсы,6,2024-12,chronos2_mo_group,chronos2_univariate,-175.07581441810908
+Маркетплейсы,12,2024-12,chronos2_mo_group,chronos2_univariate,-144.68957374209458
+Общественное питание,1,2024-01,chronos2_mo_group,chronos2_univariate,3.279954249165442
+Общественное питание,1,2024-02,chronos2_mo_group,chronos2_univariate,-2.476726364804449
+Общественное питание,1,2024-03,chronos2_mo_group,chronos2_univariate,-0.712696273013421
+Общественное питание,1,2024-04,chronos2_mo_group,chronos2_univariate,-0.9438468507561524
+Общественное питание,1,2024-05,chronos2_mo_group,chronos2_univariate,-7.885352906002936
+Общественное питание,1,2024-06,chronos2_mo_group,chronos2_univariate,-6.955789056907122
+Общественное питание,1,2024-07,chronos2_mo_group,chronos2_univariate,-7.858920883847432
+Общественное питание,1,2024-08,chronos2_mo_group,chronos2_univariate,-4.341772223848736
+Общественное питание,1,2024-09,chronos2_mo_group,chronos2_univariate,-10.13889391773725
+Общественное питание,1,2024-10,chronos2_mo_group,chronos2_univariate,-4.452769245284486
+Общественное питание,1,2024-11,chronos2_mo_group,chronos2_univariate,-1.7649828542276254
+Общественное питание,1,2024-12,chronos2_mo_group,chronos2_univariate,-12.227101816124176
+Общественное питание,3,2024-03,chronos2_mo_group,chronos2_univariate,-3.036502974916715
+Общественное питание,3,2024-04,chronos2_mo_group,chronos2_univariate,-6.188131081630502
+Общественное питание,3,2024-05,chronos2_mo_group,chronos2_univariate,-2.4163884014722328
+Общественное питание,3,2024-06,chronos2_mo_group,chronos2_univariate,-15.414995839396312
+Общественное питание,3,2024-07,chronos2_mo_group,chronos2_univariate,-21.168916345117566
+Общественное питание,3,2024-08,chronos2_mo_group,chronos2_univariate,-20.63699362097509
+Общественное питание,3,2024-09,chronos2_mo_group,chronos2_univariate,3.607324273462794
+Общественное питание,3,2024-10,chronos2_mo_group,chronos2_univariate,0.6021584438612706
+Общественное питание,3,2024-11,chronos2_mo_group,chronos2_univariate,-21.317589626844182
+Общественное питание,3,2024-12,chronos2_mo_group,chronos2_univariate,-6.795817128215646
+Общественное питание,6,2024-06,chronos2_mo_group,chronos2_univariate,-8.195873593527153
+Общественное питание,6,2024-07,chronos2_mo_group,chronos2_univariate,-15.572042852758841
+Общественное питание,6,2024-08,chronos2_mo_group,chronos2_univariate,-12.468786839944926
+Общественное питание,6,2024-09,chronos2_mo_group,chronos2_univariate,-14.938868123696608
+Общественное питание,6,2024-10,chronos2_mo_group,chronos2_univariate,-15.290547496294096
+Общественное питание,6,2024-11,chronos2_mo_group,chronos2_univariate,-13.350426662490662
+Общественное питание,6,2024-12,chronos2_mo_group,chronos2_univariate,-9.641822966921382
+Общественное питание,12,2024-12,chronos2_mo_group,chronos2_univariate,-4.884213190230128
+Продовольствие,1,2024-01,chronos2_mo_group,chronos2_univariate,136.62812422186244
+Продовольствие,1,2024-02,chronos2_mo_group,chronos2_univariate,2.593798633590609
+Продовольствие,1,2024-03,chronos2_mo_group,chronos2_univariate,-34.280993214641285
+Продовольствие,1,2024-04,chronos2_mo_group,chronos2_univariate,-74.84039817293319
+Продовольствие,1,2024-05,chronos2_mo_group,chronos2_univariate,-91.90043342255967
+Продовольствие,1,2024-06,chronos2_mo_group,chronos2_univariate,-100.89030012761452
+Продовольствие,1,2024-07,chronos2_mo_group,chronos2_univariate,-92.90460229394921
+Продовольствие,1,2024-08,chronos2_mo_group,chronos2_univariate,45.611767772659334
+Продовольствие,1,2024-09,chronos2_mo_group,chronos2_univariate,40.28975698767431
+Продовольствие,1,2024-10,chronos2_mo_group,chronos2_univariate,-21.657253797310773
+Продовольствие,1,2024-11,chronos2_mo_group,chronos2_univariate,-16.470994926543824
+Продовольствие,1,2024-12,chronos2_mo_group,chronos2_univariate,-128.88623241409368
+Продовольствие,3,2024-03,chronos2_mo_group,chronos2_univariate,-187.51006909860553
+Продовольствие,3,2024-04,chronos2_mo_group,chronos2_univariate,9.66424536230079
+Продовольствие,3,2024-05,chronos2_mo_group,chronos2_univariate,-50.727482647535
+Продовольствие,3,2024-06,chronos2_mo_group,chronos2_univariate,-57.5937324919073
+Продовольствие,3,2024-07,chronos2_mo_group,chronos2_univariate,-95.64285825448223
+Продовольствие,3,2024-08,chronos2_mo_group,chronos2_univariate,-43.55343469870519
+Продовольствие,3,2024-09,chronos2_mo_group,chronos2_univariate,72.5407004793326
+Продовольствие,3,2024-10,chronos2_mo_group,chronos2_univariate,36.512261500871546
+Продовольствие,3,2024-11,chronos2_mo_group,chronos2_univariate,4.6930111584910605
+Продовольствие,3,2024-12,chronos2_mo_group,chronos2_univariate,-54.5287910856573
+Продовольствие,6,2024-06,chronos2_mo_group,chronos2_univariate,-221.7220187717014
+Продовольствие,6,2024-07,chronos2_mo_group,chronos2_univariate,-7.29034448144921
+Продовольствие,6,2024-08,chronos2_mo_group,chronos2_univariate,-38.977015765064834
+Продовольствие,6,2024-09,chronos2_mo_group,chronos2_univariate,-9.930238032246052
+Продовольствие,6,2024-10,chronos2_mo_group,chronos2_univariate,-40.429584396787845
+Продовольствие,6,2024-11,chronos2_mo_group,chronos2_univariate,-9.880118199078652
+Продовольствие,6,2024-12,chronos2_mo_group,chronos2_univariate,-56.39687733441224
+Продовольствие,12,2024-12,chronos2_mo_group,chronos2_univariate,-105.08567010788693
+Транспорт,1,2024-01,chronos2_mo_group,chronos2_univariate,7.464403859172677
+Транспорт,1,2024-02,chronos2_mo_group,chronos2_univariate,0.10847114471800268
+Транспорт,1,2024-03,chronos2_mo_group,chronos2_univariate,-6.051992955910734
+Транспорт,1,2024-04,chronos2_mo_group,chronos2_univariate,-4.760824621436129
+Транспорт,1,2024-05,chronos2_mo_group,chronos2_univariate,-4.964248961186499
+Транспорт,1,2024-06,chronos2_mo_group,chronos2_univariate,-8.952514891605446
+Транспорт,1,2024-07,chronos2_mo_group,chronos2_univariate,-12.41344290805526
+Транспорт,1,2024-08,chronos2_mo_group,chronos2_univariate,-6.178251350068479
+Транспорт,1,2024-09,chronos2_mo_group,chronos2_univariate,1.627873758870777
+Транспорт,1,2024-10,chronos2_mo_group,chronos2_univariate,-4.524452726204558
+Транспорт,1,2024-11,chronos2_mo_group,chronos2_univariate,-6.578180685461291
+Транспорт,1,2024-12,chronos2_mo_group,chronos2_univariate,-7.549208196510847
+Транспорт,3,2024-03,chronos2_mo_group,chronos2_univariate,1.5930691297310773
+Транспорт,3,2024-04,chronos2_mo_group,chronos2_univariate,-7.4835076199109665
+Транспорт,3,2024-05,chronos2_mo_group,chronos2_univariate,-10.193733853647927
+Транспорт,3,2024-06,chronos2_mo_group,chronos2_univariate,-13.05285936332794
+Транспорт,3,2024-07,chronos2_mo_group,chronos2_univariate,-16.11742580459412
+Транспорт,3,2024-08,chronos2_mo_group,chronos2_univariate,-22.80140862331922
+Транспорт,3,2024-09,chronos2_mo_group,chronos2_univariate,-3.082196604208164
+Транспорт,3,2024-10,chronos2_mo_group,chronos2_univariate,-5.260545099873937
+Транспорт,3,2024-11,chronos2_mo_group,chronos2_univariate,-0.4244954994475165
+Транспорт,3,2024-12,chronos2_mo_group,chronos2_univariate,-6.592493672769876
+Транспорт,6,2024-06,chronos2_mo_group,chronos2_univariate,-3.1180056617373566
+Транспорт,6,2024-07,chronos2_mo_group,chronos2_univariate,-16.085474508217146
+Транспорт,6,2024-08,chronos2_mo_group,chronos2_univariate,-19.65028922396351
+Транспорт,6,2024-09,chronos2_mo_group,chronos2_univariate,-16.6232095543607
+Транспорт,6,2024-10,chronos2_mo_group,chronos2_univariate,-15.732356462820633
+Транспорт,6,2024-11,chronos2_mo_group,chronos2_univariate,-16.3359578045241
+Транспорт,6,2024-12,chronos2_mo_group,chronos2_univariate,-18.209944402079202
+Транспорт,12,2024-12,chronos2_mo_group,chronos2_univariate,-8.857469346788207
+Все категории,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-2133.1199693413846
+Все категории,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,77.39299053784862
+Все категории,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-441.0618269111055
+Все категории,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,558.4051683889443
+Все категории,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,36.20800003112549
+Все категории,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,9.88297201817727
+Все категории,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-293.99371264940226
+Все категории,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,95.20763041583655
+Все категории,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-1122.6239183889443
+Все категории,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,114.47222049302786
+Все категории,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,107.38456330926294
+Все категории,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-3398.4244973232067
+Все категории,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,370.22602947584664
+Все категории,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,11.180485090885668
+Все категории,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-37.75579712400395
+Все категории,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,376.6225255229083
+Все категории,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-222.64438340388415
+Все категории,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-224.94617234188263
+Все категории,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-163.44588832171314
+Все категории,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,362.4713100722113
+Все категории,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,7.333890998506035
+Все категории,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-4427.390885676046
+Все категории,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,1013.9868357824898
+Все категории,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-504.7515095866529
+Все категории,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-756.819386516434
+Все категории,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,127.77849928411342
+Все категории,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,93.56626229457152
+Все категории,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-305.5584381225101
+Все категории,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-5087.386142928287
+Все категории,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1288.1860312810022
+Здоровье,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-35.21405321098419
+Здоровье,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,-6.691133658724482
+Здоровье,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-5.263391502349975
+Здоровье,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,4.620524007485685
+Здоровье,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-31.026119642523653
+Здоровье,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-28.7756706328981
+Здоровье,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,20.598569710416157
+Здоровье,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-3.561763079517867
+Здоровье,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-5.598050182084165
+Здоровье,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-20.932445146173123
+Здоровье,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,28.46379338602621
+Здоровье,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,7.868443705646172
+Здоровье,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,11.29455833890998
+Здоровье,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,7.169581683033499
+Здоровье,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-8.623560445717132
+Здоровье,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-87.18911341936939
+Здоровье,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-65.0993896727543
+Здоровье,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,2.8210692386703187
+Здоровье,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-10.369933109359437
+Здоровье,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-44.9585335416148
+Здоровье,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-53.49879340061628
+Здоровье,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-50.63912757174428
+Здоровье,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-51.3961634560237
+Здоровье,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,3.6971660477231723
+Здоровье,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-1.9850747157853021
+Здоровье,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,33.811789706408746
+Здоровье,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,44.54742431640625
+Здоровье,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-21.33377476422436
+Здоровье,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-82.71222434480828
+Здоровье,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-30.940654694087925
+Маркетплейсы,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-599.784173851469
+Маркетплейсы,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,13.412335034860575
+Маркетплейсы,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-42.68042575790588
+Маркетплейсы,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,165.7552315153449
+Маркетплейсы,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,41.910369265126974
+Маркетплейсы,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,53.51150427586526
+Маркетплейсы,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-26.680979694503264
+Маркетплейсы,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-40.212322584661365
+Маркетплейсы,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,0.5750854005851522
+Маркетплейсы,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-130.02569750295686
+Маркетплейсы,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-282.841890251494
+Маркетплейсы,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-757.4450994848731
+Маркетплейсы,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-246.70387687531127
+Маркетплейсы,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,80.284403402017
+Маркетплейсы,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,224.64315102869773
+Маркетплейсы,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,331.3401700813932
+Маркетплейсы,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,174.48635098278766
+Маркетплейсы,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-35.90825808095735
+Маркетплейсы,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-138.7276509197585
+Маркетплейсы,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-171.5370587960657
+Маркетплейсы,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-411.6009161595804
+Маркетплейсы,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1157.6728749066233
+Маркетплейсы,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-227.65776788620724
+Маркетплейсы,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,60.66872305699076
+Маркетплейсы,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,138.18199735238727
+Маркетплейсы,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,99.71564425890188
+Маркетплейсы,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-126.41105110806757
+Маркетплейсы,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-616.667136142928
+Маркетплейсы,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1660.3003167992092
+Маркетплейсы,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-205.64070928664432
+Общественное питание,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-7.485885437741217
+Общественное питание,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,10.430974983124145
+Общественное питание,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-2.677578109194087
+Общественное питание,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,5.72470016783452
+Общественное питание,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-6.822082245967309
+Общественное питание,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-18.502533962052183
+Общественное питание,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-24.7583963158596
+Общественное питание,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-0.20148145820040497
+Общественное питание,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-84.34762378707825
+Общественное питание,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,22.902984740724598
+Общественное питание,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-13.84490760104115
+Общественное питание,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,0.619385555920843
+Общественное питание,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,15.205561421306953
+Общественное питание,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,1.8951471944254195
+Общественное питание,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-15.587800500877364
+Общественное питание,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-21.315944717224852
+Общественное питание,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-63.41144871806716
+Общественное питание,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-66.52427196122736
+Общественное питание,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-29.67201600701685
+Общественное питание,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-51.77561202942138
+Общественное питание,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-96.90299896604988
+Общественное питание,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,24.48471045019143
+Общественное питание,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-35.04041384136866
+Общественное питание,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-58.88272723923643
+Общественное питание,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-83.008103176892
+Общественное питание,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-21.06663668203163
+Общественное питание,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,3.41922094337491
+Общественное питание,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,11.998187547660919
+Общественное питание,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,6.64499475851477
+Общественное питание,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-31.311924949524894
+Продовольствие,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-876.5431574483316
+Продовольствие,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,36.306016169696136
+Продовольствие,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-184.98142391372016
+Продовольствие,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,165.7712100815487
+Продовольствие,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-125.47797481947214
+Продовольствие,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-78.18377272161354
+Продовольствие,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-96.36842084785854
+Продовольствие,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-166.4831046906125
+Продовольствие,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-491.0166560321215
+Продовольствие,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,119.50139092069224
+Продовольствие,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,13.799304734188269
+Продовольствие,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1723.115172124004
+Продовольствие,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,276.25928901581176
+Продовольствие,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,-26.446746218251974
+Продовольствие,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-120.89446899900395
+Продовольствие,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,17.145037039342697
+Продовольствие,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-213.33095158428773
+Продовольствие,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,34.36449903510953
+Продовольствие,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-469.5218131380727
+Продовольствие,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-427.83435204494526
+Продовольствие,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-161.78463100722115
+Продовольствие,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1773.704204665712
+Продовольствие,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,281.32008579799117
+Продовольствие,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-249.8614759711154
+Продовольствие,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-364.9198129357569
+Продовольствие,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-8.104348232071686
+Продовольствие,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,54.520922170692245
+Продовольствие,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,3.0328821433017765
+Продовольствие,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-1800.6949253766188
+Продовольствие,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-549.2407982235864
+Транспорт,1,2024-01,chronos2_mo_group_profile,chronos2_mo_group,-43.86261083595306
+Транспорт,1,2024-02,chronos2_mo_group_profile,chronos2_mo_group,-2.3085561805512356
+Транспорт,1,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-7.054382810554657
+Транспорт,1,2024-04,chronos2_mo_group_profile,chronos2_mo_group,8.772002079572331
+Транспорт,1,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-12.943815558080189
+Транспорт,1,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-21.167181615335522
+Транспорт,1,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-51.145038984686266
+Транспорт,1,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-6.147067126999815
+Транспорт,1,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-71.55130284525958
+Транспорт,1,2024-10,chronos2_mo_group_profile,chronos2_mo_group,13.705212718462079
+Транспорт,1,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-14.901596251711894
+Транспорт,1,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-51.81932426543824
+Транспорт,3,2024-03,chronos2_mo_group_profile,chronos2_mo_group,-3.6543282436659723
+Транспорт,3,2024-04,chronos2_mo_group_profile,chronos2_mo_group,-1.1979770128470477
+Транспорт,3,2024-05,chronos2_mo_group_profile,chronos2_mo_group,-21.483548228959165
+Транспорт,3,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-26.671986614090514
+Транспорт,3,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-79.64104300571154
+Транспорт,3,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-83.56092500116722
+Транспорт,3,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-8.249373964104521
+Транспорт,3,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-8.40331581389286
+Транспорт,3,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-36.63445826070718
+Транспорт,3,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-45.88893972450043
+Транспорт,6,2024-06,chronos2_mo_group_profile,chronos2_mo_group,-12.737389458550325
+Транспорт,6,2024-07,chronos2_mo_group_profile,chronos2_mo_group,-52.96725743510336
+Транспорт,6,2024-08,chronos2_mo_group_profile,chronos2_mo_group,-92.52705875715884
+Транспорт,6,2024-09,chronos2_mo_group_profile,chronos2_mo_group,-49.31190071257936
+Транспорт,6,2024-10,chronos2_mo_group_profile,chronos2_mo_group,-29.567136240195453
+Транспорт,6,2024-11,chronos2_mo_group_profile,chronos2_mo_group,-20.47512391838893
+Транспорт,6,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-90.98917975558703
+Транспорт,12,2024-12,chronos2_mo_group_profile,chronos2_mo_group,-39.85875738234745
+Все категории,1,2024-01,chronos2_mo_group_profile,chronos2_profile,-642.3943872945715
+Все категории,1,2024-02,chronos2_mo_group_profile,chronos2_profile,31.67714299053773
+Все категории,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-349.08422559760993
+Все категории,1,2024-04,chronos2_mo_group_profile,chronos2_profile,270.56159346987056
+Все категории,1,2024-05,chronos2_mo_group_profile,chronos2_profile,-73.16903090761957
+Все категории,1,2024-06,chronos2_mo_group_profile,chronos2_profile,-56.5100379731075
+Все категории,1,2024-07,chronos2_mo_group_profile,chronos2_profile,-147.3170754482071
+Все категории,1,2024-08,chronos2_mo_group_profile,chronos2_profile,112.60348449950197
+Все категории,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-655.7765500498008
+Все категории,1,2024-10,chronos2_mo_group_profile,chronos2_profile,162.88044696215127
+Все категории,1,2024-11,chronos2_mo_group_profile,chronos2_profile,83.30399495766926
+Все категории,1,2024-12,chronos2_mo_group_profile,chronos2_profile,-2919.8916132345616
+Все категории,3,2024-03,chronos2_mo_group_profile,chronos2_profile,-89.24189569845612
+Все категории,3,2024-04,chronos2_mo_group_profile,chronos2_profile,177.31049240537777
+Все категории,3,2024-05,chronos2_mo_group_profile,chronos2_profile,-0.4177897783865774
+Все категории,3,2024-06,chronos2_mo_group_profile,chronos2_profile,274.69862736553796
+Все категории,3,2024-07,chronos2_mo_group_profile,chronos2_profile,-64.15943258217112
+Все категории,3,2024-08,chronos2_mo_group_profile,chronos2_profile,301.0254840014941
+Все категории,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-224.22976064492025
+Все категории,3,2024-10,chronos2_mo_group_profile,chronos2_profile,244.24619101718133
+Все категории,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-50.281670194223125
+Все категории,3,2024-12,chronos2_mo_group_profile,chronos2_profile,-3257.22003781748
+Все категории,6,2024-06,chronos2_mo_group_profile,chronos2_profile,268.9172983320932
+Все категории,6,2024-07,chronos2_mo_group_profile,chronos2_profile,-84.16247509960158
+Все категории,6,2024-08,chronos2_mo_group_profile,chronos2_profile,-440.38753190363514
+Все категории,6,2024-09,chronos2_mo_group_profile,chronos2_profile,221.5643286230079
+Все категории,6,2024-10,chronos2_mo_group_profile,chronos2_profile,261.8073253859561
+Все категории,6,2024-11,chronos2_mo_group_profile,chronos2_profile,379.10492794447214
+Все категории,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-2703.5870657993028
+Все категории,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-775.5000387524815
+Здоровье,1,2024-01,chronos2_mo_group_profile,chronos2_profile,-14.894053911307893
+Здоровье,1,2024-02,chronos2_mo_group_profile,chronos2_profile,-6.621970856807138
+Здоровье,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-6.883419204043193
+Здоровье,1,2024-04,chronos2_mo_group_profile,chronos2_profile,-2.341435284253606
+Здоровье,1,2024-05,chronos2_mo_group_profile,chronos2_profile,-17.663164480748875
+Здоровье,1,2024-06,chronos2_mo_group_profile,chronos2_profile,-7.183647246949704
+Здоровье,1,2024-07,chronos2_mo_group_profile,chronos2_profile,7.842463276775717
+Здоровье,1,2024-08,chronos2_mo_group_profile,chronos2_profile,-12.419854274309017
+Здоровье,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-17.94365725574265
+Здоровье,1,2024-10,chronos2_mo_group_profile,chronos2_profile,-25.728053241137005
+Здоровье,1,2024-11,chronos2_mo_group_profile,chronos2_profile,34.003574933663785
+Здоровье,1,2024-12,chronos2_mo_group_profile,chronos2_profile,6.326535654257967
+Здоровье,3,2024-03,chronos2_mo_group_profile,chronos2_profile,-3.6516657977465172
+Здоровье,3,2024-04,chronos2_mo_group_profile,chronos2_profile,-4.219329833984375
+Здоровье,3,2024-05,chronos2_mo_group_profile,chronos2_profile,-2.916934799863057
+Здоровье,3,2024-06,chronos2_mo_group_profile,chronos2_profile,-36.68889067752427
+Здоровье,3,2024-07,chronos2_mo_group_profile,chronos2_profile,-28.26058911327347
+Здоровье,3,2024-08,chronos2_mo_group_profile,chronos2_profile,-0.6324605143877733
+Здоровье,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-24.900933132703557
+Здоровье,3,2024-10,chronos2_mo_group_profile,chronos2_profile,-71.59271799520667
+Здоровье,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-69.78056426637201
+Здоровье,3,2024-12,chronos2_mo_group_profile,chronos2_profile,-59.61416346333415
+Здоровье,6,2024-06,chronos2_mo_group_profile,chronos2_profile,-1.8668629479786745
+Здоровье,6,2024-07,chronos2_mo_group_profile,chronos2_profile,5.055696890173692
+Здоровье,6,2024-08,chronos2_mo_group_profile,chronos2_profile,8.4497054506583
+Здоровье,6,2024-09,chronos2_mo_group_profile,chronos2_profile,26.462384592489414
+Здоровье,6,2024-10,chronos2_mo_group_profile,chronos2_profile,24.593653462322578
+Здоровье,6,2024-11,chronos2_mo_group_profile,chronos2_profile,-31.516470494973248
+Здоровье,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-83.61008723893488
+Здоровье,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-33.160419524662075
+Маркетплейсы,1,2024-01,chronos2_mo_group_profile,chronos2_profile,-472.9661189227463
+Маркетплейсы,1,2024-02,chronos2_mo_group_profile,chronos2_profile,-39.089876820841596
+Маркетплейсы,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-24.921083731480337
+Маркетплейсы,1,2024-04,chronos2_mo_group_profile,chronos2_profile,179.44188918155504
+Маркетплейсы,1,2024-05,chronos2_mo_group_profile,chronos2_profile,47.740287871949704
+Маркетплейсы,1,2024-06,chronos2_mo_group_profile,chronos2_profile,51.15987320250247
+Маркетплейсы,1,2024-07,chronos2_mo_group_profile,chronos2_profile,-14.577150869179547
+Маркетплейсы,1,2024-08,chronos2_mo_group_profile,chronos2_profile,-82.45267659829432
+Маркетплейсы,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-2.3894509851220107
+Маркетплейсы,1,2024-10,chronos2_mo_group_profile,chronos2_profile,-86.6267303831549
+Маркетплейсы,1,2024-11,chronos2_mo_group_profile,chronos2_profile,-215.01883530331799
+Маркетплейсы,1,2024-12,chronos2_mo_group_profile,chronos2_profile,-558.9696429127242
+Маркетплейсы,3,2024-03,chronos2_mo_group_profile,chronos2_profile,-104.86360563604956
+Маркетплейсы,3,2024-04,chronos2_mo_group_profile,chronos2_profile,69.80459315083431
+Маркетплейсы,3,2024-05,chronos2_mo_group_profile,chronos2_profile,228.95794604783998
+Маркетплейсы,3,2024-06,chronos2_mo_group_profile,chronos2_profile,364.92252571744274
+Маркетплейсы,3,2024-07,chronos2_mo_group_profile,chronos2_profile,191.62168562079808
+Маркетплейсы,3,2024-08,chronos2_mo_group_profile,chronos2_profile,-17.621245000466843
+Маркетплейсы,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-135.33581153900025
+Маркетплейсы,3,2024-10,chronos2_mo_group_profile,chronos2_profile,-247.98295198113794
+Маркетплейсы,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-387.50577912957544
+Маркетплейсы,3,2024-12,chronos2_mo_group_profile,chronos2_profile,-1051.244836085346
+Маркетплейсы,6,2024-06,chronos2_mo_group_profile,chronos2_profile,-38.94019935244603
+Маркетплейсы,6,2024-07,chronos2_mo_group_profile,chronos2_profile,65.13392085953069
+Маркетплейсы,6,2024-08,chronos2_mo_group_profile,chronos2_profile,101.20222381956546
+Маркетплейсы,6,2024-09,chronos2_mo_group_profile,chronos2_profile,96.03729953233938
+Маркетплейсы,6,2024-10,chronos2_mo_group_profile,chronos2_profile,-110.92303345212895
+Маркетплейсы,6,2024-11,chronos2_mo_group_profile,chronos2_profile,-493.79183801901763
+Маркетплейсы,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-1507.3182708618651
+Маркетплейсы,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-360.9743766179163
+Общественное питание,1,2024-01,chronos2_mo_group_profile,chronos2_profile,2.3051954778542125
+Общественное питание,1,2024-02,chronos2_mo_group_profile,chronos2_profile,4.414873981855777
+Общественное питание,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-5.993878520342463
+Общественное питание,1,2024-04,chronos2_mo_group_profile,chronos2_profile,5.124923341302761
+Общественное питание,1,2024-05,chronos2_mo_group_profile,chronos2_profile,-15.56520591219109
+Общественное питание,1,2024-06,chronos2_mo_group_profile,chronos2_profile,-19.006963387903454
+Общественное питание,1,2024-07,chronos2_mo_group_profile,chronos2_profile,-16.600795457087656
+Общественное питание,1,2024-08,chronos2_mo_group_profile,chronos2_profile,2.8931247969547584
+Общественное питание,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-65.81369814929735
+Общественное питание,1,2024-10,chronos2_mo_group_profile,chronos2_profile,1.9810845120494633
+Общественное питание,1,2024-11,chronos2_mo_group_profile,chronos2_profile,1.1258846450136915
+Общественное питание,1,2024-12,chronos2_mo_group_profile,chronos2_profile,-17.21471684672443
+Общественное питание,3,2024-03,chronos2_mo_group_profile,chronos2_profile,5.117285770249083
+Общественное питание,3,2024-04,chronos2_mo_group_profile,chronos2_profile,-5.773118250873466
+Общественное питание,3,2024-05,chronos2_mo_group_profile,chronos2_profile,-19.712887798172545
+Общественное питание,3,2024-06,chronos2_mo_group_profile,chronos2_profile,-33.715828792982364
+Общественное питание,3,2024-07,chronos2_mo_group_profile,chronos2_profile,-71.60392597092095
+Общественное питание,3,2024-08,chronos2_mo_group_profile,chronos2_profile,-73.8687841407806
+Общественное питание,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-13.034173881865115
+Общественное питание,3,2024-10,chronos2_mo_group_profile,chronos2_profile,-15.430998023287714
+Общественное питание,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-48.70852290301684
+Общественное питание,3,2024-12,chronos2_mo_group_profile,chronos2_profile,2.6645109321016776
+Общественное питание,6,2024-06,chronos2_mo_group_profile,chronos2_profile,-28.03752411736383
+Общественное питание,6,2024-07,chronos2_mo_group_profile,chronos2_profile,-49.9828927697414
+Общественное питание,6,2024-08,chronos2_mo_group_profile,chronos2_profile,-73.82417257848488
+Общественное питание,6,2024-09,chronos2_mo_group_profile,chronos2_profile,-32.95131020716937
+Общественное питание,6,2024-10,chronos2_mo_group_profile,chronos2_profile,-16.706330956690834
+Общественное питание,6,2024-11,chronos2_mo_group_profile,chronos2_profile,-8.796621041468882
+Общественное питание,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-23.73076356074725
+Общественное питание,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-28.45553867400639
+Продовольствие,1,2024-01,chronos2_mo_group_profile,chronos2_profile,-120.37961435507964
+Продовольствие,1,2024-02,chronos2_mo_group_profile,chronos2_profile,-8.188289809511957
+Продовольствие,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-121.29708509711145
+Продовольствие,1,2024-04,chronos2_mo_group_profile,chronos2_profile,49.89268706424298
+Продовольствие,1,2024-05,chronos2_mo_group_profile,chronos2_profile,-126.29292011640939
+Продовольствие,1,2024-06,chronos2_mo_group_profile,chronos2_profile,-82.5395585626245
+Продовольствие,1,2024-07,chronos2_mo_group_profile,chronos2_profile,-29.722366393799803
+Продовольствие,1,2024-08,chronos2_mo_group_profile,chronos2_profile,-85.25729309325197
+Продовольствие,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-122.0182453778636
+Продовольствие,1,2024-10,chronos2_mo_group_profile,chronos2_profile,58.88630828249501
+Продовольствие,1,2024-11,chronos2_mo_group_profile,chronos2_profile,-9.732873194721094
+Продовольствие,1,2024-12,chronos2_mo_group_profile,chronos2_profile,-1258.8927181897411
+Продовольствие,3,2024-03,chronos2_mo_group_profile,chronos2_profile,-91.11014341073201
+Продовольствие,3,2024-04,chronos2_mo_group_profile,chronos2_profile,43.1984581206425
+Продовольствие,3,2024-05,chronos2_mo_group_profile,chronos2_profile,-21.09872229830671
+Продовольствие,3,2024-06,chronos2_mo_group_profile,chronos2_profile,36.057060819223125
+Продовольствие,3,2024-07,chronos2_mo_group_profile,chronos2_profile,-92.3839797061753
+Продовольствие,3,2024-08,chronos2_mo_group_profile,chronos2_profile,76.39902304843127
+Продовольствие,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-182.72980538782377
+Продовольствие,3,2024-10,chronos2_mo_group_profile,chronos2_profile,-236.396988218999
+Продовольствие,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-58.80668731324704
+Продовольствие,3,2024-12,chronos2_mo_group_profile,chronos2_profile,-776.2501575728336
+Продовольствие,6,2024-06,chronos2_mo_group_profile,chronos2_profile,5.551217215401948
+Продовольствие,6,2024-07,chronos2_mo_group_profile,chronos2_profile,-69.00032876307296
+Продовольствие,6,2024-08,chronos2_mo_group_profile,chronos2_profile,-221.69417252863536
+Продовольствие,6,2024-09,chronos2_mo_group_profile,chronos2_profile,11.372945717131472
+Продовольствие,6,2024-10,chronos2_mo_group_profile,chronos2_profile,16.83437149838153
+Продовольствие,6,2024-11,chronos2_mo_group_profile,chronos2_profile,12.698121576195206
+Продовольствие,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-273.6149542455179
+Продовольствие,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-243.71277630518352
+Транспорт,1,2024-01,chronos2_mo_group_profile,chronos2_profile,-25.35627314958913
+Транспорт,1,2024-02,chronos2_mo_group_profile,chronos2_profile,-0.2020484954712387
+Транспорт,1,2024-03,chronos2_mo_group_profile,chronos2_profile,-14.016255291334659
+Транспорт,1,2024-04,chronos2_mo_group_profile,chronos2_profile,-1.9794785700946278
+Транспорт,1,2024-05,chronos2_mo_group_profile,chronos2_profile,-17.46155782144858
+Транспорт,1,2024-06,chronos2_mo_group_profile,chronos2_profile,-25.80741949195405
+Транспорт,1,2024-07,chronos2_mo_group_profile,chronos2_profile,-28.504430033771172
+Транспорт,1,2024-08,chronos2_mo_group_profile,chronos2_profile,-11.468418075743898
+Транспорт,1,2024-09,chronos2_mo_group_profile,chronos2_profile,-41.20777230433734
+Транспорт,1,2024-10,chronos2_mo_group_profile,chronos2_profile,2.660483918816908
+Транспорт,1,2024-11,chronos2_mo_group_profile,chronos2_profile,-0.9627285535592023
+Транспорт,1,2024-12,chronos2_mo_group_profile,chronos2_profile,-60.03988793361711
+Транспорт,3,2024-03,chronos2_mo_group_profile,chronos2_profile,3.239099266994515
+Транспорт,3,2024-04,chronos2_mo_group_profile,chronos2_profile,-9.561351274589128
+Транспорт,3,2024-05,chronos2_mo_group_profile,chronos2_profile,-25.947092367833363
+Транспорт,3,2024-06,chronos2_mo_group_profile,chronos2_profile,-32.593588779647035
+Транспорт,3,2024-07,chronos2_mo_group_profile,chronos2_profile,-83.73847772970618
+Транспорт,3,2024-08,chronos2_mo_group_profile,chronos2_profile,-79.86003848376026
+Транспорт,3,2024-09,chronos2_mo_group_profile,chronos2_profile,-6.045067411019986
+Транспорт,3,2024-10,chronos2_mo_group_profile,chronos2_profile,1.2484750937655633
+Транспорт,3,2024-11,chronos2_mo_group_profile,chronos2_profile,-1.3345254236958368
+Транспорт,3,2024-12,chronos2_mo_group_profile,chronos2_profile,-55.02333524787568
+Транспорт,6,2024-06,chronos2_mo_group_profile,chronos2_profile,-13.826719980391232
+Транспорт,6,2024-07,chronos2_mo_group_profile,chronos2_profile,-45.74559440460814
+Транспорт,6,2024-08,chronos2_mo_group_profile,chronos2_profile,-82.9374722788533
+Транспорт,6,2024-09,chronos2_mo_group_profile,chronos2_profile,-44.919275291412475
+Транспорт,6,2024-10,chronos2_mo_group_profile,chronos2_profile,-38.674218895900765
+Транспорт,6,2024-11,chronos2_mo_group_profile,chronos2_profile,-33.13560893146166
+Транспорт,6,2024-12,chronos2_mo_group_profile,chronos2_profile,-98.08024882890314
+Транспорт,12,2024-12,chronos2_mo_group_profile,chronos2_profile,-38.079185849144324
+Все категории,1,2024-01,bolt_base_univariate,chronos2_univariate,767.6286650273905
+Все категории,1,2024-02,bolt_base_univariate,chronos2_univariate,-255.88040805527908
+Все категории,1,2024-03,bolt_base_univariate,chronos2_univariate,-195.96752054282842
+Все категории,1,2024-04,bolt_base_univariate,chronos2_univariate,322.41996856324704
+Все категории,1,2024-05,bolt_base_univariate,chronos2_univariate,118.97638352838635
+Все категории,1,2024-06,bolt_base_univariate,chronos2_univariate,415.23390811752984
+Все категории,1,2024-07,bolt_base_univariate,chronos2_univariate,536.7153534300298
+Все категории,1,2024-08,bolt_base_univariate,chronos2_univariate,441.0985744521912
+Все категории,1,2024-09,bolt_base_univariate,chronos2_univariate,-613.4006396289842
+Все категории,1,2024-10,bolt_base_univariate,chronos2_univariate,474.858694129731
+Все категории,1,2024-11,bolt_base_univariate,chronos2_univariate,333.26637201195217
+Все категории,1,2024-12,bolt_base_univariate,chronos2_univariate,530.102363981574
+Все категории,3,2024-03,bolt_base_univariate,chronos2_univariate,-396.7176411541334
+Все категории,3,2024-04,bolt_base_univariate,chronos2_univariate,-412.0055831362056
+Все категории,3,2024-05,bolt_base_univariate,chronos2_univariate,-343.2371490600103
+Все категории,3,2024-06,bolt_base_univariate,chronos2_univariate,293.5173446837648
+Все категории,3,2024-07,bolt_base_univariate,chronos2_univariate,142.15785296314743
+Все категории,3,2024-08,bolt_base_univariate,chronos2_univariate,511.2973963520917
+Все категории,3,2024-09,bolt_base_univariate,chronos2_univariate,-238.84318974103587
+Все категории,3,2024-10,bolt_base_univariate,chronos2_univariate,337.2016698829682
+Все категории,3,2024-11,bolt_base_univariate,chronos2_univariate,-7.526145418326678
+Все категории,3,2024-12,bolt_base_univariate,chronos2_univariate,541.305119366285
+Все категории,6,2024-06,bolt_base_univariate,chronos2_univariate,-339.42487056671644
+Все категории,6,2024-07,bolt_base_univariate,chronos2_univariate,-390.31251556274856
+Все категории,6,2024-08,bolt_base_univariate,chronos2_univariate,-261.59623225846644
+Все категории,6,2024-09,bolt_base_univariate,chronos2_univariate,124.35083494148375
+Все категории,6,2024-10,bolt_base_univariate,chronos2_univariate,261.5043186628486
+Все категории,6,2024-11,bolt_base_univariate,chronos2_univariate,1022.8836956860059
+Все категории,6,2024-12,bolt_base_univariate,chronos2_univariate,1608.1218913408875
+Все категории,12,2024-12,bolt_base_univariate,chronos2_univariate,921.542236328125
+Здоровье,1,2024-01,bolt_base_univariate,chronos2_univariate,9.194028573207177
+Здоровье,1,2024-02,bolt_base_univariate,chronos2_univariate,4.48760974169727
+Здоровье,1,2024-03,bolt_base_univariate,chronos2_univariate,-0.11554149612487663
+Здоровье,1,2024-04,bolt_base_univariate,chronos2_univariate,11.900402540229706
+Здоровье,1,2024-05,bolt_base_univariate,chronos2_univariate,-0.748355090380656
+Здоровье,1,2024-06,bolt_base_univariate,chronos2_univariate,-9.77660391150242
+Здоровье,1,2024-07,bolt_base_univariate,chronos2_univariate,-2.6025298221177877
+Здоровье,1,2024-08,bolt_base_univariate,chronos2_univariate,-5.780698251914217
+Здоровье,1,2024-09,bolt_base_univariate,chronos2_univariate,-2.255496811581793
+Здоровье,1,2024-10,bolt_base_univariate,chronos2_univariate,15.769745845718688
+Здоровье,1,2024-11,bolt_base_univariate,chronos2_univariate,-0.9447580770667372
+Здоровье,1,2024-12,bolt_base_univariate,chronos2_univariate,10.270106950129176
+Здоровье,3,2024-03,bolt_base_univariate,chronos2_univariate,3.6411011228523478
+Здоровье,3,2024-04,bolt_base_univariate,chronos2_univariate,9.325471794462771
+Здоровье,3,2024-05,bolt_base_univariate,chronos2_univariate,-1.6358100313589432
+Здоровье,3,2024-06,bolt_base_univariate,chronos2_univariate,-13.019477266714375
+Здоровье,3,2024-07,bolt_base_univariate,chronos2_univariate,-1.6132168104924176
+Здоровье,3,2024-08,bolt_base_univariate,chronos2_univariate,-2.464159718547677
+Здоровье,3,2024-09,bolt_base_univariate,chronos2_univariate,-24.87136974562688
+Здоровье,3,2024-10,bolt_base_univariate,chronos2_univariate,-25.9735018665572
+Здоровье,3,2024-11,bolt_base_univariate,chronos2_univariate,-6.88397192480079
+Здоровье,3,2024-12,bolt_base_univariate,chronos2_univariate,8.338017801839527
+Здоровье,6,2024-06,bolt_base_univariate,chronos2_univariate,-8.240199739970862
+Здоровье,6,2024-07,bolt_base_univariate,chronos2_univariate,1.9765651748474795
+Здоровье,6,2024-08,bolt_base_univariate,chronos2_univariate,-7.771474648281881
+Здоровье,6,2024-09,bolt_base_univariate,chronos2_univariate,-2.6768378147565954
+Здоровье,6,2024-10,bolt_base_univariate,chronos2_univariate,12.869615532012574
+Здоровье,6,2024-11,bolt_base_univariate,chronos2_univariate,4.225709953156127
+Здоровье,6,2024-12,bolt_base_univariate,chronos2_univariate,-23.328376435663586
+Здоровье,12,2024-12,bolt_base_univariate,chronos2_univariate,17.135950239877843
+Маркетплейсы,1,2024-01,bolt_base_univariate,chronos2_univariate,-146.87263300314362
+Маркетплейсы,1,2024-02,bolt_base_univariate,chronos2_univariate,49.433969687655576
+Маркетплейсы,1,2024-03,bolt_base_univariate,chronos2_univariate,-20.03766963396413
+Маркетплейсы,1,2024-04,bolt_base_univariate,chronos2_univariate,34.74298703623009
+Маркетплейсы,1,2024-05,bolt_base_univariate,chronos2_univariate,17.71652063620516
+Маркетплейсы,1,2024-06,bolt_base_univariate,chronos2_univariate,42.91532940503612
+Маркетплейсы,1,2024-07,bolt_base_univariate,chronos2_univariate,24.166696008933002
+Маркетплейсы,1,2024-08,bolt_base_univariate,chronos2_univariate,-9.59502030938745
+Маркетплейсы,1,2024-09,bolt_base_univariate,chronos2_univariate,-11.299412700759461
+Маркетплейсы,1,2024-10,bolt_base_univariate,chronos2_univariate,62.700899526892385
+Маркетплейсы,1,2024-11,bolt_base_univariate,chronos2_univariate,64.29527933189115
+Маркетплейсы,1,2024-12,bolt_base_univariate,chronos2_univariate,60.41326490911365
+Маркетплейсы,3,2024-03,bolt_base_univariate,chronos2_univariate,-437.12294134010824
+Маркетплейсы,3,2024-04,bolt_base_univariate,chronos2_univariate,-22.841732678660264
+Маркетплейсы,3,2024-05,bolt_base_univariate,chronos2_univariate,-65.18382621856324
+Маркетплейсы,3,2024-06,bolt_base_univariate,chronos2_univariate,61.847681053131225
+Маркетплейсы,3,2024-07,bolt_base_univariate,chronos2_univariate,68.29325471551294
+Маркетплейсы,3,2024-08,bolt_base_univariate,chronos2_univariate,-13.373594489230527
+Маркетплейсы,3,2024-09,bolt_base_univariate,chronos2_univariate,-19.039255089018866
+Маркетплейсы,3,2024-10,bolt_base_univariate,chronos2_univariate,64.24309646180905
+Маркетплейсы,3,2024-11,bolt_base_univariate,chronos2_univariate,155.59991187593369
+Маркетплейсы,3,2024-12,bolt_base_univariate,chronos2_univariate,202.19703996513954
+Маркетплейсы,6,2024-06,bolt_base_univariate,chronos2_univariate,-662.1867850167409
+Маркетплейсы,6,2024-07,bolt_base_univariate,chronos2_univariate,7.499082770480527
+Маркетплейсы,6,2024-08,bolt_base_univariate,chronos2_univariate,-44.407646756723125
+Маркетплейсы,6,2024-09,bolt_base_univariate,chronos2_univariate,-40.72693649231201
+Маркетплейсы,6,2024-10,bolt_base_univariate,chronos2_univariate,106.86660146523263
+Маркетплейсы,6,2024-11,bolt_base_univariate,chronos2_univariate,-11.967273241020393
+Маркетплейсы,6,2024-12,bolt_base_univariate,chronos2_univariate,114.68274898453046
+Маркетплейсы,12,2024-12,bolt_base_univariate,chronos2_univariate,1236.0203990633527
+Общественное питание,1,2024-01,bolt_base_univariate,chronos2_univariate,13.325892323041813
+Общественное питание,1,2024-02,bolt_base_univariate,chronos2_univariate,-6.626775688384157
+Общественное питание,1,2024-03,bolt_base_univariate,chronos2_univariate,-16.269987402684194
+Общественное питание,1,2024-04,bolt_base_univariate,chronos2_univariate,7.5511437982202025
+Общественное питание,1,2024-05,bolt_base_univariate,chronos2_univariate,-2.8174117190904298
+Общественное питание,1,2024-06,bolt_base_univariate,chronos2_univariate,12.533971019000177
+Общественное питание,1,2024-07,bolt_base_univariate,chronos2_univariate,26.51848076444223
+Общественное питание,1,2024-08,bolt_base_univariate,chronos2_univariate,2.628630801501032
+Общественное питание,1,2024-09,bolt_base_univariate,chronos2_univariate,-6.386286610151188
+Общественное питание,1,2024-10,bolt_base_univariate,chronos2_univariate,-6.233195027507158
+Общественное питание,1,2024-11,bolt_base_univariate,chronos2_univariate,2.893961294713719
+Общественное питание,1,2024-12,bolt_base_univariate,chronos2_univariate,-3.5112405298240645
+Общественное питание,3,2024-03,bolt_base_univariate,chronos2_univariate,-6.442735466824104
+Общественное питание,3,2024-04,bolt_base_univariate,chronos2_univariate,-9.419908926306476
+Общественное питание,3,2024-05,bolt_base_univariate,chronos2_univariate,-10.436646146128368
+Общественное питание,3,2024-06,bolt_base_univariate,chronos2_univariate,12.796538333968783
+Общественное питание,3,2024-07,bolt_base_univariate,chronos2_univariate,10.19610446762755
+Общественное питание,3,2024-08,bolt_base_univariate,chronos2_univariate,18.54204136821852
+Общественное питание,3,2024-09,bolt_base_univariate,chronos2_univariate,-7.3424366498848315
+Общественное питание,3,2024-10,bolt_base_univariate,chronos2_univariate,14.366323919410249
+Общественное питание,3,2024-11,bolt_base_univariate,chronos2_univariate,-4.5684297721224425
+Общественное питание,3,2024-12,bolt_base_univariate,chronos2_univariate,-4.211270944055798
+Общественное питание,6,2024-06,bolt_base_univariate,chronos2_univariate,-2.947745731898692
+Общественное питание,6,2024-07,bolt_base_univariate,chronos2_univariate,-6.1850586089479975
+Общественное питание,6,2024-08,bolt_base_univariate,chronos2_univariate,-3.587810744327385
+Общественное питание,6,2024-09,bolt_base_univariate,chronos2_univariate,7.229436228474782
+Общественное питание,6,2024-10,bolt_base_univariate,chronos2_univariate,12.501896892410826
+Общественное питание,6,2024-11,bolt_base_univariate,chronos2_univariate,34.25363678951187
+Общественное питание,6,2024-12,bolt_base_univariate,chronos2_univariate,45.50905189666139
+Общественное питание,12,2024-12,bolt_base_univariate,chronos2_univariate,-18.97926018730044
+Продовольствие,1,2024-01,bolt_base_univariate,chronos2_univariate,688.3448549551792
+Продовольствие,1,2024-02,bolt_base_univariate,chronos2_univariate,-124.44896585532877
+Продовольствие,1,2024-03,bolt_base_univariate,chronos2_univariate,-78.94300921314743
+Продовольствие,1,2024-04,bolt_base_univariate,chronos2_univariate,104.26033171999507
+Продовольствие,1,2024-05,bolt_base_univariate,chronos2_univariate,27.91976041147916
+Продовольствие,1,2024-06,bolt_base_univariate,chronos2_univariate,88.59900631847609
+Продовольствие,1,2024-07,bolt_base_univariate,chronos2_univariate,117.36159074638942
+Продовольствие,1,2024-08,bolt_base_univariate,chronos2_univariate,-132.22324179843127
+Продовольствие,1,2024-09,bolt_base_univariate,chronos2_univariate,-110.4479445499253
+Продовольствие,1,2024-10,bolt_base_univariate,chronos2_univariate,146.05990102091636
+Продовольствие,1,2024-11,bolt_base_univariate,chronos2_univariate,42.525892523655386
+Продовольствие,1,2024-12,bolt_base_univariate,chronos2_univariate,17.03707630415829
+Продовольствие,3,2024-03,bolt_base_univariate,chronos2_univariate,-435.1571059511952
+Продовольствие,3,2024-04,bolt_base_univariate,chronos2_univariate,-147.9876023250747
+Продовольствие,3,2024-05,bolt_base_univariate,chronos2_univariate,-117.71355593251997
+Продовольствие,3,2024-06,bolt_base_univariate,chronos2_univariate,60.002519219995065
+Продовольствие,3,2024-07,bolt_base_univariate,chronos2_univariate,-2.6626676886205587
+Продовольствие,3,2024-08,bolt_base_univariate,chronos2_univariate,44.11212377054278
+Продовольствие,3,2024-09,bolt_base_univariate,chronos2_univariate,-159.82818530565237
+Продовольствие,3,2024-10,bolt_base_univariate,chronos2_univariate,-208.4204179376245
+Продовольствие,3,2024-11,bolt_base_univariate,chronos2_univariate,-66.03627093189738
+Продовольствие,3,2024-12,bolt_base_univariate,chronos2_univariate,265.5338003454931
+Продовольствие,6,2024-06,bolt_base_univariate,chronos2_univariate,-618.8932621062748
+Продовольствие,6,2024-07,bolt_base_univariate,chronos2_univariate,-109.8963929438496
+Продовольствие,6,2024-08,bolt_base_univariate,chronos2_univariate,-56.468771398779836
+Продовольствие,6,2024-09,bolt_base_univariate,chronos2_univariate,-26.7530872603337
+Продовольствие,6,2024-10,bolt_base_univariate,chronos2_univariate,14.97346940363542
+Продовольствие,6,2024-11,bolt_base_univariate,chronos2_univariate,189.2106067915837
+Продовольствие,6,2024-12,bolt_base_univariate,chronos2_univariate,460.8593555465636
+Продовольствие,12,2024-12,bolt_base_univariate,chronos2_univariate,-143.67072986421135
+Транспорт,1,2024-01,bolt_base_univariate,chronos2_univariate,18.773476406872504
+Транспорт,1,2024-02,bolt_base_univariate,chronos2_univariate,4.023703890492712
+Транспорт,1,2024-03,bolt_base_univariate,chronos2_univariate,-13.076526170707794
+Транспорт,1,2024-04,bolt_base_univariate,chronos2_univariate,-16.626068236818355
+Транспорт,1,2024-05,bolt_base_univariate,chronos2_univariate,-6.009633098465514
+Транспорт,1,2024-06,bolt_base_univariate,chronos2_univariate,11.724886586466653
+Транспорт,1,2024-07,bolt_base_univariate,chronos2_univariate,20.747369409082438
+Транспорт,1,2024-08,bolt_base_univariate,chronos2_univariate,2.340399875108943
+Транспорт,1,2024-09,bolt_base_univariate,chronos2_univariate,-7.619814564982249
+Транспорт,1,2024-10,bolt_base_univariate,chronos2_univariate,9.490015767010078
+Транспорт,1,2024-11,bolt_base_univariate,chronos2_univariate,-2.399676805473419
+Транспорт,1,2024-12,bolt_base_univariate,chronos2_univariate,12.10505597239947
+Транспорт,3,2024-03,bolt_base_univariate,chronos2_univariate,7.272543128268168
+Транспорт,3,2024-04,bolt_base_univariate,chronos2_univariate,-7.288193660903261
+Транспорт,3,2024-05,bolt_base_univariate,chronos2_univariate,-15.881951077525855
+Транспорт,3,2024-06,bolt_base_univariate,chronos2_univariate,-9.511267430278906
+Транспорт,3,2024-07,bolt_base_univariate,chronos2_univariate,-2.7970226029476066
+Транспорт,3,2024-08,bolt_base_univariate,chronos2_univariate,4.268536449903479
+Транспорт,3,2024-09,bolt_base_univariate,chronos2_univariate,6.5459672540307565
+Транспорт,3,2024-10,bolt_base_univariate,chronos2_univariate,5.544213040416466
+Транспорт,3,2024-11,bolt_base_univariate,chronos2_univariate,13.540105325767229
+Транспорт,3,2024-12,bolt_base_univariate,chronos2_univariate,12.134833833610855
+Транспорт,6,2024-06,bolt_base_univariate,chronos2_univariate,-13.864881727430543
+Транспорт,6,2024-07,bolt_base_univariate,chronos2_univariate,-15.518983635769416
+Транспорт,6,2024-08,bolt_base_univariate,chronos2_univariate,-11.051017852418454
+Транспорт,6,2024-09,bolt_base_univariate,chronos2_univariate,-12.149392542136184
+Транспорт,6,2024-10,bolt_base_univariate,chronos2_univariate,8.162016728009803
+Транспорт,6,2024-11,bolt_base_univariate,chronos2_univariate,21.002680683515933
+Транспорт,6,2024-12,bolt_base_univariate,chronos2_univariate,27.26837960657369
+Транспорт,12,2024-12,bolt_base_univariate,chronos2_univariate,-20.18519156319752

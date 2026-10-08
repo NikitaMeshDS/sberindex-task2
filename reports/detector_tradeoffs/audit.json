@@ -1,0 +1,21 @@
+{
+  "input_sha256": {
+    "results/bocpd_summary.csv": "7c3fb5752995dc4c0ee32b79fc4b1465b01bc93724164ad628ae32eb0ec805d5",
+    "tools/detector_tradeoffs.py": "ea4790860add886b6997dc0ee3b04c209b14e5a21c276658495984664071fa20",
+    "configs/detectors.json": "77fa276b10e888bb80fc1f47112bd48169ac1bb1e7779b04f5fa34e2854d1a92",
+    "results/bocpd_protocol.json": "acc5aeff7d1a40d305bcb67def758d97918e730fbb1ebc241774750ff576d3d5"
+  },
+  "output_sha256": {
+    "capacity_illustrations.csv": "c2e7dcba10e4d02a33fd5d3254bd4b00c734e2957d2391c8e811aac73b380e97",
+    "scenario_envelopes.csv": "9d022f91becc01dc4cc6e62510ae394dab02d065c5d9f02a3c0f985e2475220b",
+    "scenario_frontiers.csv": "4ceccbb7759ca5c0cf6b9464484cd4671470ec2e5af09c68774bb2fe5bfda251",
+    "tradeoffs.png": "80688641b919f1de855024d75e2a93603b939a93e59a4b4ca3779189a659199c",
+    "tradeoffs.svg": "ac45eb77ff472e4978535319556642f015d8fe89303acaf52d6140f84c969d92"
+  },
+  "rows": {
+    "scenario_frontiers.csv": 180,
+    "scenario_envelopes.csv": 15,
+    "capacity_illustrations.csv": 9
+  },
+  "scope": "Descriptive retrospective appendix: 10-seed means, two signs and three hypothetical lags. Pareto is scenario-specific. Capacities are illustrations, not externally justified operating costs. No fitting, threshold tuning, promotion, independent validation or false-positive labels."
+}

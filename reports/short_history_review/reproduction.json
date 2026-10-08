@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "files_checked": 14,
+  "all_byte_identical": true,
+  "scope": "Actual numeric and graphic repeat of short-history detector and news-availability blocks in separately installed pinned environment. No network collector or legacy model retraining.",
+  "sha256": {
+    "reports/short_history_review/comparison.svg": "a35150464e323db77ae4ea48519a32b31c3f267a54b47fc374df97af653ef297",
+    "reports/short_history_review/comparison.png": "f00244b808562683fe70c9b46ad9254d0bee4d36a8b694894f5a90dc4960fa98",
+    "reports/short_history_review/series_metrics.csv": "c3a68d31857d0afeaad536e022200a9580a09dacd1bb5091f71f7fb7bffed49b",
+    "reports/short_history_review/comparison.csv": "b644559bc3165a659b30929fedbebf7d027ad76c6e110602ed22540af3f326f3",
+    "reports/short_history_review/synthetic_residuals.parquet": "d4f8cbaec6ebd953c5d1f8f08a275f9716d6afdbfa5ba1af2da6d1f317bd9ab5",
+    "reports/short_history_review/penalty_calibration.csv": "22f1fdb166b4356605cf8e15f5b5923fc990833fbc9f97e4ee65cbe820235107",
+    "reports/news_alert_lead/coverage.csv": "f42b569ebd24e455073a80ea492ade430085a44af442ee2830e47d7d0ed8c03a",
+    "reports/news_alert_lead/availability.svg": "dd8036046efd1139ae03ef9ef890b64d19382f2821bfe03db1f6f09ca85aa178",
+    "reports/news_alert_lead/availability.png": "013a3e91c6d5e0415eb6476eb0228ad884c72f7905383268064c6b7c20824459",
+    "reports/news_alert_lead/monitoring_burden.csv": "90b6063f0078b1d649768b06c51a19b9d8b33c751ffaaf4021f5222331800387",
+    "reports/news_alert_lead/real_alarms.csv": "fa530352177c68870b4323b24270ef429b6ad89e2a3060bf18d44875027f9a97",
+    "reports/news_alert_lead/conditional_summary.csv": "abe61fb3790c11505614e30fce5abb7a7431502e41660610228f09e7390eac4d",
+    "reports/news_alert_lead/claim_lead_times.csv": "e42fec6a8a76ec547c50c8e2d409af95347061e72ebda48be22843ebd265da1c",
+    "reports/news_alert_lead/orsk_orenburg.csv": "90ba311f4892fa3ea593ca49aa25dd8ed3c22714ecbc7e49c9f1c312484a2a6d"
+  }
+}

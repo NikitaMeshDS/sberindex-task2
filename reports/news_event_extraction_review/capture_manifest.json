@@ -1,0 +1,72 @@
+[
+  {
+    "path": "data/external/news_event_extraction_review/moscow_reform.response",
+    "bytes": 18436461,
+    "sha256": "561e37df9b701e0eab270b339880fd3605c54d67afafe4451ca336db3f07b96e"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/reform_registry.csv",
+    "bytes": 1910,
+    "sha256": "92a4d04ec4ed25a634de46a3c2261fabbabdbb397562c564f4141d4b384baffe"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/moscow_reform.txt",
+    "bytes": 801811,
+    "sha256": "2d4a5d44327d94537441b57b1ab3a7970a588c0fe56a6f8e6bfb3db3cab85351"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/gkg_15min.response",
+    "bytes": 6002973,
+    "sha256": "e0878ab8831b3f5cdf8fa28765eaff8f0210435f9836d643fd6197e7c00d1aea"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/gkg_russian_metadata.tsv",
+    "bytes": 582461,
+    "sha256": "c7aad0eb58238f5b0b5a0818cfe589c974876ead83358cc081e55794f2bd5006"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/prompt.txt",
+    "bytes": 919,
+    "sha256": "42b960630ebe5dea8d45293280806d14a6157409f3130714d1f560266eba5d21"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/gkg_ru_metadata.tsv",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/llm_outputs.json",
+    "bytes": 17074,
+    "sha256": "6f6c4db54c0ed7e94b54c4d41465c96adabff428d07100edbce1afc12400851c"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/local_model_manifest.json",
+    "bytes": 466,
+    "sha256": "83b696b82ebdf0556d19631e9e150094f627d89ff139179557b9acd9025edaf9"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/extraction_inputs.json",
+    "bytes": 85776,
+    "sha256": "9ca4afd748fb697901ad160c31e14b8e1820a2dbfaf2bed460f6d6fd4f0f7363"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/gdelt_access_audit.json",
+    "bytes": 982,
+    "sha256": "881ce91747f3ad8ee070d475f011ade35eaa9edd3ad3aeaee87c80d4f061631a"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/translation_gkg.response",
+    "bytes": 5252154,
+    "sha256": "e42fa581ac6a42fb030fe0edb910229cfbb2749891d9d825d1e33930157f92c3"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/translation_gkg_audit.json",
+    "bytes": 408,
+    "sha256": "68ac0a2b8c1645836dc19b1f0c9af81448ce24f791f90470794050bffdd8ba6c"
+  },
+  {
+    "path": "data/external/news_event_extraction_review/official_source_research.json",
+    "bytes": 36022,
+    "sha256": "0f9c2dea91e46ee1478bec5b959f92dc6245252196c2e5537fb171456ef043c1"
+  }
+]

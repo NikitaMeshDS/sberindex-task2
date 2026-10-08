@@ -1,0 +1,3 @@
+# Local model weights: predictions, manifests and training provenance are versionable.
+bolt_finetuned_checkpoint/
+bolt_finetuned_epoch1_checkpoint/

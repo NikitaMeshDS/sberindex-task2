@@ -1,0 +1,1 @@
+"""SberIndex municipal spending research."""

@@ -1,0 +1,420 @@
+{
+  "mode": "refresh",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.5.2-arm64-arm-64bit",
+  "started_at": "2026-10-06T10:08:32.501813+00:00",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "pyarrow": "25.0.1",
+    "scikit-learn": "1.9.1",
+    "prophet": "1.4.0",
+    "chronos-forecasting": "2.3.2",
+    "torch": "2.14.0",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5",
+    "reportlab": "4.4.9"
+  },
+  "steps": [
+    {
+      "script": "news_alignment.py",
+      "module": "sberindex.external.news_alignment",
+      "seconds": 0.972,
+      "exit_code": 0
+    },
+    {
+      "script": "news_corpus_audit.py",
+      "module": "sberindex.external.news_corpus_audit",
+      "seconds": 8.791,
+      "exit_code": 0
+    },
+    {
+      "script": "external_data.py",
+      "module": "sberindex.external.external_data",
+      "seconds": 3.329,
+      "exit_code": 0
+    },
+    {
+      "script": "news_registry.py",
+      "module": "sberindex.external.news_registry",
+      "seconds": 1.098,
+      "exit_code": 0
+    },
+    {
+      "script": "weather_news_audit.py",
+      "module": "sberindex.external.weather_news_audit",
+      "seconds": 8.573,
+      "exit_code": 0
+    },
+    {
+      "script": "weather_body_audit.py",
+      "module": "sberindex.external.weather_body_audit",
+      "seconds": 1.18,
+      "exit_code": 0
+    },
+    {
+      "script": "seasonal_news_alignment.py",
+      "module": "sberindex.external.seasonal_news_alignment",
+      "seconds": 1.345,
+      "exit_code": 0
+    },
+    {
+      "script": "interpretation.py",
+      "module": "sberindex.reporting.interpretation",
+      "seconds": 2.017,
+      "exit_code": 0
+    },
+    {
+      "script": "category_full.py",
+      "module": "sberindex.forecasting.category_full",
+      "seconds": 3.528,
+      "exit_code": 0
+    },
+    {
+      "script": "real_event_case.py",
+      "module": "sberindex.reporting.real_event_case",
+      "seconds": 1.062,
+      "exit_code": 0
+    },
+    {
+      "script": "summarize_results.py",
+      "module": "sberindex.forecasting.summarize_results",
+      "seconds": 3.848,
+      "exit_code": 0
+    },
+    {
+      "script": "forecast_audit.py",
+      "module": "sberindex.forecasting.forecast_audit",
+      "seconds": 2.43,
+      "exit_code": 0
+    },
+    {
+      "script": "survivorship_audit.py",
+      "module": "sberindex.forecasting.survivorship_audit",
+      "seconds": 1.566,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_hgb_12m.py",
+      "module": "sberindex.forecasting.asof_hgb_12m",
+      "seconds": 5.412,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_cohort_summary.py",
+      "module": "sberindex.forecasting.asof_cohort_summary",
+      "seconds": 5.036,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_regional_forecast.py",
+      "module": "sberindex.forecasting.asof_regional_forecast",
+      "seconds": 4.504,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_month_robustness.py",
+      "module": "sberindex.forecasting.asof_month_robustness",
+      "seconds": 0.948,
+      "exit_code": 0
+    },
+    {
+      "script": "news_pair_eligibility.py",
+      "module": "sberindex.external.news_pair_eligibility",
+      "seconds": 1.288,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_reporting_delay.py",
+      "module": "sberindex.forecasting.asof_reporting_delay",
+      "seconds": 159.418,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_regional_delay.py",
+      "module": "sberindex.forecasting.asof_regional_delay",
+      "seconds": 4.033,
+      "exit_code": 0
+    },
+    {
+      "script": "regional_seasonality.py",
+      "module": "sberindex.forecasting.regional_seasonality",
+      "seconds": 28.284,
+      "exit_code": 0
+    },
+    {
+      "script": "regional_blend.py",
+      "module": "sberindex.forecasting.regional_blend",
+      "seconds": 1.674,
+      "exit_code": 0
+    },
+    {
+      "script": "robust_anchor.py",
+      "module": "sberindex.forecasting.robust_anchor",
+      "seconds": 4.497,
+      "exit_code": 0
+    },
+    {
+      "script": "adaptive_forecast.py",
+      "module": "sberindex.forecasting.adaptive_forecast",
+      "seconds": 1.701,
+      "exit_code": 0
+    },
+    {
+      "script": "online_bias_correction.py",
+      "module": "sberindex.forecasting.online_bias_correction",
+      "seconds": 7.321,
+      "exit_code": 0
+    },
+    {
+      "script": "deseasonal_hgb.py",
+      "module": "sberindex.forecasting.deseasonal_hgb",
+      "seconds": 7.057,
+      "exit_code": 0
+    },
+    {
+      "script": "operational_audit.py",
+      "module": "sberindex.forecasting.operational_audit",
+      "seconds": 1.052,
+      "exit_code": 0
+    },
+    {
+      "script": "online_intervals.py",
+      "module": "sberindex.forecasting.online_intervals",
+      "seconds": 1.388,
+      "exit_code": 0
+    },
+    {
+      "script": "calendar_audit.py",
+      "module": "sberindex.forecasting.calendar_audit",
+      "seconds": 5.993,
+      "exit_code": 0
+    },
+    {
+      "script": "foundation_seasonal_audit.py",
+      "module": "sberindex.forecasting.foundation_seasonal_audit",
+      "seconds": 3.177,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_distribution_audit.py",
+      "module": "sberindex.forecasting.asof_distribution_audit",
+      "seconds": 37.566,
+      "exit_code": 0
+    },
+    {
+      "script": "foundation_delay_audit.py",
+      "module": "sberindex.forecasting.foundation_delay_audit",
+      "seconds": 3.402,
+      "exit_code": 0
+    },
+    {
+      "script": "operational_early_audit.py",
+      "module": "sberindex.forecasting.operational_early_audit",
+      "seconds": 3.033,
+      "exit_code": 0
+    },
+    {
+      "script": "regional_news_experiment.py",
+      "module": "sberindex.external.regional_news_experiment",
+      "seconds": 9.064,
+      "exit_code": 0
+    },
+    {
+      "script": "change_scope_audit.py",
+      "module": "sberindex.detection.change_scope_audit",
+      "seconds": 2.912,
+      "exit_code": 0
+    },
+    {
+      "script": "event_attribution_audit.py",
+      "module": "sberindex.detection.event_attribution_audit",
+      "seconds": 2.783,
+      "exit_code": 0
+    },
+    {
+      "script": "asof_detector_audit.py",
+      "module": "sberindex.detection.asof_detector_audit",
+      "seconds": 14.946,
+      "exit_code": 0
+    },
+    {
+      "script": "detector_delay_audit.py",
+      "module": "sberindex.detection.detector_delay_audit",
+      "seconds": 9.696,
+      "exit_code": 0
+    },
+    {
+      "script": "bocpd_audit.py",
+      "module": "sberindex.detection.bocpd_audit",
+      "seconds": 40.125,
+      "exit_code": 0
+    },
+    {
+      "script": "real_event_registry.py",
+      "module": "sberindex.external.real_event_registry",
+      "seconds": 1.769,
+      "exit_code": 0
+    },
+    {
+      "script": "hierarchical_changes.py",
+      "module": "sberindex.detection.hierarchical_changes",
+      "seconds": 3.869,
+      "exit_code": 0
+    },
+    {
+      "script": "forecast_residual_changes.py",
+      "module": "sberindex.detection.forecast_residual_changes",
+      "seconds": 4.227,
+      "exit_code": 0
+    },
+    {
+      "script": "shift_confirmation.py",
+      "module": "sberindex.detection.shift_confirmation",
+      "seconds": 2.794,
+      "exit_code": 0
+    },
+    {
+      "script": "build_figures.py",
+      "module": "sberindex.reporting.build_figures",
+      "seconds": 8.297,
+      "exit_code": 0
+    },
+    {
+      "script": "research_hypothesis_figures.py",
+      "module": "sberindex.reporting.research_hypothesis_figures",
+      "seconds": 5.901,
+      "exit_code": 0
+    },
+    {
+      "script": "verify_artifacts.py",
+      "module": "sberindex.reporting.verify_artifacts",
+      "seconds": 116.984,
+      "exit_code": 0
+    },
+    {
+      "script": "tools/detector_tradeoffs.py",
+      "module": null,
+      "seconds": 2.764,
+      "exit_code": 0
+    },
+    {
+      "script": "tools/residual_feature_experiment.py",
+      "module": null,
+      "seconds": 21.161,
+      "exit_code": 0
+    },
+    {
+      "script": "tools/plot_residual_features.py",
+      "module": null,
+      "seconds": 1.534,
+      "exit_code": 0
+    },
+    {
+      "script": "tools/operational_workflow.py",
+      "module": null,
+      "seconds": 466.793,
+      "exit_code": 0
+    },
+    {
+      "script": "tools/plot_operational_workflow.py",
+      "module": null,
+      "seconds": 2.837,
+      "exit_code": 0
+    }
+  ],
+  "code_sha256": {
+    "run_pipeline.py": "4042121d0506fbebdd195502b3ef47d2ba9c2d4038c2e37c8d5ffb434d4e9fc5",
+    "src/sberindex/__init__.py": "0c01bce6d7c76a37ad64ca359e6d01d219acb85f3a37a8c67bd7d21b281fb59a",
+    "src/sberindex/detection/__init__.py": "0c01bce6d7c76a37ad64ca359e6d01d219acb85f3a37a8c67bd7d21b281fb59a",
+    "src/sberindex/detection/asof_detector_audit.py": "0b876226295bb035f6b5ae74469a8736296cdaeda7ba33b18ff0f766cfceeb0c",
+    "src/sberindex/detection/bocpd_audit.py": "e8ecab25bf1adfb19be9e02a73d31f0e65f3190154791c91a1017398f0aa4bf0",
+    "src/sberindex/detection/change_detection.py": "c17a038045a2b4bc245295a6bd2c6551d451deb9e28ee5529807d5b1519c7182",
+    "src/sberindex/detection/change_robustness.py": "7fb33b5e548cc440e0bd36510766a55427e88d49b7ff3b585fc231fcee687a0f",
+    "src/sberindex/detection/change_scope_audit.py": "75fdeb5fd980f9940384df29c5bfe6855e3b54cb0d02fca3246feebad36617a3",
+    "src/sberindex/detection/detector_delay_audit.py": "90e277e31f907d3148b330b4bb3ac070d8936dea31351e44c7dffc0997d6ef72",
+    "src/sberindex/detection/detector_settings.py": "9d23dd4b49dcbb1c011257f072f43cdfe54944c23e04725565d68e5e58e2f4d5",
+    "src/sberindex/detection/event_attribution_audit.py": "eff2c3927c6ce6264cd51ff3417407d257a31ad644021c6708ffaecb2369acd4",
+    "src/sberindex/detection/event_metric_review.py": "e3a28889906bf4c2ace59c5f99d605177bc226eba217e9f543264cf13565b7e2",
+    "src/sberindex/detection/forecast_residual_changes.py": "5f41f7eeb58845e8af0a6d22d79f3a7f28083c58252d332afa71b05197747b14",
+    "src/sberindex/detection/hierarchical_changes.py": "90db9d850ef9a9a59ec3f6f4e85e9fcaf1de15d88795f586041f941cf07609c9",
+    "src/sberindex/detection/real_alerts.py": "2a52c40cb1fbfae7412dff9e5c7d368d7fa5f8959b00eeec909415f5bf9be534",
+    "src/sberindex/detection/shift_confirmation.py": "5debf34f5e62f306f68697000c946cdc613e388e0749ee80fef20aeacb768d39",
+    "src/sberindex/external/__init__.py": "0c01bce6d7c76a37ad64ca359e6d01d219acb85f3a37a8c67bd7d21b281fb59a",
+    "src/sberindex/external/collect_warm_season.py": "960b25dac14cc3c05a45a5fd91574bc99a5779f2b21000575dfda28a979f0c69",
+    "src/sberindex/external/collect_weather_bodies.py": "ced9c5eefa94ea019bd0e1ecbed7cfab217f2a0889cd585b3ea277444d9a6534",
+    "src/sberindex/external/collect_weather_news.py": "26d58a74511b706849fbe3a1e418347df946486a936ec87a75a3ab8a4ef6cdb4",
+    "src/sberindex/external/external_data.py": "5182cd3cb1c514351c0c39f78984784e6e82bf05ccd971dd2a6338ce566f22dc",
+    "src/sberindex/external/news_ablation.py": "441fc08c4c5701d98e9b0b052126205bfa3c6cdf4b7e23dce6d0ed4ef891f6f8",
+    "src/sberindex/external/news_alignment.py": "0b0ddbb2f439a260b15448148ca270d09b7b31e20949d78afaf18eb2e3dde91f",
+    "src/sberindex/external/news_corpus_audit.py": "dddd0e4f67e2c3fddaf891574b943424cb331ea5bac34e22efdf529c112d803d",
+    "src/sberindex/external/news_pair_eligibility.py": "2fa857382e83e6e598777d60d36f63f0aac8371ce50754192d8adcb234b132f2",
+    "src/sberindex/external/news_registry.py": "5db0c26cacc12fce9f825788e8d4df179253a83eddb729e481e89680defb5926",
+    "src/sberindex/external/real_event_registry.py": "8ae26a26dfafebb4b0c82ef33d42225b86b2c6cbfbf44024e98da325d30c4c83",
+    "src/sberindex/external/regional_news_experiment.py": "8330fe3f3dca88e13452e4ac1c65b63209b6135e920e54ed9fa110421af7aa1c",
+    "src/sberindex/external/regional_news_review.py": "ff237a409de0db20d3c50140fc7b4ac22ad5f3954070a2eb662b7b6d89abf9c7",
+    "src/sberindex/external/seasonal_news_alignment.py": "f8b067ed4a0834256f9b5065c2971dd5325cc8416622d604a28131c9c78663ff",
+    "src/sberindex/external/weather_body_audit.py": "2323cc22151447ff5b1cee3af1efaf9eb5fc350b2a64a4bd3efe0e225df3b7d3",
+    "src/sberindex/external/weather_news_audit.py": "9a9a59e0e021c70fb7cb9c9b9f0f7cf78b802f1ef9f8cc3c62bec469320cb0b9",
+    "src/sberindex/forecasting/__init__.py": "0c01bce6d7c76a37ad64ca359e6d01d219acb85f3a37a8c67bd7d21b281fb59a",
+    "src/sberindex/forecasting/adaptive_forecast.py": "7a02f90c5bf60baaa82445425198231e6a5e372c9816acb1d60362dc15824f96",
+    "src/sberindex/forecasting/asof_cohort_forecast.py": "8fd93e7cdd26ea78c4e14b115f372ca897edca5b87135ddcafbec25f0d4f72cd",
+    "src/sberindex/forecasting/asof_cohort_summary.py": "a4560e404f95880db4c6f2c40130708aa048dfce49d9035a5c06fbfe766a91cb",
+    "src/sberindex/forecasting/asof_distribution_audit.py": "cb344e508e5436ab78947a7285501f44ae5589960ccc2df0f48125d6c4139ea7",
+    "src/sberindex/forecasting/asof_foundation_forecast.py": "7af1e2cedc6f23bd2807d1bfbcb518c76972d024f74b2d097f5c2db19f3204fd",
+    "src/sberindex/forecasting/asof_hgb_12m.py": "c61fd5bcffb59a81a7f608ed13327c43e8feb33d83a2a6cb29a2e3003193e71e",
+    "src/sberindex/forecasting/asof_month_robustness.py": "78e4e500448f800510a4770b41eb6da30b22634256ffc7e05548172e20425a82",
+    "src/sberindex/forecasting/asof_regional_delay.py": "f3449d1d4c38f815806a59f92afa887c402a6aa52dbe4cb9742d19ed880cd118",
+    "src/sberindex/forecasting/asof_regional_forecast.py": "260dd151b7610eba442fb398a10172985b4e514f019fbc71cc3b062d9b1a8b5c",
+    "src/sberindex/forecasting/asof_reporting_delay.py": "302fa8dc28add53cb3e2fa5b0cc19b03f7bd9e992449d34e8e518ec15cdceef8",
+    "src/sberindex/forecasting/benchmark_rolling.py": "4a80c31a6422b654092050d2ac8864e466e46bafa8c1d086344b18b39a026b3c",
+    "src/sberindex/forecasting/calendar_audit.py": "cefff349db5cca9dd9acc326a0b7450b6433844d4a13933a4033a06298899880",
+    "src/sberindex/forecasting/category_benchmark.py": "875f14d5f8402e3694b962d927bdab124b7723bdadeea5094b7d1d1462ec7c6f",
+    "src/sberindex/forecasting/category_full.py": "5ca1c45841508cef4b36d028cfb9bec590c4d9bfe4fee141f340006b32c6b1df",
+    "src/sberindex/forecasting/chronos2_rolling.py": "1673d9419c42500496db83126286d2aec14429d333c74ab1bdc170b9931461df",
+    "src/sberindex/forecasting/deseasonal_hgb.py": "40a38ece73aa266324d4a445404b84f15aa58bd9abf544f3357de283d2cd3114",
+    "src/sberindex/forecasting/direct_horizon_review.py": "6bf068a75a87b12083cb80c04422722f663c0cdb03d59e6d5c1b606ee5c81192",
+    "src/sberindex/forecasting/forecast_audit.py": "e8b03946abb314248e87ca944eca504bd4b1989dc5aafeaa49c0c2b4258d83c5",
+    "src/sberindex/forecasting/foundation_covariate_review.py": "da0f3f13561cbb4c00619d7985c23c772c317deb3bb38f6ff6fcb857a17a651f",
+    "src/sberindex/forecasting/foundation_covariate_review_report.py": "692930ad81daf714bd8ac78346de28d33f42e296a7c422188c9a762e75b7d062",
+    "src/sberindex/forecasting/foundation_delay_audit.py": "32c878233cbe21502b9ddd32a5e1588f1c495ea50768da179c5c768b65500df4",
+    "src/sberindex/forecasting/foundation_seasonal_audit.py": "f64d1cab5561495c0c7c24f3eb923ad775dd2f19bfe77a3c7e015a21b44791ec",
+    "src/sberindex/forecasting/full_cohort_review.py": "7d05776f64844687a028e022dcf3c052271bb3ea371d34678187f64b687b071b",
+    "src/sberindex/forecasting/geographic_extension.py": "6f66c4ccd1c9c331e40a58432cb610832411335099bae529cf237a24a6198d8f",
+    "src/sberindex/forecasting/grouped_intervals.py": "cbf4aca42ec4c665985deabf81b9b900e820a222df32d280c2e564ce1f5f5638",
+    "src/sberindex/forecasting/hgb_12m.py": "a0f347b3ad221eff79cfe22762bb451165add5a09ebfc19c16313b48bd183066",
+    "src/sberindex/forecasting/hierarchical_review.py": "3652152788da9b89c8d43b9da0b04b6971a82f863e865b82ebd8f821a5c81ac4",
+    "src/sberindex/forecasting/interval_calibration.py": "798ce9356c25314fa9708f541b530d04f3dd953833b2f51b373c492e4fa5587f",
+    "src/sberindex/forecasting/online_bias_correction.py": "35f5ecf70fa10d5f649de268296b6ec17c203e6827332d8fa9ff6a303f3254a4",
+    "src/sberindex/forecasting/online_intervals.py": "e0e04467d80294e4a653b4b35eed7d1c984b0d4e4e0efc1adf9799b47077c345",
+    "src/sberindex/forecasting/operational_audit.py": "5da000c93f9da3b5600e9fce4af2171898ae5b21501962d9e9faf9f4173807da",
+    "src/sberindex/forecasting/operational_early_audit.py": "b0508bbbaa9072bdf8188f67a14d0cd698532eb178478a3fa4c9918514374db6",
+    "src/sberindex/forecasting/prophet_backend.py": "d5d783e2118975f84516f0cb9bbde17bad363bf2325085650fa74fbd7c780224",
+    "src/sberindex/forecasting/prophet_seasonality.py": "d47e3cbe7d65e49135d5ce6f526af769ea3ef3a02ee88c9378fd3919766befa3",
+    "src/sberindex/forecasting/regional_blend.py": "25f12bb7bef9324e001f20ac659f902b5ccc47354bb1e4e0b2b7e420c8539d93",
+    "src/sberindex/forecasting/regional_seasonality.py": "f3e6cc15e2ff74e3e98998b506264fb284ef1f96cbf2042a78c13945456cd23f",
+    "src/sberindex/forecasting/robust_anchor.py": "e8cb9b4c9cfc65e3d8728c7ae2ee08c8076a35c0ffdd5835baef14af005c0e78",
+    "src/sberindex/forecasting/summarize_results.py": "de4b785763563be9685f64406f168b5dc6f1abf6ca71135e2e5f9618f1634926",
+    "src/sberindex/forecasting/survivorship_audit.py": "c3488276b9db1fd24dfacbc16711252f170b8eb2b4ad119514bb6bc33eaa35dc",
+    "src/sberindex/input_integrity.py": "84abed71eb5e2344cf531cc9751e28a023804f062722b139ad7431a793bc1611",
+    "src/sberindex/paths.py": "e20159ebb6ae0baa8f5fe77efb1d935cb5e7ebb5b76223e2be4c90c605d37574",
+    "src/sberindex/reporting/__init__.py": "0c01bce6d7c76a37ad64ca359e6d01d219acb85f3a37a8c67bd7d21b281fb59a",
+    "src/sberindex/reporting/build_figures.py": "84f23a48a88a2a0b44a1ddb22046e4a5165917b1621ba2799fe65778fd586c19",
+    "src/sberindex/reporting/build_presentation.py": "483065d0a01c6c3c2d1e7366e18aa292fb9ba9585f4ac006b4ff7a2ee6b26588",
+    "src/sberindex/reporting/interpretation.py": "b285c084fbb62707b12f93dac71e7d77acdc1d8adf48ce28cfb99fbc1585c7bc",
+    "src/sberindex/reporting/real_event_case.py": "39ca32f42fccdc61f79d8074dcc061b0b959072019843d494b8662d9938de1d5",
+    "src/sberindex/reporting/reproduce_check.py": "a01ca43a77e86a037458f1bc4b15aeba365b9eea2b6fe5e329db82cdd5c87597",
+    "src/sberindex/reporting/research_hypothesis_figures.py": "fc5ea9de4ef6fd357f0de5e015a91797208bb8c5fc3cddb0bf985d0f01ad3e5b",
+    "src/sberindex/reporting/verify_artifacts.py": "37ee2141cfee99587af4970629518e452e69d9ef7ee5f069db77255fb1199af4",
+    "tools/compare_full_retrain.py": "3f38d126ececfca2be250ec9dda7fabaae7cee1ac90dc13475bc2f36abd80b59",
+    "tools/detector_tradeoffs.py": "ea4790860add886b6997dc0ee3b04c209b14e5a21c276658495984664071fa20",
+    "tools/operational_workflow.py": "4e9c89a86a4919aef2d65c9160a27868344caaa291a2459e48251f2d29cf6e96",
+    "tools/plot_operational_workflow.py": "4aa31e5a8bb0697d27e021dd5593a273f120fa1967a302eb25bed79462ca196f",
+    "tools/plot_residual_features.py": "3e1c34bc90083babb3d69195526ab078ee79337ad2a145b8b9caa7623a8a9536",
+    "tools/residual_feature_experiment.py": "90c90d7c0e42f3c235316d8863a26331944e5fb4ce4ba2f54c513f3861028d88",
+    "tools/statistical_evidence_audit.py": "9d56cd4b87a78176bddae32f6ffc2327cf83cb78a98ae1a15adecc16b485a08f",
+    "tools/verify_prophet_backend.py": "cf8e63517007814506a5cbd04eaf35ad09be69395d0dc8544b3411bf98bb5a10"
+  },
+  "config_sha256": "b2a2c1e72ba44449930fa192ed1d6b59d359fd59d4550e7cd1733bab505f39e2",
+  "source_manifest_sha256": "b9225e69e2c6134d23d7c0071f51c5c75a4de804d7c51d217a31d933c5e6e398"
+}

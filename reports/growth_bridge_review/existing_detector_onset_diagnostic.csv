@@ -1,0 +1,15 @@
+split,method,onset_series,onsets_detected,onset_recall
+evaluation,bocpd,720,48,0.06666666666666667
+evaluation,cusum,720,486,0.675
+evaluation,ewma,720,479,0.6652777777777777
+evaluation,kernelcpd,720,296,0.4111111111111111
+evaluation,pelt,720,584,0.8111111111111111
+evaluation,rolling_3m,720,362,0.5027777777777778
+evaluation,spike,720,471,0.6541666666666667
+selection,bocpd,240,13,0.05416666666666667
+selection,cusum,240,163,0.6791666666666667
+selection,ewma,240,162,0.675
+selection,kernelcpd,240,100,0.4166666666666667
+selection,pelt,240,196,0.8166666666666667
+selection,rolling_3m,240,113,0.4708333333333333
+selection,spike,240,156,0.65

@@ -1,0 +1,117 @@
+{
+  "command": "OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 PYTHONPATH=src ../venv/bin/python -m sberindex.external.regional_news_review",
+  "verification": "OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 PYTHONPATH=src ../venv/bin/python -m unittest discover -s tests -p test_regional_news_review.py -v",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "sklearn": "1.9.1",
+  "deterministic_seed": 20260930,
+  "fit_threads": 2,
+  "files": [
+    {
+      "path": "data/external/regional_news_review/registry.csv",
+      "sha256": "3b3913470906f6bd0cf88ce410573988295f859987858c661ff41dbcb5e5bf48",
+      "bytes": 21728
+    },
+    {
+      "path": "data/external/regional_news_review/protocol.json",
+      "sha256": "0cdff3d7272135307a69b55b83a9025493474d538511887c95ecf7f5ce75aef0",
+      "bytes": 1484
+    },
+    {
+      "path": "data/external/regional_news_review/capture_manifest.json",
+      "sha256": "c2d6fdf7a97850a0878ebf3d8f6b515a6cafc3a75ac792efff375d3b1dc2d78b",
+      "bytes": 13930
+    },
+    {
+      "path": "results/municipal_lookup.csv",
+      "sha256": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+      "bytes": 1533598
+    },
+    {
+      "path": "data/consumption.parquet",
+      "sha256": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+      "bytes": 2373939
+    },
+    {
+      "path": "src/sberindex/external/regional_news_review.py",
+      "sha256": "20236e8e4debbf9a7dd4a07402831ff54e6d971824a99c134ceb73efeab5d8fc",
+      "bytes": 30827
+    },
+    {
+      "path": "tests/test_regional_news_review.py",
+      "sha256": "4765c8d6d16ab4f5ead832e28a270858bca9f68f793d47988fa0d0c9bb3880a9",
+      "bytes": 6401
+    },
+    {
+      "path": "reports/regional_news_review/ablation_audit.json",
+      "sha256": "ddb07b7efdcb3cb41d76a6412738f5e3efbfea079fc35dd60f5263d0c734fd9a",
+      "bytes": 696
+    },
+    {
+      "path": "reports/regional_news_review/REPORT.md",
+      "sha256": "f7dc2a0ecbede276e3e57be65de1e5e94baf08a42a8b2b6990343e57181a7c84",
+      "bytes": 16789
+    },
+    {
+      "path": "reports/regional_news_review/ablation_monthly.csv",
+      "sha256": "9e6b50b5178587ab0d52e2c40b8d29dce34bf4826b83ebbddd8f92f4874886d2",
+      "bytes": 1040
+    },
+    {
+      "path": "reports/regional_news_review/ablation_summary.csv",
+      "sha256": "23275156da877c2eb927bcea3768c8fa52526cd436babd50c542299653713ad4",
+      "bytes": 555
+    },
+    {
+      "path": "reports/regional_news_review/asof_features.csv",
+      "sha256": "34589d9c922bc642b1222013fa31098c064f68992e2637cb4b083b142dc076bb",
+      "bytes": 1147039
+    },
+    {
+      "path": "reports/regional_news_review/claim_exposures.csv",
+      "sha256": "a160e46da62a8262f8b2068976960d2b1fd15dbf1b0cfef3f902134d0cd72c05",
+      "bytes": 8886
+    },
+    {
+      "path": "reports/regional_news_review/event_alignment.csv",
+      "sha256": "69db186bc2d0732e53e7c0e278aca6102091a18c6625e4f2188638369e53315e",
+      "bytes": 6703
+    },
+    {
+      "path": "reports/regional_news_review/geography_audit.csv",
+      "sha256": "659af05cc6596782d3942322439a6c1a1affa3639044e47b8e5313e2bf7676f9",
+      "bytes": 3459
+    },
+    {
+      "path": "reports/regional_news_review/pair_coverage.csv",
+      "sha256": "0993c11070fb5469d87c41cc71b97ceddd1d75bc9b0560f7b409994cf4a59199",
+      "bytes": 1134
+    },
+    {
+      "path": "reports/regional_news_review/unresolved_mentions.csv",
+      "sha256": "409280dc8b693034deb12a6ee3a62d4fcf916190fbd4f84d1aaabd3691e7c59a",
+      "bytes": 539
+    },
+    {
+      "path": "reports/regional_news_review/predictions.parquet",
+      "sha256": "1b4000fcd112de6ab9d1f7f6755beeb4364a75f9e996c0e6380df53fb8e99c13",
+      "bytes": 1113340
+    }
+  ],
+  "acquisition": "web-tool text extraction preserved; no raw HTML claim; existing six official snapshots reused",
+  "discovery": "event-selected manual official/reliable-source search; no source-universe enumeration",
+  "chronology_only_source": "source_27.web.json: tanker distress Dec15; not a municipality exposure or forecasting feature",
+  "corpus": {
+    "claim_region_rows": 30,
+    "source_documents": 27,
+    "regions": 13,
+    "episodes": 21,
+    "explicit_municipal_ids": 24,
+    "readable_captures": 28,
+    "failed_excluded_captures": 5
+  },
+  "frozen_dataset": "existing 2023-2024 expense snapshot; no outcome relabeling",
+  "historical_vintage_verified": false,
+  "independent_holdout": false
+}

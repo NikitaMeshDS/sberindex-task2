@@ -1,0 +1,153 @@
+{
+  "status": "passed",
+  "actual_model_reruns_after_formatting": true,
+  "scope": "Event detectors, hierarchy, direct horizons, spatial features and all foundation variants; timing traces excluded",
+  "ast_proof": "reports/code_style_review/ast_equivalence.json",
+  "numeric_files": [
+    {
+      "path": "reports/direct_horizon_review/date_sensitivity.csv",
+      "reference_sha256": "86a1546bcc05a18812bbe555f89af301a932d3827ac46dfd0cfab0dbd3734def",
+      "current_sha256": "86a1546bcc05a18812bbe555f89af301a932d3827ac46dfd0cfab0dbd3734def",
+      "exact": true
+    },
+    {
+      "path": "reports/direct_horizon_review/monthly.csv",
+      "reference_sha256": "d1cd0bada6f0970b3a843f6b6e381b9e36e2ae916d8a7a5227e97f9afb560572",
+      "current_sha256": "d1cd0bada6f0970b3a843f6b6e381b9e36e2ae916d8a7a5227e97f9afb560572",
+      "exact": true
+    },
+    {
+      "path": "reports/direct_horizon_review/predictions.parquet",
+      "reference_sha256": "c6738aedb0459e7a66b0d3ddd68ae0c93e4b625d5764b613f6227d1d2a377b21",
+      "current_sha256": "c6738aedb0459e7a66b0d3ddd68ae0c93e4b625d5764b613f6227d1d2a377b21",
+      "exact": true
+    },
+    {
+      "path": "reports/direct_horizon_review/summary.csv",
+      "reference_sha256": "37941a7c1ccaac39833ababed7a4cc940723270b9becc3145c4329b9f967ea56",
+      "current_sha256": "37941a7c1ccaac39833ababed7a4cc940723270b9becc3145c4329b9f967ea56",
+      "exact": true
+    },
+    {
+      "path": "reports/direct_horizon_review/training_calendar.csv",
+      "reference_sha256": "590935984cdf8ca1b0d0898808a74e4a0e05aa1f0f113044b73f9c9aa7536edb",
+      "current_sha256": "590935984cdf8ca1b0d0898808a74e4a0e05aa1f0f113044b73f9c9aa7536edb",
+      "exact": true
+    },
+    {
+      "path": "reports/event_metric_review/comparison.csv",
+      "reference_sha256": "3f3091fa2f41956d91d19081ef2ea34ae688376ed9cbe95455ce3b623c819035",
+      "current_sha256": "3f3091fa2f41956d91d19081ef2ea34ae688376ed9cbe95455ce3b623c819035",
+      "exact": true
+    },
+    {
+      "path": "reports/event_metric_review/offline_penalty_calibration.csv",
+      "reference_sha256": "3502db0960d8987d885e592aa052eb534ab0cea78f7362c2f124d605bf041835",
+      "current_sha256": "3502db0960d8987d885e592aa052eb534ab0cea78f7362c2f124d605bf041835",
+      "exact": true
+    },
+    {
+      "path": "reports/event_metric_review/series_metrics.csv",
+      "reference_sha256": "9dcba5046397083c45a16ac5ba4e5ed8ebf75ad4f436d6cdf1fd8e3086d324f9",
+      "current_sha256": "9dcba5046397083c45a16ac5ba4e5ed8ebf75ad4f436d6cdf1fd8e3086d324f9",
+      "exact": true
+    },
+    {
+      "path": "reports/event_metric_review/synthetic_residuals.parquet",
+      "reference_sha256": "92b38055dcbffded79b665aea1e3e10464a30c1a723addc6e103f0d91ca3255c",
+      "current_sha256": "92b38055dcbffded79b665aea1e3e10464a30c1a723addc6e103f0d91ca3255c",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/cached_reference_overlap.csv",
+      "reference_sha256": "38e75a084613b270152c0b3d87abf939c964b729814668b68e038dfcac365a89",
+      "current_sha256": "38e75a084613b270152c0b3d87abf939c964b729814668b68e038dfcac365a89",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/coverage.csv",
+      "reference_sha256": "9f9c3342391f8bb57fa79cb4ec6abb84454f065f67fc8e5c480c3aa80a5b21a2",
+      "current_sha256": "9f9c3342391f8bb57fa79cb4ec6abb84454f065f67fc8e5c480c3aa80a5b21a2",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/monthly.csv",
+      "reference_sha256": "e66084cccaad3c811985021f47293cd6216d48b503c109c1f8a8d44035e99424",
+      "current_sha256": "e66084cccaad3c811985021f47293cd6216d48b503c109c1f8a8d44035e99424",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/paired.csv",
+      "reference_sha256": "728c77a23f85ec0511dca1f793f77e9321d0dac204f7c56aa1c339bf9c651ccc",
+      "current_sha256": "728c77a23f85ec0511dca1f793f77e9321d0dac204f7c56aa1c339bf9c651ccc",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/predictions.parquet",
+      "reference_sha256": "71d63edd08e17c854c657cbb5a878d343a53c47ada3f4f599d4a94060fee826f",
+      "current_sha256": "71d63edd08e17c854c657cbb5a878d343a53c47ada3f4f599d4a94060fee826f",
+      "exact": true
+    },
+    {
+      "path": "reports/foundation_covariate_review/summary.csv",
+      "reference_sha256": "1b9fdfd71e9bcd306bb09b391306b1b89ce186efa63ad0fde0a733ac80772972",
+      "current_sha256": "1b9fdfd71e9bcd306bb09b391306b1b89ce186efa63ad0fde0a733ac80772972",
+      "exact": true
+    },
+    {
+      "path": "reports/hierarchical_review/monthly.csv",
+      "reference_sha256": "233755fed49d45df94d7d5f4aa4a3c77714adb746d56b2976ebc30a26f24424e",
+      "current_sha256": "233755fed49d45df94d7d5f4aa4a3c77714adb746d56b2976ebc30a26f24424e",
+      "exact": true
+    },
+    {
+      "path": "reports/hierarchical_review/predictions.parquet",
+      "reference_sha256": "6994b9efcbdf7e55e2e2c1d12d7925951499cec146bb754ffa708684540a5a99",
+      "current_sha256": "6994b9efcbdf7e55e2e2c1d12d7925951499cec146bb754ffa708684540a5a99",
+      "exact": true
+    },
+    {
+      "path": "reports/hierarchical_review/region_coverage.csv",
+      "reference_sha256": "9105369f93928c5de89763f089ab58fceb1b010f865764b6890b864bef4eeaab",
+      "current_sha256": "9105369f93928c5de89763f089ab58fceb1b010f865764b6890b864bef4eeaab",
+      "exact": true
+    },
+    {
+      "path": "reports/hierarchical_review/summary.csv",
+      "reference_sha256": "e216cca55cdef3165ffa8939a75e2effc8748c99b3ef0d408bdde8beb0fb7757",
+      "current_sha256": "e216cca55cdef3165ffa8939a75e2effc8748c99b3ef0d408bdde8beb0fb7757",
+      "exact": true
+    },
+    {
+      "path": "reports/spatial_review/date_sensitivity.csv",
+      "reference_sha256": "4be0fed4e47be01105fa7ce603a79948aa9f4f646f3c1222474091a87573baf1",
+      "current_sha256": "4be0fed4e47be01105fa7ce603a79948aa9f4f646f3c1222474091a87573baf1",
+      "exact": true
+    },
+    {
+      "path": "reports/spatial_review/monthly.csv",
+      "reference_sha256": "8a332092015ff4c1e3a9956f05ad3ecbfde66ff319963a7549ef64478616ff33",
+      "current_sha256": "8a332092015ff4c1e3a9956f05ad3ecbfde66ff319963a7549ef64478616ff33",
+      "exact": true
+    },
+    {
+      "path": "reports/spatial_review/neighbors.csv",
+      "reference_sha256": "11d36fbe8401edc536edfb1fe49e4cbfe4efa2ec764d7d007d4054ac77adf8ed",
+      "current_sha256": "11d36fbe8401edc536edfb1fe49e4cbfe4efa2ec764d7d007d4054ac77adf8ed",
+      "exact": true
+    },
+    {
+      "path": "reports/spatial_review/predictions.parquet",
+      "reference_sha256": "1c91ffba59b90ac3c6204a32199d86c0e4ece7b7aa04219850af2da22f31d72d",
+      "current_sha256": "1c91ffba59b90ac3c6204a32199d86c0e4ece7b7aa04219850af2da22f31d72d",
+      "exact": true
+    },
+    {
+      "path": "reports/spatial_review/summary.csv",
+      "reference_sha256": "1833c3d1c0791555abca2fbc71d26b765338b0e3f99554aa34bd6d7ac1d15070",
+      "current_sha256": "1833c3d1c0791555abca2fbc71d26b765338b0e3f99554aa34bd6d7ac1d15070",
+      "exact": true
+    }
+  ],
+  "changed": []
+}

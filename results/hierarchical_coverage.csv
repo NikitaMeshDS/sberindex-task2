@@ -1,0 +1,439 @@
+category,region_code,municipalities,eligible,regional_stress_target
+Все категории,1,9,False,False
+Все категории,2,61,True,False
+Все категории,4,11,True,False
+Все категории,7,4,False,False
+Все категории,8,5,False,False
+Все категории,9,8,False,False
+Все категории,10,18,True,False
+Все категории,11,20,True,False
+Все категории,12,17,True,False
+Все категории,13,20,True,False
+Все категории,14,29,True,False
+Все категории,15,7,False,False
+Все категории,16,43,True,False
+Все категории,17,10,True,False
+Все категории,18,27,True,False
+Все категории,19,12,True,False
+Все категории,21,23,True,False
+Все категории,22,65,True,True
+Все категории,24,51,True,False
+Все категории,25,33,True,False
+Все категории,26,33,True,False
+Все категории,27,16,True,False
+Все категории,28,19,True,False
+Все категории,29,22,True,False
+Все категории,30,11,True,False
+Все категории,33,18,True,False
+Все категории,34,35,True,False
+Все категории,35,25,True,False
+Все категории,37,26,True,False
+Все категории,38,39,True,False
+Все категории,39,19,True,False
+Все категории,40,25,True,False
+Все категории,41,9,False,False
+Все категории,42,30,True,False
+Все категории,43,43,True,False
+Все категории,44,28,True,False
+Все категории,45,24,True,False
+Все категории,47,18,True,False
+Все категории,48,18,True,False
+Все категории,49,3,False,False
+Все категории,50,52,True,False
+Все категории,51,12,True,False
+Все категории,52,50,True,False
+Все категории,53,21,True,False
+Все категории,54,35,True,False
+Все категории,55,33,True,False
+Все категории,56,39,True,False
+Все категории,57,21,True,False
+Все категории,58,25,True,False
+Все категории,59,42,True,False
+Все категории,60,22,True,False
+Все категории,62,26,True,False
+Все категории,63,36,True,False
+Все категории,64,39,True,False
+Все категории,65,16,True,False
+Все категории,66,64,True,False
+Все категории,67,27,True,False
+Все категории,68,24,True,False
+Все категории,69,37,True,False
+Все категории,70,19,True,False
+Все категории,71,24,True,False
+Все категории,72,24,True,False
+Все категории,73,21,True,False
+Все категории,74,37,True,False
+Все категории,75,28,True,False
+Все категории,76,19,True,False
+Все категории,77,144,True,True
+Все категории,78,98,True,True
+Все категории,79,6,False,False
+Все категории,83,2,False,False
+Все категории,86,22,True,False
+Все категории,87,4,False,False
+Все категории,89,13,True,False
+Здоровье,1,9,False,False
+Здоровье,2,61,True,False
+Здоровье,4,11,True,False
+Здоровье,7,4,False,False
+Здоровье,8,5,False,False
+Здоровье,9,8,False,False
+Здоровье,10,18,True,False
+Здоровье,11,20,True,False
+Здоровье,12,17,True,False
+Здоровье,13,20,True,False
+Здоровье,14,29,True,False
+Здоровье,15,7,False,False
+Здоровье,16,43,True,False
+Здоровье,17,10,True,False
+Здоровье,18,27,True,False
+Здоровье,19,12,True,False
+Здоровье,21,23,True,False
+Здоровье,22,65,True,True
+Здоровье,24,51,True,False
+Здоровье,25,33,True,False
+Здоровье,26,33,True,False
+Здоровье,27,16,True,False
+Здоровье,28,19,True,False
+Здоровье,29,22,True,False
+Здоровье,30,11,True,False
+Здоровье,33,18,True,False
+Здоровье,34,35,True,False
+Здоровье,35,25,True,False
+Здоровье,37,26,True,False
+Здоровье,38,39,True,False
+Здоровье,39,19,True,False
+Здоровье,40,25,True,False
+Здоровье,41,9,False,False
+Здоровье,42,30,True,False
+Здоровье,43,43,True,False
+Здоровье,44,28,True,False
+Здоровье,45,24,True,False
+Здоровье,47,18,True,False
+Здоровье,48,18,True,False
+Здоровье,49,3,False,False
+Здоровье,50,52,True,False
+Здоровье,51,12,True,False
+Здоровье,52,50,True,False
+Здоровье,53,21,True,False
+Здоровье,54,35,True,False
+Здоровье,55,33,True,False
+Здоровье,56,39,True,False
+Здоровье,57,21,True,False
+Здоровье,58,25,True,False
+Здоровье,59,42,True,False
+Здоровье,60,22,True,False
+Здоровье,62,26,True,False
+Здоровье,63,36,True,False
+Здоровье,64,39,True,False
+Здоровье,65,16,True,False
+Здоровье,66,64,True,False
+Здоровье,67,27,True,False
+Здоровье,68,24,True,False
+Здоровье,69,37,True,False
+Здоровье,70,19,True,False
+Здоровье,71,24,True,False
+Здоровье,72,24,True,False
+Здоровье,73,21,True,False
+Здоровье,74,37,True,False
+Здоровье,75,28,True,False
+Здоровье,76,19,True,False
+Здоровье,77,144,True,True
+Здоровье,78,98,True,True
+Здоровье,79,6,False,False
+Здоровье,83,2,False,False
+Здоровье,86,22,True,False
+Здоровье,87,4,False,False
+Здоровье,89,13,True,False
+Маркетплейсы,1,9,False,False
+Маркетплейсы,2,61,True,False
+Маркетплейсы,4,11,True,False
+Маркетплейсы,7,4,False,False
+Маркетплейсы,8,5,False,False
+Маркетплейсы,9,8,False,False
+Маркетплейсы,10,18,True,False
+Маркетплейсы,11,20,True,False
+Маркетплейсы,12,17,True,False
+Маркетплейсы,13,20,True,False
+Маркетплейсы,14,29,True,False
+Маркетплейсы,15,7,False,False
+Маркетплейсы,16,43,True,False
+Маркетплейсы,17,10,True,False
+Маркетплейсы,18,27,True,False
+Маркетплейсы,19,12,True,False
+Маркетплейсы,21,23,True,False
+Маркетплейсы,22,65,True,True
+Маркетплейсы,24,51,True,False
+Маркетплейсы,25,33,True,False
+Маркетплейсы,26,33,True,False
+Маркетплейсы,27,16,True,False
+Маркетплейсы,28,19,True,False
+Маркетплейсы,29,22,True,False
+Маркетплейсы,30,11,True,False
+Маркетплейсы,33,18,True,False
+Маркетплейсы,34,35,True,False
+Маркетплейсы,35,25,True,False
+Маркетплейсы,37,26,True,False
+Маркетплейсы,38,39,True,False
+Маркетплейсы,39,19,True,False
+Маркетплейсы,40,25,True,False
+Маркетплейсы,41,9,False,False
+Маркетплейсы,42,30,True,False
+Маркетплейсы,43,43,True,False
+Маркетплейсы,44,28,True,False
+Маркетплейсы,45,24,True,False
+Маркетплейсы,47,18,True,False
+Маркетплейсы,48,18,True,False
+Маркетплейсы,49,3,False,False
+Маркетплейсы,50,52,True,False
+Маркетплейсы,51,12,True,False
+Маркетплейсы,52,50,True,False
+Маркетплейсы,53,21,True,False
+Маркетплейсы,54,35,True,False
+Маркетплейсы,55,33,True,False
+Маркетплейсы,56,39,True,False
+Маркетплейсы,57,21,True,False
+Маркетплейсы,58,25,True,False
+Маркетплейсы,59,42,True,False
+Маркетплейсы,60,22,True,False
+Маркетплейсы,62,26,True,False
+Маркетплейсы,63,36,True,False
+Маркетплейсы,64,39,True,False
+Маркетплейсы,65,16,True,False
+Маркетплейсы,66,64,True,False
+Маркетплейсы,67,27,True,False
+Маркетплейсы,68,24,True,False
+Маркетплейсы,69,37,True,False
+Маркетплейсы,70,19,True,False
+Маркетплейсы,71,24,True,False
+Маркетплейсы,72,24,True,False
+Маркетплейсы,73,21,True,False
+Маркетплейсы,74,37,True,False
+Маркетплейсы,75,28,True,False
+Маркетплейсы,76,19,True,False
+Маркетплейсы,77,144,True,True
+Маркетплейсы,78,98,True,True
+Маркетплейсы,79,6,False,False
+Маркетплейсы,83,2,False,False
+Маркетплейсы,86,22,True,False
+Маркетплейсы,87,4,False,False
+Маркетплейсы,89,13,True,False
+Общественное питание,1,9,False,False
+Общественное питание,2,61,True,False
+Общественное питание,4,11,True,False
+Общественное питание,7,4,False,False
+Общественное питание,8,5,False,False
+Общественное питание,9,8,False,False
+Общественное питание,10,18,True,False
+Общественное питание,11,20,True,False
+Общественное питание,12,17,True,False
+Общественное питание,13,20,True,False
+Общественное питание,14,29,True,False
+Общественное питание,15,7,False,False
+Общественное питание,16,43,True,False
+Общественное питание,17,10,True,False
+Общественное питание,18,27,True,False
+Общественное питание,19,12,True,False
+Общественное питание,21,23,True,False
+Общественное питание,22,65,True,True
+Общественное питание,24,51,True,False
+Общественное питание,25,33,True,False
+Общественное питание,26,33,True,False
+Общественное питание,27,16,True,False
+Общественное питание,28,19,True,False
+Общественное питание,29,22,True,False
+Общественное питание,30,11,True,False
+Общественное питание,33,18,True,False
+Общественное питание,34,35,True,False
+Общественное питание,35,25,True,False
+Общественное питание,37,26,True,False
+Общественное питание,38,39,True,False
+Общественное питание,39,19,True,False
+Общественное питание,40,25,True,False
+Общественное питание,41,9,False,False
+Общественное питание,42,30,True,False
+Общественное питание,43,43,True,False
+Общественное питание,44,28,True,False
+Общественное питание,45,24,True,False
+Общественное питание,47,18,True,False
+Общественное питание,48,18,True,False
+Общественное питание,49,3,False,False
+Общественное питание,50,52,True,False
+Общественное питание,51,12,True,False
+Общественное питание,52,50,True,False
+Общественное питание,53,21,True,False
+Общественное питание,54,35,True,False
+Общественное питание,55,33,True,False
+Общественное питание,56,39,True,False
+Общественное питание,57,21,True,False
+Общественное питание,58,25,True,False
+Общественное питание,59,42,True,False
+Общественное питание,60,22,True,False
+Общественное питание,62,26,True,False
+Общественное питание,63,36,True,False
+Общественное питание,64,39,True,False
+Общественное питание,65,16,True,False
+Общественное питание,66,64,True,False
+Общественное питание,67,27,True,False
+Общественное питание,68,24,True,False
+Общественное питание,69,37,True,False
+Общественное питание,70,19,True,False
+Общественное питание,71,24,True,False
+Общественное питание,72,24,True,False
+Общественное питание,73,21,True,False
+Общественное питание,74,37,True,False
+Общественное питание,75,28,True,False
+Общественное питание,76,19,True,False
+Общественное питание,77,144,True,True
+Общественное питание,78,98,True,True
+Общественное питание,79,6,False,False
+Общественное питание,83,2,False,False
+Общественное питание,86,22,True,False
+Общественное питание,87,4,False,False
+Общественное питание,89,13,True,False
+Продовольствие,1,9,False,False
+Продовольствие,2,61,True,False
+Продовольствие,4,11,True,False
+Продовольствие,7,4,False,False
+Продовольствие,8,5,False,False
+Продовольствие,9,8,False,False
+Продовольствие,10,18,True,False
+Продовольствие,11,20,True,False
+Продовольствие,12,17,True,False
+Продовольствие,13,20,True,False
+Продовольствие,14,29,True,False
+Продовольствие,15,7,False,False
+Продовольствие,16,43,True,False
+Продовольствие,17,10,True,False
+Продовольствие,18,27,True,False
+Продовольствие,19,12,True,False
+Продовольствие,21,23,True,False
+Продовольствие,22,65,True,True
+Продовольствие,24,51,True,False
+Продовольствие,25,33,True,False
+Продовольствие,26,33,True,False
+Продовольствие,27,16,True,False
+Продовольствие,28,19,True,False
+Продовольствие,29,22,True,False
+Продовольствие,30,11,True,False
+Продовольствие,33,18,True,False
+Продовольствие,34,35,True,False
+Продовольствие,35,25,True,False
+Продовольствие,37,26,True,False
+Продовольствие,38,39,True,False
+Продовольствие,39,19,True,False
+Продовольствие,40,25,True,False
+Продовольствие,41,9,False,False
+Продовольствие,42,30,True,False
+Продовольствие,43,43,True,False
+Продовольствие,44,28,True,False
+Продовольствие,45,24,True,False
+Продовольствие,47,18,True,False
+Продовольствие,48,18,True,False
+Продовольствие,49,3,False,False
+Продовольствие,50,52,True,False
+Продовольствие,51,12,True,False
+Продовольствие,52,50,True,False
+Продовольствие,53,21,True,False
+Продовольствие,54,35,True,False
+Продовольствие,55,33,True,False
+Продовольствие,56,39,True,False
+Продовольствие,57,21,True,False
+Продовольствие,58,25,True,False
+Продовольствие,59,42,True,False
+Продовольствие,60,22,True,False
+Продовольствие,62,26,True,False
+Продовольствие,63,36,True,False
+Продовольствие,64,39,True,False
+Продовольствие,65,16,True,False
+Продовольствие,66,64,True,False
+Продовольствие,67,27,True,False
+Продовольствие,68,24,True,False
+Продовольствие,69,37,True,False
+Продовольствие,70,19,True,False
+Продовольствие,71,24,True,False
+Продовольствие,72,24,True,False
+Продовольствие,73,21,True,False
+Продовольствие,74,37,True,False
+Продовольствие,75,28,True,False
+Продовольствие,76,19,True,False
+Продовольствие,77,144,True,True
+Продовольствие,78,98,True,True
+Продовольствие,79,6,False,False
+Продовольствие,83,2,False,False
+Продовольствие,86,22,True,False
+Продовольствие,87,4,False,False
+Продовольствие,89,13,True,False
+Транспорт,1,9,False,False
+Транспорт,2,61,True,False
+Транспорт,4,11,True,False
+Транспорт,7,4,False,False
+Транспорт,8,5,False,False
+Транспорт,9,8,False,False
+Транспорт,10,18,True,False
+Транспорт,11,20,True,False
+Транспорт,12,17,True,False
+Транспорт,13,20,True,False
+Транспорт,14,29,True,False
+Транспорт,15,7,False,False
+Транспорт,16,43,True,False
+Транспорт,17,10,True,False
+Транспорт,18,27,True,False
+Транспорт,19,12,True,False
+Транспорт,21,23,True,False
+Транспорт,22,65,True,True
+Транспорт,24,51,True,False
+Транспорт,25,33,True,False
+Транспорт,26,33,True,False
+Транспорт,27,16,True,False
+Транспорт,28,19,True,False
+Транспорт,29,22,True,False
+Транспорт,30,11,True,False
+Транспорт,33,18,True,False
+Транспорт,34,35,True,False
+Транспорт,35,25,True,False
+Транспорт,37,26,True,False
+Транспорт,38,39,True,False
+Транспорт,39,19,True,False
+Транспорт,40,25,True,False
+Транспорт,41,9,False,False
+Транспорт,42,30,True,False
+Транспорт,43,43,True,False
+Транспорт,44,28,True,False
+Транспорт,45,24,True,False
+Транспорт,47,18,True,False
+Транспорт,48,18,True,False
+Транспорт,49,3,False,False
+Транспорт,50,52,True,False
+Транспорт,51,12,True,False
+Транспорт,52,50,True,False
+Транспорт,53,21,True,False
+Транспорт,54,35,True,False
+Транспорт,55,33,True,False
+Транспорт,56,39,True,False
+Транспорт,57,21,True,False
+Транспорт,58,25,True,False
+Транспорт,59,42,True,False
+Транспорт,60,22,True,False
+Транспорт,62,26,True,False
+Транспорт,63,36,True,False
+Транспорт,64,39,True,False
+Транспорт,65,16,True,False
+Транспорт,66,64,True,False
+Транспорт,67,27,True,False
+Транспорт,68,24,True,False
+Транспорт,69,37,True,False
+Транспорт,70,19,True,False
+Транспорт,71,24,True,False
+Транспорт,72,24,True,False
+Транспорт,73,21,True,False
+Транспорт,74,37,True,False
+Транспорт,75,28,True,False
+Транспорт,76,19,True,False
+Транспорт,77,144,True,True
+Транспорт,78,98,True,True
+Транспорт,79,6,False,False
+Транспорт,83,2,False,False
+Транспорт,86,22,True,False
+Транспорт,87,4,False,False
+Транспорт,89,13,True,False

@@ -1,0 +1,18 @@
+{
+  "strata_and_scale_period": "2023 only; quartiles on all complete municipalities",
+  "sample_municipalities": 256,
+  "complete_municipalities": 2016,
+  "regions_complete_panel": 73,
+  "regions_sampled": 65,
+  "regions_without_sample": [
+    "Республика Адыгея",
+    "Кабардино-Балкарская Республика",
+    "Республика Калмыкия",
+    "Карачаево-Черкесская Республика",
+    "Республика Карелия",
+    "Мурманская область",
+    "Ненецкий автономный округ",
+    "Ямало-Ненецкий автономный округ"
+  ],
+  "limits": "No refit or selection. Nonseasonal MASE uses 11 monthly differences, not 12-month seasonal scaling. Within-municipality R2 is descriptive and undefined at one target per municipality. Leave-group-out gains are sensitivity diagnostics, not confidence intervals."
+}

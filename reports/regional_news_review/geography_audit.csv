@@ -1,0 +1,37 @@
+source_number,region_code,year,alias,candidates,territory_id,status,reason
+1,56,2024,Орск,[1673],1673,accepted,unique exact region/year dictionary alias
+3,23,2024,Анапа,[623],623,accepted,unique exact region/year dictionary alias
+6,23,2024,Анапа,[623],623,accepted,unique exact region/year dictionary alias
+6,23,2024,Темрюкский,[659],659,accepted,unique exact region/year dictionary alias
+7,25,2023,Хасанский,[803],803,accepted,unique exact region/year dictionary alias
+7,25,2023,Дальнереченский,"[780, 788]",780,accepted,source7 explicitly says городской округ
+8,25,2023,Хасанский,[803],803,accepted,unique exact region/year dictionary alias
+8,25,2023,Уссурийский,[785],785,accepted,unique exact region/year dictionary alias
+9,66,2023,Сосьвинский,[2031],2031,accepted,unique exact region/year dictionary alias
+11,66,2023,Сосьвинский,[2031],2031,accepted,unique exact region/year dictionary alias
+12,23,2023,Лабинский,[647],647,accepted,unique exact region/year dictionary alias
+12,23,2023,Отрадненский,[652],652,accepted,unique exact region/year dictionary alias
+12,23,2023,Кавказский,[638],638,accepted,unique exact region/year dictionary alias
+12,23,2023,Сочи,[2812],2812,accepted,unique exact region/year dictionary alias
+13,56,2024,Орск,[1673],1673,accepted,unique exact region/year dictionary alias
+13,56,2024,Оренбург,[1665],1665,accepted,unique exact region/year dictionary alias
+16,54,2023,Новосибирск,[1597],1597,accepted,unique exact region/year dictionary alias
+18,56,2024,Орск,[1673],1673,accepted,unique exact region/year dictionary alias
+18,56,2024,Оренбург,[1665],1665,accepted,unique exact region/year dictionary alias
+20,56,2024,Орск,[1673],1673,accepted,unique exact region/year dictionary alias
+20,56,2024,Оренбург,[1665],1665,accepted,unique exact region/year dictionary alias
+20,56,2024,Илекский,[1687],1687,accepted,unique exact region/year dictionary alias
+20,45,2024,Курган,[1333],1333,accepted,unique exact region/year dictionary alias
+20,72,2024,Абатский,[2195],2195,accepted,unique exact region/year dictionary alias
+21,31,2024,Белгород,[931],931,accepted,unique exact region/year dictionary alias
+23,66,2023,Сосьвинский,[2031],2031,accepted,unique exact region/year dictionary alias
+25,56,2024,Орск,[1673],1673,accepted,unique exact region/year dictionary alias
+26,25,2023,Хасанский,[803],803,accepted,unique exact region/year dictionary alias
+26,25,2023,Уссурийский,[785],785,accepted,unique exact region/year dictionary alias
+real_2024_001,54,2024,Обь,[1600],1600,accepted,reused explicit existing official annotation
+real_2024_002,23,2024,Новороссийск,[627],627,accepted,reused explicit existing official annotation
+real_2024_003,74,2024,Карабашский,[2278],2278,accepted,reused explicit existing official annotation
+real_2024_004,10,2024,Сегежский,[221],221,accepted,reused explicit existing official annotation
+real_2024_005,61,2024,Новочеркасск,[1798],1798,accepted,reused explicit existing official annotation
+real_2024_005,61,2024,Октябрьский,[1829],1829,accepted,reused explicit existing official annotation
+real_2024_006,21,2024,Чебоксары,[478],478,accepted,reused explicit existing official annotation

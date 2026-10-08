@@ -1,0 +1,31 @@
+{
+  "selected_hgb_weight": 0.0,
+  "weights": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "seasonal_profile_2023": [
+    0.8726942247634699,
+    0.9243160796231175,
+    1.0080979241926236,
+    0.94548683791629,
+    0.9747274304628897,
+    0.9858997915130241,
+    1.0274217526793492,
+    1.0393130671052437,
+    0.974800361820777,
+    1.0063993726188944,
+    1.0287941628230577,
+    1.2120489944812634
+  ],
+  "model_iterations": 67,
+  "training": "April-December2023 deseasonalized changes, 2016 complete municipalities, no calendar covariates after removing common profile.",
+  "profile": "Pooled2023 monthly sums divided by annual monthly mean; training-set transformation uses complete2023, therefore earliest forecast origin is December2023.",
+  "selection": "February-June2024 h1, fixed75/25 base previously chosen on these dates. Same reused archive, not independent validation.",
+  "recursive": "Future z values generated recursively; growth clipped[-0.5,0.5]. Model frozen after2023.",
+  "horizon12": "Separate exploratory fixed-model forecast at December2023; h1 blend weight is not applied retroactively at that origin.",
+  "limitation": "Only one seasonal cycle, common seasonality may absorb trend. Internal HGB auto early stopping uses random split within training2023. Zero publication lag assumed."
+}

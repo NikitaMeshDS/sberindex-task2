@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "unit_tests_in_both_environments": 54,
+  "new_prophet_refits": 6026,
+  "clean_environment_subset_refits": 18,
+  "maximum_absolute_difference": 0,
+  "metrics_and_available_growth_bases_verified": true,
+  "input_output_hashes_verified": true,
+  "protected_tracked_files_unchanged": 344,
+  "reference_commit": "99935cf18dae145c7f7496bf3b142d3f98ab7068",
+  "limits": "Subset refits in existing clean environment, not full new benchmark reproduction or independent temporal evaluation."
+}

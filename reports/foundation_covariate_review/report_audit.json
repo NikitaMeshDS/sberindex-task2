@@ -1,0 +1,22 @@
+{
+  "checks": {
+    "saved_hashes": true,
+    "common_pairs": true,
+    "actuals": true,
+    "future_input_invariance": true,
+    "profile_invariance": true,
+    "saved_metrics": true
+  },
+  "extra_source_sha256": {
+    "results/asof_foundation_predictions.parquet": "1000b2568a8604dd5624b7634bbffe15ceaff9531f6d30af41adec55cbc0d9e9",
+    "reports/prophet_seasonality/predictions.parquet": "d345ef168514de93e15eab2f0d3501c1484e49176c1c8d46a8c32c9a416544ed"
+  },
+  "report_source_sha256": "8e2f8714e7ce2223d45c7775b97a11eb8f3cdabbb5b9efb1d914437994dc600d",
+  "outputs": {
+    "REPORT.md": "e88be3f20f0025bac79efab3bd0ca6009775a8895ac45953b6ab49b6fcf33769",
+    "comparison.png": "89a92cd4a4fa8f6d6488b97c25450e808edd1415eb36eb446fef036c68157a8b",
+    "comparison.svg": "a6928c0bf8bccabfaa881e6d783045dd2febb21affdd95757670e08395fcbd1c",
+    "cached_reference_overlap.csv": "38e75a084613b270152c0b3d87abf939c964b729814668b68e038dfcac365a89",
+    "repeat_verification.json": "760f5f02cd672cc280bc4923cb3795e5fa5c0d060385264c066f4a9a36db6e4f"
+  }
+}

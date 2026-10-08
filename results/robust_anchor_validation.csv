@@ -1,0 +1,97 @@
+category,cohort,profile,anchor,MAE,municipalities,dates
+Все категории,all,pooled,last,922.96060164192,2016,5
+Все категории,primary256,pooled,last,915.7676839651749,256,5
+Все категории,all,pooled,mean_3m,1527.4299944089234,2016,5
+Все категории,primary256,pooled,mean_3m,1471.5696700871308,256,5
+Все категории,all,pooled,median_3m,1534.1528240745365,2016,5
+Все категории,primary256,pooled,median_3m,1484.089553920322,256,5
+Все категории,all,pooled,weighted_3m,1291.9193083186346,2016,5
+Все категории,primary256,pooled,weighted_3m,1246.1804980752574,256,5
+Все категории,all,regional_shrink100,last,889.2551969465105,2016,5
+Все категории,primary256,regional_shrink100,last,889.4440989724532,256,5
+Все категории,all,regional_shrink100,mean_3m,1514.7574672765427,2016,5
+Все категории,primary256,regional_shrink100,mean_3m,1457.0387973724314,256,5
+Все категории,all,regional_shrink100,median_3m,1525.739483403256,2016,5
+Все категории,primary256,regional_shrink100,median_3m,1479.261790251569,256,5
+Все категории,all,regional_shrink100,weighted_3m,1278.6038798420268,2016,5
+Все категории,primary256,regional_shrink100,weighted_3m,1234.5788805930808,256,5
+Здоровье,all,pooled,last,97.04857023373386,2016,5
+Здоровье,primary256,pooled,last,96.54331485386909,256,5
+Здоровье,all,pooled,mean_3m,94.3397906236666,2016,5
+Здоровье,primary256,pooled,mean_3m,94.00013841080934,256,5
+Здоровье,all,pooled,median_3m,102.60348860829791,2016,5
+Здоровье,primary256,pooled,median_3m,101.14869856032537,256,5
+Здоровье,all,pooled,weighted_3m,89.74159926695701,2016,5
+Здоровье,primary256,pooled,weighted_3m,89.36554017507146,256,5
+Здоровье,all,regional_shrink100,last,92.44418892933362,2016,5
+Здоровье,primary256,regional_shrink100,last,91.95815071532073,256,5
+Здоровье,all,regional_shrink100,mean_3m,90.72953523824539,2016,5
+Здоровье,primary256,regional_shrink100,mean_3m,91.09296251035747,256,5
+Здоровье,all,regional_shrink100,median_3m,97.6361516199904,2016,5
+Здоровье,primary256,regional_shrink100,median_3m,96.5047124164386,256,5
+Здоровье,all,regional_shrink100,weighted_3m,86.27212803211705,2016,5
+Здоровье,primary256,regional_shrink100,weighted_3m,86.83968880791578,256,5
+Маркетплейсы,all,pooled,last,254.49978133518036,2016,5
+Маркетплейсы,primary256,pooled,last,261.01454524715757,256,5
+Маркетплейсы,all,pooled,mean_3m,494.5704901989483,2016,5
+Маркетплейсы,primary256,pooled,mean_3m,497.8058007200863,256,5
+Маркетплейсы,all,pooled,median_3m,503.7228785680588,2016,5
+Маркетплейсы,primary256,pooled,median_3m,502.4875377951195,256,5
+Маркетплейсы,all,pooled,weighted_3m,401.1672414603674,2016,5
+Маркетплейсы,primary256,pooled,weighted_3m,405.65571301186765,256,5
+Маркетплейсы,all,regional_shrink100,last,248.04437947772593,2016,5
+Маркетплейсы,primary256,regional_shrink100,last,256.50049141764725,256,5
+Маркетплейсы,all,regional_shrink100,mean_3m,491.06397767800604,2016,5
+Маркетплейсы,primary256,regional_shrink100,mean_3m,492.40122793104786,256,5
+Маркетплейсы,all,regional_shrink100,median_3m,501.13766742703257,2016,5
+Маркетплейсы,primary256,regional_shrink100,median_3m,498.88096527194574,256,5
+Маркетплейсы,all,regional_shrink100,weighted_3m,396.5545556250336,2016,5
+Маркетплейсы,primary256,regional_shrink100,weighted_3m,399.8808001537601,256,5
+Общественное питание,all,pooled,last,68.3537738609286,2016,5
+Общественное питание,primary256,pooled,last,66.87047821075352,256,5
+Общественное питание,all,pooled,mean_3m,100.24023169171606,2016,5
+Общественное питание,primary256,pooled,mean_3m,97.80116440662098,256,5
+Общественное питание,all,pooled,median_3m,104.04185131978933,2016,5
+Общественное питание,primary256,pooled,median_3m,100.69653134302158,256,5
+Общественное питание,all,pooled,weighted_3m,87.94739092602272,2016,5
+Общественное питание,primary256,pooled,weighted_3m,85.8723627143449,256,5
+Общественное питание,all,regional_shrink100,last,63.665578801956144,2016,5
+Общественное питание,primary256,regional_shrink100,last,63.67921116760063,256,5
+Общественное питание,all,regional_shrink100,mean_3m,97.80096368518774,2016,5
+Общественное питание,primary256,regional_shrink100,mean_3m,95.96479746050487,256,5
+Общественное питание,all,regional_shrink100,median_3m,99.52533230445826,2016,5
+Общественное питание,primary256,regional_shrink100,median_3m,97.16462906347088,256,5
+Общественное питание,all,regional_shrink100,weighted_3m,84.96916799561468,2016,5
+Общественное питание,primary256,regional_shrink100,weighted_3m,83.98288093766209,256,5
+Продовольствие,all,pooled,last,288.18150641208393,2016,5
+Продовольствие,primary256,pooled,last,284.82528695682504,256,5
+Продовольствие,all,pooled,mean_3m,508.0409978680887,2016,5
+Продовольствие,primary256,pooled,mean_3m,498.8616839731752,256,5
+Продовольствие,all,pooled,median_3m,504.19819919653753,2016,5
+Продовольствие,primary256,pooled,median_3m,498.20509005122057,256,5
+Продовольствие,all,pooled,weighted_3m,426.87696388542224,2016,5
+Продовольствие,primary256,pooled,weighted_3m,419.7694898922215,256,5
+Продовольствие,all,regional_shrink100,last,277.225727829455,2016,5
+Продовольствие,primary256,regional_shrink100,last,275.0877221811318,256,5
+Продовольствие,all,regional_shrink100,mean_3m,506.41012917593906,2016,5
+Продовольствие,primary256,regional_shrink100,mean_3m,496.1255221673806,256,5
+Продовольствие,all,regional_shrink100,median_3m,504.8367848468133,2016,5
+Продовольствие,primary256,regional_shrink100,median_3m,497.7178753424023,256,5
+Продовольствие,all,regional_shrink100,weighted_3m,424.1546949114047,2016,5
+Продовольствие,primary256,regional_shrink100,weighted_3m,417.00945555703936,256,5
+Транспорт,all,pooled,last,91.2585595031451,2016,5
+Транспорт,primary256,pooled,last,90.98751060613867,256,5
+Транспорт,all,pooled,mean_3m,111.6867390332027,2016,5
+Транспорт,primary256,pooled,mean_3m,108.85955842057422,256,5
+Транспорт,all,pooled,median_3m,115.0188539729755,2016,5
+Транспорт,primary256,pooled,median_3m,112.20819656651402,256,5
+Транспорт,all,pooled,weighted_3m,100.8646114014795,2016,5
+Транспорт,primary256,pooled,weighted_3m,98.63411891850174,256,5
+Транспорт,all,regional_shrink100,last,84.91437128220612,2016,5
+Транспорт,primary256,regional_shrink100,last,85.51521830669746,256,5
+Транспорт,all,regional_shrink100,mean_3m,107.17169590424677,2016,5
+Транспорт,primary256,regional_shrink100,mean_3m,105.44621658661222,256,5
+Транспорт,all,regional_shrink100,median_3m,110.32623618638276,2016,5
+Транспорт,primary256,regional_shrink100,median_3m,108.7026730791782,256,5
+Транспорт,all,regional_shrink100,weighted_3m,96.21740198895584,2016,5
+Транспорт,primary256,regional_shrink100,weighted_3m,94.88246491950761,256,5

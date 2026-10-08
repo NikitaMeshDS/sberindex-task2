@@ -1,0 +1,38 @@
+{
+  "protocol": {
+    "calibration": "January-June 2024; 99th percentile of per-MO maxima",
+    "evaluation": "July-December 2024; score state continues from calibration",
+    "treated_fraction": 0.25,
+    "seeds": [
+      20261001,
+      20261002,
+      20261003,
+      20261004,
+      20261005,
+      20261006,
+      20261007,
+      20261008,
+      20261009,
+      20261010
+    ],
+    "shifts_pct": [
+      -20,
+      20
+    ],
+    "shapes": [
+      "step",
+      "pulse",
+      "ramp"
+    ],
+    "first_nonzero_month": {
+      "step": 0,
+      "pulse": 0,
+      "ramp": 1
+    },
+    "pairing": "For each MO/month, changed alarm AND NOT original alarm at that same MO/month",
+    "limits": "Retrospective synthetic sensitivity on the reused 2024 panel; control alarms can reflect real changes. Ten assignments are not independent time histories or confidence intervals."
+  },
+  "rows": 1440,
+  "max_prechange_signal_difference": 0.0,
+  "interpretation": "New alarms are paired monthwise against unaltered data; later-only alarms for a pulse are not onset detections."
+}

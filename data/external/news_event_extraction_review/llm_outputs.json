@@ -1,0 +1,242 @@
+[
+  {
+    "source_url": "https://21.mchs.gov.ru/deyatelnost/press-centr/novosti/5388213",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-10-25\",\n  \"event_date\": \"2024-10-25\",\n  \"available_from\": \"2024-10-26\",\n  \"region\": \"21\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Сообщение о возгорании обшивки стены возле одного из входов в ТЦ поступило дежурным службам сегодня в 15.59.\"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-10-25",
+      "event_date": "2024-10-25",
+      "available_from": "2024-10-26",
+      "region": "21",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Сообщение о возгорании обшивки стены возле одного из входов в ТЦ поступило дежурным службам сегодня в 15.59."
+    },
+    "rejection": "unsupported_type"
+  },
+  {
+    "source_url": "https://asc-ug.organizations.mchs.gov.ru/deyatelnost/press-centr/press-centr/4240476",
+    "raw_output": "{\n    \"publication_date\": \"2024-07-14\",\n    \"event_date\": null,\n    \"available_from\": \"2024-07-15\",\n    \"region\": \"23\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"evacuation\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Все люди были эвакуированы из зоны опасности.\"\n}",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-07-14",
+      "event_date": null,
+      "available_from": "2024-07-15",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Все люди были эвакуированы из зоны опасности."
+    },
+    "rejection": "unsupported_quote"
+  },
+  {
+    "source_url": "https://74.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5329681",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-07-26\",\n  \"event_date\": null,\n  \"available_from\": \"2024-07-27\",\n  \"region\": \"74\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"flood\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В 19.10 (мск) 26.07.2024 от дежурного ЕДДС Карабашского ГО поступило сообщение, что в результате прохождения обильных осадков и увеличения притока воды к Киалимскому водохранилищу произошёл смыв плотины длиной 100 метров (всего длина плотины 500 метров, объем 7800000 м3), которое впадает в реку Большой Киалим.\"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-07-26",
+      "event_date": null,
+      "available_from": "2024-07-27",
+      "region": "74",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В 19.10 (мск) 26.07.2024 от дежурного ЕДДС Карабашского ГО поступило сообщение, что в результате прохождения обильных осадков и увеличения притока воды к Киалимскому водохранилищу произошёл смыв плотины длиной 100 метров (всего длина плотины 500 метров, объем 7800000 м3), которое впадает в реку Большой Киалим."
+    },
+    "rejection": "unsupported_type"
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/5328766",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-07-25\",\n  \"event_date\": null,\n  \"available_from\": \"2024-07-26\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"С 21:10 01.07.2024 до 17:10 02.07.2024 в г. Обь под отключение электроснабжения попали 21 многоквартирный и 45 частных домов\"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-07-25",
+      "event_date": null,
+      "available_from": "2024-07-26",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "С 21:10 01.07.2024 до 17:10 02.07.2024 в г. Обь под отключение электроснабжения попали 21 многоквартирный и 45 частных домов"
+    },
+    "rejection": "unsupported_quote"
+  },
+  {
+    "source_url": "https://61.mchs.gov.ru/deyatelnost/press-centr/operativnaya-informaciya/operativnye-sobytiya/5352870",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-09-01\",\n  \"event_date\": null,\n  \"available_from\": \"2024-09-02\",\n  \"region\": \"61\",\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"fire\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Возгорание сухой растительности в х. Яново-Грушевский Октябрьского (с) района\"\n}\n```",
+    "accepted": true,
+    "parsed": {
+      "publication_date": "2024-09-01",
+      "event_date": null,
+      "available_from": "2024-09-02",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Возгорание сухой растительности в х. Яново-Грушевский Октябрьского (с) района"
+    },
+    "validated": {
+      "publication_date": "2024-09-01",
+      "event_date": null,
+      "available_from": "2024-09-02",
+      "region": "61",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "unknown",
+      "confidence": null,
+      "evidence_quote": "Возгорание сухой растительности в х. Яново-Грушевский Октябрьского (с) района",
+      "geography_status": "missing"
+    }
+  },
+  {
+    "source_url": "https://10.mchs.gov.ru/deyatelnost/press-centr/novosti/5331360",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-07-29\",\n  \"event_date\": null,\n  \"available_from\": \"2024-07-30\",\n  \"region\": 10,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Силы МЧС России проводят поисково-спасательные работы на месте размыва временной (песчаной) перемычки на 11 шлюзе Беломорско-Балтийского канала в Сегежском муниципальном округе.\"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-07-29",
+      "event_date": null,
+      "available_from": "2024-07-30",
+      "region": 10,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Силы МЧС России проводят поисково-спасательные работы на месте размыва временной (песчаной) перемычки на 11 шлюзе Беломорско-Балтийского канала в Сегежском муниципальном округе."
+    },
+    "rejection": "unsupported_quote"
+  },
+  {
+    "source_url": "https://56.mchs.gov.ru/deyatelnost/press-centr/novosti/5249015",
+    "raw_output": "{\n    \"publication_date\": \"2024-04-06\",\n    \"event_date\": \"2024-04-06\",\n    \"available_from\": \"2024-04-07\",\n    \"region\": 56,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"evacuation\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"В Орске спасатели МЧС России продолжают эвакуировать жителей из-за размыва дамбы\"\n}",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-04-06",
+      "event_date": "2024-04-06",
+      "available_from": "2024-04-07",
+      "region": 56,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В Орске спасатели МЧС России продолжают эвакуировать жителей из-за размыва дамбы"
+    },
+    "rejection": "unsupported_or_future_event_date"
+  },
+  {
+    "source_url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5017517",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2023-05-16\",\n  \"event_date\": null,\n  \"available_from\": \"2023-05-17\",\n  \"region\": 66,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"Вместе с губернатором региона Евгением Куйвашевым министр на вертолете осмотрел пострадавшие от пожаров населенные пункты.\"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2023-05-16",
+      "event_date": null,
+      "available_from": "2023-05-17",
+      "region": 66,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Вместе с губернатором региона Евгением Куйвашевым министр на вертолете осмотрел пострадавшие от пожаров населенные пункты."
+    },
+    "rejection": "unsupported_type"
+  },
+  {
+    "source_url": "https://23.mchs.gov.ru/deyatelnost/press-centr/novosti/vse-novosti/5040172",
+    "raw_output": "{\n    \"publication_date\": \"2023-06-15\",\n    \"event_date\": \"2023-06-15\",\n    \"available_from\": \"2023-06-16\",\n    \"region\": \"23\",\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"По обстановке, сложившейся в результате прохождения КНМЯ на территории Краснодарского края (по состоянию на 03.00 15.06.2023)\"\n}",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2023-06-15",
+      "event_date": "2023-06-15",
+      "available_from": "2023-06-16",
+      "region": "23",
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "По обстановке, сложившейся в результате прохождения КНМЯ на территории Краснодарского края (по состоянию на 03.00 15.06.2023)"
+    },
+    "rejection": "unsupported_type"
+  },
+  {
+    "source_url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5252738",
+    "raw_output": "{\n    \"publication_date\": \"2024-04-11\",\n    \"event_date\": null,\n    \"available_from\": \"2024-04-12\",\n    \"region\": 56,\n    \"municipality_id\": null,\n    \"municipality_name\": null,\n    \"event_type\": \"flood\",\n    \"severity\": \"unknown\",\n    \"confidence\": \"unknown\",\n    \"evidence_quote\": \"Специалисты и техника задействована в необходимом объёве\"\n}",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-04-11",
+      "event_date": null,
+      "available_from": "2024-04-12",
+      "region": 56,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "flood",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "Специалисты и техника задействована в необходимом объёве"
+    },
+    "rejection": "unsupported_quote"
+  },
+  {
+    "source_url": "https://mchs.gov.ru/deyatelnost/press-centr/novosti/5346534",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2024-08-22\",\n  \"event_date\": null,\n  \"available_from\": \"2024-08-23\",\n  \"region\": 31,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"evacuation\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В Курской области в 58 ПВР сегодня находятся свыше 7 тыс. человек. Всего же в 28 регионах размещены более 10 тыс. человек, из них свыше 2,8 тыс. детей. \"\n}\n```",
+    "accepted": false,
+    "parsed": {
+      "publication_date": "2024-08-22",
+      "event_date": null,
+      "available_from": "2024-08-23",
+      "region": 31,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "evacuation",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В Курской области в 58 ПВР сегодня находятся свыше 7 тыс. человек. Всего же в 28 регионах размещены более 10 тыс. человек, из них свыше 2,8 тыс. детей. "
+    },
+    "rejection": "unsupported_type"
+  },
+  {
+    "source_url": "https://54.mchs.gov.ru/deyatelnost/press-centr/novosti/5006171",
+    "raw_output": "```json\n{\n  \"publication_date\": \"2023-05-02\",\n  \"event_date\": null,\n  \"available_from\": \"2023-05-03\",\n  \"region\": 54,\n  \"municipality_id\": null,\n  \"municipality_name\": null,\n  \"event_type\": \"fire\",\n  \"severity\": \"unknown\",\n  \"confidence\": \"unknown\",\n  \"evidence_quote\": \"В последнюю неделю апреля, с 24 по 30 апреля, в регионе зарегистрировано 814 возгораний, из которых 700 – горение мусора и сухой растительности. Остальные 14% случаев от общего числа реагирований составили техногенные пожары.\"\n}\n```",
+    "accepted": true,
+    "parsed": {
+      "publication_date": "2023-05-02",
+      "event_date": null,
+      "available_from": "2023-05-03",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "unknown",
+      "confidence": "unknown",
+      "evidence_quote": "В последнюю неделю апреля, с 24 по 30 апреля, в регионе зарегистрировано 814 возгораний, из которых 700 – горение мусора и сухой растительности. Остальные 14% случаев от общего числа реагирований составили техногенные пожары."
+    },
+    "validated": {
+      "publication_date": "2023-05-02",
+      "event_date": null,
+      "available_from": "2023-05-03",
+      "region": 54,
+      "municipality_id": null,
+      "municipality_name": null,
+      "event_type": "fire",
+      "severity": "unknown",
+      "confidence": null,
+      "evidence_quote": "В последнюю неделю апреля, с 24 по 30 апреля, в регионе зарегистрировано 814 возгораний, из которых 700 – горение мусора и сухой растительности. Остальные 14% случаев от общего числа реагирований составили техногенные пожары.",
+      "geography_status": "missing"
+    }
+  }
+]

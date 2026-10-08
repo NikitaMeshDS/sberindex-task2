@@ -1,0 +1,223 @@
+{
+  "collection_finalized_at_utc": "2026-10-06T19:08:39.755169+00:00",
+  "sampling": "nonexhaustive thematic official-domain search, selected after prior 2024 expense inspection",
+  "historical_vintage_verified": false,
+  "files": [
+    {
+      "path": "data/external/mchs_archive_review/historic_10.json",
+      "sha256": "4f567c4d611a615201d4478158ceaa9fa59491fb9054e3b7c2adcc780f968d3d",
+      "saved_at_utc": "2026-10-06T19:02:30.162697+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_21.json",
+      "sha256": "b499706ad8130dd9db0b8bcd159602beac77ef9e46214ad1214be499cd82fca4",
+      "saved_at_utc": "2026-10-06T19:02:25.064399+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_31.json",
+      "sha256": "593ab029e1234a270ac113eaee6d7746a4820260d3dca8718bc016a1924ac971",
+      "saved_at_utc": "2026-10-06T19:02:25.176340+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_54.json",
+      "sha256": "e613bb6279b8664f88af5fd4f245f870151a1df76f5380fcdcd33a2f8281e64a",
+      "saved_at_utc": "2026-10-06T19:02:25.662414+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_61.json",
+      "sha256": "0e229f0d0f22cfa8ea686f1f8a08e0e29223fa5ab70b24fe67a5e852e5474094",
+      "saved_at_utc": "2026-10-06T19:02:26.597140+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_66.json",
+      "sha256": "4302449e3370844bf66bc06888f041f69d2d82cf1172c6c036081a17cd71e853",
+      "saved_at_utc": "2026-10-06T19:02:27.636339+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/historic_72.json",
+      "sha256": "ffc23d30d9bf6dd6ccb0bf6e3306e07b750ca7209d28376147bb98d6b7ca83cf",
+      "saved_at_utc": "2026-10-06T19:02:25.024853+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/kurgan_pre.json",
+      "sha256": "c09321a1474f0b739c326ce4b18d681d9680ea0739bedfe4b91c45d316c30555",
+      "saved_at_utc": "2026-10-06T19:04:43.381967+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/orsk_pre.json",
+      "sha256": "c09321a1474f0b739c326ce4b18d681d9680ea0739bedfe4b91c45d316c30555",
+      "saved_at_utc": "2026-10-06T19:04:42.851119+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/primorye_pre.json",
+      "sha256": "c09321a1474f0b739c326ce4b18d681d9680ea0739bedfe4b91c45d316c30555",
+      "saved_at_utc": "2026-10-06T19:04:43.513250+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_10.json",
+      "sha256": "b4b973e0f3d0095bba607a8a28998b1a1d5a1cb0f81105d82f19060774692193",
+      "saved_at_utc": "2026-10-06T19:01:31.956391+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_21.json",
+      "sha256": "617c7fe8d7b8f729c9a73865455582b9cef0b923c07a01e54937e531604672bc",
+      "saved_at_utc": "2026-10-06T19:01:32.056371+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_23.json",
+      "sha256": "30216016b772f425c7ba1380d8aa18fcae6558e408ab1766c133f87d600d00b3",
+      "saved_at_utc": "2026-10-06T19:01:48.508677+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_25.json",
+      "sha256": "e317c0e0d3b836cb51a87fce67746a9ef11788150df45527af59d698aebde9ba",
+      "saved_at_utc": "2026-10-06T19:01:32.262626+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_31.json",
+      "sha256": "a5a3a91d8ce7064b0ee72c6ec0fc9cdfe4c4669104f283eaafe55a029eeb6f40",
+      "saved_at_utc": "2026-10-06T19:01:32.159728+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_45.json",
+      "sha256": "45ce454795249483a53c592bd1c93cfdd9171023f4c197ce8eef8fedd1a821f1",
+      "saved_at_utc": "2026-10-06T19:01:32.363853+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_46.json",
+      "sha256": "a281265bf61a4041e255004b038afad490a4a43de534ee3dcfef7aa85b85b37a",
+      "saved_at_utc": "2026-10-06T19:01:46.865393+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_54.json",
+      "sha256": "363425a4bc54fd57e8ae9cd5e8fb5799ad6c3be883483931bc7c22792f227918",
+      "saved_at_utc": "2026-10-06T19:01:32.469347+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_56.json",
+      "sha256": "91eb4dd7249d93b2b467af0e66d5ea017ee294018a33d22a468abceed72dee42",
+      "saved_at_utc": "2026-10-06T19:01:31.854057+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_61.json",
+      "sha256": "62912aad7e6b9c1a59d6073ea6d9fabfb1176dc261e68f2ffe7e46cad9e42910",
+      "saved_at_utc": "2026-10-06T19:01:32.567778+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_66.json",
+      "sha256": "6f98d8ce800a0a6100a64dafb825819cc24a54466abfa5094f756390b7eedfad",
+      "saved_at_utc": "2026-10-06T19:01:49.035429+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_72.json",
+      "sha256": "da6e81e269353d571c8d8e92198c3bf50ba6e6e54b20bb408599e2bba98653ef",
+      "saved_at_utc": "2026-10-06T19:01:48.455204+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/region_search_74.json",
+      "sha256": "3e375a8f20c95318de6a4dd682967bb08188223d19198a85777b836bc515a7f4",
+      "saved_at_utc": "2026-10-06T19:01:46.738385+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/search_initial.json",
+      "sha256": "7b60c8ae700d599f55696444ccd777caf81a2a86f5475fb7dbdf96bba58054c9",
+      "saved_at_utc": "2026-10-06T18:51:03.757532+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/tyumen_pre.json",
+      "sha256": "c09321a1474f0b739c326ce4b18d681d9680ea0739bedfe4b91c45d316c30555",
+      "saved_at_utc": "2026-10-06T19:04:42.817868+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/warning_search_a.json",
+      "sha256": "7b60c8ae700d599f55696444ccd777caf81a2a86f5475fb7dbdf96bba58054c9",
+      "saved_at_utc": "2026-10-06T19:01:31.639031+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    },
+    {
+      "path": "data/external/mchs_archive_review/warning_search_b.json",
+      "sha256": "c334f3b54237603fad3179bb56b5ef2d82f4d0004bb5e0702d20adcf4fc7cd37",
+      "saved_at_utc": "2026-10-06T19:01:31.747975+00:00",
+      "transport": "web_tool_search_index",
+      "raw_response_preserved": true,
+      "query_log_status": "exact query not retained for every earlier request; filename indicates region or targeted search"
+    }
+  ]
+}

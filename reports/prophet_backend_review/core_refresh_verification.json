@@ -1,0 +1,1228 @@
+{
+  "status": "passed",
+  "protected_numeric_files": 203,
+  "all_equal": true,
+  "excluded_timing_only": "results/operational_early_runtime.csv",
+  "changed": [],
+  "files": [
+    {
+      "path": "results/asof_detector_runs.csv",
+      "before_sha256": "d9622def0af1414910ed1e18fcef769859fe38d589c054ed801c3a311f8c653a",
+      "after_sha256": "d9622def0af1414910ed1e18fcef769859fe38d589c054ed801c3a311f8c653a",
+      "equal": true
+    },
+    {
+      "path": "results/interval_summary.csv",
+      "before_sha256": "1784b7a30d4ca6e3d1c9532e9b537deff4a98d69d7285a894e9c72e56b94265b",
+      "after_sha256": "1784b7a30d4ca6e3d1c9532e9b537deff4a98d69d7285a894e9c72e56b94265b",
+      "equal": true
+    },
+    {
+      "path": "results/asof_cohort_validation.csv",
+      "before_sha256": "51dacee245de0a5c64bdfa84e29482c18b98bed41e4460eb2fd0ddb9a93ce7a2",
+      "after_sha256": "51dacee245de0a5c64bdfa84e29482c18b98bed41e4460eb2fd0ddb9a93ce7a2",
+      "equal": true
+    },
+    {
+      "path": "results/regional_news_experiment_features.csv",
+      "before_sha256": "08ce2184e8dd4bbca5252cce414266887c4d21dec61d19a61773ad705e228554",
+      "after_sha256": "08ce2184e8dd4bbca5252cce414266887c4d21dec61d19a61773ad705e228554",
+      "equal": true
+    },
+    {
+      "path": "results/news_ablation_predictions.parquet",
+      "before_sha256": "3118bf653342051b794f3381c3434a1dd9e5c607dde36ec06393d9571fc22be4",
+      "after_sha256": "3118bf653342051b794f3381c3434a1dd9e5c607dde36ec06393d9571fc22be4",
+      "equal": true
+    },
+    {
+      "path": "results/asof_month_robustness.csv",
+      "before_sha256": "fcdfc09025c5d4fad1c834a816311f07d34d69b19aca9d59c5a96704fae6952a",
+      "after_sha256": "fcdfc09025c5d4fad1c834a816311f07d34d69b19aca9d59c5a96704fae6952a",
+      "equal": true
+    },
+    {
+      "path": "results/asof_distribution_sensitivity.csv",
+      "before_sha256": "93a77f05dde3442322a5bfbfb25fb2fb189843cdf326769c7bdadb5457b664c8",
+      "after_sha256": "93a77f05dde3442322a5bfbfb25fb2fb189843cdf326769c7bdadb5457b664c8",
+      "equal": true
+    },
+    {
+      "path": "results/news_ablation.csv",
+      "before_sha256": "6b2224640c9b2a59249b976b9fd0f72814f5c662383846e412d0f6af892ed58f",
+      "after_sha256": "6b2224640c9b2a59249b976b9fd0f72814f5c662383846e412d0f6af892ed58f",
+      "equal": true
+    },
+    {
+      "path": "results/survivorship_partial_ids.csv",
+      "before_sha256": "45493da8cb694005caaa49d61f619e2768fd5c2052df48ac0fc95895ccc0a72f",
+      "after_sha256": "45493da8cb694005caaa49d61f619e2768fd5c2052df48ac0fc95895ccc0a72f",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_municipal_gains.csv",
+      "before_sha256": "aca1c95a419dc900d80b19cdc92cea17c652e7ec0ff7b71e4c7080a14989cf67",
+      "after_sha256": "aca1c95a419dc900d80b19cdc92cea17c652e7ec0ff7b71e4c7080a14989cf67",
+      "equal": true
+    },
+    {
+      "path": "results/calendar_predictions.parquet",
+      "before_sha256": "ada2bc9bf16c765ea9c0521c2050342d9cde360c9e3a706f5c30904674500b5c",
+      "after_sha256": "ada2bc9bf16c765ea9c0521c2050342d9cde360c9e3a706f5c30904674500b5c",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_monthly.csv",
+      "before_sha256": "48a51ded64652a59fd8e5f608b9e9fe9aa698a1bae4f20322b376c2fa23733e6",
+      "after_sha256": "48a51ded64652a59fd8e5f608b9e9fe9aa698a1bae4f20322b376c2fa23733e6",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_comparison.csv",
+      "before_sha256": "aae9b7c6deb1754f9c6ca9ccb6247cdc1a94d37e32423ad492085ca795932bb3",
+      "after_sha256": "aae9b7c6deb1754f9c6ca9ccb6247cdc1a94d37e32423ad492085ca795932bb3",
+      "equal": true
+    },
+    {
+      "path": "results/regional_blend_predictions.parquet",
+      "before_sha256": "a8bb10cbdd0297381971dc71396df2376b62f07e3b72c62f5e6f446f354cf389",
+      "after_sha256": "a8bb10cbdd0297381971dc71396df2376b62f07e3b72c62f5e6f446f354cf389",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_sensitivity.csv",
+      "before_sha256": "93a4e9e87d722ec081ae91747053b028b082b9a2c56f3ed7efb1ab316bce9e45",
+      "after_sha256": "93a4e9e87d722ec081ae91747053b028b082b9a2c56f3ed7efb1ab316bce9e45",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_intervals.parquet",
+      "before_sha256": "eda41ececf5f0336e4684281b4413281797c777b3dc5123abb3162a5fea34ecc",
+      "after_sha256": "eda41ececf5f0336e4684281b4413281797c777b3dc5123abb3162a5fea34ecc",
+      "equal": true
+    },
+    {
+      "path": "results/real_alerts.csv",
+      "before_sha256": "fa1b7b819b167822f67dbad65e28f589a0f701535e9dc0255a117c0e47261310",
+      "after_sha256": "fa1b7b819b167822f67dbad65e28f589a0f701535e9dc0255a117c0e47261310",
+      "equal": true
+    },
+    {
+      "path": "results/real_case_study.csv",
+      "before_sha256": "cfcac22a3af3f348631a8756e51f36d68a02c7c429bb038df7ee015110bf1a60",
+      "after_sha256": "cfcac22a3af3f348631a8756e51f36d68a02c7c429bb038df7ee015110bf1a60",
+      "equal": true
+    },
+    {
+      "path": "results/municipal_lookup.csv",
+      "before_sha256": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+      "after_sha256": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+      "equal": true
+    },
+    {
+      "path": "results/detector_delay_runs.csv",
+      "before_sha256": "b8ce2c3f0a940bf4d49908da432f119e90aea0733258cab07bc81ec5e57729d5",
+      "after_sha256": "b8ce2c3f0a940bf4d49908da432f119e90aea0733258cab07bc81ec5e57729d5",
+      "equal": true
+    },
+    {
+      "path": "results/interval_regions.csv",
+      "before_sha256": "740d7c65ce07d46c7c9497fab380d4a5556dae4b17f539b179983a0e168c24a2",
+      "after_sha256": "740d7c65ce07d46c7c9497fab380d4a5556dae4b17f539b179983a0e168c24a2",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_forecast_monthly.csv",
+      "before_sha256": "db305ca4fe890da517487baed3606f9b195a09f626cb241ea3009af1c8563bac",
+      "after_sha256": "db305ca4fe890da517487baed3606f9b195a09f626cb241ea3009af1c8563bac",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_delay_summary.csv",
+      "before_sha256": "6e74da12d60b9c780b60f36ed24b017edf6861284fb5dcd5ce8ab94b5306f8ea",
+      "after_sha256": "6e74da12d60b9c780b60f36ed24b017edf6861284fb5dcd5ce8ab94b5306f8ea",
+      "equal": true
+    },
+    {
+      "path": "results/regional_news_experiment_source_rejections.csv",
+      "before_sha256": "870f16f4d1397ea905cf51cf3bdf92e41f96745dc245cdf97a69a2f1766db245",
+      "after_sha256": "870f16f4d1397ea905cf51cf3bdf92e41f96745dc245cdf97a69a2f1766db245",
+      "equal": true
+    },
+    {
+      "path": "results/hierarchical_stress.csv",
+      "before_sha256": "034e3bf349168aa0490d9c647ed35dc1ce1e565f89a3bf8ed1140b056ae03b03",
+      "after_sha256": "034e3bf349168aa0490d9c647ed35dc1ce1e565f89a3bf8ed1140b056ae03b03",
+      "equal": true
+    },
+    {
+      "path": "results/asof_reporting_delay_summary.csv",
+      "before_sha256": "d7b59e0e1187c271603c59432c55fc8be1249468e2d54142b0f29c7051f2c3ae",
+      "after_sha256": "d7b59e0e1187c271603c59432c55fc8be1249468e2d54142b0f29c7051f2c3ae",
+      "equal": true
+    },
+    {
+      "path": "results/news_corpus_predictions.parquet",
+      "before_sha256": "037d845363b2433a171f2a63edc24f3a845afc995fa87b51049c88b3a6e0c9e7",
+      "after_sha256": "037d845363b2433a171f2a63edc24f3a845afc995fa87b51049c88b3a6e0c9e7",
+      "equal": true
+    },
+    {
+      "path": "results/category_forecast_comparison.csv",
+      "before_sha256": "b6dcd45c17f42139394e319c22810a0d5f10de9ceefd3adac4a9371ae0fbbb54",
+      "after_sha256": "b6dcd45c17f42139394e319c22810a0d5f10de9ceefd3adac4a9371ae0fbbb54",
+      "equal": true
+    },
+    {
+      "path": "results/bootstrap_month.csv",
+      "before_sha256": "e83fbac3303cecfea4dc9f409285f278400049732e34f2a67ee8a55c9260c421",
+      "after_sha256": "e83fbac3303cecfea4dc9f409285f278400049732e34f2a67ee8a55c9260c421",
+      "equal": true
+    },
+    {
+      "path": "results/asof_distribution_municipal.csv",
+      "before_sha256": "5cecad5ed62a6a54594584c2ddbdc4a0772f0b3daa6c8d374ec4ae474213f3e6",
+      "after_sha256": "5cecad5ed62a6a54594584c2ddbdc4a0772f0b3daa6c8d374ec4ae474213f3e6",
+      "equal": true
+    },
+    {
+      "path": "results/asof_cohort_predictions.parquet",
+      "before_sha256": "bd1fdd6d4fb6196191e0ab96129735fa904c69b748679657a98b580a1332431e",
+      "after_sha256": "bd1fdd6d4fb6196191e0ab96129735fa904c69b748679657a98b580a1332431e",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_monthly.csv",
+      "before_sha256": "4ca9a8ca81518db7188e4b7deebdff756d1350de17b7f20b7fd55d3e1f8db867",
+      "after_sha256": "4ca9a8ca81518db7188e4b7deebdff756d1350de17b7f20b7fd55d3e1f8db867",
+      "equal": true
+    },
+    {
+      "path": "results/hierarchical_coverage.csv",
+      "before_sha256": "76b41bd412499fa7e9b168b9f39410ab3168462619180535152223e9aa8f8fe9",
+      "after_sha256": "76b41bd412499fa7e9b168b9f39410ab3168462619180535152223e9aa8f8fe9",
+      "equal": true
+    },
+    {
+      "path": "results/change_scope_summary.csv",
+      "before_sha256": "2c8be4a11d4f4a404e8adf9b828462f2b2fad47f1174b03eb9f418bc1d52e37e",
+      "after_sha256": "2c8be4a11d4f4a404e8adf9b828462f2b2fad47f1174b03eb9f418bc1d52e37e",
+      "equal": true
+    },
+    {
+      "path": "results/survivorship_coverage.csv",
+      "before_sha256": "30acf9c8a438a26fba207c7eb7cfc849b5261009d9b4f5cfb8c9f039400b4f55",
+      "after_sha256": "30acf9c8a438a26fba207c7eb7cfc849b5261009d9b4f5cfb8c9f039400b4f55",
+      "equal": true
+    },
+    {
+      "path": "results/regional_blend_validation.csv",
+      "before_sha256": "c83c985276ea20c86304133f40fa2f968323e6ecdae0af3ee5c6e690dfd52d1f",
+      "after_sha256": "c83c985276ea20c86304133f40fa2f968323e6ecdae0af3ee5c6e690dfd52d1f",
+      "equal": true
+    },
+    {
+      "path": "results/named_case_growth.csv",
+      "before_sha256": "867490c8e1c6b6e330e781971a61ea6e88d870b11973866835a041d0bdcd656b",
+      "after_sha256": "867490c8e1c6b6e330e781971a61ea6e88d870b11973866835a041d0bdcd656b",
+      "equal": true
+    },
+    {
+      "path": "results/bocpd_scores.parquet",
+      "before_sha256": "c1b2679a49bc81a944ece686c193c53d94a2e24672cc2c8e807f495645d9eff7",
+      "after_sha256": "c1b2679a49bc81a944ece686c193c53d94a2e24672cc2c8e807f495645d9eff7",
+      "equal": true
+    },
+    {
+      "path": "results/event_attribution_summary.csv",
+      "before_sha256": "09272cb812dc06b12300b3e60a9575de56a66a2b5334cc1b8ffc5a81e1bc4da3",
+      "after_sha256": "09272cb812dc06b12300b3e60a9575de56a66a2b5334cc1b8ffc5a81e1bc4da3",
+      "equal": true
+    },
+    {
+      "path": "results/weather_body_review.csv",
+      "before_sha256": "2f102493e77a7bb3200c69e37ce80994a323e8fea342effe3a36efd1af7b9964",
+      "after_sha256": "2f102493e77a7bb3200c69e37ce80994a323e8fea342effe3a36efd1af7b9964",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_asof_features.csv",
+      "before_sha256": "1f2f51d26d44910f0cb6efb3aad901bfe966829525e3bbd0dbcdf39a4eb96cbe",
+      "after_sha256": "1f2f51d26d44910f0cb6efb3aad901bfe966829525e3bbd0dbcdf39a4eb96cbe",
+      "equal": true
+    },
+    {
+      "path": "results/detector_delay_calibration.csv",
+      "before_sha256": "dcf245038fc6e2d2f9734c6cae284f992fef6eea5e19b1d55abeb050c4d6cefb",
+      "after_sha256": "dcf245038fc6e2d2f9734c6cae284f992fef6eea5e19b1d55abeb050c4d6cefb",
+      "equal": true
+    },
+    {
+      "path": "results/detector_delay_coverage.csv",
+      "before_sha256": "1197864d43df797d7c8511e6a5e3377c9e8faee713b9484e0b91182f1953e380",
+      "after_sha256": "1197864d43df797d7c8511e6a5e3377c9e8faee713b9484e0b91182f1953e380",
+      "equal": true
+    },
+    {
+      "path": "results/interval_calibration.csv",
+      "before_sha256": "29164da8b3c0974481f06e17f1b2fc28be0565dc0a3a02a64832c2e6be29277d",
+      "after_sha256": "29164da8b3c0974481f06e17f1b2fc28be0565dc0a3a02a64832c2e6be29277d",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_monthly.csv",
+      "before_sha256": "3f92771f9c5b024828ae9bf570e3994cdf46adb26da6aa7656521558ce407309",
+      "after_sha256": "3f92771f9c5b024828ae9bf570e3994cdf46adb26da6aa7656521558ce407309",
+      "equal": true
+    },
+    {
+      "path": "results/asof_foundation_predictions.parquet",
+      "before_sha256": "1000b2568a8604dd5624b7634bbffe15ceaff9531f6d30af41adec55cbc0d9e9",
+      "after_sha256": "1000b2568a8604dd5624b7634bbffe15ceaff9531f6d30af41adec55cbc0d9e9",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_comparison.csv",
+      "before_sha256": "35328e07396a20c9676438e76210cdb00afdec015b9f2edaf37dcf6384fadc87",
+      "after_sha256": "35328e07396a20c9676438e76210cdb00afdec015b9f2edaf37dcf6384fadc87",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_sensitivity.csv",
+      "before_sha256": "13edc4f58dd10a332a2d6a0bf3235f000ee843e9bc1fa849afc4d905b0a16915",
+      "after_sha256": "13edc4f58dd10a332a2d6a0bf3235f000ee843e9bc1fa849afc4d905b0a16915",
+      "equal": true
+    },
+    {
+      "path": "results/news_pair_eligibility.csv",
+      "before_sha256": "6ff3727f3d9f62f5fc4224c48a813e84849ffaae881872682e6a55ca5f897d5a",
+      "after_sha256": "6ff3727f3d9f62f5fc4224c48a813e84849ffaae881872682e6a55ca5f897d5a",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_calibration.csv",
+      "before_sha256": "e20465de1d606a1842ed905a2f413274347c387aaaed503e06f6da8a44d85652",
+      "after_sha256": "e20465de1d606a1842ed905a2f413274347c387aaaed503e06f6da8a44d85652",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_comparison.csv",
+      "before_sha256": "ab6844d4ca2baff9db17d970b5a621354e0ef3271b03ac3465e503c72c07cc7d",
+      "after_sha256": "ab6844d4ca2baff9db17d970b5a621354e0ef3271b03ac3465e503c72c07cc7d",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_primary_comparison.csv",
+      "before_sha256": "b4549c1b0097637e539b2e1c208d9dac1086fb60aeebdd5c10cd48eb0eba2a02",
+      "after_sha256": "b4549c1b0097637e539b2e1c208d9dac1086fb60aeebdd5c10cd48eb0eba2a02",
+      "equal": true
+    },
+    {
+      "path": "results/bocpd_summary.csv",
+      "before_sha256": "7c3fb5752995dc4c0ee32b79fc4b1465b01bc93724164ad628ae32eb0ec805d5",
+      "after_sha256": "7c3fb5752995dc4c0ee32b79fc4b1465b01bc93724164ad628ae32eb0ec805d5",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_residual_summary.csv",
+      "before_sha256": "51482f94b606543e5538f2afc3a7ddbce3ae9501ce3dc1bd67d59c7a7d03ad7e",
+      "after_sha256": "51482f94b606543e5538f2afc3a7ddbce3ae9501ce3dc1bd67d59c7a7d03ad7e",
+      "equal": true
+    },
+    {
+      "path": "results/online_interval_monthly.csv",
+      "before_sha256": "149e16f9095720a87a4334167d8f0e41d6a37e0eacc6e03b407d0a23c03b43f2",
+      "after_sha256": "149e16f9095720a87a4334167d8f0e41d6a37e0eacc6e03b407d0a23c03b43f2",
+      "equal": true
+    },
+    {
+      "path": "results/bocpd_calendar.csv",
+      "before_sha256": "d757bdf64487002ac131c3c7eb85e693c5257ac320cb7df30e84badf3ef7cafe",
+      "after_sha256": "d757bdf64487002ac131c3c7eb85e693c5257ac320cb7df30e84badf3ef7cafe",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_all_candidates.csv",
+      "before_sha256": "40110abe5a464e5a00a63b01c64aa6cb510661f30e21e3a099ee886cb277e764",
+      "after_sha256": "40110abe5a464e5a00a63b01c64aa6cb510661f30e21e3a099ee886cb277e764",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_predictions.parquet",
+      "before_sha256": "bf1540ee9e95be94411f7742b42ddf80657f66cb53f765d7f60c7c826d7b165d",
+      "after_sha256": "bf1540ee9e95be94411f7742b42ddf80657f66cb53f765d7f60c7c826d7b165d",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_validation.csv",
+      "before_sha256": "58d8808cc39887da58a89d9d152fd162382c93055b97c5e15c7f6273150c90ba",
+      "after_sha256": "58d8808cc39887da58a89d9d152fd162382c93055b97c5e15c7f6273150c90ba",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_runtime.csv",
+      "before_sha256": "1ad0b75562e69ad04713038851b8434d05b2cc490e49f484a58a4b2caff36927",
+      "after_sha256": "1ad0b75562e69ad04713038851b8434d05b2cc490e49f484a58a4b2caff36927",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_12m.csv",
+      "before_sha256": "3f62587ca384bf3e3fbd91110103dcf4461cf74a925184b467933f85face009e",
+      "after_sha256": "3f62587ca384bf3e3fbd91110103dcf4461cf74a925184b467933f85face009e",
+      "equal": true
+    },
+    {
+      "path": "results/news_corpus_summary.csv",
+      "before_sha256": "1a5f7ffb023ae984dbe4af644c634e68b9826c5394d7d42b6f3d5f678210b5b8",
+      "after_sha256": "1a5f7ffb023ae984dbe4af644c634e68b9826c5394d7d42b6f3d5f678210b5b8",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_monthly.csv",
+      "before_sha256": "6ff32abb3b519b7277d8c93c7b19aba11d778d19131d3b63220cbbc9a14fd1f5",
+      "after_sha256": "6ff32abb3b519b7277d8c93c7b19aba11d778d19131d3b63220cbbc9a14fd1f5",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_validation_256.csv",
+      "before_sha256": "884a9c33775a2cdc5b313ca9ed01bd9b7ae7ff9ff841ca1a1727bd81f5b119e1",
+      "after_sha256": "884a9c33775a2cdc5b313ca9ed01bd9b7ae7ff9ff841ca1a1727bd81f5b119e1",
+      "equal": true
+    },
+    {
+      "path": "results/change_scope_repetitions.csv",
+      "before_sha256": "486bd41b4cb729f00425bb51f889b7e605b1e7e40e625f8b616ad0c151980117",
+      "after_sha256": "486bd41b4cb729f00425bb51f889b7e605b1e7e40e625f8b616ad0c151980117",
+      "equal": true
+    },
+    {
+      "path": "results/weather_body_topic_comparison.csv",
+      "before_sha256": "124f6df60d7c7755e1e603b1001008225afbebabf9c96cf3662dc4918a3c00dd",
+      "after_sha256": "124f6df60d7c7755e1e603b1001008225afbebabf9c96cf3662dc4918a3c00dd",
+      "equal": true
+    },
+    {
+      "path": "results/hierarchical_background_summary.csv",
+      "before_sha256": "6299d23dcc6161500b6b8188e046a73b92363be8e01e2e9d5f8e175bbd8199bc",
+      "after_sha256": "6299d23dcc6161500b6b8188e046a73b92363be8e01e2e9d5f8e175bbd8199bc",
+      "equal": true
+    },
+    {
+      "path": "results/news_corpus_features.csv",
+      "before_sha256": "946714e6fdee2cf542548c2154cf3d9612ba7f33c81bf21e51bb40b75d73420e",
+      "after_sha256": "946714e6fdee2cf542548c2154cf3d9612ba7f33c81bf21e51bb40b75d73420e",
+      "equal": true
+    },
+    {
+      "path": "results/asof_distribution_paired.csv",
+      "before_sha256": "7e7533912fa81d2110bd4ddd035bfcc1b959099eaf8a754af84203e9c3712802",
+      "after_sha256": "7e7533912fa81d2110bd4ddd035bfcc1b959099eaf8a754af84203e9c3712802",
+      "equal": true
+    },
+    {
+      "path": "results/survivorship_forecast_sensitivity.csv",
+      "before_sha256": "76db22941260b0c94ee74d2f9eb71a8a23692f20cf908ca52f4f25f7895e1a68",
+      "after_sha256": "76db22941260b0c94ee74d2f9eb71a8a23692f20cf908ca52f4f25f7895e1a68",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_residual_trajectories.csv",
+      "before_sha256": "6680952109282dbf31cfc2d568bb191cb2e333215a1be965f79e8c019ace6c85",
+      "after_sha256": "6680952109282dbf31cfc2d568bb191cb2e333215a1be965f79e8c019ace6c85",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_seasonal_summary.csv",
+      "before_sha256": "0a2b3728d58ffe3d7fd9de13193c242b5bde132b4770183d325bf52bcad12cd7",
+      "after_sha256": "0a2b3728d58ffe3d7fd9de13193c242b5bde132b4770183d325bf52bcad12cd7",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_validation.csv",
+      "before_sha256": "6603753c871c6125abfe014a3b567ee73f04c46ad9e6a14d4ccff5c9649215f7",
+      "after_sha256": "6603753c871c6125abfe014a3b567ee73f04c46ad9e6a14d4ccff5c9649215f7",
+      "equal": true
+    },
+    {
+      "path": "results/category_predictions.parquet",
+      "before_sha256": "e62bd84ff30707d29c763a1bc6aa1b799255b4ff0e1adce6b66e207ab6a6a500",
+      "after_sha256": "e62bd84ff30707d29c763a1bc6aa1b799255b4ff0e1adce6b66e207ab6a6a500",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_candidates.parquet",
+      "before_sha256": "7f910d08a01cf4066a7c3cf78b0e0421f9dba1be89ba33cd907888a3f1af2f88",
+      "after_sha256": "7f910d08a01cf4066a7c3cf78b0e0421f9dba1be89ba33cd907888a3f1af2f88",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_audit_groups.csv",
+      "before_sha256": "fe32c0ad533bcaa055593ae57c74478e9518ecc13534de4de478a67141e82ba1",
+      "after_sha256": "fe32c0ad533bcaa055593ae57c74478e9518ecc13534de4de478a67141e82ba1",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_all_candidates.csv",
+      "before_sha256": "8e525957f2e24df84a256af6d825a409b163e9359111859bbad0bd197c256a0c",
+      "after_sha256": "8e525957f2e24df84a256af6d825a409b163e9359111859bbad0bd197c256a0c",
+      "equal": true
+    },
+    {
+      "path": "results/real_registry_alarms.csv",
+      "before_sha256": "3fc84badf232b8edc2b14cffc328e507487f963fdfb20195c24a70041783f5e7",
+      "after_sha256": "3fc84badf232b8edc2b14cffc328e507487f963fdfb20195c24a70041783f5e7",
+      "equal": true
+    },
+    {
+      "path": "results/geographic_extension_regions.csv",
+      "before_sha256": "f05cc0e50ea672f7d51d9acb432a9f1ef6f09103002bba173a6b3a8eb01d911f",
+      "after_sha256": "f05cc0e50ea672f7d51d9acb432a9f1ef6f09103002bba173a6b3a8eb01d911f",
+      "equal": true
+    },
+    {
+      "path": "results/confirmation_events.csv",
+      "before_sha256": "558d29b38b108fb080f60915b37ecaedc9458d41199513229d06c00e6ed41fab",
+      "after_sha256": "558d29b38b108fb080f60915b37ecaedc9458d41199513229d06c00e6ed41fab",
+      "equal": true
+    },
+    {
+      "path": "results/seasonal_news_available_features.csv",
+      "before_sha256": "f4cc70208fb4777738b85eff90fdc12609154ac8110c6158a3638c3e1992f561",
+      "after_sha256": "f4cc70208fb4777738b85eff90fdc12609154ac8110c6158a3638c3e1992f561",
+      "equal": true
+    },
+    {
+      "path": "results/asof_distribution_groups.csv",
+      "before_sha256": "5e797a091e6c10e80350146edf92c8763b3d7b413424836190354ef0c9585f5f",
+      "after_sha256": "5e797a091e6c10e80350146edf92c8763b3d7b413424836190354ef0c9585f5f",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_monthly.csv",
+      "before_sha256": "e2e6c5a5379d3d59179298b98af6f125795655882452d9f4a2058b9b538bb89f",
+      "after_sha256": "e2e6c5a5379d3d59179298b98af6f125795655882452d9f4a2058b9b538bb89f",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_forecast_selections.csv",
+      "before_sha256": "5a2d96d2775e09cac690a4c0bc6d22e59871c24a2f41b84e1196ef8d33af6842",
+      "after_sha256": "5a2d96d2775e09cac690a4c0bc6d22e59871c24a2f41b84e1196ef8d33af6842",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_paired.csv",
+      "before_sha256": "93a8009339f3658fe43481d7dac69a6b10f9405792013e51be94617b6d370fd3",
+      "after_sha256": "93a8009339f3658fe43481d7dac69a6b10f9405792013e51be94617b6d370fd3",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_monthly_gains.csv",
+      "before_sha256": "ed768caf8285f0845f43afebfe65e12cb64f082d6c628e79e72325fc4a771b31",
+      "after_sha256": "ed768caf8285f0845f43afebfe65e12cb64f082d6c628e79e72325fc4a771b31",
+      "equal": true
+    },
+    {
+      "path": "results/reporting_delay_monthly.csv",
+      "before_sha256": "08f70ae4d22159e8c6700fa21452b5665535b6e1ccc5edad212c4a2baf118b83",
+      "after_sha256": "08f70ae4d22159e8c6700fa21452b5665535b6e1ccc5edad212c4a2baf118b83",
+      "equal": true
+    },
+    {
+      "path": "results/calendar_monthly.csv",
+      "before_sha256": "2ce832b56f274ae183ad55d408c7b8a1f60c0fb4f4369d93052aae156b91b8d0",
+      "after_sha256": "2ce832b56f274ae183ad55d408c7b8a1f60c0fb4f4369d93052aae156b91b8d0",
+      "equal": true
+    },
+    {
+      "path": "results/geographic_extension_summary.csv",
+      "before_sha256": "0d3cc4960d837f320a43d9c14f522c1ed6119c7fb7b078318f00db3f0f3c79db",
+      "after_sha256": "0d3cc4960d837f320a43d9c14f522c1ed6119c7fb7b078318f00db3f0f3c79db",
+      "equal": true
+    },
+    {
+      "path": "results/change_robustness.csv",
+      "before_sha256": "8853cdf49ea84d4c73d93c4e3735946c8e0b6c5596e90a1aa25977603bb9924a",
+      "after_sha256": "8853cdf49ea84d4c73d93c4e3735946c8e0b6c5596e90a1aa25977603bb9924a",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_seasonal_paired_monthly.csv",
+      "before_sha256": "7da963cc5a613c7cc04897976b53704a4b950abdba4a8cfdb1bfbbcbd5fd7009",
+      "after_sha256": "7da963cc5a613c7cc04897976b53704a4b950abdba4a8cfdb1bfbbcbd5fd7009",
+      "equal": true
+    },
+    {
+      "path": "results/hierarchical_summary.csv",
+      "before_sha256": "03905ffacd00016f86054a784a7105b8ec0990112fad80a14e8f4fa1a669317f",
+      "after_sha256": "03905ffacd00016f86054a784a7105b8ec0990112fad80a14e8f4fa1a669317f",
+      "equal": true
+    },
+    {
+      "path": "results/chronos2_rolling.csv",
+      "before_sha256": "0b65677e0eacec4cff2479bf8496d60991b2ce5d9c06dbe899df82df7d0ed2ee",
+      "after_sha256": "0b65677e0eacec4cff2479bf8496d60991b2ce5d9c06dbe899df82df7d0ed2ee",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_validation.csv",
+      "before_sha256": "8229f72e5f02c46bc2055b62e76ce0addecc5664e47eeb742b2e88d3895f6edf",
+      "after_sha256": "8229f72e5f02c46bc2055b62e76ce0addecc5664e47eeb742b2e88d3895f6edf",
+      "equal": true
+    },
+    {
+      "path": "results/consumption_with_geography_cpi.parquet",
+      "before_sha256": "dd4b12fedbcaf2c5febfd095902a78fb7beb3ad7f16d371fb3f95484aa3d8eac",
+      "after_sha256": "dd4b12fedbcaf2c5febfd095902a78fb7beb3ad7f16d371fb3f95484aa3d8eac",
+      "equal": true
+    },
+    {
+      "path": "results/news_asof_features.csv",
+      "before_sha256": "8bb5fc764c90273488640b366aa0e17e528f0e71ba393d3135cdc0d67e2bf399",
+      "after_sha256": "8bb5fc764c90273488640b366aa0e17e528f0e71ba393d3135cdc0d67e2bf399",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_region_mentions.csv",
+      "before_sha256": "ca8186edb1c351871a36ec3faf91e00085461ef0e2db04cb0e520a8f873681a0",
+      "after_sha256": "ca8186edb1c351871a36ec3faf91e00085461ef0e2db04cb0e520a8f873681a0",
+      "equal": true
+    },
+    {
+      "path": "results/cbr_key_rate_2023_2024.csv",
+      "before_sha256": "8a900fd4aaa0451770af45bee572e7019fa2d5d29d23d3e81a983b0158e63daf",
+      "after_sha256": "8a900fd4aaa0451770af45bee572e7019fa2d5d29d23d3e81a983b0158e63daf",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_summary.csv",
+      "before_sha256": "780fc277aa637a36d678639c4511b36e1dcb8afa55d1a8e5dbfd1b69a06435dc",
+      "after_sha256": "780fc277aa637a36d678639c4511b36e1dcb8afa55d1a8e5dbfd1b69a06435dc",
+      "equal": true
+    },
+    {
+      "path": "results/regional_blend_comparison.csv",
+      "before_sha256": "acb4d877abcff303d8b71e277e1644610c261c45dd779cf46108eead933c3a98",
+      "after_sha256": "acb4d877abcff303d8b71e277e1644610c261c45dd779cf46108eead933c3a98",
+      "equal": true
+    },
+    {
+      "path": "results/news_registry_summary.csv",
+      "before_sha256": "d0db0931095a04870a7f2300616bd6833cc4b3d381c0ba983db53b1b543fc9d2",
+      "after_sha256": "d0db0931095a04870a7f2300616bd6833cc4b3d381c0ba983db53b1b543fc9d2",
+      "equal": true
+    },
+    {
+      "path": "results/news_claim_registry.csv",
+      "before_sha256": "afdbdbdc1b90fc6b93ca8d2ee9a735281cb728bd2cf9ec8269a0189949f9ec8f",
+      "after_sha256": "afdbdbdc1b90fc6b93ca8d2ee9a735281cb728bd2cf9ec8269a0189949f9ec8f",
+      "equal": true
+    },
+    {
+      "path": "results/reporting_delay_summary.csv",
+      "before_sha256": "fe67e0eb37677548db7a62d1918390217ac2d92486cd0484f684237c249ebd97",
+      "after_sha256": "fe67e0eb37677548db7a62d1918390217ac2d92486cd0484f684237c249ebd97",
+      "equal": true
+    },
+    {
+      "path": "results/calendar_summary.csv",
+      "before_sha256": "7ce13291cdf69c73f51f96fce92f87383f637907da4827a015c6e7ec4d51c952",
+      "after_sha256": "7ce13291cdf69c73f51f96fce92f87383f637907da4827a015c6e7ec4d51c952",
+      "equal": true
+    },
+    {
+      "path": "results/news_pair_coverage.csv",
+      "before_sha256": "5c4ea1ad3242e37b99bd2f8e50671225d43cc16d1b01559d22ee61b8e8626c26",
+      "after_sha256": "5c4ea1ad3242e37b99bd2f8e50671225d43cc16d1b01559d22ee61b8e8626c26",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_seasonal_predictions.parquet",
+      "before_sha256": "7c59256848fbb10c75d4a341670fa565e934a2c7bbd53588bc30e5ccc2a5805c",
+      "after_sha256": "7c59256848fbb10c75d4a341670fa565e934a2c7bbd53588bc30e5ccc2a5805c",
+      "equal": true
+    },
+    {
+      "path": "results/hgb_12m_predictions.csv",
+      "before_sha256": "5b8dd5f5b0df8ad667198f7796f4ee5bad6a55cbdaf201d73aae9aa20317c469",
+      "after_sha256": "5b8dd5f5b0df8ad667198f7796f4ee5bad6a55cbdaf201d73aae9aa20317c469",
+      "equal": true
+    },
+    {
+      "path": "results/asof_hgb_12m.csv",
+      "before_sha256": "beb625984e4700852bbab763433415fa5725829bf5e79eee66cbf4ff15f5b17e",
+      "after_sha256": "beb625984e4700852bbab763433415fa5725829bf5e79eee66cbf4ff15f5b17e",
+      "equal": true
+    },
+    {
+      "path": "results/online_intervals.parquet",
+      "before_sha256": "2d1fb5e028d4b61e950f19c7558083d30473a53a4f011bd070194fc97ad42d3f",
+      "after_sha256": "2d1fb5e028d4b61e950f19c7558083d30473a53a4f011bd070194fc97ad42d3f",
+      "equal": true
+    },
+    {
+      "path": "results/seasonal_news_coverage.csv",
+      "before_sha256": "966a67cb1a882fe383d4281ac8d8e2800f7b56a41a9046bbd22dc5e24f990677",
+      "after_sha256": "966a67cb1a882fe383d4281ac8d8e2800f7b56a41a9046bbd22dc5e24f990677",
+      "equal": true
+    },
+    {
+      "path": "results/calendar_deltas.csv",
+      "before_sha256": "7fd11086dc8c7ec6b67891f6d6a54c9875b17ebcf6ebd541dfcbe702c827c67c",
+      "after_sha256": "7fd11086dc8c7ec6b67891f6d6a54c9875b17ebcf6ebd541dfcbe702c827c67c",
+      "equal": true
+    },
+    {
+      "path": "results/asof_reporting_delay_predictions.parquet",
+      "before_sha256": "a1b4d2dd326f104eea26e2ad508b0c2b0989d0231417dd21db31be2bc285fb83",
+      "after_sha256": "a1b4d2dd326f104eea26e2ad508b0c2b0989d0231417dd21db31be2bc285fb83",
+      "equal": true
+    },
+    {
+      "path": "results/real_growth_interpretation.parquet",
+      "before_sha256": "8966019685e9564477087be2a31a56570d47230b2a7944cddbe897758d92a263",
+      "after_sha256": "8966019685e9564477087be2a31a56570d47230b2a7944cddbe897758d92a263",
+      "equal": true
+    },
+    {
+      "path": "results/asof_detector_calibration.csv",
+      "before_sha256": "1e796e9f6368a3bb3a85d5b3cc062f4136b8bd5a27b7401b2e4248ed351979d1",
+      "after_sha256": "1e796e9f6368a3bb3a85d5b3cc062f4136b8bd5a27b7401b2e4248ed351979d1",
+      "equal": true
+    },
+    {
+      "path": "results/detector_delay_summary.csv",
+      "before_sha256": "4544924d688376a5198e9575d9be7aaec14ef58d0d392240921eee5f14fe030b",
+      "after_sha256": "4544924d688376a5198e9575d9be7aaec14ef58d0d392240921eee5f14fe030b",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_seasonal_monthly.csv",
+      "before_sha256": "70277a6ef2395a939fe93d05060c399ca6c9f4558c77ec506a717c067e33a82e",
+      "after_sha256": "70277a6ef2395a939fe93d05060c399ca6c9f4558c77ec506a717c067e33a82e",
+      "equal": true
+    },
+    {
+      "path": "results/news_corpus_monthly.csv",
+      "before_sha256": "aa23f9962b6bcefdaae8c2af183092b4256d88e4f57b1df49428ecc674beff58",
+      "after_sha256": "aa23f9962b6bcefdaae8c2af183092b4256d88e4f57b1df49428ecc674beff58",
+      "equal": true
+    },
+    {
+      "path": "results/asof_cohort_comparison.csv",
+      "before_sha256": "fba07ed3ab0ed93f126121316e251871640f8790e4fe13c815aff39549081361",
+      "after_sha256": "fba07ed3ab0ed93f126121316e251871640f8790e4fe13c815aff39549081361",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_candidate_monthly_errors.csv",
+      "before_sha256": "9f6caa1b87a9152718d0a4a21f0a47e578307773c7dcb36d014ed76f01919302",
+      "after_sha256": "9f6caa1b87a9152718d0a4a21f0a47e578307773c7dcb36d014ed76f01919302",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_candidates.parquet",
+      "before_sha256": "a5f5c285f5f7e569528ad955e25580b25b6af937e533dae1b40f0ba2c0f9dda4",
+      "after_sha256": "a5f5c285f5f7e569528ad955e25580b25b6af937e533dae1b40f0ba2c0f9dda4",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_summary.csv",
+      "before_sha256": "7a028925e98d85a73f55eff606725b74096b5a3e1cc185d838ce10413ebe677e",
+      "after_sha256": "7a028925e98d85a73f55eff606725b74096b5a3e1cc185d838ce10413ebe677e",
+      "equal": true
+    },
+    {
+      "path": "results/primary_predictions.parquet",
+      "before_sha256": "94a20990f6305f9c76d77ed71e49ebfee6ee3805018b1d71590f2ddb3b943ad6",
+      "after_sha256": "94a20990f6305f9c76d77ed71e49ebfee6ee3805018b1d71590f2ddb3b943ad6",
+      "equal": true
+    },
+    {
+      "path": "results/reporting_delay_predictions.parquet",
+      "before_sha256": "05f34cdfe5c6ef717676bb96c596338441ecf1c9f552e53800d99fe250dd8ad1",
+      "after_sha256": "05f34cdfe5c6ef717676bb96c596338441ecf1c9f552e53800d99fe250dd8ad1",
+      "equal": true
+    },
+    {
+      "path": "results/hierarchical_background.csv",
+      "before_sha256": "dedf6d7a145dc4cfd5c6dc71e9405d019fb474608285c05a75b8802aca3700b9",
+      "after_sha256": "dedf6d7a145dc4cfd5c6dc71e9405d019fb474608285c05a75b8802aca3700b9",
+      "equal": true
+    },
+    {
+      "path": "results/real_registry_cases.csv",
+      "before_sha256": "a2dc57f69321b5a3ba185a2471706c299c687fb95e42e4522f65083dab2b9e89",
+      "after_sha256": "a2dc57f69321b5a3ba185a2471706c299c687fb95e42e4522f65083dab2b9e89",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_predictions.parquet",
+      "before_sha256": "9c10400692293b009aca54dfce28765a8073f9da98e97a7d6c470a62858239e5",
+      "after_sha256": "9c10400692293b009aca54dfce28765a8073f9da98e97a7d6c470a62858239e5",
+      "equal": true
+    },
+    {
+      "path": "results/bocpd_calibration.csv",
+      "before_sha256": "358340148e6918f251c6cf671bda40d9018ae39dae92ad16b7de940da6a9e4f1",
+      "after_sha256": "358340148e6918f251c6cf671bda40d9018ae39dae92ad16b7de940da6a9e4f1",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_forecast_predictions.parquet",
+      "before_sha256": "14e8c22d591bc1da406c4eae6dda2c1e6e434c6e2e7a7b85e3e335e02262e5a1",
+      "after_sha256": "14e8c22d591bc1da406c4eae6dda2c1e6e434c6e2e7a7b85e3e335e02262e5a1",
+      "equal": true
+    },
+    {
+      "path": "results/regional_news_experiment_eligible_claims.csv",
+      "before_sha256": "1242ef6b07f13ba11445434143fc64fe4e844928f3184dff749b875260093602",
+      "after_sha256": "1242ef6b07f13ba11445434143fc64fe4e844928f3184dff749b875260093602",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_coverage.csv",
+      "before_sha256": "80f0c843b50b34d51e57fbf02af93e8493d4efef1fc5db4fa4b938f0a48878de",
+      "after_sha256": "80f0c843b50b34d51e57fbf02af93e8493d4efef1fc5db4fa4b938f0a48878de",
+      "equal": true
+    },
+    {
+      "path": "results/geographic_extension_predictions.parquet",
+      "before_sha256": "4449c4baadcde163dfc2c3ad309373398464232a950de058127ae738717145b3",
+      "after_sha256": "4449c4baadcde163dfc2c3ad309373398464232a950de058127ae738717145b3",
+      "equal": true
+    },
+    {
+      "path": "results/weather_warning_horizons.csv",
+      "before_sha256": "94a1e2a7a04f5b6ed784be8982458ffb968b2c4d902594a1ba2eac1e7beec207",
+      "after_sha256": "94a1e2a7a04f5b6ed784be8982458ffb968b2c4d902594a1ba2eac1e7beec207",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_validation.csv",
+      "before_sha256": "0b88f14d5596cd9bb962fddd7b505aff68aee61c9f9fbeb2c33738ba6b8400e1",
+      "after_sha256": "0b88f14d5596cd9bb962fddd7b505aff68aee61c9f9fbeb2c33738ba6b8400e1",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_predictions.parquet",
+      "before_sha256": "ec64e33b3ed73b97c776064039d1788ca3129ae615834a363bab82ce968c7d44",
+      "after_sha256": "ec64e33b3ed73b97c776064039d1788ca3129ae615834a363bab82ce968c7d44",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_seasonal_runtime.csv",
+      "before_sha256": "20ba32c5ad89cd0e713646518868deabba72d48ead6f152ec779bf32e095aa2c",
+      "after_sha256": "20ba32c5ad89cd0e713646518868deabba72d48ead6f152ec779bf32e095aa2c",
+      "equal": true
+    },
+    {
+      "path": "results/online_interval_summary.csv",
+      "before_sha256": "6f1c5db8f8ce9cca1be21ad1e6f13795d81c322bdfdb18ac083d19d0a85defae",
+      "after_sha256": "6f1c5db8f8ce9cca1be21ad1e6f13795d81c322bdfdb18ac083d19d0a85defae",
+      "equal": true
+    },
+    {
+      "path": "results/real_growth_summary.csv",
+      "before_sha256": "a0284013140e5e9484b00cbfd6e050475902f25519c3994bda1c2b8e13a5ff33",
+      "after_sha256": "a0284013140e5e9484b00cbfd6e050475902f25519c3994bda1c2b8e13a5ff33",
+      "equal": true
+    },
+    {
+      "path": "results/confirmation_summary.csv",
+      "before_sha256": "472fdf30c426a54dd2d3cd31699989875aeaf294d13191278d5a1a876de98d42",
+      "after_sha256": "472fdf30c426a54dd2d3cd31699989875aeaf294d13191278d5a1a876de98d42",
+      "equal": true
+    },
+    {
+      "path": "results/rolling_predictions.parquet",
+      "before_sha256": "459f5c384417526d69e78a340556b3ea7ed98a7309ec6179e29f681c2ec058f9",
+      "after_sha256": "459f5c384417526d69e78a340556b3ea7ed98a7309ec6179e29f681c2ec058f9",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_delay_predictions.parquet",
+      "before_sha256": "fc96946e1004d013b05010c15179ef9eb2bad729df7cd2a548a137eca1d626d3",
+      "after_sha256": "fc96946e1004d013b05010c15179ef9eb2bad729df7cd2a548a137eca1d626d3",
+      "equal": true
+    },
+    {
+      "path": "results/confirmation_background.csv",
+      "before_sha256": "c9d2ef53bc293afc80b413b5eea266f0c04b6ad160e9a45532ca9bee800feb08",
+      "after_sha256": "c9d2ef53bc293afc80b413b5eea266f0c04b6ad160e9a45532ca9bee800feb08",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_sensitivity.csv",
+      "before_sha256": "988281afaa2f28105334b4fbef96fa77e5f672b19169e1723a1efd9540fa98bc",
+      "after_sha256": "988281afaa2f28105334b4fbef96fa77e5f672b19169e1723a1efd9540fa98bc",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_forecast_comparison.csv",
+      "before_sha256": "282673dfdc4c8c90f47f8cba21f94d26435596354e37ff8d87bc314322cd6308",
+      "after_sha256": "282673dfdc4c8c90f47f8cba21f94d26435596354e37ff8d87bc314322cd6308",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_municipal_gains.csv",
+      "before_sha256": "309abf590aa236bf5d5266fb1701e94fa10de453ee0634fe22173d13965ed7c3",
+      "after_sha256": "309abf590aa236bf5d5266fb1701e94fa10de453ee0634fe22173d13965ed7c3",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_sample_coverage.csv",
+      "before_sha256": "c0716269a4e44dc38978be9869e09fd7503b0075718eba68988e007ccd1e860d",
+      "after_sha256": "c0716269a4e44dc38978be9869e09fd7503b0075718eba68988e007ccd1e860d",
+      "equal": true
+    },
+    {
+      "path": "results/asof_detector_summary.csv",
+      "before_sha256": "2a441d95cb14b4b7bed8734933b1b3dd3a57f63101ea5123effa1055910525e2",
+      "after_sha256": "2a441d95cb14b4b7bed8734933b1b3dd3a57f63101ea5123effa1055910525e2",
+      "equal": true
+    },
+    {
+      "path": "results/news_corpus_coverage.csv",
+      "before_sha256": "019e4b867f208cb4fbfd1ad6fb592eea2001cc74e26e1c2f64da22d32fe019e5",
+      "after_sha256": "019e4b867f208cb4fbfd1ad6fb592eea2001cc74e26e1c2f64da22d32fe019e5",
+      "equal": true
+    },
+    {
+      "path": "results/asof_detector_coverage.csv",
+      "before_sha256": "6e67b0fcbdc1adf7422b71e9d79844ab6c6518ec9b5d0a6c523f322cbc3fecb8",
+      "after_sha256": "6e67b0fcbdc1adf7422b71e9d79844ab6c6518ec9b5d0a6c523f322cbc3fecb8",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_paired_audit.csv",
+      "before_sha256": "8981e146e17db40c4da7a855bb1907042a98e9b56d4af908c68987d838f71efd",
+      "after_sha256": "8981e146e17db40c4da7a855bb1907042a98e9b56d4af908c68987d838f71efd",
+      "equal": true
+    },
+    {
+      "path": "results/real_registry_geography.csv",
+      "before_sha256": "9a2402fd6bafa9640355fa4e2a5cebaa527fe67244efcbea16fa6781135a81a5",
+      "after_sha256": "9a2402fd6bafa9640355fa4e2a5cebaa527fe67244efcbea16fa6781135a81a5",
+      "equal": true
+    },
+    {
+      "path": "results/weather_body_sample.csv",
+      "before_sha256": "7a84af945101968cf3c033f5dc8c5657b512f01c93e6d124e8f3fc1116d62dab",
+      "after_sha256": "7a84af945101968cf3c033f5dc8c5657b512f01c93e6d124e8f3fc1116d62dab",
+      "equal": true
+    },
+    {
+      "path": "results/region_crosswalk.csv",
+      "before_sha256": "8d33fa219e7d61bf878236d67048fc75c91ddcb690701405f05a35e1e2a8653c",
+      "after_sha256": "8d33fa219e7d61bf878236d67048fc75c91ddcb690701405f05a35e1e2a8653c",
+      "equal": true
+    },
+    {
+      "path": "results/confirmation_stress.csv",
+      "before_sha256": "9099eb67160e08cbd001f8c9bab0f988bc870eaa7bd413b443d51e8f2deb5750",
+      "after_sha256": "9099eb67160e08cbd001f8c9bab0f988bc870eaa7bd413b443d51e8f2deb5750",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_articles.csv",
+      "before_sha256": "ca5064948019f31bab7fcecc9ffdb13ad45d5580491312bcb8b60577651e1d71",
+      "after_sha256": "ca5064948019f31bab7fcecc9ffdb13ad45d5580491312bcb8b60577651e1d71",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_summary.csv",
+      "before_sha256": "20c35af1597811d073ae18a2e322929d38aeb588382bf1f30c24c69cc0569078",
+      "after_sha256": "20c35af1597811d073ae18a2e322929d38aeb588382bf1f30c24c69cc0569078",
+      "equal": true
+    },
+    {
+      "path": "results/real_registry_summary.csv",
+      "before_sha256": "8285b53f4896b3f6c4bc871deb22b6451d3709f1e2222f9095c23cb57a263d20",
+      "after_sha256": "8285b53f4896b3f6c4bc871deb22b6451d3709f1e2222f9095c23cb57a263d20",
+      "equal": true
+    },
+    {
+      "path": "results/online_interval_calibration.csv",
+      "before_sha256": "594d1c00ddc973e904e7859fdbe5de83bd4098ab937500ab6a6a5893081427ba",
+      "after_sha256": "594d1c00ddc973e904e7859fdbe5de83bd4098ab937500ab6a6a5893081427ba",
+      "equal": true
+    },
+    {
+      "path": "results/event_attribution_runs.csv",
+      "before_sha256": "61ee4e54d8cf9898ef462c056b7082cce7616d34abe500e60d55117b7635cf3d",
+      "after_sha256": "61ee4e54d8cf9898ef462c056b7082cce7616d34abe500e60d55117b7635cf3d",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_leave_group_out.csv",
+      "before_sha256": "e5d0f0fe8d5e616a33ec8b240563550c14fe39f55ccfc3082e3c198577b30d82",
+      "after_sha256": "e5d0f0fe8d5e616a33ec8b240563550c14fe39f55ccfc3082e3c198577b30d82",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_pages.csv",
+      "before_sha256": "8475a37e161ecfacd5a72f61cd651cff199703acc4b9eda95cfb6f06900e1a3f",
+      "after_sha256": "8475a37e161ecfacd5a72f61cd651cff199703acc4b9eda95cfb6f06900e1a3f",
+      "equal": true
+    },
+    {
+      "path": "results/foundation_delay_paired.csv",
+      "before_sha256": "b94c46542c4f3ad94b9d3247a86b600f0dca7bc944ad24ab52d9b3cee0a50ee8",
+      "after_sha256": "b94c46542c4f3ad94b9d3247a86b600f0dca7bc944ad24ab52d9b3cee0a50ee8",
+      "equal": true
+    },
+    {
+      "path": "results/robust_anchor_selected.parquet",
+      "before_sha256": "62466c3e4c495cfcaa8cb38075a72ddd76871db27eb4ca9c0d06c8da8d37a1bc",
+      "after_sha256": "62466c3e4c495cfcaa8cb38075a72ddd76871db27eb4ca9c0d06c8da8d37a1bc",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_predictions.parquet",
+      "before_sha256": "cd49f9fb3305ec9c24210e4f50336287807eeef8d6b1cb852f4c4c6dca2dc4a2",
+      "after_sha256": "cd49f9fb3305ec9c24210e4f50336287807eeef8d6b1cb852f4c4c6dca2dc4a2",
+      "equal": true
+    },
+    {
+      "path": "results/regional_news_experiment_coverage.csv",
+      "before_sha256": "edff711098afd135ca7cdbe6a03d978604f427538e0a31ecb94f0483cbe18926",
+      "after_sha256": "edff711098afd135ca7cdbe6a03d978604f427538e0a31ecb94f0483cbe18926",
+      "equal": true
+    },
+    {
+      "path": "results/rosstat_cpi_monthly.csv",
+      "before_sha256": "f6120fcf2dba7ec503a0010787e550984a85f8ffa3f5d649553cbd8462c87e12",
+      "after_sha256": "f6120fcf2dba7ec503a0010787e550984a85f8ffa3f5d649553cbd8462c87e12",
+      "equal": true
+    },
+    {
+      "path": "results/weather_body_geography_comparison.csv",
+      "before_sha256": "474c55ae5fe98a09c6bb65ac47efafda63fa8274320d2a94509691dd06f9dbf9",
+      "after_sha256": "474c55ae5fe98a09c6bb65ac47efafda63fa8274320d2a94509691dd06f9dbf9",
+      "equal": true
+    },
+    {
+      "path": "results/bias_correction_comparison.csv",
+      "before_sha256": "3e613a38e010a0ac029ba5082f3bbd3877a4f057f914fc870aadecfced40691f",
+      "after_sha256": "3e613a38e010a0ac029ba5082f3bbd3877a4f057f914fc870aadecfced40691f",
+      "equal": true
+    },
+    {
+      "path": "results/weather_news_topic_monthly.csv",
+      "before_sha256": "2873e345122dcb2b981a1df016432a05c084848a39f48a28e1708bd1c510b06d",
+      "after_sha256": "2873e345122dcb2b981a1df016432a05c084848a39f48a28e1708bd1c510b06d",
+      "equal": true
+    },
+    {
+      "path": "results/regional_seasonality_regions.csv",
+      "before_sha256": "d1af88042c42e39d7fce0f24f1850859c507320ab51554406bafeeea5980ffa4",
+      "after_sha256": "d1af88042c42e39d7fce0f24f1850859c507320ab51554406bafeeea5980ffa4",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_predictions.parquet",
+      "before_sha256": "b636165b80eabf6d906f02c1a04cd8f8b9191031c7f8d75950286abaa91f2961",
+      "after_sha256": "b636165b80eabf6d906f02c1a04cd8f8b9191031c7f8d75950286abaa91f2961",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_delay_monthly.csv",
+      "before_sha256": "fdfd27669abc07f7e21142e09fc25ff0122926964b7f0a97ce2f55062d9df9ef",
+      "after_sha256": "fdfd27669abc07f7e21142e09fc25ff0122926964b7f0a97ce2f55062d9df9ef",
+      "equal": true
+    },
+    {
+      "path": "results/real_event_orsk.csv",
+      "before_sha256": "4dfc6c87cf370b03fbbecd5cb66c75e57494b63bf8b7e4e5a60461150d37fee8",
+      "after_sha256": "4dfc6c87cf370b03fbbecd5cb66c75e57494b63bf8b7e4e5a60461150d37fee8",
+      "equal": true
+    },
+    {
+      "path": "results/asof_reporting_delay_monthly.csv",
+      "before_sha256": "fe2791843c49a96b9aab3dad3442cdd8935c3114a96415eea6d1d7251d478fda",
+      "after_sha256": "fe2791843c49a96b9aab3dad3442cdd8935c3114a96415eea6d1d7251d478fda",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_audit_overview.csv",
+      "before_sha256": "f4b252dc3b181603f83312bc69d3fc04c6ec36ddb94138f4d8896dc6e874eeba",
+      "after_sha256": "f4b252dc3b181603f83312bc69d3fc04c6ec36ddb94138f4d8896dc6e874eeba",
+      "equal": true
+    },
+    {
+      "path": "results/region_real_growth.csv",
+      "before_sha256": "8f4708fe7f1f4228f229a7e97bc3d28ff6f5ce3685dd3e7a169a99218c25549e",
+      "after_sha256": "8f4708fe7f1f4228f229a7e97bc3d28ff6f5ce3685dd3e7a169a99218c25549e",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_validation.csv",
+      "before_sha256": "c13de4cfb63799d86e4abce95ec1565a2f9e74a75a029fc685fe508c7f21de13",
+      "after_sha256": "c13de4cfb63799d86e4abce95ec1565a2f9e74a75a029fc685fe508c7f21de13",
+      "equal": true
+    },
+    {
+      "path": "results/deseasonal_hgb_predictions.parquet",
+      "before_sha256": "14b16176b4b7280120896be589788b9bd57ce490e811def1aeb74f60946a7874",
+      "after_sha256": "14b16176b4b7280120896be589788b9bd57ce490e811def1aeb74f60946a7874",
+      "equal": true
+    },
+    {
+      "path": "results/operational_early_coverage.csv",
+      "before_sha256": "6e98d55061445783d81d634ac676ba671424f7de5bb6f2ba4baf34f6d2e6afdd",
+      "after_sha256": "6e98d55061445783d81d634ac676ba671424f7de5bb6f2ba4baf34f6d2e6afdd",
+      "equal": true
+    },
+    {
+      "path": "results/category_full_comparison.csv",
+      "before_sha256": "7a8bfa4baa678ef879fa383d895b416566e0447cd6131144211dc1519e80e549",
+      "after_sha256": "7a8bfa4baa678ef879fa383d895b416566e0447cd6131144211dc1519e80e549",
+      "equal": true
+    },
+    {
+      "path": "results/change_detection_metrics.csv",
+      "before_sha256": "334cd533f1a9882b268dd7f61c1358a42e0d67c5cffddc3f57ca00cdaa8b3361",
+      "after_sha256": "334cd533f1a9882b268dd7f61c1358a42e0d67c5cffddc3f57ca00cdaa8b3361",
+      "equal": true
+    },
+    {
+      "path": "results/asof_detector_membership.csv",
+      "before_sha256": "08d88d0e2e0f49c9a9677dd6a8937e8c3e63b004e53a8518ed7d551f481da6a5",
+      "after_sha256": "08d88d0e2e0f49c9a9677dd6a8937e8c3e63b004e53a8518ed7d551f481da6a5",
+      "equal": true
+    },
+    {
+      "path": "results/asof_monthly_mae.csv",
+      "before_sha256": "36e2019c7c50ae36d82b6ff50860c23057a045d02788b91f25c959db1de0fe96",
+      "after_sha256": "36e2019c7c50ae36d82b6ff50860c23057a045d02788b91f25c959db1de0fe96",
+      "equal": true
+    },
+    {
+      "path": "results/asof_distribution_overview.csv",
+      "before_sha256": "240d2687d7f38134270b10fc765902d8d8fa3a2e1a6a0fc78895fbbb49cb55a0",
+      "after_sha256": "240d2687d7f38134270b10fc765902d8d8fa3a2e1a6a0fc78895fbbb49cb55a0",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_all_candidates.csv",
+      "before_sha256": "2d3dea6c79762cc1a1e8699ab6affbe0b6aa6b8bb8741a9e65854ebeff86b5b7",
+      "after_sha256": "2d3dea6c79762cc1a1e8699ab6affbe0b6aa6b8bb8741a9e65854ebeff86b5b7",
+      "equal": true
+    },
+    {
+      "path": "results/adaptive_forecast_sensitivity.csv",
+      "before_sha256": "5789cfe370a5612d68d41b78a7719eb90b9e1210565f20de0ad91238348f73e7",
+      "after_sha256": "5789cfe370a5612d68d41b78a7719eb90b9e1210565f20de0ad91238348f73e7",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_residual_stress.csv",
+      "before_sha256": "04eb7f975c3e2573389922ef92519cf700b30f460214be22aa741018684eb054",
+      "after_sha256": "04eb7f975c3e2573389922ef92519cf700b30f460214be22aa741018684eb054",
+      "equal": true
+    },
+    {
+      "path": "results/asof_cohort_scored.parquet",
+      "before_sha256": "c2fbf1cacd35e664fdb0d0a116bdde1888b986973650aac65a511763c44dbc72",
+      "after_sha256": "c2fbf1cacd35e664fdb0d0a116bdde1888b986973650aac65a511763c44dbc72",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_residual_background.csv",
+      "before_sha256": "62534f07dfb3ec6408c734d4f0ad966b71a5b9375795e39330f9a3be254b5e0a",
+      "after_sha256": "62534f07dfb3ec6408c734d4f0ad966b71a5b9375795e39330f9a3be254b5e0a",
+      "equal": true
+    },
+    {
+      "path": "results/forecast_residual_accuracy.csv",
+      "before_sha256": "046b65831a1644ff0e89dfe0ac11bc5cea6b7c9f6578655add923fcae63f2975",
+      "after_sha256": "046b65831a1644ff0e89dfe0ac11bc5cea6b7c9f6578655add923fcae63f2975",
+      "equal": true
+    },
+    {
+      "path": "results/interval_monthly.csv",
+      "before_sha256": "8e3c52ec48f1b0537e1286bc32d72d7cfbdd448e6476581a8458ef19f3d0450c",
+      "after_sha256": "8e3c52ec48f1b0537e1286bc32d72d7cfbdd448e6476581a8458ef19f3d0450c",
+      "equal": true
+    },
+    {
+      "path": "results/asof_regional_delay_sensitivity.csv",
+      "before_sha256": "c2902d343dafdae4fb90a428aa6076bb28e99b4ce302a0974e6d1500823b87ea",
+      "after_sha256": "c2902d343dafdae4fb90a428aa6076bb28e99b4ce302a0974e6d1500823b87ea",
+      "equal": true
+    },
+    {
+      "path": "results/blend_validation.csv",
+      "before_sha256": "f4d26bf8a929496842625d962c9db3fca58d464b956a7e900563eef486488778",
+      "after_sha256": "f4d26bf8a929496842625d962c9db3fca58d464b956a7e900563eef486488778",
+      "equal": true
+    },
+    {
+      "path": "results/bocpd_runs.csv",
+      "before_sha256": "79ffc390d5e3ce0203cc43c4cad7d673917c4585071a25e207687329ad3f3dbb",
+      "after_sha256": "79ffc390d5e3ce0203cc43c4cad7d673917c4585071a25e207687329ad3f3dbb",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/summary.csv",
+      "before_sha256": "1840e981d397aa7ad4591bf8d591da0145ce6b14998e449ba1f18a5bb59313ef",
+      "after_sha256": "1840e981d397aa7ad4591bf8d591da0145ce6b14998e449ba1f18a5bb59313ef",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/paired.csv",
+      "before_sha256": "230f370f060a3dfe12a1d40096179011ec732e0835335634b43b7ee0da418765",
+      "after_sha256": "230f370f060a3dfe12a1d40096179011ec732e0835335634b43b7ee0da418765",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/coverage.csv",
+      "before_sha256": "292972c666f8fd4e4952bb2bfbf08afbf9c72e5977192d465fb1c871ceac8099",
+      "after_sha256": "292972c666f8fd4e4952bb2bfbf08afbf9c72e5977192d465fb1c871ceac8099",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/detector_partitions.csv",
+      "before_sha256": "6c16e05ac25142e21eba5482d29cdc53acb38f19b6533b369dce25bba581fb4b",
+      "after_sha256": "6c16e05ac25142e21eba5482d29cdc53acb38f19b6533b369dce25bba581fb4b",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/detector_evaluation_signs.csv",
+      "before_sha256": "e9db7294606f66c59d9910d85942af8be99d97fe03d987555c2e28729ca29d15",
+      "after_sha256": "e9db7294606f66c59d9910d85942af8be99d97fe03d987555c2e28729ca29d15",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/detector_selection_signs.csv",
+      "before_sha256": "70db63d7f4b112efa627900488324f84b44ff8e39a8ef00e1a5b720afb4d9fe8",
+      "after_sha256": "70db63d7f4b112efa627900488324f84b44ff8e39a8ef00e1a5b720afb4d9fe8",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/forecast_release.csv",
+      "before_sha256": "e046fc6dde603f9259685e17c8f2d61aaa6627379dde89cd505516bb484eb277",
+      "after_sha256": "e046fc6dde603f9259685e17c8f2d61aaa6627379dde89cd505516bb484eb277",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/delayed_predictions.parquet",
+      "before_sha256": "7ae8b784e8b9de08733afee532bc7fbc63fb931123864d886628f2a6c4944036",
+      "after_sha256": "7ae8b784e8b9de08733afee532bc7fbc63fb931123864d886628f2a6c4944036",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/sensitivity.csv",
+      "before_sha256": "edc9728f676cbadf0fc2a90a797622ed532cf79fedbffedef48d704e67e105a6",
+      "after_sha256": "edc9728f676cbadf0fc2a90a797622ed532cf79fedbffedef48d704e67e105a6",
+      "equal": true
+    },
+    {
+      "path": "reports/operational_workflow/monthly.csv",
+      "before_sha256": "ae143998da56294b8ca0accdc912bc4b154ae2eb0e93bcf11033720798526868",
+      "after_sha256": "ae143998da56294b8ca0accdc912bc4b154ae2eb0e93bcf11033720798526868",
+      "equal": true
+    }
+  ],
+  "scope": "Actual core refresh in separately installed environment after centralized legacy backend refactor; numeric artifacts, not time/protocol metadata"
+}

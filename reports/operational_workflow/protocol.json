@@ -1,0 +1,78 @@
+{
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "data/external/cbr_rate_decisions_2023_2024.csv": "6b93e1f86334daff1fd18debc598049475697e537bc49d40af9208c6889b9c6b",
+    "results/asof_cohort_protocol.json": "f2908d634597c96588e5a9f4651b0a6d66cfce34fc644d4dbf2a20eb7cfcdd8a",
+    "results/bocpd_runs.csv": "79ffc390d5e3ce0203cc43c4cad7d673917c4585071a25e207687329ad3f3dbb",
+    "results/bocpd_protocol.json": "acc5aeff7d1a40d305bcb67def758d97918e730fbb1ebc241774750ff576d3d5",
+    "configs/operational_workflow.json": "d506d790a397afdf5125912a492b3fb42ee836a70be8c447eca622a70fa4dc04",
+    "configs/residual_features.json": "33904513ccc7a7342e456f1a1ce7cac60c2e82829de1cc22b2b8e37b8e22fc59",
+    "configs/detectors.json": "77fa276b10e888bb80fc1f47112bd48169ac1bb1e7779b04f5fa34e2854d1a92",
+    "tools/operational_workflow.py": "4e9c89a86a4919aef2d65c9160a27868344caaa291a2459e48251f2d29cf6e96",
+    "src/sberindex/forecasting/prophet_backend.py": "d5d783e2118975f84516f0cb9bbde17bad363bf2325085650fa74fbd7c780224",
+    "tools/residual_feature_experiment.py": "90c90d7c0e42f3c235316d8863a26331944e5fb4ce4ba2f54c513f3861028d88",
+    "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_WORKFLOW.md": "f1d4fb4e4d019b44c8099671d66806580e35231e16b892bd81c56a9ad31842ee"
+  },
+  "artifact_sha256": {
+    "coverage.csv": "292972c666f8fd4e4952bb2bfbf08afbf9c72e5977192d465fb1c871ceac8099",
+    "delayed_predictions.parquet": "7ae8b784e8b9de08733afee532bc7fbc63fb931123864d886628f2a6c4944036",
+    "detector_choice.json": "86c9b3676c9cd9277c97c7ea9541d6af5d7dda5e71b3ce7a6d7d7b36713b6761",
+    "detector_evaluation_signs.csv": "e9db7294606f66c59d9910d85942af8be99d97fe03d987555c2e28729ca29d15",
+    "detector_partitions.csv": "6c16e05ac25142e21eba5482d29cdc53acb38f19b6533b369dce25bba581fb4b",
+    "detector_selection_signs.csv": "70db63d7f4b112efa627900488324f84b44ff8e39a8ef00e1a5b720afb4d9fe8",
+    "forecast_release.csv": "e046fc6dde603f9259685e17c8f2d61aaa6627379dde89cd505516bb484eb277",
+    "monthly.csv": "ae143998da56294b8ca0accdc912bc4b154ae2eb0e93bcf11033720798526868",
+    "paired.csv": "230f370f060a3dfe12a1d40096179011ec732e0835335634b43b7ee0da418765",
+    "sensitivity.csv": "edc9728f676cbadf0fc2a90a797622ed532cf79fedbffedef48d704e67e105a6",
+    "summary.csv": "1840e981d397aa7ad4591bf8d591da0145ce6b14998e449ba1f18a5bb59313ef"
+  },
+  "config": {
+    "horizons": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "reporting_lags": [
+      0,
+      1,
+      2
+    ],
+    "default_lag": 1,
+    "seasonal_weight": 0.75,
+    "training_end": "2023-12",
+    "demonstration_decision": "2024-12",
+    "detector": {
+      "category": "Все категории",
+      "scaling": "regularized_noise",
+      "reporting_delay_months": 1,
+      "shape": "step",
+      "deadline_months": 3,
+      "max_burden_per100": 2.0,
+      "minimum_detection": 0.5,
+      "selection_seeds": [
+        20261001,
+        20261002,
+        20261003,
+        20261004,
+        20261005
+      ],
+      "evaluation_seeds": [
+        20261006,
+        20261007,
+        20261008,
+        20261009,
+        20261010
+      ]
+    }
+  },
+  "limits": "Retrospective studied2024. Hypothetical publication lags; no independent test, future shock prediction or HGB promotion. Fixed2023 fit; effective horizons>9 extrapolate residual training range; policy available conservatively through last expenditure origin. Main mixture transferred .75 weight including unvalidated h12. Detector assignment split does not separate dates or municipalities.",
+  "input_provenance_relocations": [
+    {
+      "original_path_at_execution": "docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "sha256": "f1d4fb4e4d019b44c8099671d66806580e35231e16b892bd81c56a9ad31842ee",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    }
+  ]
+}

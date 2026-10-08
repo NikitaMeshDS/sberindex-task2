@@ -1,0 +1,5 @@
+{
+  "torch": "2.14.0",
+  "transformers": "5.17.0",
+  "huggingface_hub": "1.33.0"
+}

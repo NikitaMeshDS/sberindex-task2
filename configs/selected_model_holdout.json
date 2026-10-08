@@ -1,0 +1,6 @@
+{
+  "category": "Все категории",
+  "origin": "2024-12",
+  "horizons": [1, 3, 6, 12],
+  "output_directory": "reports/selected_model_holdout_20261007"
+}

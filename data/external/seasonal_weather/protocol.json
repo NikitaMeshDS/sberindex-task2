@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "bulletin": "heating_2023_2024",
+      "path": "data/external/seasonal_weather/heating_2023_2024.pdf",
+      "source_url": "https://www.meteorf.gov.ru/upload/pdf_download/2023_2024.pdf",
+      "release_url": "https://www.meteorf.gov.ru/press/news/34921/",
+      "published_date": "2023-09-28",
+      "available_from": "2023-09-29",
+      "pages": 10,
+      "sha256": "abdd9415928e67c9b90fdcac728fc9cda801fb1a643d0d72738c488179052d79"
+    },
+    {
+      "bulletin": "heating_2024_2025",
+      "path": "data/external/seasonal_weather/heating_2024_2025.pdf",
+      "source_url": "https://www.meteorf.gov.ru/upload/pdf_download/2024_25.pdf",
+      "release_url": "https://www.meteorf.gov.ru/press/news/38812/",
+      "published_date": "2024-09-30",
+      "available_from": "2024-10-01",
+      "pages": 7,
+      "sha256": "bbedd8a598fe7c6d83fa53639bb7e7c6ea7ba4fb63359d6232abcbe4a3089c35"
+    }
+  ],
+  "selection_rule": "Review all monthly narrative sections in both heating bulletins; retain explicitly named whole regions and explicit warmer/colder direction. Federal districts, partial regions, maps and climatological numeric tables are not expanded into forecasts.",
+  "units": "Direction only: +1/-1. Not degrees Celsius, anomaly magnitude or assigned probability.",
+  "missing": "No explicit claim means unknown, never zero/near-normal.",
+  "availability": "Next day after linked official release; assumes attachment was available with release. Current PDF snapshots are not historical vintages.",
+  "comparison_baselines": "Climate normal 1991–2020 and prior-year month are distinct. Do not pool them.",
+  "model_status": "Coverage/alignment experiment only; no forecast model selection.",
+  "reviewer": "assistant_single_review_not_independent"
+}

@@ -1,0 +1,3 @@
+policy,observed_months,exposed_observed_months,active_alert_months,episodes,episodes_per100
+baseline,24282,4,148,145,0.5971501523762458
+quoted_events_factor075,24282,4,148,145,0.5971501523762458

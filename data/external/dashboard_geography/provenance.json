@@ -1,0 +1,12 @@
+{
+  "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_110m_admin_0_countries.geojson",
+  "repository": "https://github.com/nvkelso/natural-earth-vector",
+  "revision": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "license": "Public domain",
+  "license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "retrieved_at": "2026-10-07T13:58:59.815755+00:00",
+  "input_sha256": {
+    "data/external/dashboard_geography/ne_110m_admin_0_countries.geojson": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+  },
+  "purpose": "Coarse illustrative basemap, not official administrative boundaries or a predictor"
+}

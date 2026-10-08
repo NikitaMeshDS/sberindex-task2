@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "paired_rows": 9036,
+  "models": [
+    "blend_75",
+    "prophet",
+    "seasonal_pooled"
+  ],
+  "maximum_absolute_prediction_difference": 2.9103830456733704e-11,
+  "limits": "Reconciles overlapping saved reference predictions; not independent validation. Newly evaluated window is wider."
+}

@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "tests": 185,
+  "test_log_sha256": "e36f48044508dbcae1fc235cba7965ed291d412d1f689383980e2fa14e5d900a",
+  "freeze_input_and_output_hashes_match": true,
+  "previous_forecasts_preserved": true,
+  "news_inference_complete": 74,
+  "accepted_new": 7,
+  "combined_documents": 103,
+  "municipalities_in_panel": [
+    1673,
+    2203
+  ],
+  "baseline_episodes": 145,
+  "conditioned_episodes": 145,
+  "local_links_checked": 68,
+  "independent_evaluation": false
+}

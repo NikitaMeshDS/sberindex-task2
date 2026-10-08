@@ -1,0 +1,21 @@
+horizon,source,evaluated_pairs,covered_pairs,covered_target_months,covered_regions,eligible_items_total_over_pairs
+1,CBR national decisions,1506,1506,6,67,3012
+1,Roshydromet seasonal regional claims,1506,4,1,1,4
+1,Roshydromet dated regional warnings,1506,0,0,0,0
+1,Roshydromet warm-season regional temperature,1506,0,0,0,0
+1,Roshydromet warm-season regional precipitation,1506,15,2,4,15
+3,CBR national decisions,1004,1004,4,67,2008
+3,Roshydromet seasonal regional claims,1004,0,0,0,0
+3,Roshydromet dated regional warnings,1004,0,0,0,0
+3,Roshydromet warm-season regional temperature,1004,0,0,0,0
+3,Roshydromet warm-season regional precipitation,1004,9,1,3,9
+6,CBR national decisions,251,251,1,67,502
+6,Roshydromet seasonal regional claims,251,0,0,0,0
+6,Roshydromet dated regional warnings,251,0,0,0,0
+6,Roshydromet warm-season regional temperature,251,0,0,0,0
+6,Roshydromet warm-season regional precipitation,251,0,0,0,0
+12,CBR national decisions,252,252,1,67,504
+12,Roshydromet seasonal regional claims,252,0,0,0,0
+12,Roshydromet dated regional warnings,252,0,0,0,0
+12,Roshydromet warm-season regional temperature,252,0,0,0,0
+12,Roshydromet warm-season regional precipitation,252,0,0,0,0

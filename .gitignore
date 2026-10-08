@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+*.log
+run_logs/
+
+.presentation-build/
+artifacts/final/
+
+.chart-data-*/

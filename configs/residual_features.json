@@ -1,0 +1,11 @@
+{
+  "ridge_alpha": 100.0,
+  "hgb_max_iter": 150,
+  "hgb_max_leaf_nodes": 15,
+  "hgb_min_samples_leaf": 60,
+  "hgb_l2_regularization": 10.0,
+  "hgb_learning_rate": 0.05,
+  "max_absolute_log_correction": 0.5,
+  "seed": 20261005,
+  "wage_hypothetical_lag_months": 2
+}

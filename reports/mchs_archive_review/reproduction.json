@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "meaning": "Numeric corpus and alignment tables are byte-identical in separately installed pinned environment; not independent scientific validation",
+  "files": {
+    "data/external/mchs_archive_review/historical_items.csv": true,
+    "reports/mchs_archive_review/coverage.csv": true,
+    "reports/mchs_archive_review/warning_timing.csv": true,
+    "reports/mchs_archive_review/forecast_expense_alignment.csv": true,
+    "reports/mchs_archive_review/exclusions.csv": true
+  }
+}

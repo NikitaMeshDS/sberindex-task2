@@ -1,0 +1,31 @@
+{
+  "protocol": {
+    "models": [
+      "adaptive_1m",
+      "frozen_6m"
+    ],
+    "seasonality": "pooled 2023 monthly sums, frozen before January 2024",
+    "adaptive": "previous observed month times known seasonal ratio",
+    "frozen": "December 2023 anchor for January-June; June 2024 anchor for July-December",
+    "calibration": "January-June 2024",
+    "evaluation": "July-December 2024",
+    "score_state": "reset at start of each six-month window",
+    "threshold_local": "99th percentile of municipal calibration maxima",
+    "threshold_aggregate": "own calibration maximum",
+    "minimum_threshold": "log(1.05), fixed exploratory floor for all methods",
+    "shifts_pct": [
+      -20,
+      20
+    ],
+    "shapes": [
+      "permanent",
+      "one_month",
+      "ramp"
+    ],
+    "scope": "whole panel, three largest eligible regions, 25% municipalities with three fixed seeds",
+    "limits": "reused archive; full-panel eligibility is retrospective; no real change labels or false-alarm guarantees"
+  },
+  "rows": 2016,
+  "future_prediction_max_error": 0.0,
+  "calibration_error_after_injection": 0.0
+}

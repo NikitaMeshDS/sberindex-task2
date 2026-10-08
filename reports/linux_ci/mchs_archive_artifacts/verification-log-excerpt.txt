@@ -1,0 +1,3 @@
+linux	Unit and causality regressions	2026-10-06T19:13:08.2970735Z Ran 116 tests in 4.829s
+linux	Unit and causality regressions	2026-10-06T19:13:08.2972262Z OK
+linux	Verify saved evidence	2026-10-06T19:13:09.1473354Z {"status": "passed", "files_checked": 566, "mode": "verify", "meaning": "Saved file integrity only; scientific validity and retraining are separate checks"}

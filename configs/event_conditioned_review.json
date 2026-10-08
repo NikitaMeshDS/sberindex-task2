@@ -1,0 +1,1 @@
+{"threshold_factor":0.75,"global_sensitivity_factors":[0.75,1.0],"event_window_months":2,"release_lags_months":[0,1,2],"absence_label":"unlabeled","method":"ewma","calibration":"reuse frozen short_history_review synthetic threshold"}

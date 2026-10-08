@@ -1,0 +1,85 @@
+{
+  "scope": "Prose only in docs, excluding frozen protocols/plans; fenced code, inline code, URLs and Markdown link destinations preserved",
+  "files": [
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "changes": 1
+    },
+    {
+      "path": "docs/GETTING_STARTED.md",
+      "changes": 5
+    },
+    {
+      "path": "docs/CONFIGURATION.md",
+      "changes": 2
+    },
+    {
+      "path": "docs/research/BOCPD_REPORT.md",
+      "changes": 1
+    },
+    {
+      "path": "docs/research/DETECTOR_DECISION_REPORT.md",
+      "changes": 6
+    },
+    {
+      "path": "docs/research/DETECTOR_DELAY_REPORT.md",
+      "changes": 4
+    },
+    {
+      "path": "docs/research/CRITERIA_EVIDENCE.md",
+      "changes": 1
+    },
+    {
+      "path": "docs/research/PROJECT_OVERVIEW.md",
+      "changes": 2
+    },
+    {
+      "path": "docs/research/PROPHET_SEASONALITY_REPORT.md",
+      "changes": 6
+    },
+    {
+      "path": "docs/research/INTERVAL_CALIBRATION_REPORT.md",
+      "changes": 13
+    },
+    {
+      "path": "docs/research/RESEARCH_STATUS.md",
+      "changes": 19
+    },
+    {
+      "path": "docs/research/METHODOLOGY.md",
+      "changes": 55
+    },
+    {
+      "path": "docs/research/ASOF_DISTRIBUTION_REPORT.md",
+      "changes": 1
+    },
+    {
+      "path": "docs/research/OPERATIONAL_WORKFLOW_REPORT.md",
+      "changes": 2
+    },
+    {
+      "path": "docs/research/RESEARCH_GUIDE.md",
+      "changes": 13
+    },
+    {
+      "path": "docs/research/RESIDUAL_FEATURE_REPORT.md",
+      "changes": 10
+    },
+    {
+      "path": "docs/research/FOUNDATION_DELAY_REPORT.md",
+      "changes": 1
+    },
+    {
+      "path": "docs/progress/PROJECT_STATUS.md",
+      "changes": 8
+    },
+    {
+      "path": "docs/progress/NIGHT_WORK.md",
+      "changes": 103
+    },
+    {
+      "path": "docs/progress/CRITERIA_AUDIT.md",
+      "changes": 3
+    }
+  ]
+}

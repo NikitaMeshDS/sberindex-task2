@@ -1,0 +1,2 @@
+event_id,territory_id,municipality,event_start,first_report_date,first_report_url,event_date_source_url,annotation_role
+orsk_flood_2024,1673,Орск,2024-04-05,2024-04-06,https://56.mchs.gov.ru/deyatelnost/press-centr/novosti/5249015,https://21.mchs.gov.ru/deyatelnost/press-centr/vse_novosti/5260528,illustrative_context_not_spending_shift_ground_truth

@@ -1,0 +1,317 @@
+{
+  "status": "passed",
+  "scope": "Whitespace-only prose cleanup of growth sensitivity generator/report and protocols; immutable execution protocol snapshots retained.",
+  "records": [
+    {
+      "path": "docs/protocols/DETECTOR_ASOF_EXPERIMENT.md",
+      "before_sha256": "9250633ce59f7e0bb46af76e78929ef729d6288412aeb84e4a54b22e84eb383e",
+      "after_sha256": "d80039cb45783e8002813fac2f1e35b34c014c210ec5fcef2b5319aad3c8c960",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/DETECTOR_ASOF_EXPERIMENT.md",
+      "prose_adjacencies_before": 17,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/DETECTOR_CONFIGURATION_MIGRATION.md",
+      "before_sha256": "2d9440846510f41f77bef5ba6a0eb6767f1476bf641ee058a47e73a172760a2e",
+      "after_sha256": "5d5d2940f41c8a1033d67880276bfd7e611ef5eea042bbf969195f7e2ec8bc4c",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/DETECTOR_CONFIGURATION_MIGRATION.md",
+      "prose_adjacencies_before": 1,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/FOUNDATION_DELAY_EXPERIMENT.md",
+      "before_sha256": "d2399a7bf10f9ffc81d2f973aac831811befdd1999903ff9f88f442b5490af95",
+      "after_sha256": "23969530d7c1e44460a62ef83cb16761fe2b605c7f8b51f3f3c1196473ea9940",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/FOUNDATION_DELAY_EXPERIMENT.md",
+      "prose_adjacencies_before": 4,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/FULL_COHORT_REVIEW.md",
+      "before_sha256": "9573481aaf7fdcf68dac4c2c9d91c7b5f14f6d28d8e5956541d5688abb752df4",
+      "after_sha256": "40f6aa72f1c825429ec72dc58f9c3a71f824acd8b2b29997f3a0de2cf653151b",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/FULL_COHORT_REVIEW.md",
+      "prose_adjacencies_before": 10,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/GROUPED_INTERVAL_EXPERIMENT.md",
+      "before_sha256": "25184033aa51f45806d2237348351e41b4d1b6cda97e13282c64d20936a3d8e2",
+      "after_sha256": "34d101670ab46e23d390afced4ace7260d1cddf5741b886f2b39be876f17429e",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/GROUPED_INTERVAL_EXPERIMENT.md",
+      "prose_adjacencies_before": 8,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/GROWTH_SENSITIVITY_REVIEW.md",
+      "before_sha256": "678fc361dc363b6d478eb0d6e98e3574de3106bd747d8b4e4a4ba4f8e949676e",
+      "after_sha256": "78efa3620d6160ebac20a9118ba5e90880f1e780949e6718bb8fa71f2fb77018",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/GROWTH_SENSITIVITY_REVIEW.md",
+      "prose_adjacencies_before": 12,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "before_sha256": "2fe9155e9905a3a0592c35304906f415fbad280d79fa444f76f940acee37a0c3",
+      "after_sha256": "776cdd5d46d1e0c255a80f327b6fc23a8b9e9f3a9113d682b29552a42c48f73f",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "prose_adjacencies_before": 17,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "before_sha256": "ca757d7ef0cb3eac79709eebf146651de7cff9697320ba793b0e8a3c9142a9d6",
+      "after_sha256": "3be3d37e175c48e74c3951a3cf31b2bb1b09f75aebd91ac72b66ad938842c9b1",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "prose_adjacencies_before": 12,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "before_sha256": "f1d4fb4e4d019b44c8099671d66806580e35231e16b892bd81c56a9ad31842ee",
+      "after_sha256": "4d4df63c9d770e346ca0fa678aecb204f0f74d097c4e845a41a752825d44f590",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "prose_adjacencies_before": 14,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/PROPHET_SEASONALITY_EXPERIMENT.md",
+      "before_sha256": "dab744f1c1be973ef7cabec5743b4c51996866066e4114cdcb8fdddbda19c3f2",
+      "after_sha256": "29efc463a798e7d59bf14fd3c96fd11ffdeaafd5aabb6e8deb2b8b73ef17c097",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/PROPHET_SEASONALITY_EXPERIMENT.md",
+      "prose_adjacencies_before": 16,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "docs/protocols/RESIDUAL_FEATURE_EXPERIMENT.md",
+      "before_sha256": "3f9656ade261cdac48e9cd59ead819e11ff1aec4b7829801f4c60ae6cc1c5648",
+      "after_sha256": "878cd3913ae259a37bf0e922fcb2a2c8ef3ac31cefa66d6e031480b5471b5bee",
+      "preserved_original": "data/provenance/prose_cleanup_followup/docs/protocols/RESIDUAL_FEATURE_EXPERIMENT.md",
+      "prose_adjacencies_before": 14,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "src/sberindex/forecasting/growth_sensitivity_review.py",
+      "before_sha256": "ef1b2394743f8f7c5bd37c665963c84568e7cfb7ce7feacd515ce2d86113ae58",
+      "after_sha256": "793f46fe9dacd003e1be73add4250b97d9af01ca92cffdd73073ad1648e5a742",
+      "preserved_original": "data/provenance/prose_cleanup_followup/src/sberindex/forecasting/growth_sensitivity_review.py",
+      "prose_adjacencies_before": 27,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true
+    },
+    {
+      "path": "reports/grouped_intervals/audit.json",
+      "before_sha256": "5fb78380af974436807adff6f6cc7e146f6fedb0dc7534ce94a498bf547d60e4",
+      "after_sha256": "f842214042b77fec71f09180428f5f67ef2d3c693b303d3f0e3a7514dfb3b2ad",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/grouped_intervals/audit.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/prophet_seasonality/audit.json",
+      "before_sha256": "7bb75ff7b9aef0e286029fab4887fd9e1a06f56a56c565e9b1306904fe73a915",
+      "after_sha256": "ec453d5612936dd530577b6534a8ebb22603ed3c71ce62364c509ff9c1be38a0",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/prophet_seasonality/audit.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/residual_features/protocol.json",
+      "before_sha256": "bec65679577f02a3aa022067442ef006ff23fb913f6466bccf69791a3f652fa9",
+      "after_sha256": "b0a40b181e0ec3ddc2d2413b40c1db9a9f635ccb9d2baa1985eb156930d5ab2e",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/residual_features/protocol.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/operational_workflow/protocol.json",
+      "before_sha256": "3ca2320321057e66eaf037f338c4359bb18e2707c1528cc37e58a18d72b76921",
+      "after_sha256": "4aab64c4a51682a0345313cf129a9a1f0f3c2c4942dc8495f26790fdcdfb7285",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/operational_workflow/protocol.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/prophet_backend_review/historical_reference/operational_early_protocol.json",
+      "before_sha256": "535593ac61c8371b84ce4564a875e89e2df40b492e2337f6831acad83bd46a59",
+      "after_sha256": "ab22993dca03e661c38101e9d04a686a78fe867dddeec55cfeafb70db6f28e59",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/prophet_backend_review/historical_reference/operational_early_protocol.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/interval_calibration/audit.json",
+      "before_sha256": "7fd75271e399e10c0dce04869acff84718e513148b8d3869eb266230dba3b069",
+      "after_sha256": "536bf17945370d340a7cc03cdf3924681fd360746b2be5ef8553b2651c0ad90e",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/interval_calibration/audit.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/full_cohort_review/audit.json",
+      "before_sha256": "d84a5221125caa8a05082accc1e0cf90f128fc3350b1e48e0695a5a239440c89",
+      "after_sha256": "c2ce85831291d6715104b8603483fe08ae4359408cf97713d510242426caf5ed",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/full_cohort_review/audit.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "results/foundation_delay_protocol.json",
+      "before_sha256": "b10819c6e309ddb0e2c40b4b0ecc1f755b226caa968a4e3aac9c25cb8c18e4b8",
+      "after_sha256": "61b55c2e512f362113f6630a3c3dba3e3577cb41ee269bda00a8fe0d25b38bce",
+      "preserved_original": "data/provenance/prose_cleanup_followup/results/foundation_delay_protocol.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "results/operational_early_protocol.json",
+      "before_sha256": "2f621cec7f4b89457becac85e9e9939d8dd4470bcb91ef4fae9bb7a5402d45c5",
+      "after_sha256": "bc50cf292be25a7a754d0551fcf81d2770daae3be0f117967087dc3178f6b67f",
+      "preserved_original": "data/provenance/prose_cleanup_followup/results/operational_early_protocol.json",
+      "change": "Relocate protocol input paths to immutable original bytes; recorded execution path and digest unchanged."
+    },
+    {
+      "path": "reports/growth_sensitivity_review/audit.json",
+      "before_sha256": "c1d39e74e680d575b055b0db400ae544448c2b72853b0ab59389f05493f864e3",
+      "after_sha256": "9dec9536a981cd6a0b133fd69d95864b951e2e69d5f0a0d0cf7efb7ca1b427cc",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/growth_sensitivity_review/audit.json",
+      "change": "Actual growth main rerun with current cleaned source/protocol; retain original equivalent figures and hash final current artifacts."
+    },
+    {
+      "path": "reports/growth_sensitivity_review/REPORT.md",
+      "before_sha256": "affd3b66482875f2fd08a3af4e097f9ce0601ddccea7e7f0a0403b5a7be603df",
+      "after_sha256": "40b56a1de4a62981976032890ef53accc6dfe93ed8d7deed225b9fb1a21c6070",
+      "preserved_original": "data/provenance/prose_cleanup_followup/reports/growth_sensitivity_review/REPORT.md",
+      "prose_adjacencies_before": 27,
+      "prose_adjacencies_after": 0,
+      "non_whitespace_identical": true,
+      "numeric_tokens_identical": true,
+      "regenerated_from_current_source": true
+    }
+  ],
+  "protocol_input_relocations": [
+    {
+      "audit_path": "reports/grouped_intervals/audit.json",
+      "original_path_at_execution": "docs/protocols/GROUPED_INTERVAL_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/GROUPED_INTERVAL_EXPERIMENT.md",
+      "sha256": "25184033aa51f45806d2237348351e41b4d1b6cda97e13282c64d20936a3d8e2",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/prophet_seasonality/audit.json",
+      "original_path_at_execution": "docs/protocols/PROPHET_SEASONALITY_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/PROPHET_SEASONALITY_EXPERIMENT.md",
+      "sha256": "dab744f1c1be973ef7cabec5743b4c51996866066e4114cdcb8fdddbda19c3f2",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/residual_features/protocol.json",
+      "original_path_at_execution": "docs/protocols/RESIDUAL_FEATURE_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/RESIDUAL_FEATURE_EXPERIMENT.md",
+      "sha256": "3f9656ade261cdac48e9cd59ead819e11ff1aec4b7829801f4c60ae6cc1c5648",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/operational_workflow/protocol.json",
+      "original_path_at_execution": "docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_WORKFLOW.md",
+      "sha256": "f1d4fb4e4d019b44c8099671d66806580e35231e16b892bd81c56a9ad31842ee",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/prophet_backend_review/historical_reference/operational_early_protocol.json",
+      "original_path_at_execution": "docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "sha256": "ca757d7ef0cb3eac79709eebf146651de7cff9697320ba793b0e8a3c9142a9d6",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/interval_calibration/audit.json",
+      "original_path_at_execution": "docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/INTERVAL_CALIBRATION_EXPERIMENT.md",
+      "sha256": "2fe9155e9905a3a0592c35304906f415fbad280d79fa444f76f940acee37a0c3",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "reports/full_cohort_review/audit.json",
+      "original_path_at_execution": "docs/protocols/FULL_COHORT_REVIEW.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/FULL_COHORT_REVIEW.md",
+      "sha256": "9573481aaf7fdcf68dac4c2c9d91c7b5f14f6d28d8e5956541d5688abb752df4",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "results/foundation_delay_protocol.json",
+      "original_path_at_execution": "docs/protocols/FOUNDATION_DELAY_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/FOUNDATION_DELAY_EXPERIMENT.md",
+      "sha256": "d2399a7bf10f9ffc81d2f973aac831811befdd1999903ff9f88f442b5490af95",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    },
+    {
+      "audit_path": "results/operational_early_protocol.json",
+      "original_path_at_execution": "docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "preserved_path": "data/provenance/prose_cleanup_followup/docs/protocols/OPERATIONAL_EARLY_EXPERIMENT.md",
+      "sha256": "ca757d7ef0cb3eac79709eebf146651de7cff9697320ba793b0e8a3c9142a9d6",
+      "reason": "Whitespace-only prose cleanup; preserved bytes are the protocol used at execution."
+    }
+  ],
+  "future_information_rules_unchanged": true,
+  "model_parameters_unchanged": true,
+  "numeric_tokens_identical_for_prose_edits": true,
+  "growth_rerun_command": "PYTHONPATH=src ../venv/bin/python -m sberindex.forecasting.growth_sensitivity_review",
+  "growth_numeric_artifacts": [
+    {
+      "path": "reports/growth_sensitivity_review/summary.csv",
+      "before_sha256": "ec651708cc523aeedb06f6939b74553c439d82901a2625433d4f3014c4cc22ff",
+      "after_sha256": "ec651708cc523aeedb06f6939b74553c439d82901a2625433d4f3014c4cc22ff",
+      "byte_identical": true
+    },
+    {
+      "path": "reports/growth_sensitivity_review/prophet_comparators.csv",
+      "before_sha256": "3e8d4c00aca28857eea585079a20b768dc1f181df150c750f625b5df1b7a9745",
+      "after_sha256": "3e8d4c00aca28857eea585079a20b768dc1f181df150c750f625b5df1b7a9745",
+      "byte_identical": true
+    },
+    {
+      "path": "reports/growth_sensitivity_review/predictions.parquet",
+      "before_sha256": "65acc1e07e0768d02ce3b701e3a2f630d4f1bf44a05d620f4e0abd6b5fb7eafe",
+      "after_sha256": "65acc1e07e0768d02ce3b701e3a2f630d4f1bf44a05d620f4e0abd6b5fb7eafe",
+      "byte_identical": true
+    }
+  ],
+  "figure_retention": [
+    {
+      "path": "reports/growth_sensitivity_review/sensitivity.png",
+      "rerun_sha256": "562b7326c3872e701f4f38b171edddfee812f90c5eca14525787cff9ce0bcc0b",
+      "retained_sha256": "562b7326c3872e701f4f38b171edddfee812f90c5eca14525787cff9ce0bcc0b",
+      "rerun_byte_identical": true,
+      "canonical_geometry_identical": true
+    },
+    {
+      "path": "reports/growth_sensitivity_review/sensitivity.svg",
+      "rerun_sha256": "a939276333915274bdf0112dad817616e695b8aab9cf6e78e15e5816c669bc6c",
+      "retained_sha256": "36be62b49f7ad7114b2e3001bb947b2a7ff44bf40f1dc5a5652388d0d1cc20cd",
+      "rerun_byte_identical": false,
+      "canonical_geometry_identical": true
+    }
+  ],
+  "all_declared_original_protocol_digests_verified": true,
+  "all_current_edited_file_digests_verified": true,
+  "original_execution_paths_preserved_in_relocation_metadata": true,
+  "report_and_protocols_prose_adjacencies_remaining": 0,
+  "prose_adjacencies_removed": 152
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "input_sha256": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "release_sha256": "e046fc6dde603f9259685e17c8f2d61aaa6627379dde89cd505516bb484eb277",
+  "rows": 1024,
+  "predictions": 1004,
+  "refusals": 20,
+  "same_source_external_cli_matches_demonstration_bytewise": true,
+  "revised2023_cli_refused_before_output": true,
+  "source_sha256": "f661f986eba9d1477ad855fb2fdf27fc761e46ee41068e8de1313957b44cd27b",
+  "environment_report": "reports/workflow_environment.json"
+}

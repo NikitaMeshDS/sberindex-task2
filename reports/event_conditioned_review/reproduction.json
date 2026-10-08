@@ -1,0 +1,11 @@
+{
+  "verification": "own 8 stdlib unittest tests passed in existing workflow_clean_env; ruff check/format passed",
+  "output_sha256": {
+    "reports/event_conditioned_review/detector_panel.parquet": "e0a50f9aadd59f9286a0e7a62bb08ddd4212bef3c1f4f90f9129886529139598",
+    "reports/event_conditioned_review/flood_summary.csv": "ae21a723e4436f0b09dd2804c3ea623a07eadc9a4e11709045b33008cf021b0f",
+    "reports/event_conditioned_review/flood_cases.csv": "d4234516e2568d0b36553b35de11053e16c2af3d7e698e5eb6634c72c52cba16",
+    "reports/event_conditioned_review/official_exposure_registry.csv": "80ec0824f58e32c27e838ca2ecfa517119752c450a11b4d616db181d665080d3",
+    "reports/event_conditioned_review/monitoring_burden.csv": "6ada07a94bf85a527d59ebb86f94fdfb7df0a7261b37a640a163838281343420",
+    "reports/event_conditioned_review/flood_source_support_qa.csv": "047df93491e1a70db499ff99b92492db69f012a3781bb7a0b5e734b680f12ebc"
+  }
+}

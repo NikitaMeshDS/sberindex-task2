@@ -1,0 +1,37 @@
+{
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "docs/protocols/DETECTOR_DELAY_EXPERIMENT.md": "559f158ea05a660d2ffbf05a1fe95f731d8f5e131a6ce7642e6949a0a0e22433",
+    "src/sberindex/detection/detector_delay_audit.py": "90e277e31f907d3148b330b4bb3ac070d8936dea31351e44c7dffc0997d6ef72",
+    "src/sberindex/detection/asof_detector_audit.py": "0b876226295bb035f6b5ae74469a8736296cdaeda7ba33b18ff0f766cfceeb0c",
+    "src/sberindex/detection/change_detection.py": "c17a038045a2b4bc245295a6bd2c6551d451deb9e28ee5529807d5b1519c7182",
+    "src/sberindex/detection/event_attribution_audit.py": "eff2c3927c6ce6264cd51ff3417407d257a31ad644021c6708ffaecb2369acd4",
+    "configs/detectors.json": "77fa276b10e888bb80fc1f47112bd48169ac1bb1e7779b04f5fa34e2854d1a92",
+    "src/sberindex/detection/detector_settings.py": "9d23dd4b49dcbb1c011257f072f43cdfe54944c23e04725565d68e5e58e2f4d5"
+  },
+  "rows": 8640,
+  "detector_settings": {
+    "ewma_alpha": 0.45,
+    "cusum_drift": 0.025,
+    "noise_individual_weight": 0.5,
+    "noise_floor": 0.0001,
+    "threshold_quantile": 0.99,
+    "bocpd_hazard": 0.08333333333333333,
+    "bocpd_mu": 0.0,
+    "bocpd_kappa": 1.0,
+    "bocpd_alpha": 2.0,
+    "bocpd_sigma_floor": 0.02,
+    "bocpd_mad_factor": 1.4826
+  },
+  "lags": [
+    0,
+    1,
+    2
+  ],
+  "decision_end": "2024-12",
+  "calibration": "Jan-Jun 2024; ready June+lag; no recalibration by lag",
+  "denominator": "Assigned MO with all first three source months observed; fixed across methods and lags",
+  "summary": "Equal weight over ten ID-stable assignments; conditional medians averaged across assignments",
+  "selection": "No new selection of detector, noise scale, threshold or lag",
+  "limits": "Reused2024, synthetic, uniform hypothetical lag; no real vintages, revisions, event truth or independent histories."
+}

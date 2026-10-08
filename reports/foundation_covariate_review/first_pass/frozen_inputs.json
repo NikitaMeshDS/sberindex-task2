@@ -1,0 +1,10 @@
+{
+  "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+  "results/asof_cohort_protocol.json": "f2908d634597c96588e5a9f4651b0a6d66cfce34fc644d4dbf2a20eb7cfcdd8a",
+  "configs/foundation_covariate_review.json": "3e280b68e87de0a1ca6812f9df18b405f1a565bceba99c558f9706af01c826dd",
+  "docs/protocols/FOUNDATION_COVARIATE_REVIEW_EXPERIMENT.md": "62aae7720062ea92409e67b5d6fe1ddf08705655c0649b9086be66387a3d3ac7",
+  "src/sberindex/forecasting/foundation_covariate_review.py": "85adc40aad97a65a0fac52e1aa015d8563075b8b50c2e3957f9fb9ea5990ca83",
+  "src/sberindex/detection/change_detection.py": "c17a038045a2b4bc245295a6bd2c6551d451deb9e28ee5529807d5b1519c7182",
+  "src/sberindex/paths.py": "e20159ebb6ae0baa8f5fe77efb1d935cb5e7ebb5b76223e2be4c90c605d37574",
+  "tests/test_foundation_covariate_review.py": "ff3ab170b8387fab65de46fc30fafe2d4245f1793bc93440a191217fdb3063eb"
+}

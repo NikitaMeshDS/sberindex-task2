@@ -1,0 +1,718 @@
+{
+  "status": "passed",
+  "checked": 178,
+  "links": [
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pptx"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/GETTING_STARTED.md"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/COMPETITION.md"
+    },
+    {
+      "source": "README.md",
+      "target": "dashboard/index.html"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SOLUTION_IN_FIVE_SENTENCES.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "artifacts/presentation.pdf"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/growth_bridge_review/summary.csv"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/growth_bridge_review/selection.json"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/growth_sensitivity_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/growth_bridge_review/comparison.png"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/short_history_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/peer_residual_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/peer_residual_review/case_yoy.csv"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/mchs_archive_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/foundation_covariate_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/forecast_uncertainty_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/foundation_expansion_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/foundation_expansion_review/FULLPANEL_REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/category_growth_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/news_event_extraction_review/field_validation_variant/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/event_conditioned_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/yoy_shift_review/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/news_body_recovery_20261007/REPORT.md"
+    },
+    {
+      "source": "README.md",
+      "target": "dashboard/index.html"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/growth_bridge_review/summary.csv"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/GETTING_STARTED.md"
+    },
+    {
+      "source": "README.md",
+      "target": "Dockerfile"
+    },
+    {
+      "source": "README.md",
+      "target": "dashboard/index.html"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/assets/dashboard-preview.png"
+    },
+    {
+      "source": "README.md",
+      "target": "dashboard/index.html"
+    },
+    {
+      "source": "README.md",
+      "target": "config.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/CONFIGURATION.md"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/adaptive_growth_holdout.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/category_growth_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/detectors.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/direct_horizon_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/event_conditioned_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/event_metric_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/forecast_uncertainty_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/foundation_covariate_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/foundation_expansion_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/full_cohort_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/grouped_intervals.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/growth_bridge_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/growth_sensitivity_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/hierarchical_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/interval_calibration.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/news_interval_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/news_event_extraction_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/operational_workflow.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/peer_residual_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/prophet_seasonality.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/residual_features.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/review_real_cases.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/selected_model_holdout.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/short_history_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/spatial_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "configs/yoy_shift_review.json"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/DATA_USAGE.md"
+    },
+    {
+      "source": "README.md",
+      "target": "data_sources.json"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/ARCHITECTURE.md"
+    },
+    {
+      "source": "README.md",
+      "target": "docs/JURY_START.md"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/selected_model_holdout_20261007/freeze_manifest.json"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/adaptive_growth_holdout_20261007/freeze_manifest.json"
+    },
+    {
+      "source": "README.md",
+      "target": "reports/next_holdout/freeze_manifest.json"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "../README.md#критерий--результат--где-смотреть"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "../artifacts/presentation.pdf"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "../artifacts/presentation.pptx"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "research/SUBMISSION_REPORT.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "research/GLOSSARY.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "../dashboard/index.html"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "assets/dashboard-preview.png"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "DATA_USAGE.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "GETTING_STARTED.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "CONFIGURATION.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "ARCHITECTURE.md"
+    },
+    {
+      "source": "docs/JURY_START.md",
+      "target": "../reports/news_interval_review/REPORT.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../README.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "CONFIGURATION.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "ARCHITECTURE.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../README.md#результаты-прогноза"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../reports/growth_bridge_review/summary.csv"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../dashboard/index.html"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../reports/reviewer_final_packaging/clean_snapshot.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../results/"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../figures/"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../results/verification.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../reports/run_metadata.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../reports/workflow_clean_reproduction.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../reports/workflow_environment.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../config.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../.github/CONTRIBUTING.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "research/OPERATIONAL_WORKFLOW_REPORT.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../configs/interval_calibration.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "research/INTERVAL_CALIBRATION_REPORT.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "research/GROUPED_INTERVAL_REPORT.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../configs/grouped_intervals.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "../configs/prophet_seasonality.json"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "research/PROPHET_SEASONALITY_REPORT.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "JURY_START.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "PRESENTATION_BUILD.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "protocols/FOUNDATION_EXPANSION_REVIEW.md"
+    },
+    {
+      "source": "docs/GETTING_STARTED.md",
+      "target": "protocols/NEWS_EVENT_EXTRACTION_REVIEW.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "GLOSSARY.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../dashboard/index.html"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../README.md#критерий--результат--где-смотреть"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../artifacts/presentation.pdf"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../GETTING_STARTED.md#самый-быстрый-путь-для-жюри"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/growth_bridge_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/growth_bridge_review/comparison.png"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/foundation_expansion_review/FULLPANEL_REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/growth_sensitivity_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/presentation_claim_checks/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/marketplace_growth_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../protocols/ADAPTIVE_GROWTH_HOLDOUT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/adaptive_growth_holdout_20261007/freeze_manifest.json"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/forecast_uncertainty_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/category_growth_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/foundation_expansion_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/foundation_expansion_review/FULLPANEL_REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/short_history_review/comparison.png"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/short_history_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/mchs_archive_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../protocols/MCHS_ARCHIVE_REVIEW.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_event_extraction_review/expanded_batch/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_event_extraction_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_event_extraction_review/field_validation_variant/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/event_conditioned_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_event_extraction_review/FORECAST_DIAGNOSTIC.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_body_recovery_20261007/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../protocols/NEWS_BODY_RECOVERY.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_interval_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../configs/news_interval_review.json"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_event_extraction_review/FORECAST_DIAGNOSTIC.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_alert_lead/availability.png"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/news_alert_lead/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/presentation_comparison_cases/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/peer_residual_review/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../GETTING_STARTED.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../dashboard/index.html"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/research_dashboard/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/selected_model_holdout_20261007/freeze_manifest.json"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/selected_model_holdout_20261007/REPORT.md"
+    },
+    {
+      "source": "docs/research/SUBMISSION_REPORT.md",
+      "target": "../../reports/yoy_shift_review/REPORT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../README.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "GETTING_STARTED.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../config.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../configs/detectors.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/DETECTOR_ASOF_EXPERIMENT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/DETECTOR_DELAY_EXPERIMENT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/BOCPD_EXPERIMENT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/FOUNDATION_SEASONAL_EXPERIMENT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/REGIONAL_NEWS_EXPERIMENT.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../data_sources.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../refresh_inputs.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../reports/run_metadata.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/DETECTOR_CONFIGURATION_MIGRATION.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../reports/detector_configuration_migration.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/OPERATIONAL_WORKFLOW.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "protocols/GROWTH_BRIDGE_REVIEW.md"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../configs/news_interval_review.json"
+    },
+    {
+      "source": "docs/CONFIGURATION.md",
+      "target": "../reports/news_interval_review/REPORT.md"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "draws": 2500,
+  "seed": 20261007,
+  "independent_time_validation": false,
+  "input_sha256": {
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "configs/forecast_uncertainty_review.json": "b834a9f954658e888ce5dee1149a59e362bb1fbb317eb13952d5a93b2db88054",
+    "docs/protocols/FORECAST_UNCERTAINTY_REVIEW.md": "4761d6c189b4ad59576afde46778140dee898a1cbaf01b17d50f838b6da1ab8b",
+    "src/sberindex/forecasting/forecast_uncertainty_review.py": "df8b95ae67028c1b7572ba989b0a3fc9e2e5f8863bc236c4062a3455754f1c8b"
+  },
+  "output_sha256": {
+    "cluster_intervals.csv": "ff3fe6038e9e6c70ac71f9cc2b9f923d80793fa5451c3dcc93dc6e4d80d5da26",
+    "conditional_intervals.svg": "e62ade20bd8589633b17286ab01a5d51b3d70165f9009f748fa93a526e0a0850",
+    "REPORT.md": "dd30464080bf6d76e488ee35a5028e31aff056a797c2c7b8b066cafc1fe428e3",
+    "conditional_intervals.png": "ad4d0e15a1b0e0196510dbec296e3a59e86c665e66fdfb8538c273306bcbf7bd",
+    "temporal_tests.csv": "45ba50eaa5f3d6c0179d1b752d4d4e6ff9ac6ec19700102e11644d478273d320",
+    "repeat_verification.json": "84f2b58aeac8cdb4a993c8f88927b20000fd0445d2ba4beacfaced511b7e396e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "verification": "13 stdlib unittest tests pass workflow_clean_env; expanded and date-balanced diagnostic replayed in clean env; ruff check/format pass",
+  "output_sha256": {
+    "reports/news_event_extraction_review/field_validation_variant/detector_panel.parquet": "0545c40788fa69a217abc9c9cda80f82b1d88af8d4665b93b54d8a609a0363ba",
+    "reports/news_event_extraction_review/field_validation_variant/municipal_case_months.csv": "5932d970be35e1de2017a8a43a4bb7c45d194eda43a136e28f8f5b13985874d3",
+    "reports/news_event_extraction_review/field_validation_variant/monitoring_burden.csv": "a7cf597979a91579a423f2b5b40895730b0825b5b7ba23e5bfc57e7bbaefc3f0",
+    "reports/news_event_extraction_review/field_validation_variant/llm_quote_exposure_registry.csv": "9c4f621001250de8efdbd47611173d83957320401ebf019953fb46d659c877fa",
+    "reports/news_event_extraction_review/field_validation_variant/burden.png": "b8c2b098540ce7452ae2dcb3b476c3df4d94eac6d0f6433f03c2bc155ac3313f",
+    "reports/news_event_extraction_review/field_validation_variant/structured_events.csv": "fe4e87441b95f3f9e32cd476f414241fe952720588c675837cf809fd0ed3ace8"
+  }
+}

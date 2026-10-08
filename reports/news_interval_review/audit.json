@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "paired_news_rows": 18,
+  "valid_pairs": 18189,
+  "missing_base_interval_pairs": 6093,
+  "missing_news_interval_pairs": 0,
+  "point_forecasts_unchanged": true,
+  "factor": 1.5,
+  "posthoc_diagnostic": true,
+  "independent_coverage_guarantee": false,
+  "source_sha256": {
+    "configs/news_interval_review.json": "e42396baa989518a9656aaae24b586b35ccae1be9c4022a3b2a0b34b67f0b02a",
+    "src/sberindex/external/news_interval_review.py": "ef58bcf89e5579ddd24becff9a7fe725f82f7c8d8562be2d18468419ad4e4cda",
+    "src/sberindex/external/news_forecast_diagnostic_review.py": "ab5bf8a27c1baa6aa351e859b5134357a89c5f867b48cea05b283b45d5324511",
+    "src/sberindex/detection/event_conditioned_review.py": "161c5688b79df1aedd6711001853d1bc3fc189a1cfb28bc1455bd44ea10f26ad",
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "reports/presentation_comparison_cases/calibration.csv": "c399d78a17ceaab991367bb78e7a52ee3d1eac40b199f5827d7e5387f3aaa993",
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "data/external/regional_news_review/registry.csv": "3b3913470906f6bd0cf88ce410573988295f859987858c661ff41dbcb5e5bf48",
+    "reports/news_event_extraction_review/forecast_news_availability.csv": "4e45209198d31306ebd5a5ab5fa782e087d24b47181a20a680773eb28cb95caa"
+  }
+}

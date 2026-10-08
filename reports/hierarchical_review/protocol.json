@@ -1,0 +1,62 @@
+{
+  "config": {
+    "category": "Все категории",
+    "fit_year": 2023,
+    "region_weights": [
+      0.0,
+      0.25,
+      0.5,
+      0.75
+    ],
+    "minimum_region_municipalities": 10,
+    "horizons": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "reporting_lag": 0,
+    "select_winner": false,
+    "geography_year_preferred": 2023
+  },
+  "fit_year": 2023,
+  "eligible_2023_n": 2075,
+  "requested_sample_ids": 256,
+  "common_pairs": 7532,
+  "prediction_rows": 30128,
+  "global_profile_matches_saved_baseline": true,
+  "region_profiles_n": 65,
+  "unmapped_eligible_2023_n": 0,
+  "independent_time_validation": false,
+  "selected_winner": null,
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1"
+  },
+  "geographic_snapshot": "Rows labelled2023 in municipal_lookup; retrospective source archive20241025, availability in2023 not established",
+  "spatial_graph": "Existing data/connection.parquet has5942364rows with territory_id_x/y,distance,type. data_sources.json labels2024snapshot andretrospective_interpretation; historical2023availability and distanceunit not established. Not used by this seasonal experiment; a separate retrospective spatial sensitivity may use it.",
+  "input_sha256": {
+    "configs/hierarchical_review.json": "73b09726b13918142284021259da751647357e2ac75d9a1d4f8582fd83f74686",
+    "reports/hierarchical_review/PREDECLARED_PROTOCOL.md": "b583d00072ae77bb29205641611813613ce8021e79e59c2c68fdd235292f1b3d",
+    "tests/test_hierarchical_review.py": "50147b1b1bbb4c11dc9791f9d5f15f232dbcf19f79bff40143de7db73b9c966c",
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "data/connection.parquet": "20cbd5213d3ac1d0a867f097b485431811614b283d7366eb5cba9f65dc80493d",
+    "data_sources.json": "b9225e69e2c6134d23d7c0071f51c5c75a4de804d7c51d217a31d933c5e6e398",
+    "reports/prophet_seasonality/predictions.parquet": "d345ef168514de93e15eab2f0d3501c1484e49176c1c8d46a8c32c9a416544ed",
+    "results/asof_cohort_protocol.json": "f2908d634597c96588e5a9f4651b0a6d66cfce34fc644d4dbf2a20eb7cfcdd8a",
+    "data/provenance/prose_cleanup_review/hierarchical_review.py": "67f41f96ee2fe3b4eefc49edccd0de38ce1a9722e55dfd36acf6fd56b6184154"
+  },
+  "prose_cleanup_provenance": {
+    "source_reference_commit": "5faf2601a397ffd259bcaddcdf1f41ea96fb61b5",
+    "reason": "Preserve the actual executed source before presentation-only whitespace corrections. Forecasts and numerical metrics were not rerun.",
+    "relocated_sources": [
+      {
+        "path_at_execution": "src/sberindex/forecasting/hierarchical_review.py",
+        "immutable_source_snapshot": "data/provenance/prose_cleanup_review/hierarchical_review.py",
+        "sha256": "67f41f96ee2fe3b4eefc49edccd0de38ce1a9722e55dfd36acf6fd56b6184154"
+      }
+    ]
+  }
+}

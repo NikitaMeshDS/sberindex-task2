@@ -1,0 +1,50 @@
+{
+  "eligible_2023_municipalities": 2075,
+  "frozen_fullpanel_pairs": 60700,
+  "models": [
+    "seasonal_naive",
+    "seasonal_pooled",
+    "prophet_disabled",
+    "prophet_pooled_profile",
+    "prophet_yearly3",
+    "hierarchy05",
+    "hierarchy05_growth_bridge",
+    "direct_lags",
+    "direct_context",
+    "chronos2_univariate",
+    "chronos2_profile"
+  ],
+  "coverage": [
+    {
+      "horizon": 1,
+      "municipalities": 2031,
+      "pairs": 24282,
+      "dates": 12,
+      "positive_complete_2023_eligible": 2075
+    },
+    {
+      "horizon": 3,
+      "municipalities": 2031,
+      "pairs": 20233,
+      "dates": 10,
+      "positive_complete_2023_eligible": 2075
+    },
+    {
+      "horizon": 6,
+      "municipalities": 2029,
+      "pairs": 14162,
+      "dates": 7,
+      "positive_complete_2023_eligible": 2075
+    },
+    {
+      "horizon": 12,
+      "municipalities": 2023,
+      "pairs": 2023,
+      "dates": 1,
+      "positive_complete_2023_eligible": 2075
+    }
+  ],
+  "duplicates": 0,
+  "all_predictions_finite": true,
+  "h12_direct_fallback_explicit": true
+}

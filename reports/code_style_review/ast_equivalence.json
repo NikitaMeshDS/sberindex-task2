@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "formatter": "ruff 0.16.10",
+  "original_sha256": {
+    "src/sberindex/detection/event_metric_review.py": "e3a28889906bf4c2ace59c5f99d605177bc226eba217e9f543264cf13565b7e2",
+    "src/sberindex/forecasting/hierarchical_review.py": "3652152788da9b89c8d43b9da0b04b6971a82f863e865b82ebd8f821a5c81ac4",
+    "src/sberindex/forecasting/direct_horizon_review.py": "6bf068a75a87b12083cb80c04422722f663c0cdb03d59e6d5c1b606ee5c81192",
+    "src/sberindex/forecasting/spatial_review.py": "e64adf3cb44c2e560468252b17a07850ad5eab34d4a6ff460a2d0aa5499a8de3",
+    "src/sberindex/forecasting/foundation_covariate_review.py": "da0f3f13561cbb4c00619d7985c23c772c317deb3bb38f6ff6fcb857a17a651f",
+    "tests/test_event_metric_review.py": "20f7e810d6b388db458f3b3b66242ff0e879697e6d29af80fc06adef7427f93b",
+    "tests/test_hierarchical_review.py": "f4b0c0ea6bfd9d87048638b89a83a3d915d2ef87d4ec599c5744fa317ba0b0bd",
+    "tests/test_direct_horizon_review.py": "5b199da87a961b3a13f513cf09355359f54f936254eedc9262efa09d030436a4",
+    "tests/test_spatial_review.py": "6ac3e6b313105a065de45b057bea9972b0e3465bc901eed1bc1560befde169c4",
+    "tests/test_foundation_covariate_review.py": "403a8d77503418c45ae55aceb4f574aa76ffddbeefc245f89c1223c416fdea8d"
+  },
+  "formatted_sha256": {
+    "src/sberindex/detection/event_metric_review.py": "6e34800a6448131d8903e6653fc3cc061c65ccdc1f2c74fb80e92e7df3d4ece8",
+    "src/sberindex/forecasting/hierarchical_review.py": "67f41f96ee2fe3b4eefc49edccd0de38ce1a9722e55dfd36acf6fd56b6184154",
+    "src/sberindex/forecasting/direct_horizon_review.py": "c9f3a8ad74c2e50a2aa6ea0cee8aa7c03cbfaac607bb6b3d49e40a9dea0bc06c",
+    "src/sberindex/forecasting/spatial_review.py": "2020b7901a13b43fd94a26c33ed8ac9ab45b271a263dc30f9ca627b020a1af80",
+    "src/sberindex/forecasting/foundation_covariate_review.py": "2920533b49218ca6f739d58ca8c1b6bbcc859a668ceccffabaf2b6c9c25d9c5b",
+    "tests/test_event_metric_review.py": "a4adcd0c6e92caa05a461fd28a1c59fd3765e1028e484f5ba08e4932369a6125",
+    "tests/test_hierarchical_review.py": "50147b1b1bbb4c11dc9791f9d5f15f232dbcf19f79bff40143de7db73b9c966c",
+    "tests/test_direct_horizon_review.py": "66dd23640c4ce013c61190b3bbd8cb7a6731a356c05f68c8725698e1dd40431d",
+    "tests/test_spatial_review.py": "2a3dc7ab2bb3928b39f927f6015799e0251884a8044bd7421174ca71c1090332",
+    "tests/test_foundation_covariate_review.py": "f7685ffff8b4f3e03f195cc9765842c928d03c7c4c1d0fd018bdd3652bf72126"
+  },
+  "ast_equal_all": true,
+  "numeric_references": {
+    "event_metric_review": {
+      "series_metrics.csv": "9dcba5046397083c45a16ac5ba4e5ed8ebf75ad4f436d6cdf1fd8e3086d324f9",
+      "offline_penalty_calibration.csv": "3502db0960d8987d885e592aa052eb534ab0cea78f7362c2f124d605bf041835",
+      "comparison.csv": "3f3091fa2f41956d91d19081ef2ea34ae688376ed9cbe95455ce3b623c819035",
+      "synthetic_residuals.parquet": "92b38055dcbffded79b665aea1e3e10464a30c1a723addc6e103f0d91ca3255c"
+    },
+    "hierarchical_review": {
+      "summary.csv": "e216cca55cdef3165ffa8939a75e2effc8748c99b3ef0d408bdde8beb0fb7757",
+      "region_coverage.csv": "9105369f93928c5de89763f089ab58fceb1b010f865764b6890b864bef4eeaab",
+      "predictions.parquet": "6994b9efcbdf7e55e2e2c1d12d7925951499cec146bb754ffa708684540a5a99",
+      "monthly.csv": "233755fed49d45df94d7d5f4aa4a3c77714adb746d56b2976ebc30a26f24424e"
+    },
+    "direct_horizon_review": {
+      "summary.csv": "37941a7c1ccaac39833ababed7a4cc940723270b9becc3145c4329b9f967ea56",
+      "date_sensitivity.csv": "86a1546bcc05a18812bbe555f89af301a932d3827ac46dfd0cfab0dbd3734def",
+      "predictions.parquet": "c6738aedb0459e7a66b0d3ddd68ae0c93e4b625d5764b613f6227d1d2a377b21",
+      "training_calendar.csv": "590935984cdf8ca1b0d0898808a74e4a0e05aa1f0f113044b73f9c9aa7536edb",
+      "monthly.csv": "d1cd0bada6f0970b3a843f6b6e381b9e36e2ae916d8a7a5227e97f9afb560572"
+    },
+    "spatial_review": {
+      "summary.csv": "1833c3d1c0791555abca2fbc71d26b765338b0e3f99554aa34bd6d7ac1d15070",
+      "neighbors.csv": "11d36fbe8401edc536edfb1fe49e4cbfe4efa2ec764d7d007d4054ac77adf8ed",
+      "date_sensitivity.csv": "4be0fed4e47be01105fa7ce603a79948aa9f4f646f3c1222474091a87573baf1",
+      "predictions.parquet": "1c91ffba59b90ac3c6204a32199d86c0e4ece7b7aa04219850af2da22f31d72d",
+      "monthly.csv": "8a332092015ff4c1e3a9956f05ad3ecbfde66ff319963a7549ef64478616ff33"
+    },
+    "foundation_covariate_review": {
+      "summary.csv": "1b9fdfd71e9bcd306bb09b391306b1b89ce186efa63ad0fde0a733ac80772972",
+      "paired.csv": "728c77a23f85ec0511dca1f793f77e9321d0dac204f7c56aa1c339bf9c651ccc",
+      "coverage.csv": "9f9c3342391f8bb57fa79cb4ec6abb84454f065f67fc8e5c480c3aa80a5b21a2",
+      "cached_reference_overlap.csv": "38e75a084613b270152c0b3d87abf939c964b729814668b68e038dfcac365a89",
+      "predictions.parquet": "71d63edd08e17c854c657cbb5a878d343a53c47ada3f4f599d4a94060fee826f",
+      "monthly.csv": "e66084cccaad3c811985021f47293cd6216d48b503c109c1f8a8d44035e99424"
+    }
+  }
+}

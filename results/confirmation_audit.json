@@ -1,0 +1,24 @@
+{
+  "protocol": {
+    "seasonality": "2023 pooled sums, frozen",
+    "calibration": "January-June 2024",
+    "evaluation": "July-December 2024",
+    "trigger": "absolute one-step log error exceeds threshold",
+    "threshold": "municipal calibration-max q99; aggregate own maximum; minimum log(1.05)",
+    "confirmation": "three consecutive same-direction deviations above the trigger threshold against pre-trigger level",
+    "state": "one active candidate per series, then restart next month; no retrospective backdating",
+    "censoring": "unresolved end-of-archive candidates reported separately",
+    "shifts_pct": [
+      -20,
+      20
+    ],
+    "shapes": [
+      "permanent",
+      "one_month",
+      "ramp"
+    ],
+    "status": "exploratory sequential confirmation; reused archive; not independent validation"
+  },
+  "rows": 504,
+  "future_prefix_mismatches": 0
+}

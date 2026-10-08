@@ -1,0 +1,40 @@
+{
+  "protocol_sha256": "3dacc4081aca0bd885b6512fcf964c21cea7f4f62aa093c7f663c0514694fa4f",
+  "cohort_ids": 2075,
+  "counts": {
+    "distinct_training_publication_dates": 2,
+    "covered_training_target_months": 7,
+    "training_source_documents": 2,
+    "training_news_covered_pairs": 266,
+    "distinct_evaluation_publication_dates": 2,
+    "covered_evaluation_target_months": 5,
+    "evaluation_source_documents": 2,
+    "evaluation_news_covered_pairs": 280
+  },
+  "gate_passed": false,
+  "failed_requirements": [
+    {
+      "requirement": "distinct_training_publication_dates",
+      "required": 3,
+      "observed": 2
+    },
+    {
+      "requirement": "distinct_evaluation_publication_dates",
+      "required": 3,
+      "observed": 2
+    }
+  ],
+  "fit_status": "rejected_before_spending_error_inspection",
+  "spending_errors_calculated": false,
+  "independent_holdout": false,
+  "warnings": "No existing dated warning overlaps a scored h1 target while available by origin month end; 2023-12 releases target Jan2024 outside evaluated Feb-Dec2024.",
+  "unknown_semantics": "NaN direction/known0/negative0; no direction0 manufactured",
+  "rejection": "Insufficient distinct publication dates in training and evaluation. No empirical MAE advantage claimed.",
+  "limitations": [
+    "Single reviewer",
+    "Current snapshot, historical vintage unverified",
+    "2024 repeatedly reused",
+    "Regional context not municipal exposure",
+    "Gate is minimal diversity rule, not power calculation"
+  ]
+}

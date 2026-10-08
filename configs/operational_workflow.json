@@ -1,0 +1,15 @@
+{
+  "horizons": [1, 3, 6, 12],
+  "reporting_lags": [0, 1, 2],
+  "default_lag": 1,
+  "seasonal_weight": 0.75,
+  "training_end": "2023-12",
+  "demonstration_decision": "2024-12",
+  "detector": {
+    "category": "Все категории", "scaling": "regularized_noise",
+    "reporting_delay_months": 1, "shape": "step", "deadline_months": 3,
+    "max_burden_per100": 2.0, "minimum_detection": 0.5,
+    "selection_seeds": [20261001, 20261002, 20261003, 20261004, 20261005],
+    "evaluation_seeds": [20261006, 20261007, 20261008, 20261009, 20261010]
+  }
+}

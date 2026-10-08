@@ -1,0 +1,42 @@
+{
+  "train_end": "2023-09",
+  "validation_start": "2023-10",
+  "validation_end": "2023-12",
+  "eligible_training_municipalities": 2075,
+  "sampled_training_municipalities": 2075,
+  "steps": 17,
+  "fixed_epochs": 1,
+  "batch_size": 128,
+  "learning_rate": 1e-05,
+  "seed": 2023,
+  "train_context": "2023-01..2023-06",
+  "train_targets": "2023-07..2023-09",
+  "validation_municipalities": 2075,
+  "validation_loss": 4.5063919680951585,
+  "training_losses": [
+    2.3051509857177734,
+    2.0644657611846924,
+    2.002324342727661,
+    1.927386999130249,
+    1.834999918937683,
+    1.764632225036621,
+    1.6616142988204956,
+    1.6902797222137451,
+    1.6761152744293213,
+    1.5471224784851074,
+    1.687229871749878,
+    1.4683616161346436,
+    1.367884635925293,
+    1.5818958282470703,
+    1.3795990943908691,
+    1.5976375341415405,
+    1.3929457664489746
+  ],
+  "seconds": 49.869713708001655,
+  "early_stopping": false,
+  "checkpoint_fixed_before_2024_inference": true,
+  "checkpoint_sha256": {
+    "model.safetensors": "45f4c9e028c210d9ab770a388d9566f323497a7f704611273c06c684c22a24f1",
+    "config.json": "a3804b25597d6364a8fa87664247907a109f15c02f562bcb39fea81f54e85a36"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "seconds": 22.8946758749953,
+  "frozen_cohort_2023": 2075,
+  "category_labels": [
+    "Все категории",
+    "Здоровье",
+    "Маркетплейсы",
+    "Общественное питание",
+    "Продовольствие",
+    "Транспорт"
+  ],
+  "parameters_tuned": false,
+  "independent_generalization": false,
+  "independent_time_validation": false,
+  "growth_pct": 17.2,
+  "reporting_lag_assumption": 0,
+  "prophet_full_new_categories_complete": true,
+  "input_sha256": {
+    "data/consumption.parquet": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61",
+    "results/municipal_lookup.csv": "0164a1d6479cce33fb7affe2e2b0b05c850bf93e2a32b9e84b1fdcd815aefb91",
+    "results/asof_cohort_protocol.json": "f2908d634597c96588e5a9f4651b0a6d66cfce34fc644d4dbf2a20eb7cfcdd8a",
+    "results/category_predictions.parquet": "e62bd84ff30707d29c763a1bc6aa1b799255b4ff0e1adce6b66e207ab6a6a500",
+    "reports/growth_bridge_review/predictions.parquet": "2bdfec1497de709c10a6070d900a9a63033cd20143e48c5469f966e4e75e9b09",
+    "configs/category_growth_review.json": "9fe64363e7b08f12248d38bf1ceaa25aa288186aa55ef9bd50bd0faec8c0b131",
+    "configs/full_cohort_review.json": "caf398d497522020d7473221443ed753623677e87a4b480e73219dfb91ab06be",
+    "data/external/growth_bridge_review/growth_source.json": "5ddd6d86a3b3afe567821bb401ba44a1afac1a078ac16bb6ec49ec30797f5534",
+    "src/sberindex/forecasting/category_growth_review.py": "893126ba977d0f502cb70318aaae87f1a7f426e5f4fc779e6939e6efd2a183d8",
+    "src/sberindex/forecasting/full_cohort_review.py": "7d05776f64844687a028e022dcf3c052271bb3ea371d34678187f64b687b071b",
+    "src/sberindex/forecasting/prophet_seasonality.py": "d47e3cbe7d65e49135d5ce6f526af769ea3ef3a02ee88c9378fd3919766befa3",
+    "src/sberindex/forecasting/hierarchical_review.py": "85826110433516887bb9e9e2c6cf0ae0607cc0f5f95cdde6853ff91641dd1528",
+    "docs/protocols/CATEGORY_GROWTH_REVIEW.md": "1106854b6c96b4e04aa25185d3931198622b1f82203e5dc72e1a6a804adb2965"
+  },
+  "output_sha256": {
+    "completed_categories_interim_summary.csv": "b8306cc69e4d2fd0e55731e9775211d122d976d7c0123d41d5745d0273493212",
+    "fixed_growth_effect.png": "ca5ec03e70268dbaa042cb74e1fcab8c264f4a3cdd520b9b27dd6a5834d24a7a",
+    "coverage.csv": "7ca8b8e43fb3625ff8d6292efb434c4b6b755a40292f977fbb0ac1713abc7451",
+    "full_pooled_predictions.parquet": "f409eaa05bd0cf1fb6cf129e034bf8f4816e6471a5e7542358adf9deba7ab327",
+    "full_bridge_summary.csv": "e20f3232db5b93c7ff35b07d70a467b1400ac086db270d0c9a96c5bf510dd809",
+    "matched_legacy_summary.csv": "310482f6a31f58d9b0a3cae1887e18939795bda49c6df34c29355583151402c5",
+    "REPORT.md": "0d1fcde27bda38ec1e3f0a1736f15b9e092b135faa2c15ebabf53ef39902d2f7",
+    "full_bridge_predictions.parquet": "9b8bb97e69e9ce02cb8a2c872ff218cbc848e7efcf6345b4136ac9d722ee3ce5",
+    "full_pooled_summary.csv": "c819159bf6b6177ad3b804ec4c4314f71752149f080129e881eb79fd9f0e9b40",
+    "fixed_growth_effect.svg": "a01ca64c783260df6b404aa57ce8b7bf206093c7f93d5d116ddc1c2e5eee1226",
+    "fit_run_timing.json": "90f3f444709003b4702fc7f20574ceeb568dbf8234af6937f1f54987b83e10e1",
+    ".gitignore": "fb00c70857b041c0349ce5e74dc79db294a76230b7654c17ac5e4b1a6d31bd0e",
+    "full_pooled_comparison.svg": "822ace0989fa7fc7f317c2e565dabaa31830fc268fe94697d01e6497b57724fa",
+    "full_pooled_comparison.png": "811502a270fd816131f995926141af6bc687b9e23e1a239bff3797fc6b29ae9b"
+  },
+  "prophet_frozen_variants_full": [
+    "prophet_pooled_profile"
+  ],
+  "workers": 4,
+  "new_prophet_fits_this_run": 0,
+  "full_category_origin_count": 121465,
+  "fit_run_timing": {
+    "original_full_fit_seconds": 3614.1698126249976,
+    "new_prophet_fits": 121465,
+    "provenance": "Original completed full-fit audit, preserved before cached source-format replay"
+  }
+}

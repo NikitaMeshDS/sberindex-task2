@@ -1,0 +1,11 @@
+# Conditional uncertainty protocol
+
+The exact estimand is the mean over target dates of within-date municipal MAE. Paired bootstrap draws sample whole municipality IDs, retaining all their dates; date denominators and both model MAEs are recomputed in every draw, then delta and percentage reduction are computed. Regional cluster draws retain all municipalities and dates in each sampled region; cluster size weighting is retained within dates. Seed 20261007, 2500 draws, percentile 95% intervals. This describes cross-sectional uncertainty conditional on reused2024, not uncertainty across independent future years. National shared shocks remain outside either cluster assumption.
+
+DM uses per-target-date mean absolute-loss difference, Bartlett HAC lag h−1, HLN correction and two-sided t(T−1), with a conservative audit gate T≥max(8,2h+1). For h6 (7 dates), HAC/HLN is mathematically computable but withheld by this declared minimum-date policy; it is not mathematically undefined. For h12 (1 date), temporal variance and DM are genuinely undefined. Holm adjustment covers all six estimable h1/h3 comparisons, never counts bootstrap CI as temporal significance. Even estimable tests remain exploratory after review of2024 and are not confirmatory post-selection inference.
+
+Primary methodological sources: [Diebold and Mariano (1995), Comparing Predictive Accuracy](https://www.nber.org/papers/t0169); [Harvey, Leybourne and Newbold (1997), Testing the equality of prediction mean squared errors](https://doi.org/10.1016/S0169-2070(96)00719-4); [Holm (1979), A simple sequentially rejective multiple test procedure](https://www.jstor.org/stable/4615733). The audit gate and conditional cluster sensitivity are declared design choices, not claims from those articles.
+
+## Review-requested sensitivity (2026-10-07)
+
+The original six-test family remains unchanged. An additional two-test family contains only pooled_profile at h1/h3. It was added after observing the p-values, so it is explicitly exploratory, not a retroactively preregistered primary family. Holm step-down yields 0.03406146 and 0.30683741 (not 0.61). This does not undo repeated reuse of 2024 or establish independent temporal superiority.
