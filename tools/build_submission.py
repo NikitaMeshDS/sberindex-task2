@@ -192,7 +192,7 @@ criteria_map = main_readme[main_readme.index("## Результаты и мат�
 readme = (
     "# Компактный комплект для жюри\n\n"
     + "[Презентация PDF](artifacts/presentation.pdf) · [Русский отчёт](docs/research/SUBMISSION_REPORT.md) · [Интерфейс](dashboard/index.html) · [Маршрут проверки](docs/JURY_START.md).\n\n"
-    + "Этот архив служит для чтения. Код и быстрая проверка — в компактном проекте; полный исследовательский снимок — в GitHub Releases: https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008.\n\n"
+    + "Этот архив служит для чтения. Код и быстрая проверка — в компактном проекте; полный исследовательский снимок — в GitHub Releases: https://github.com/NikitaMeshDS/sberindex-task2/releases/tag/research-snapshot-20261008-clean.\n\n"
     + criteria_map
     + "Git SHA: " + head + "\n\n"
     + "Конфигурации находятся в configs/. Ссылки на детали, отсутствующие здесь, открывайте в полном архиве с той же структурой. Публичный сайт: https://NikitaMeshDS.github.io/sberindex-task2/; локальный интерфейс также работает без сервера.\n"

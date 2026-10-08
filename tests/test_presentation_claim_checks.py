@@ -2,9 +2,9 @@
 
 import importlib.util
 import json
-from pathlib import Path
 import tempfile
 import unittest
+from pathlib import Path
 
 import numpy as np
 import pandas as pd
@@ -88,6 +88,11 @@ class PresentationClaimChecks(unittest.TestCase):
             [3],
         )
 
+    @unittest.skipIf(
+        (ROOT / "compact_distribution.json").exists()
+        and not all((ROOT / name).is_file() for name in checks.INPUTS),
+        "Нужен исследовательский архив из Releases: см. docs/GETTING_STARTED.md",
+    )
     def test_saved_evidence_and_source_preservation(self):
         before = {p: checks.sha(ROOT / p) for p in checks.INPUTS}
         with tempfile.TemporaryDirectory() as tmp:
@@ -97,12 +102,15 @@ class PresentationClaimChecks(unittest.TestCase):
                 [r["horizon"] for r in evidence["growth"]["horizons"]], [1, 3, 6, 12]
             )
             self.assertFalse(evidence["independent_validation"])
-            panel = pd.read_parquet(ROOT / "reports/peer_residual_review/residual_panel.parquet")
+            panel = pd.read_parquet(
+                ROOT / "reports/peer_residual_review/residual_panel.parquet"
+            )
             observed = panel.dropna(subset=["own_residual_log"])
             np.testing.assert_allclose(
                 observed.own_residual_log,
                 np.log(observed.actual / observed.predicted),
-                rtol=0, atol=1e-14,
+                rtol=0,
+                atol=1e-14,
             )
             self.assertIn("log(actual/prediction)", evidence["orsk"]["reference"])
             self.assertNotIn("log1p", evidence["orsk"]["reference"])
@@ -142,6 +150,11 @@ class PresentationClaimChecks(unittest.TestCase):
             )
         self.assertEqual(before, {p: checks.sha(ROOT / p) for p in checks.INPUTS})
 
+    @unittest.skipIf(
+        (ROOT / "compact_distribution.json").exists()
+        and not (ROOT / "reports/short_history_review/series_metrics.csv").is_file(),
+        "Нужен исследовательский архив из Releases: см. docs/GETTING_STARTED.md",
+    )
     def test_corrupt_onset_summary_is_detected(self):
         summary = pd.read_csv(ROOT / "reports/short_history_review/comparison.csv")
         series = pd.read_csv(ROOT / "reports/short_history_review/series_metrics.csv")

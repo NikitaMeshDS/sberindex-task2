@@ -70,6 +70,11 @@ class TemporalFeatures(unittest.TestCase):
         self.assertTrue(np.isnan(x[[0, 2]]).all())
 
 
+@unittest.skipIf(
+    (ROOT / "compact_distribution.json").exists()
+    and not (DATA / "registry.csv").is_file(),
+    "Нужен исследовательский архив из Releases: см. docs/GETTING_STARTED.md",
+)
 class AuditArtifacts(unittest.TestCase):
     def test_captured_evidence_integrity(self):
         manifest = json.loads((DATA / "capture_manifest.json").read_text())

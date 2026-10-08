@@ -6,8 +6,8 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
-URL = "https://github.com/NikitaMeshDS/sberindex-task2/releases/download/research-snapshot-20261008/sberindex_task2_project.zip"
-SHA256 = "5e9c2df108daa4f1a27da925443cb0519de3a14779199d84d41708e1c95f6c56"
+URL = "https://github.com/NikitaMeshDS/sberindex-task2/releases/download/research-snapshot-20261008-clean/sberindex_task2_research_clean.zip"
+SHA256 = "70ef850099decb5ab263c92d1e32cb84636672190af65f3ddfc0436106d16df5"
 ROOT = Path(__file__).resolve().parents[1]
 
 

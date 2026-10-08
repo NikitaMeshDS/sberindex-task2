@@ -3,8 +3,8 @@
   "unit_tests": 48,
   "unit_tests_passed_in_main_and_existing_clean_environment": true,
   "clean_environment": {
-    "prefix": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env",
-    "base_prefix": "/Users/nikitamesh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python",
+    "prefix": "<virtualenv>",
+    "base_prefix": "<python-runtime>",
     "version": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"
   },
   "reproduction_directory": "/tmp",
@@ -26,5 +26,6 @@
   "finite_intervals": true,
   "protected_tracked_files_unchanged": 318,
   "reference_commit": "e08daeceab0b682ad2a5a8dd50aeb201d2618421",
-  "limits": "Existing clean environment reused; no full 51-stage refresh or independent temporal validation performed in this interval extension."
+  "limits": "Existing clean environment reused; no full 51-stage refresh or independent temporal validation performed in this interval extension.",
+  "environment_paths_normalized_for_distribution": true
 }

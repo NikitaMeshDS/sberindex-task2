@@ -424,10 +424,11 @@
   "separate_environment": true,
   "environment": {
     "executable": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env/bin/python",
-    "prefix": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env",
-    "base_prefix": "/Users/nikitamesh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python"
+    "prefix": "<virtualenv>",
+    "base_prefix": "<python-runtime>"
   },
   "pipeline_steps": 51,
   "checks": "Different absolute directory and working directory; generated results initially absent; cache unchanged; numerical/JSON agreement; PNG agreement",
-  "limits": "Separate installed Python environment; installation provenance is recorded in workflow_environment.json. No network isolation or full Prophet/Chronos retraining. Saved core predictions remain required inputs. Residual HGB and delayed Prophet are refitted. No independent time holdout."
+  "limits": "Separate installed Python environment; installation provenance is recorded in workflow_environment.json. No network isolation or full Prophet/Chronos retraining. Saved core predictions remain required inputs. Residual HGB and delayed Prophet are refitted. No independent time holdout.",
+  "environment_paths_normalized_for_distribution": true
 }

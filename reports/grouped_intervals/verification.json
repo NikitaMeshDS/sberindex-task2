@@ -4,8 +4,8 @@
   "unit_tests_in_both_environments": true,
   "byte_identical_files": 10,
   "clean_environment": {
-    "prefix": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env",
-    "base_prefix": "/Users/nikitamesh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python",
+    "prefix": "<virtualenv>",
+    "base_prefix": "<python-runtime>",
     "version": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"
   },
   "reproduction_directory": "/tmp",
@@ -28,5 +28,6 @@
   "independent_summary_arithmetic": true,
   "protected_files_unchanged": 330,
   "reference_commit": "f75b49c91f349a98713c78b03b96b9aa707a2a02",
-  "limits": "Existing clean environment reused; no full main pipeline refit or independent temporal evaluation."
+  "limits": "Existing clean environment reused; no full main pipeline refit or independent temporal evaluation.",
+  "environment_paths_normalized_for_distribution": true
 }

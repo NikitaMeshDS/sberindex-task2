@@ -1,6 +1,6 @@
 {
-  "prefix": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env",
-  "base_prefix": "/Users/nikitamesh/.cache/codex-runtimes/codex-primary-runtime/dependencies/python",
+  "prefix": "<virtualenv>",
+  "base_prefix": "<python-runtime>",
   "version": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
   "packages": {
     "shellingham": "1.5.4",
@@ -74,5 +74,6 @@
   "created_from_scratch_this_turn": true,
   "interpreter": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/submission/../workflow_clean_env/bin/python",
   "install_log": "run_logs/workflow_clean_install.log",
-  "limits": "Same Apple Silicon Mac; pip cache downloads. Separate new venv, no global-site packages. Not another OS or independent time test."
+  "limits": "Same Apple Silicon Mac; pip cache downloads. Separate new venv, no global-site packages. Not another OS or independent time test.",
+  "environment_paths_normalized_for_distribution": true
 }

@@ -496,7 +496,7 @@ def main():
         "verification_scope": manifest.get("verification_scope", "Saved evidence"),
         "meaning": "Saved file integrity only; scientific validity and retraining are separate checks",
     }
-    out = ROOT / "run_logs"
+    out = ROOT / "reports"
     out.mkdir(exist_ok=True)
     (out / "review_verification.json").write_text(json.dumps(report, indent=2) + "\n")
     print(json.dumps(report, ensure_ascii=False))

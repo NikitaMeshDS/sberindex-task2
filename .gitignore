@@ -12,3 +12,7 @@ artifacts/final/
 research_workspace/
 
 run_outputs/
+
+/reports/review_verification.json
+*.egg-info/
+build/
