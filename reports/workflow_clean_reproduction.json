@@ -420,10 +420,10 @@
     "reports/operational_workflow/sensitivity.csv",
     "reports/operational_workflow/summary.csv"
   ],
-  "interpreter": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/submission/../workflow_clean_env/bin/python",
+  "interpreter": "<python-executable>",
   "separate_environment": true,
   "environment": {
-    "executable": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/workflow_clean_env/bin/python",
+    "executable": "<python-executable>",
     "prefix": "<virtualenv>",
     "base_prefix": "<python-runtime>"
   },

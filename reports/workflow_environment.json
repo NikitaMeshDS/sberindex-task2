@@ -72,7 +72,7 @@
   "locked_versions_verified": 64,
   "lock_sha256": "0c8e41f12d9ba69eeb70ce696ba09f3db47cd04b42a9d657e51d929d8b7bcf67",
   "created_from_scratch_this_turn": true,
-  "interpreter": "/Users/nikitamesh/Documents/Codex/2026-09-30/https-sber-ru-sberindex-konkurs-sberindex/work/submission/../workflow_clean_env/bin/python",
+  "interpreter": "<python-executable>",
   "install_log": "run_logs/workflow_clean_install.log",
   "limits": "Same Apple Silicon Mac; pip cache downloads. Separate new venv, no global-site packages. Not another OS or independent time test.",
   "environment_paths_normalized_for_distribution": true
